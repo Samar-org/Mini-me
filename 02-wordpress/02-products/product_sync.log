@@ -1,0 +1,210 @@
+2025-07-15 23:54:52,237 - INFO - ================================================
+2025-07-15 23:54:52,237 - INFO - Starting Pay4more Product Sync...
+2025-07-15 23:54:52,238 - INFO - Source Airtable View: Pay4more Sync View
+2025-07-15 23:54:52,238 - INFO - ================================================
+2025-07-15 23:54:52,643 - INFO - Found 2 products to sync from the view.
+2025-07-15 23:54:52,643 - INFO - Processing record 1 of 2...
+2025-07-15 23:54:52,644 - INFO - --- Processing SKU: recAravv1bdsQLWrI ---
+2025-07-15 23:54:52,763 - WARNING - No matching record in Product Catalogue for SKU: recAravv1bdsQLWrI
+2025-07-15 23:54:52,772 - INFO - Found 3 total images to process for 'BLACK+DECKER Steam Iron'.
+2025-07-15 23:54:52,772 - INFO - Processing image 1: https://v5.airtableusercontent.com/v3/u/43/43/1752645600000/YmolQER4J8D2buAdH-9oIA/FoqQRL82zfI5DCWcgNDRz087W7PAEwn-OkQ8B0ATEsdRFXnBD89gx2d_89I7P4Mz5_n0k5ctg18eMq4djVPCLh3WVAyKqNiIKzK_KGvaQBp-useVXZL2b-9GoyCFLWyu697T_xk8-kF4v4OcZMQhNw/zUTXJ_R5k810-hd3ZwfCw4D4TfGof2BrrLu5UUWEC2s
+2025-07-15 23:54:53,283 - INFO - Image optimized to WebP format.
+2025-07-15 23:54:57,553 - INFO - Successfully uploaded image, Media ID: 41284
+2025-07-15 23:54:59,671 - INFO - Processing image 2: https://v5.airtableusercontent.com/v3/u/43/43/1752645600000/ESdccNGlkfwz1gtU3Kgj4w/NZrHPYwTnFJvK6359SZJoudntBSrdQuxaQsn8PrHZkWHlNG94Iymbj66hDklV_THNE7CV4k1H9rMe9A-uTm35M-5f1m8rdJBrBpBpAdhVeccxYMLrjXpBod_c4BjD6zDZ_okyUtM5ZOQLVHIrp-Hpg/S2DsOqW5BWrZz9sq1RUh8P6g4fkHPCp_5g-AC2pyQbE
+2025-07-15 23:54:59,956 - INFO - Image optimized to WebP format.
+2025-07-15 23:55:02,929 - INFO - Successfully uploaded image, Media ID: 41285
+2025-07-15 23:55:05,254 - INFO - Processing image 3: https://v5.airtableusercontent.com/v3/u/43/43/1752645600000/_4Q3HO1eDcJUWrheAASUMg/HdCHy1DceCJpNF4Vd5zdHa_NK8QkEW5PinUGUr5ebfAyfCZ6mrxWjH8xsDLy8LIqgQcaV_M4Vp7YUueTIxMX5A4t1p0P3x3O94BeR2Wsmn6KUbFJR79AoS5t8BBfauJy9XMH_SAblfzt43xesoKYGg/t-bqex7PEvfTbY45HKzJGQ2SLQ-OhUFFjZXtdQbzhU4
+2025-07-15 23:55:05,662 - INFO - Image optimized to WebP format.
+2025-07-15 23:55:08,510 - INFO - Successfully uploaded image, Media ID: 41286
+2025-07-15 23:55:12,411 - INFO - Product with SKU recAravv1bdsQLWrI does not exist. Creating new product...
+2025-07-15 23:55:14,801 - INFO - Successfully synced product SKU: recAravv1bdsQLWrI. Response Code: 201
+2025-07-15 23:55:14,803 - INFO - Processing record 2 of 2...
+2025-07-15 23:55:14,803 - INFO - --- Processing SKU: recAravv1bdsQLWrI ---
+2025-07-15 23:55:14,993 - WARNING - No matching record in Product Catalogue for SKU: recAravv1bdsQLWrI
+2025-07-15 23:55:14,993 - INFO - Found 3 total images to process for 'BLACK+DECKER Steam Iron'.
+2025-07-15 23:55:14,994 - INFO - Processing image 1: https://v5.airtableusercontent.com/v3/u/43/43/1752645600000/YmolQER4J8D2buAdH-9oIA/FoqQRL82zfI5DCWcgNDRz087W7PAEwn-OkQ8B0ATEsdRFXnBD89gx2d_89I7P4Mz5_n0k5ctg18eMq4djVPCLh3WVAyKqNiIKzK_KGvaQBp-useVXZL2b-9GoyCFLWyu697T_xk8-kF4v4OcZMQhNw/zUTXJ_R5k810-hd3ZwfCw4D4TfGof2BrrLu5UUWEC2s
+2025-07-15 23:55:15,557 - INFO - Image optimized to WebP format.
+2025-07-15 23:55:18,547 - INFO - Successfully uploaded image, Media ID: 41288
+2025-07-15 23:55:20,852 - INFO - Processing image 2: https://v5.airtableusercontent.com/v3/u/43/43/1752645600000/ESdccNGlkfwz1gtU3Kgj4w/NZrHPYwTnFJvK6359SZJoudntBSrdQuxaQsn8PrHZkWHlNG94Iymbj66hDklV_THNE7CV4k1H9rMe9A-uTm35M-5f1m8rdJBrBpBpAdhVeccxYMLrjXpBod_c4BjD6zDZ_okyUtM5ZOQLVHIrp-Hpg/S2DsOqW5BWrZz9sq1RUh8P6g4fkHPCp_5g-AC2pyQbE
+2025-07-15 23:55:21,151 - INFO - Image optimized to WebP format.
+2025-07-15 23:55:24,973 - INFO - Successfully uploaded image, Media ID: 41289
+2025-07-15 23:55:27,184 - INFO - Processing image 3: https://v5.airtableusercontent.com/v3/u/43/43/1752645600000/_4Q3HO1eDcJUWrheAASUMg/HdCHy1DceCJpNF4Vd5zdHa_NK8QkEW5PinUGUr5ebfAyfCZ6mrxWjH8xsDLy8LIqgQcaV_M4Vp7YUueTIxMX5A4t1p0P3x3O94BeR2Wsmn6KUbFJR79AoS5t8BBfauJy9XMH_SAblfzt43xesoKYGg/t-bqex7PEvfTbY45HKzJGQ2SLQ-OhUFFjZXtdQbzhU4
+2025-07-15 23:55:27,535 - INFO - Image optimized to WebP format.
+2025-07-15 23:55:30,551 - INFO - Successfully uploaded image, Media ID: 41290
+2025-07-15 23:55:34,555 - INFO - Product with SKU recAravv1bdsQLWrI exists (ID: 41287). Updating...
+2025-07-15 23:55:36,748 - INFO - Successfully synced product SKU: recAravv1bdsQLWrI. Response Code: 200
+2025-07-15 23:55:36,750 - INFO - ================================================
+2025-07-15 23:55:36,750 - INFO - Product sync process finished.
+2025-07-15 23:55:36,751 - INFO - ================================================
+2025-07-16 00:12:02,559 - INFO - ========================================
+2025-07-16 00:12:02,559 - INFO - Starting Pay4more Product Sync...
+2025-07-16 00:12:02,560 - INFO - Source View: Pay4more Sync View
+2025-07-16 00:12:02,560 - INFO - Data Source: Linked 'Product Catalogue' table
+2025-07-16 00:12:02,560 - INFO - ========================================
+2025-07-16 00:12:02,560 - INFO - Pre-fetching all WooCommerce categories and tags...
+2025-07-16 00:12:06,576 - INFO - Fetched 100 categories and 100 tags.
+2025-07-16 00:12:07,078 - INFO - Found 2 products to sync.
+2025-07-16 00:12:07,078 - INFO - 
+--- Processing record 1 of 2 ---
+2025-07-16 00:12:07,141 - ERROR - Error fetching catalogue record F1-00215: ('404 Client Error: Not Found for url: https://api.airtable.com/v0/appI0EDHQVVZCxVZ9/Product%20Catalogue/F1-00215', "'NOT_FOUND'")
+2025-07-16 00:12:07,142 - ERROR - Could not retrieve catalogue record for item recOLtPro71LGoCBR. Skipping.
+2025-07-16 00:12:07,142 - INFO - 
+--- Processing record 2 of 2 ---
+2025-07-16 00:12:07,208 - ERROR - Error fetching catalogue record F1-00215: ('404 Client Error: Not Found for url: https://api.airtable.com/v0/appI0EDHQVVZCxVZ9/Product%20Catalogue/F1-00215', "'NOT_FOUND'")
+2025-07-16 00:12:07,209 - ERROR - Could not retrieve catalogue record for item rec0fYz2ye2SLFhTw. Skipping.
+2025-07-16 00:12:07,209 - INFO - ========================================
+2025-07-16 00:12:07,209 - INFO - Product sync process finished.
+2025-07-16 00:12:07,209 - INFO - ========================================
+2025-07-16 00:16:36,216 - INFO - ========================================
+2025-07-16 00:16:36,216 - INFO - Starting Pay4more Product Sync...
+2025-07-16 00:16:36,216 - INFO - Source View: Pay4more Sync View
+2025-07-16 00:16:36,216 - INFO - Data Source: Linked 'Product Catalogue' table
+2025-07-16 00:16:36,216 - INFO - ========================================
+2025-07-16 00:16:36,217 - INFO - Pre-fetching all WooCommerce categories and tags...
+2025-07-16 00:16:40,065 - INFO - Fetched 100 categories and 100 tags.
+2025-07-16 00:16:40,482 - INFO - Found 2 products to sync.
+2025-07-16 00:16:40,482 - INFO - 
+--- Processing record 1 of 2 ---
+2025-07-16 00:16:40,619 - INFO - Successfully found catalogue record for code: F1-00215
+2025-07-16 00:16:40,620 - INFO - --- Processing Item recOLtPro71LGoCBR -> Catalogue SKU: F1-00215 ---
+2025-07-16 00:16:40,621 - INFO - Creating new categorie: 'recVDHFcmnYcJL3Pt'
+2025-07-16 00:16:44,221 - INFO - Creating new tag: 'Steam Iron'
+2025-07-16 00:16:45,905 - ERROR - Failed to create tag 'Steam Iron': {"code":"term_exists","message":"A term with the name provided already exists in this taxonomy.","data":{"status":400,"resource_id":3906}}
+2025-07-16 00:16:45,906 - INFO - Creating new tag: 'Garment Care'
+2025-07-16 00:16:47,514 - ERROR - Failed to create tag 'Garment Care': {"code":"term_exists","message":"A term with the name provided already exists in this taxonomy.","data":{"status":400,"resource_id":5358}}
+2025-07-16 00:16:47,515 - INFO - Creating new tag: 'Home Appliances'
+2025-07-16 00:16:49,195 - ERROR - Failed to create tag 'Home Appliances': {"code":"term_exists","message":"A term with the name provided already exists in this taxonomy.","data":{"status":400,"resource_id":3908}}
+2025-07-16 00:16:49,197 - INFO - Found 3 catalogue images to process for 'BLACK+DECKER Steam Iron'.
+2025-07-16 00:16:49,197 - INFO - Processing image 1: https://v5.airtableusercontent.com/v3/u/43/43/1752652800000/c9yPKMB1aFz6ZU_khJhA4g/AM0-X0_zv7NX12N5DX3YHdtVdBAyP86JZ9wEtJI4NzqONOjtq8GyiladH_4SUn2v_p5qOR7zgG9jXQGum2oFy4mUVe60tC6Kke4D8D2LqIxog-xI1AWDrQhsUXJJWO62aHeT5MMbV8Pf7ZLX0jcV1Irjl77ZRCe7ueJ0B7b-65bOAGZfDmcabE9Vv1KDDsY5/kWYxTEveKNrpwvOeVTcLSaqPz4Q6QxKxyi9mHg8UY7o
+2025-07-16 00:16:55,684 - INFO - Successfully uploaded image, Media ID: 41291, Alt Text: 'BLACK+DECKER Steam Iron - BLACK+DECKER'
+2025-07-16 00:16:56,188 - INFO - Processing image 2: https://v5.airtableusercontent.com/v3/u/43/43/1752652800000/CRyrM0zr5Msr4X2saKI5nA/ufCZUw0mU8Dv2pTso0MUPi8IE4Y3XpWDC38uP4faQPVhGGgxqvR8d2gxYUzAZPj1tv4VU0dlmclPqUj3vlQeg0beWcenn5Ez_QZ8JjW04HbJomcpuMiEttBPnWIG2-PSyGfPNS4ISvI0CTyCwINUnBBHcqBlimqxr3hM5SdGhj9TQQFLCyIwAufY5J0fLflB/5oiB0TbJLeyXtGzvRI470vl0pV7_alXL_GNH4doqKH0
+2025-07-16 00:17:01,287 - INFO - Successfully uploaded image, Media ID: 41292, Alt Text: 'BLACK+DECKER Steam Iron - BLACK+DECKER'
+2025-07-16 00:17:01,788 - INFO - Processing image 3: https://v5.airtableusercontent.com/v3/u/43/43/1752652800000/gE3R9hWny8Z7bap5loHUUA/M3fo_3NqYuD_TtnpFMgvXqd8h8sCzK2oxmofJpTReqA9eYJJm59o1UIWMq4kZ7qAg-1VcCzGD4nFA4whCQJvCK6yC-AGy_i-0yDKICrJpsI2HuY1MSTUkHIjZIFXdiGJLwkjy3SFdFTwrczB0cbHzM72mHDlH33s5hrO1WNVd3hoj_dj-TDkOOvkHSCqJEMc/q79UYX5zxuSRdIpumPRwNmUgvwF3Mt7cfTygaJKXQkA
+2025-07-16 00:17:07,707 - INFO - Successfully uploaded image, Media ID: 41293, Alt Text: 'BLACK+DECKER Steam Iron - BLACK+DECKER'
+2025-07-16 00:17:09,790 - INFO - Product with SKU F1-00215 does not exist. Creating new product...
+2025-07-16 00:17:12,597 - INFO - Successfully synced product SKU: F1-00215. Response Code: 201
+2025-07-16 00:17:12,598 - INFO - 
+--- Processing record 2 of 2 ---
+2025-07-16 00:17:12,909 - INFO - Successfully found catalogue record for code: F1-00215
+2025-07-16 00:17:12,909 - INFO - --- Processing Item rec0fYz2ye2SLFhTw -> Catalogue SKU: F1-00215 ---
+2025-07-16 00:17:12,910 - INFO - Creating new tag: 'Steam Iron'
+2025-07-16 00:17:14,594 - ERROR - Failed to create tag 'Steam Iron': {"code":"term_exists","message":"A term with the name provided already exists in this taxonomy.","data":{"status":400,"resource_id":3906}}
+2025-07-16 00:17:14,595 - INFO - Creating new tag: 'Garment Care'
+2025-07-16 00:17:16,191 - ERROR - Failed to create tag 'Garment Care': {"code":"term_exists","message":"A term with the name provided already exists in this taxonomy.","data":{"status":400,"resource_id":5358}}
+2025-07-16 00:17:16,192 - INFO - Creating new tag: 'Home Appliances'
+2025-07-16 00:17:17,874 - ERROR - Failed to create tag 'Home Appliances': {"code":"term_exists","message":"A term with the name provided already exists in this taxonomy.","data":{"status":400,"resource_id":3908}}
+2025-07-16 00:17:17,875 - INFO - Found 3 catalogue images to process for 'BLACK+DECKER Steam Iron'.
+2025-07-16 00:17:17,875 - INFO - Processing image 1: https://v5.airtableusercontent.com/v3/u/43/43/1752652800000/c9yPKMB1aFz6ZU_khJhA4g/AM0-X0_zv7NX12N5DX3YHdtVdBAyP86JZ9wEtJI4NzqONOjtq8GyiladH_4SUn2v_p5qOR7zgG9jXQGum2oFy4mUVe60tC6Kke4D8D2LqIxog-xI1AWDrQhsUXJJWO62aHeT5MMbV8Pf7ZLX0jcV1Irjl77ZRCe7ueJ0B7b-65bOAGZfDmcabE9Vv1KDDsY5/kWYxTEveKNrpwvOeVTcLSaqPz4Q6QxKxyi9mHg8UY7o
+2025-07-16 00:17:23,416 - INFO - Successfully uploaded image, Media ID: 41295, Alt Text: 'BLACK+DECKER Steam Iron - BLACK+DECKER'
+2025-07-16 00:17:23,919 - INFO - Processing image 2: https://v5.airtableusercontent.com/v3/u/43/43/1752652800000/CRyrM0zr5Msr4X2saKI5nA/ufCZUw0mU8Dv2pTso0MUPi8IE4Y3XpWDC38uP4faQPVhGGgxqvR8d2gxYUzAZPj1tv4VU0dlmclPqUj3vlQeg0beWcenn5Ez_QZ8JjW04HbJomcpuMiEttBPnWIG2-PSyGfPNS4ISvI0CTyCwINUnBBHcqBlimqxr3hM5SdGhj9TQQFLCyIwAufY5J0fLflB/5oiB0TbJLeyXtGzvRI470vl0pV7_alXL_GNH4doqKH0
+2025-07-16 00:17:29,213 - INFO - Successfully uploaded image, Media ID: 41296, Alt Text: 'BLACK+DECKER Steam Iron - BLACK+DECKER'
+2025-07-16 00:17:29,716 - INFO - Processing image 3: https://v5.airtableusercontent.com/v3/u/43/43/1752652800000/gE3R9hWny8Z7bap5loHUUA/M3fo_3NqYuD_TtnpFMgvXqd8h8sCzK2oxmofJpTReqA9eYJJm59o1UIWMq4kZ7qAg-1VcCzGD4nFA4whCQJvCK6yC-AGy_i-0yDKICrJpsI2HuY1MSTUkHIjZIFXdiGJLwkjy3SFdFTwrczB0cbHzM72mHDlH33s5hrO1WNVd3hoj_dj-TDkOOvkHSCqJEMc/q79UYX5zxuSRdIpumPRwNmUgvwF3Mt7cfTygaJKXQkA
+2025-07-16 00:17:35,099 - INFO - Successfully uploaded image, Media ID: 41297, Alt Text: 'BLACK+DECKER Steam Iron - BLACK+DECKER'
+2025-07-16 00:17:37,395 - INFO - Product with SKU F1-00215 exists (ID: 41294). Updating...
+2025-07-16 00:17:39,625 - INFO - Successfully synced product SKU: F1-00215. Response Code: 200
+2025-07-16 00:17:39,626 - INFO - ========================================
+2025-07-16 00:17:39,626 - INFO - Product sync process finished.
+2025-07-16 00:17:39,627 - INFO - ========================================
+2025-07-16 00:17:41,405 - INFO - ========================================
+2025-07-16 00:17:41,405 - INFO - Starting Pay4more Product Sync...
+2025-07-16 00:17:41,405 - INFO - Source View: Pay4more Sync View
+2025-07-16 00:17:41,405 - INFO - Data Source: Linked 'Product Catalogue' table
+2025-07-16 00:17:41,406 - INFO - ========================================
+2025-07-16 00:17:41,406 - INFO - Pre-fetching all WooCommerce categories and tags...
+2025-07-16 00:17:45,016 - INFO - Fetched 100 categories and 100 tags.
+2025-07-16 00:17:45,475 - INFO - Found 2 products to sync.
+2025-07-16 00:17:45,475 - INFO - 
+--- Processing record 1 of 2 ---
+2025-07-16 00:17:45,614 - INFO - Successfully found catalogue record for code: F1-00215
+2025-07-16 00:17:45,615 - INFO - --- Processing Item recOLtPro71LGoCBR -> Catalogue SKU: F1-00215 ---
+2025-07-16 00:17:45,615 - INFO - Creating new categorie: 'recVDHFcmnYcJL3Pt'
+2025-07-16 00:17:47,129 - ERROR - Failed to create categorie 'recVDHFcmnYcJL3Pt': {"code":"term_exists","message":"A term with the name provided already exists with this parent.","data":{"status":400,"resource_id":5726}}
+2025-07-16 00:17:47,129 - INFO - Creating new tag: 'Steam Iron'
+2025-07-16 00:17:48,805 - ERROR - Failed to create tag 'Steam Iron': {"code":"term_exists","message":"A term with the name provided already exists in this taxonomy.","data":{"status":400,"resource_id":3906}}
+2025-07-16 00:17:48,807 - INFO - Creating new tag: 'Garment Care'
+2025-07-16 00:17:51,019 - ERROR - Failed to create tag 'Garment Care': {"code":"term_exists","message":"A term with the name provided already exists in this taxonomy.","data":{"status":400,"resource_id":5358}}
+2025-07-16 00:17:51,019 - INFO - Creating new tag: 'Home Appliances'
+2025-07-16 00:17:52,706 - ERROR - Failed to create tag 'Home Appliances': {"code":"term_exists","message":"A term with the name provided already exists in this taxonomy.","data":{"status":400,"resource_id":3908}}
+2025-07-16 00:17:52,707 - INFO - Found 3 catalogue images to process for 'BLACK+DECKER Steam Iron'.
+2025-07-16 00:17:52,707 - INFO - Processing image 1: https://v5.airtableusercontent.com/v3/u/43/43/1752652800000/c9yPKMB1aFz6ZU_khJhA4g/AM0-X0_zv7NX12N5DX3YHdtVdBAyP86JZ9wEtJI4NzqONOjtq8GyiladH_4SUn2v_p5qOR7zgG9jXQGum2oFy4mUVe60tC6Kke4D8D2LqIxog-xI1AWDrQhsUXJJWO62aHeT5MMbV8Pf7ZLX0jcV1Irjl77ZRCe7ueJ0B7b-65bOAGZfDmcabE9Vv1KDDsY5/kWYxTEveKNrpwvOeVTcLSaqPz4Q6QxKxyi9mHg8UY7o
+2025-07-16 00:17:59,500 - INFO - Successfully uploaded image, Media ID: 41298, Alt Text: 'BLACK+DECKER Steam Iron - BLACK+DECKER'
+2025-07-16 00:18:00,002 - INFO - Processing image 2: https://v5.airtableusercontent.com/v3/u/43/43/1752652800000/CRyrM0zr5Msr4X2saKI5nA/ufCZUw0mU8Dv2pTso0MUPi8IE4Y3XpWDC38uP4faQPVhGGgxqvR8d2gxYUzAZPj1tv4VU0dlmclPqUj3vlQeg0beWcenn5Ez_QZ8JjW04HbJomcpuMiEttBPnWIG2-PSyGfPNS4ISvI0CTyCwINUnBBHcqBlimqxr3hM5SdGhj9TQQFLCyIwAufY5J0fLflB/5oiB0TbJLeyXtGzvRI470vl0pV7_alXL_GNH4doqKH0
+2025-07-16 00:18:05,989 - INFO - Successfully uploaded image, Media ID: 41299, Alt Text: 'BLACK+DECKER Steam Iron - BLACK+DECKER'
+2025-07-16 00:18:06,494 - INFO - Processing image 3: https://v5.airtableusercontent.com/v3/u/43/43/1752652800000/gE3R9hWny8Z7bap5loHUUA/M3fo_3NqYuD_TtnpFMgvXqd8h8sCzK2oxmofJpTReqA9eYJJm59o1UIWMq4kZ7qAg-1VcCzGD4nFA4whCQJvCK6yC-AGy_i-0yDKICrJpsI2HuY1MSTUkHIjZIFXdiGJLwkjy3SFdFTwrczB0cbHzM72mHDlH33s5hrO1WNVd3hoj_dj-TDkOOvkHSCqJEMc/q79UYX5zxuSRdIpumPRwNmUgvwF3Mt7cfTygaJKXQkA
+2025-07-16 00:18:11,900 - INFO - Successfully uploaded image, Media ID: 41300, Alt Text: 'BLACK+DECKER Steam Iron - BLACK+DECKER'
+2025-07-16 00:18:14,123 - INFO - Product with SKU F1-00215 exists (ID: 41294). Updating...
+2025-07-16 00:18:16,451 - INFO - Successfully synced product SKU: F1-00215. Response Code: 200
+2025-07-16 00:18:16,452 - INFO - 
+--- Processing record 2 of 2 ---
+2025-07-16 00:18:16,737 - INFO - Successfully found catalogue record for code: F1-00215
+2025-07-16 00:18:16,737 - INFO - --- Processing Item rec0fYz2ye2SLFhTw -> Catalogue SKU: F1-00215 ---
+2025-07-16 00:18:16,738 - INFO - Creating new categorie: 'recVDHFcmnYcJL3Pt'
+2025-07-16 00:18:18,326 - ERROR - Failed to create categorie 'recVDHFcmnYcJL3Pt': {"code":"term_exists","message":"A term with the name provided already exists with this parent.","data":{"status":400,"resource_id":5726}}
+2025-07-16 00:18:18,327 - INFO - Creating new tag: 'Steam Iron'
+2025-07-16 00:18:20,047 - ERROR - Failed to create tag 'Steam Iron': {"code":"term_exists","message":"A term with the name provided already exists in this taxonomy.","data":{"status":400,"resource_id":3906}}
+2025-07-16 00:18:20,049 - INFO - Creating new tag: 'Garment Care'
+2025-07-16 00:18:21,786 - ERROR - Failed to create tag 'Garment Care': {"code":"term_exists","message":"A term with the name provided already exists in this taxonomy.","data":{"status":400,"resource_id":5358}}
+2025-07-16 00:18:21,788 - INFO - Creating new tag: 'Home Appliances'
+2025-07-16 00:18:23,346 - ERROR - Failed to create tag 'Home Appliances': {"code":"term_exists","message":"A term with the name provided already exists in this taxonomy.","data":{"status":400,"resource_id":3908}}
+2025-07-16 00:18:23,347 - INFO - Found 3 catalogue images to process for 'BLACK+DECKER Steam Iron'.
+2025-07-16 00:18:23,347 - INFO - Processing image 1: https://v5.airtableusercontent.com/v3/u/43/43/1752652800000/c9yPKMB1aFz6ZU_khJhA4g/AM0-X0_zv7NX12N5DX3YHdtVdBAyP86JZ9wEtJI4NzqONOjtq8GyiladH_4SUn2v_p5qOR7zgG9jXQGum2oFy4mUVe60tC6Kke4D8D2LqIxog-xI1AWDrQhsUXJJWO62aHeT5MMbV8Pf7ZLX0jcV1Irjl77ZRCe7ueJ0B7b-65bOAGZfDmcabE9Vv1KDDsY5/kWYxTEveKNrpwvOeVTcLSaqPz4Q6QxKxyi9mHg8UY7o
+2025-07-16 00:18:29,125 - INFO - Successfully uploaded image, Media ID: 41301, Alt Text: 'BLACK+DECKER Steam Iron - BLACK+DECKER'
+2025-07-16 00:18:29,632 - INFO - Processing image 2: https://v5.airtableusercontent.com/v3/u/43/43/1752652800000/CRyrM0zr5Msr4X2saKI5nA/ufCZUw0mU8Dv2pTso0MUPi8IE4Y3XpWDC38uP4faQPVhGGgxqvR8d2gxYUzAZPj1tv4VU0dlmclPqUj3vlQeg0beWcenn5Ez_QZ8JjW04HbJomcpuMiEttBPnWIG2-PSyGfPNS4ISvI0CTyCwINUnBBHcqBlimqxr3hM5SdGhj9TQQFLCyIwAufY5J0fLflB/5oiB0TbJLeyXtGzvRI470vl0pV7_alXL_GNH4doqKH0
+2025-07-16 00:18:35,643 - INFO - Successfully uploaded image, Media ID: 41302, Alt Text: 'BLACK+DECKER Steam Iron - BLACK+DECKER'
+2025-07-16 00:18:36,145 - INFO - Processing image 3: https://v5.airtableusercontent.com/v3/u/43/43/1752652800000/gE3R9hWny8Z7bap5loHUUA/M3fo_3NqYuD_TtnpFMgvXqd8h8sCzK2oxmofJpTReqA9eYJJm59o1UIWMq4kZ7qAg-1VcCzGD4nFA4whCQJvCK6yC-AGy_i-0yDKICrJpsI2HuY1MSTUkHIjZIFXdiGJLwkjy3SFdFTwrczB0cbHzM72mHDlH33s5hrO1WNVd3hoj_dj-TDkOOvkHSCqJEMc/q79UYX5zxuSRdIpumPRwNmUgvwF3Mt7cfTygaJKXQkA
+2025-07-16 00:18:41,603 - INFO - Successfully uploaded image, Media ID: 41303, Alt Text: 'BLACK+DECKER Steam Iron - BLACK+DECKER'
+2025-07-16 00:18:43,814 - INFO - Product with SKU F1-00215 exists (ID: 41294). Updating...
+2025-07-16 00:18:47,126 - INFO - Successfully synced product SKU: F1-00215. Response Code: 200
+2025-07-16 00:18:47,126 - INFO - ========================================
+2025-07-16 00:18:47,127 - INFO - Product sync process finished.
+2025-07-16 00:18:47,127 - INFO - ========================================
+2025-07-16 10:05:30,650 - INFO - 🚀 Starting product sync from Airtable to WooCommerce...
+2025-07-16 10:06:25,951 - INFO - Fetching products from Airtable view 'Pay4more Sync View'...
+2025-07-16 10:06:26,501 - INFO - Found 2 products to sync.
+2025-07-16 10:06:26,501 - INFO - [1/2] -------------------------
+2025-07-16 10:06:26,683 - INFO - Processing Item SKU: A00189 -> Catalogue: BLACK+DECKER Steam Iron (F1-00215)
+2025-07-16 10:06:26,684 - INFO - Found Airtable category names: ['Home Appliances', 'Home & Furniture']
+2025-07-16 10:06:26,684 - INFO - Assigning to existing WooCommerce category IDs: [5727]
+2025-07-16 10:06:26,685 - INFO - Adding Custom Fields to product: [{'key': 'color', 'value': 'Black/Blue'}, {'key': 'model', 'value': 'BDIRON3000'}]
+2025-07-16 10:06:32,560 - INFO - ✅ Uploaded image: 'blackdecker-steam-iron-1.webp' (ID: 41542)
+2025-07-16 10:06:38,763 - INFO - ✅ Uploaded image: 'blackdecker-steam-iron-2.webp' (ID: 41543)
+2025-07-16 10:06:44,725 - INFO - ✅ Uploaded image: 'blackdecker-steam-iron-3.webp' (ID: 41544)
+2025-07-16 10:06:45,228 - INFO - Cached 3 new images for catalogue code: F1-00215
+2025-07-16 10:06:46,925 - INFO - Updating existing product (ID: 41500)...
+2025-07-16 10:06:48,820 - ERROR - API Error syncing product A00189: <Response [400]>
+2025-07-16 10:06:48,821 - INFO - [2/2] -------------------------
+2025-07-16 10:06:49,119 - INFO - Processing Item SKU: P00082 -> Catalogue: BLACK+DECKER Steam Iron (F1-00215)
+2025-07-16 10:06:49,119 - INFO - Found Airtable category names: ['Home Appliances', 'Home & Furniture']
+2025-07-16 10:06:49,119 - INFO - Assigning to existing WooCommerce category IDs: [5727]
+2025-07-16 10:06:49,119 - INFO - Adding Custom Fields to product: [{'key': 'color', 'value': 'Black/Blue'}, {'key': 'model', 'value': 'BDIRON3000'}]
+2025-07-16 10:06:49,119 - INFO - Using cached images for catalogue code: F1-00215
+2025-07-16 10:06:50,862 - INFO - Updating existing product (ID: 36624)...
+2025-07-16 10:06:52,420 - ERROR - API Error syncing product P00082: <Response [400]>
+2025-07-16 10:06:52,421 - INFO - ============================================================
+🏁 SYNC COMPLETE! ✅ Success: 2, ❌ Errors: 0
+============================================================
+2025-07-16 10:08:24,695 - INFO - 🚀 Starting product sync from Airtable to WooCommerce...
+2025-07-16 10:09:21,834 - INFO - Fetching products from Airtable view 'Pay4more Sync View'...
+2025-07-16 10:09:22,376 - INFO - Found 2 products to sync.
+2025-07-16 10:09:22,376 - INFO - [1/2] -------------------------
+2025-07-16 10:09:22,522 - INFO - Processing Item SKU: A00189 -> Catalogue: BLACK+DECKER Steam Iron (F1-00215)
+2025-07-16 10:09:22,522 - INFO - Found Airtable category names: ['Home Appliances', 'Home & Furniture']
+2025-07-16 10:09:22,523 - INFO - Assigning to existing WooCommerce category IDs: [5727]
+2025-07-16 10:09:22,523 - INFO - Adding Custom Fields to product: [{'key': 'color', 'value': 'Black/Blue'}, {'key': 'model', 'value': 'BDIRON3000'}]
+2025-07-16 10:09:29,280 - INFO - ✅ Uploaded image: 'blackdecker-steam-iron-1.webp' (ID: 41545)
+2025-07-16 10:09:36,964 - INFO - ✅ Uploaded image: 'blackdecker-steam-iron-2.webp' (ID: 41546)
+2025-07-16 10:09:43,968 - INFO - ✅ Uploaded image: 'blackdecker-steam-iron-3.webp' (ID: 41547)
+2025-07-16 10:09:44,469 - INFO - Cached 3 new images for catalogue code: F1-00215
+2025-07-16 10:09:46,379 - INFO - Creating new product...
+2025-07-16 10:09:48,136 - ERROR - API Error syncing product A00189: <Response [400]>
+2025-07-16 10:09:48,137 - INFO - [2/2] -------------------------
+2025-07-16 10:09:48,387 - INFO - Processing Item SKU: P00082 -> Catalogue: BLACK+DECKER Steam Iron (F1-00215)
+2025-07-16 10:09:48,387 - INFO - Found Airtable category names: ['Home Appliances', 'Home & Furniture']
+2025-07-16 10:09:48,387 - INFO - Assigning to existing WooCommerce category IDs: [5727]
+2025-07-16 10:09:48,387 - INFO - Adding Custom Fields to product: [{'key': 'color', 'value': 'Black/Blue'}, {'key': 'model', 'value': 'BDIRON3000'}]
+2025-07-16 10:09:48,387 - INFO - Using cached images for catalogue code: F1-00215
+2025-07-16 10:09:50,228 - INFO - Updating existing product (ID: 36624)...
+2025-07-16 10:09:51,909 - ERROR - API Error syncing product P00082: <Response [400]>
+2025-07-16 10:09:51,910 - INFO - ============================================================
+🏁 SYNC COMPLETE! ✅ Success: 2, ❌ Errors: 0
+============================================================

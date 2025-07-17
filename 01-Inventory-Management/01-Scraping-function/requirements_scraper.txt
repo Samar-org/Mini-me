@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+lxml
+pillow
+pyairtable
+python-dotenv
+selenium
