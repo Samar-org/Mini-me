@@ -3,4 +3,3 @@ pyairtable
 python-dotenv
 requests
 woocommerce
-airtable-python-wrapper

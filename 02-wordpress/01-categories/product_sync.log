@@ -1,0 +1,1712 @@
+2025-07-19 16:03:52,794 - INFO - 🚀 Starting product sync from Airtable to WooCommerce...
+2025-07-19 16:04:46,357 - INFO - Pre-fetched 296 categories, 2474 tags, and 1 brands.
+2025-07-19 16:04:46,358 - INFO - Fetching products from Airtable view 'Pay4more Sync View'...
+2025-07-19 16:04:47,445 - INFO - Found 183 products to sync.
+2025-07-19 16:04:47,446 - INFO - [1/183] -------------------------
+2025-07-19 16:04:47,572 - INFO - Processing Item SKU: P00001 -> Catalogue: Hampton Bay Edson 30-inch W x 30-inch H x 12.5-inch D Shaker Style Assembled Kitchen Wall Cabinet (X1-00347)
+2025-07-19 16:04:47,573 - INFO - Creating new categories: 'Kitchen & Bath'
+2025-07-19 16:04:49,069 - WARNING - Term 'Kitchen & Bath' already exists with ID: 5731. Using existing ID.
+2025-07-19 16:04:54,317 - INFO - ✅ Uploaded image and full metadata: 'hampton-bay-edson-30-inch-w-x-30-inch-h-x-125-inch-1.webp' (ID: 46498)
+2025-07-19 16:04:59,794 - INFO - ✅ Uploaded image and full metadata: 'hampton-bay-edson-30-inch-w-x-30-inch-h-x-125-inch-2.webp' (ID: 46499)
+2025-07-19 16:05:05,199 - INFO - ✅ Uploaded image and full metadata: 'hampton-bay-edson-30-inch-w-x-30-inch-h-x-125-inch-3.webp' (ID: 46500)
+2025-07-19 16:05:05,702 - INFO - Cached 3 new images for catalogue code: X1-00347
+2025-07-19 16:05:07,192 - INFO - Updating existing product (ID: 45948)...
+2025-07-19 16:05:09,565 - INFO - ✅ Successfully synced product SKU: P00001 (ID: 45948)
+2025-07-19 16:05:09,566 - INFO - Updating SEO for product 45948 via custom endpoint...
+2025-07-19 16:05:11,051 - INFO - ✅ Successfully updated SEO for product 45948.
+2025-07-19 16:05:11,053 - INFO - [2/183] -------------------------
+2025-07-19 16:05:11,331 - INFO - Processing Item SKU: P00002 -> Catalogue: Hisense 30 inch W 21 cu. Ft French door Refrigerator (X1-00643)
+2025-07-19 16:05:15,934 - INFO - ✅ Uploaded image and full metadata: 'hisense-30-inch-w-21-cu-ft-french-door-refrigerato-1.webp' (ID: 46502)
+2025-07-19 16:05:22,229 - INFO - ✅ Uploaded image and full metadata: 'hisense-30-inch-w-21-cu-ft-french-door-refrigerato-2.webp' (ID: 46503)
+2025-07-19 16:05:22,734 - INFO - Cached 2 new images for catalogue code: X1-00643
+2025-07-19 16:05:24,212 - INFO - Updating existing product (ID: 45951)...
+2025-07-19 16:05:26,622 - INFO - ✅ Successfully synced product SKU: P00002 (ID: 45951)
+2025-07-19 16:05:26,623 - INFO - Updating SEO for product 45951 via custom endpoint...
+2025-07-19 16:05:28,329 - INFO - ✅ Successfully updated SEO for product 45951.
+2025-07-19 16:05:28,332 - INFO - [3/183] -------------------------
+2025-07-19 16:05:28,464 - INFO - Processing Item SKU: P00003 -> Catalogue: Unique Appliances 6 cu. ft. Off-Grid Propane Refrigerator - 24 inch White
+ (X1-00447)
+2025-07-19 16:05:28,465 - INFO - Creating new categories: 'Sports & Outdoors'
+2025-07-19 16:05:30,030 - WARNING - Term 'Sports & Outdoors' already exists with ID: 5867. Using existing ID.
+2025-07-19 16:05:34,901 - INFO - ✅ Uploaded image and full metadata: 'unique-appliances-6-cu-ft-off-grid-propane-refrige-1.webp' (ID: 46505)
+2025-07-19 16:05:40,124 - INFO - ✅ Uploaded image and full metadata: 'unique-appliances-6-cu-ft-off-grid-propane-refrige-2.webp' (ID: 46506)
+2025-07-19 16:05:45,800 - INFO - ✅ Uploaded image and full metadata: 'unique-appliances-6-cu-ft-off-grid-propane-refrige-3.webp' (ID: 46507)
+2025-07-19 16:05:51,057 - INFO - ✅ Uploaded image and full metadata: 'unique-appliances-6-cu-ft-off-grid-propane-refrige-4.webp' (ID: 46508)
+2025-07-19 16:05:56,110 - INFO - ✅ Uploaded image and full metadata: 'unique-appliances-6-cu-ft-off-grid-propane-refrige-5.webp' (ID: 46509)
+2025-07-19 16:05:56,616 - INFO - Cached 5 new images for catalogue code: X1-00447
+2025-07-19 16:05:57,986 - INFO - Updating existing product (ID: 45312)...
+2025-07-19 16:06:00,178 - INFO - ✅ Successfully synced product SKU: P00003 (ID: 45312)
+2025-07-19 16:06:00,179 - INFO - Updating SEO for product 45312 via custom endpoint...
+2025-07-19 16:06:01,656 - INFO - ✅ Successfully updated SEO for product 45312.
+2025-07-19 16:06:01,658 - INFO - [4/183] -------------------------
+2025-07-19 16:06:01,810 - INFO - Processing Item SKU: P00004 -> Catalogue: Baxton Studio Landis Dresser in Ash Walnut and Gold (F1-00001)
+2025-07-19 16:06:01,811 - INFO - Creating new categories: 'Home & Furniture'
+2025-07-19 16:06:03,253 - WARNING - Term 'Home & Furniture' already exists with ID: 3353. Using existing ID.
+2025-07-19 16:06:08,022 - INFO - ✅ Uploaded image and full metadata: 'baxton-studio-landis-dresser-in-ash-walnut-and-gol-1.webp' (ID: 46510)
+2025-07-19 16:06:13,392 - INFO - ✅ Uploaded image and full metadata: 'baxton-studio-landis-dresser-in-ash-walnut-and-gol-2.webp' (ID: 46511)
+2025-07-19 16:06:19,429 - INFO - ✅ Uploaded image and full metadata: 'baxton-studio-landis-dresser-in-ash-walnut-and-gol-3.webp' (ID: 46512)
+2025-07-19 16:06:19,935 - INFO - Cached 3 new images for catalogue code: F1-00001
+2025-07-19 16:06:21,507 - INFO - Updating existing product (ID: 45316)...
+2025-07-19 16:06:23,645 - INFO - ✅ Successfully synced product SKU: P00004 (ID: 45316)
+2025-07-19 16:06:23,646 - INFO - Updating SEO for product 45316 via custom endpoint...
+2025-07-19 16:06:25,126 - INFO - ✅ Successfully updated SEO for product 45316.
+2025-07-19 16:06:25,128 - INFO - [5/183] -------------------------
+2025-07-19 16:06:25,430 - INFO - Processing Item SKU: P00006 -> Catalogue: Laurel Foundry Modern Farmhouse Dash Solid Wood Coffee Table with Storage (X1-00448)
+2025-07-19 16:06:31,229 - INFO - ✅ Uploaded image and full metadata: 'laurel-foundry-modern-farmhouse-dash-solid-wood-co-1.webp' (ID: 46513)
+2025-07-19 16:06:31,736 - INFO - Cached 1 new images for catalogue code: X1-00448
+2025-07-19 16:06:33,270 - INFO - Updating existing product (ID: 45962)...
+2025-07-19 16:06:35,389 - INFO - ✅ Successfully synced product SKU: P00006 (ID: 45962)
+2025-07-19 16:06:35,390 - INFO - Updating SEO for product 45962 via custom endpoint...
+2025-07-19 16:06:36,889 - INFO - ✅ Successfully updated SEO for product 45962.
+2025-07-19 16:06:36,892 - INFO - [6/183] -------------------------
+2025-07-19 16:06:37,189 - INFO - Processing Item SKU: P00007 -> Catalogue: Husky Heavy-Duty 61-inch 10-Drawer Mobile Workbench with Pegboard in Matte Black
+ (X1-00442)
+2025-07-19 16:06:37,190 - INFO - Creating new categories: 'Tools & Accessories'
+2025-07-19 16:06:38,807 - WARNING - Term 'Tools & Accessories' already exists with ID: 5886. Using existing ID.
+2025-07-19 16:06:43,827 - INFO - ✅ Uploaded image and full metadata: 'husky-heavy-duty-61-inch-10-drawer-mobile-workbenc-1.webp' (ID: 46515)
+2025-07-19 16:06:49,024 - INFO - ✅ Uploaded image and full metadata: 'husky-heavy-duty-61-inch-10-drawer-mobile-workbenc-2.webp' (ID: 46516)
+2025-07-19 16:06:49,530 - INFO - Cached 2 new images for catalogue code: X1-00442
+2025-07-19 16:06:51,052 - INFO - Updating existing product (ID: 45965)...
+2025-07-19 16:06:53,130 - INFO - ✅ Successfully synced product SKU: P00007 (ID: 45965)
+2025-07-19 16:06:53,131 - INFO - Updating SEO for product 45965 via custom endpoint...
+2025-07-19 16:06:54,565 - INFO - ✅ Successfully updated SEO for product 45965.
+2025-07-19 16:06:54,568 - INFO - [7/183] -------------------------
+2025-07-19 16:06:54,711 - INFO - Processing Item SKU: P00008 -> Catalogue: Husky Heavy-Duty 52" W x 20" D 15-Drawer Tool Storage Chest and Cabinet Combo - Matte Black (X1-00607)
+2025-07-19 16:06:59,313 - INFO - ✅ Uploaded image and full metadata: 'husky-heavy-duty-52-w-x-20-d-15-drawer-tool-storag-1.webp' (ID: 46518)
+2025-07-19 16:07:04,719 - INFO - ✅ Uploaded image and full metadata: 'husky-heavy-duty-52-w-x-20-d-15-drawer-tool-storag-2.webp' (ID: 46519)
+2025-07-19 16:07:09,891 - INFO - ✅ Uploaded image and full metadata: 'husky-heavy-duty-52-w-x-20-d-15-drawer-tool-storag-3.webp' (ID: 46520)
+2025-07-19 16:07:15,316 - INFO - ✅ Uploaded image and full metadata: 'husky-heavy-duty-52-w-x-20-d-15-drawer-tool-storag-4.webp' (ID: 46521)
+2025-07-19 16:07:15,821 - INFO - Cached 4 new images for catalogue code: X1-00607
+2025-07-19 16:07:17,410 - INFO - Updating existing product (ID: 45970)...
+2025-07-19 16:07:19,954 - INFO - ✅ Successfully synced product SKU: P00008 (ID: 45970)
+2025-07-19 16:07:19,955 - INFO - Updating SEO for product 45970 via custom endpoint...
+2025-07-19 16:07:21,425 - INFO - ✅ Successfully updated SEO for product 45970.
+2025-07-19 16:07:21,427 - INFO - [8/183] -------------------------
+2025-07-19 16:07:21,553 - INFO - Processing Item SKU: P00009 -> Catalogue: Husky Standard-Duty 52" W x 18" D 9-Drawer Mobile Workbench with Solid Wood Top - Gloss Gray (X1-00606)
+2025-07-19 16:07:26,619 - INFO - ✅ Uploaded image and full metadata: 'husky-standard-duty-52-w-x-18-d-9-drawer-mobile-wo-1.webp' (ID: 46523)
+2025-07-19 16:07:32,963 - INFO - ✅ Uploaded image and full metadata: 'husky-standard-duty-52-w-x-18-d-9-drawer-mobile-wo-2.webp' (ID: 46524)
+2025-07-19 16:07:37,828 - INFO - ✅ Uploaded image and full metadata: 'husky-standard-duty-52-w-x-18-d-9-drawer-mobile-wo-3.webp' (ID: 46525)
+2025-07-19 16:07:38,332 - INFO - Cached 3 new images for catalogue code: X1-00606
+2025-07-19 16:07:39,810 - INFO - Updating existing product (ID: 45974)...
+2025-07-19 16:07:42,055 - INFO - ✅ Successfully synced product SKU: P00009 (ID: 45974)
+2025-07-19 16:07:42,056 - INFO - Updating SEO for product 45974 via custom endpoint...
+2025-07-19 16:07:43,500 - INFO - ✅ Successfully updated SEO for product 45974.
+2025-07-19 16:07:43,502 - INFO - [9/183] -------------------------
+2025-07-19 16:07:43,749 - INFO - Processing Item SKU: P00011 -> Catalogue: Hampton Bay Dearstone 4-Piece All-Weather Wicker Patio Conversation Set with Cushion Guard Beige Cushions (X1-00632)
+2025-07-19 16:07:48,333 - INFO - ✅ Uploaded image and full metadata: 'hampton-bay-dearstone-4-piece-all-weather-wicker-p-1.webp' (ID: 46527)
+2025-07-19 16:07:53,547 - INFO - ✅ Uploaded image and full metadata: 'hampton-bay-dearstone-4-piece-all-weather-wicker-p-2.webp' (ID: 46528)
+2025-07-19 16:07:54,053 - INFO - Cached 2 new images for catalogue code: X1-00632
+2025-07-19 16:07:55,630 - INFO - Updating existing product (ID: 45977)...
+2025-07-19 16:07:57,832 - INFO - ✅ Successfully synced product SKU: P00011 (ID: 45977)
+2025-07-19 16:07:57,833 - INFO - Updating SEO for product 45977 via custom endpoint...
+2025-07-19 16:07:59,304 - INFO - ✅ Successfully updated SEO for product 45977.
+2025-07-19 16:07:59,306 - INFO - [10/183] -------------------------
+2025-07-19 16:07:59,618 - INFO - Processing Item SKU: P00012 -> Catalogue: Hampton Bay Harmony Hill 3-Piece Outdoor Sectional with Almond Cushions
+
+ (X1-00224)
+2025-07-19 16:08:04,431 - INFO - ✅ Uploaded image and full metadata: 'hampton-bay-harmony-hill-3-piece-outdoor-sectional-1.webp' (ID: 46529)
+2025-07-19 16:08:09,596 - INFO - ✅ Uploaded image and full metadata: 'hampton-bay-harmony-hill-3-piece-outdoor-sectional-2.webp' (ID: 46530)
+2025-07-19 16:08:10,101 - INFO - Cached 2 new images for catalogue code: X1-00224
+2025-07-19 16:08:11,514 - INFO - Updating existing product (ID: 45980)...
+2025-07-19 16:08:13,724 - INFO - ✅ Successfully synced product SKU: P00012 (ID: 45980)
+2025-07-19 16:08:13,725 - INFO - Updating SEO for product 45980 via custom endpoint...
+2025-07-19 16:08:15,471 - INFO - ✅ Successfully updated SEO for product 45980.
+2025-07-19 16:08:15,472 - INFO - [11/183] -------------------------
+2025-07-19 16:08:15,675 - INFO - Processing Item SKU: P00013 -> Catalogue: Hampton Bay Ellington 4-Piece Steel Outdoor Patio Seating Set with Malachite Green Cushions
+ (X1-00579)
+2025-07-19 16:08:15,676 - INFO - Creating new categories: 'Outdoor & Garden'
+2025-07-19 16:08:17,337 - WARNING - Term 'Outdoor & Garden' already exists with ID: 5732. Using existing ID.
+2025-07-19 16:08:21,915 - INFO - ✅ Uploaded image and full metadata: 'hampton-bay-ellington-4-piece-steel-outdoor-patio--1.webp' (ID: 46532)
+2025-07-19 16:08:27,026 - INFO - ✅ Uploaded image and full metadata: 'hampton-bay-ellington-4-piece-steel-outdoor-patio--2.webp' (ID: 46533)
+2025-07-19 16:08:32,431 - INFO - ✅ Uploaded image and full metadata: 'hampton-bay-ellington-4-piece-steel-outdoor-patio--3.webp' (ID: 46534)
+2025-07-19 16:08:39,070 - INFO - ✅ Uploaded image and full metadata: 'hampton-bay-ellington-4-piece-steel-outdoor-patio--4.webp' (ID: 46535)
+2025-07-19 16:08:39,571 - INFO - Cached 4 new images for catalogue code: X1-00579
+2025-07-19 16:08:41,053 - INFO - Updating existing product (ID: 45985)...
+2025-07-19 16:08:43,322 - INFO - ✅ Successfully synced product SKU: P00013 (ID: 45985)
+2025-07-19 16:08:43,322 - INFO - Updating SEO for product 45985 via custom endpoint...
+2025-07-19 16:08:44,840 - INFO - ✅ Successfully updated SEO for product 45985.
+2025-07-19 16:08:44,841 - INFO - [12/183] -------------------------
+2025-07-19 16:08:44,977 - INFO - Processing Item SKU: P00014 -> Catalogue: AirPods Pro (X1-00707)
+2025-07-19 16:08:50,016 - INFO - ✅ Uploaded image and full metadata: 'airpods-pro-1.webp' (ID: 46537)
+2025-07-19 16:08:55,634 - INFO - ✅ Uploaded image and full metadata: 'airpods-pro-2.webp' (ID: 46538)
+2025-07-19 16:08:56,137 - INFO - Cached 2 new images for catalogue code: X1-00707
+2025-07-19 16:08:57,544 - INFO - Updating existing product (ID: 45988)...
+2025-07-19 16:08:59,677 - INFO - ✅ Successfully synced product SKU: P00014 (ID: 45988)
+2025-07-19 16:08:59,678 - INFO - Updating SEO for product 45988 via custom endpoint...
+2025-07-19 16:09:01,139 - INFO - ✅ Successfully updated SEO for product 45988.
+2025-07-19 16:09:01,139 - INFO - [13/183] -------------------------
+2025-07-19 16:09:01,295 - INFO - Processing Item SKU: P00018 -> Catalogue: Google Nest Learning Thermostat (4th gen) in Polished Gold (X1-00689)
+2025-07-19 16:09:01,295 - INFO - Creating new categories: 'Smart Thermostats & Climate Control'
+2025-07-19 16:09:02,744 - WARNING - Term 'Smart Thermostats & Climate Control' already exists with ID: 5887. Using existing ID.
+2025-07-19 16:09:07,667 - INFO - ✅ Uploaded image and full metadata: 'google-nest-learning-thermostat-4th-gen-in-polishe-1.webp' (ID: 46539)
+2025-07-19 16:09:12,875 - INFO - ✅ Uploaded image and full metadata: 'google-nest-learning-thermostat-4th-gen-in-polishe-2.webp' (ID: 46540)
+2025-07-19 16:09:13,379 - INFO - Cached 2 new images for catalogue code: X1-00689
+2025-07-19 16:09:14,984 - INFO - Updating existing product (ID: 45991)...
+2025-07-19 16:09:17,235 - INFO - ✅ Successfully synced product SKU: P00018 (ID: 45991)
+2025-07-19 16:09:17,236 - INFO - Updating SEO for product 45991 via custom endpoint...
+2025-07-19 16:09:18,818 - INFO - ✅ Successfully updated SEO for product 45991.
+2025-07-19 16:09:18,820 - INFO - [14/183] -------------------------
+2025-07-19 16:09:18,941 - INFO - Processing Item SKU: P00019 -> Catalogue: Deep Tissue Massager Variable Therapy Sharper Image Power Percussion (X1-00566)
+2025-07-19 16:09:18,942 - INFO - Creating new categories: 'Beauty & Personal Care'
+2025-07-19 16:09:20,474 - WARNING - Term 'Beauty & Personal Care' already exists with ID: 3352. Using existing ID.
+2025-07-19 16:09:25,216 - INFO - ✅ Uploaded image and full metadata: 'deep-tissue-massager-variable-therapy-sharper-imag-1.webp' (ID: 46542)
+2025-07-19 16:09:30,733 - INFO - ✅ Uploaded image and full metadata: 'deep-tissue-massager-variable-therapy-sharper-imag-2.webp' (ID: 46543)
+2025-07-19 16:09:31,237 - INFO - Cached 2 new images for catalogue code: X1-00566
+2025-07-19 16:09:32,786 - INFO - Updating existing product (ID: 45994)...
+2025-07-19 16:09:34,934 - INFO - ✅ Successfully synced product SKU: P00019 (ID: 45994)
+2025-07-19 16:09:34,934 - INFO - Updating SEO for product 45994 via custom endpoint...
+2025-07-19 16:09:36,425 - INFO - ✅ Successfully updated SEO for product 45994.
+2025-07-19 16:09:36,427 - INFO - [15/183] -------------------------
+2025-07-19 16:09:36,595 - INFO - Processing Item SKU: P00021 -> Catalogue: 12 Cup Programmable Coffee Maker Gray – Figmint™ (K1-00003)
+2025-07-19 16:09:42,622 - INFO - ✅ Uploaded image and full metadata: '12-cup-programmable-coffee-maker-gray-figmint-1.webp' (ID: 46544)
+2025-07-19 16:09:48,108 - INFO - ✅ Uploaded image and full metadata: '12-cup-programmable-coffee-maker-gray-figmint-2.webp' (ID: 46545)
+2025-07-19 16:09:48,612 - INFO - Cached 2 new images for catalogue code: K1-00003
+2025-07-19 16:09:50,177 - INFO - Updating existing product (ID: 45319)...
+2025-07-19 16:09:52,366 - INFO - ✅ Successfully synced product SKU: P00021 (ID: 45319)
+2025-07-19 16:09:52,367 - INFO - Updating SEO for product 45319 via custom endpoint...
+2025-07-19 16:09:53,992 - INFO - ✅ Successfully updated SEO for product 45319.
+2025-07-19 16:09:53,993 - INFO - [16/183] -------------------------
+2025-07-19 16:09:54,142 - INFO - Processing Item SKU: P00027 -> Catalogue: Farini Dining Chair Set of 2 (X1-00481)
+2025-07-19 16:09:59,325 - INFO - ✅ Uploaded image and full metadata: 'farini-dining-chair-set-of-2-1.webp' (ID: 46546)
+2025-07-19 16:09:59,830 - INFO - Cached 1 new images for catalogue code: X1-00481
+2025-07-19 16:10:01,414 - INFO - Updating existing product (ID: 45998)...
+2025-07-19 16:10:03,572 - INFO - ✅ Successfully synced product SKU: P00027 (ID: 45998)
+2025-07-19 16:10:03,572 - INFO - Updating SEO for product 45998 via custom endpoint...
+2025-07-19 16:10:05,296 - INFO - ✅ Successfully updated SEO for product 45998.
+2025-07-19 16:10:05,298 - INFO - [17/183] -------------------------
+2025-07-19 16:10:05,431 - INFO - Processing Item SKU: P00029 -> Catalogue: 5-Section Serving Platter Set Light Gray - Room Essentials™ Recycled Plastic, Microwave & Dishwasher Safe (K1-00002)
+2025-07-19 16:10:10,249 - INFO - ✅ Uploaded image and full metadata: '5-section-serving-platter-set-light-gray-room-esse-1.webp' (ID: 46547)
+2025-07-19 16:10:15,618 - INFO - ✅ Uploaded image and full metadata: '5-section-serving-platter-set-light-gray-room-esse-2.webp' (ID: 46548)
+2025-07-19 16:10:20,989 - INFO - ✅ Uploaded image and full metadata: '5-section-serving-platter-set-light-gray-room-esse-3.webp' (ID: 46549)
+2025-07-19 16:10:21,493 - INFO - Cached 3 new images for catalogue code: K1-00002
+2025-07-19 16:10:23,212 - INFO - Updating existing product (ID: 45323)...
+2025-07-19 16:10:25,406 - INFO - ✅ Successfully synced product SKU: P00029 (ID: 45323)
+2025-07-19 16:10:25,407 - INFO - Updating SEO for product 45323 via custom endpoint...
+2025-07-19 16:10:26,981 - INFO - ✅ Successfully updated SEO for product 45323.
+2025-07-19 16:10:26,983 - INFO - [18/183] -------------------------
+2025-07-19 16:10:27,244 - INFO - Processing Item SKU: P00030 -> Catalogue: Home Decorators Collection 72-inch Ellia Vanity in White (X1-00506)
+2025-07-19 16:10:31,905 - INFO - ✅ Uploaded image and full metadata: 'home-decorators-collection-72-inch-ellia-vanity-in-1.webp' (ID: 46550)
+2025-07-19 16:10:37,022 - INFO - ✅ Uploaded image and full metadata: 'home-decorators-collection-72-inch-ellia-vanity-in-2.webp' (ID: 46551)
+2025-07-19 16:10:42,508 - INFO - ✅ Uploaded image and full metadata: 'home-decorators-collection-72-inch-ellia-vanity-in-3.webp' (ID: 46552)
+2025-07-19 16:10:43,014 - INFO - Cached 3 new images for catalogue code: X1-00506
+2025-07-19 16:10:44,441 - INFO - Updating existing product (ID: 46005)...
+2025-07-19 16:10:46,543 - INFO - ✅ Successfully synced product SKU: P00030 (ID: 46005)
+2025-07-19 16:10:46,544 - INFO - Updating SEO for product 46005 via custom endpoint...
+2025-07-19 16:10:48,090 - INFO - ✅ Successfully updated SEO for product 46005.
+2025-07-19 16:10:48,092 - INFO - [19/183] -------------------------
+2025-07-19 16:10:48,274 - INFO - Processing Item SKU: P00031 -> Catalogue: Bestier Bakers Rack (X1-00717)
+2025-07-19 16:10:48,274 - INFO - Creating new categories: 'Kitchen & Dining'
+2025-07-19 16:10:49,754 - WARNING - Term 'Kitchen & Dining' already exists with ID: 5735. Using existing ID.
+2025-07-19 16:10:55,830 - INFO - ✅ Uploaded image and full metadata: 'bestier-bakers-rack-1.webp' (ID: 46553)
+2025-07-19 16:11:01,208 - INFO - ✅ Uploaded image and full metadata: 'bestier-bakers-rack-2.webp' (ID: 46554)
+2025-07-19 16:11:06,500 - INFO - ✅ Uploaded image and full metadata: 'bestier-bakers-rack-3.webp' (ID: 46555)
+2025-07-19 16:11:07,004 - INFO - Cached 3 new images for catalogue code: X1-00717
+2025-07-19 16:11:08,612 - INFO - Updating existing product (ID: 46009)...
+2025-07-19 16:11:10,843 - INFO - ✅ Successfully synced product SKU: P00031 (ID: 46009)
+2025-07-19 16:11:10,843 - INFO - Updating SEO for product 46009 via custom endpoint...
+2025-07-19 16:11:12,374 - INFO - ✅ Successfully updated SEO for product 46009.
+2025-07-19 16:11:12,375 - INFO - [20/183] -------------------------
+2025-07-19 16:11:12,560 - INFO - Processing Item SKU: P00032 -> Catalogue: Signature Sleep Signature Sleep Queen Wall Bed, Ivory Oak (X1-00458)
+2025-07-19 16:11:17,378 - INFO - ✅ Uploaded image and full metadata: 'signature-sleep-signature-sleep-queen-wall-bed-ivo-1.webp' (ID: 46557)
+2025-07-19 16:11:22,431 - INFO - ✅ Uploaded image and full metadata: 'signature-sleep-signature-sleep-queen-wall-bed-ivo-2.webp' (ID: 46558)
+2025-07-19 16:11:27,923 - INFO - ✅ Uploaded image and full metadata: 'signature-sleep-signature-sleep-queen-wall-bed-ivo-3.webp' (ID: 46559)
+2025-07-19 16:11:28,429 - INFO - Cached 3 new images for catalogue code: X1-00458
+2025-07-19 16:11:29,906 - INFO - Updating existing product (ID: 46013)...
+2025-07-19 16:11:32,026 - INFO - ✅ Successfully synced product SKU: P00032 (ID: 46013)
+2025-07-19 16:11:32,027 - INFO - Updating SEO for product 46013 via custom endpoint...
+2025-07-19 16:11:33,587 - INFO - ✅ Successfully updated SEO for product 46013.
+2025-07-19 16:11:33,589 - INFO - [21/183] -------------------------
+2025-07-19 16:11:33,753 - INFO - Processing Item SKU: P00033 -> Catalogue: Evolve Satin Edge Pocket Bonnet (X1-00356)
+2025-07-19 16:11:38,550 - INFO - ✅ Uploaded image and full metadata: 'evolve-satin-edge-pocket-bonnet-1.webp' (ID: 46560)
+2025-07-19 16:11:43,867 - INFO - ✅ Uploaded image and full metadata: 'evolve-satin-edge-pocket-bonnet-2.webp' (ID: 46561)
+2025-07-19 16:11:49,004 - INFO - ✅ Uploaded image and full metadata: 'evolve-satin-edge-pocket-bonnet-3.webp' (ID: 46562)
+2025-07-19 16:11:49,509 - INFO - Cached 3 new images for catalogue code: X1-00356
+2025-07-19 16:11:50,949 - INFO - Product with SKU 'P00033' not found. Attempting to create new product...
+2025-07-19 16:11:53,097 - INFO - ✅ Successfully synced product SKU: P00033 (ID: 46563)
+2025-07-19 16:11:53,098 - INFO - Updating SEO for product 46563 via custom endpoint...
+2025-07-19 16:11:54,518 - INFO - ✅ Successfully updated SEO for product 46563.
+2025-07-19 16:11:54,520 - INFO - [22/183] -------------------------
+2025-07-19 16:11:54,641 - INFO - Processing Item SKU: P00035 -> Catalogue: Tangle Teezer Ultimate Detangler Brush for Wet & Dry Hair, Eliminates Knots & Reduces Breakage for All Hair Types, Baby Pink & Mint (X1-00624)
+2025-07-19 16:12:00,309 - INFO - ✅ Uploaded image and full metadata: 'tangle-teezer-ultimate-detangler-brush-for-wet-dry-1.webp' (ID: 46564)
+2025-07-19 16:12:05,601 - INFO - ✅ Uploaded image and full metadata: 'tangle-teezer-ultimate-detangler-brush-for-wet-dry-2.webp' (ID: 46565)
+2025-07-19 16:12:10,999 - INFO - ✅ Uploaded image and full metadata: 'tangle-teezer-ultimate-detangler-brush-for-wet-dry-3.webp' (ID: 46566)
+2025-07-19 16:12:11,504 - INFO - Cached 3 new images for catalogue code: X1-00624
+2025-07-19 16:12:12,951 - INFO - Product with SKU 'P00035' not found. Attempting to create new product...
+2025-07-19 16:12:15,819 - INFO - ✅ Successfully synced product SKU: P00035 (ID: 46567)
+2025-07-19 16:12:15,820 - INFO - Updating SEO for product 46567 via custom endpoint...
+2025-07-19 16:12:17,291 - INFO - ✅ Successfully updated SEO for product 46567.
+2025-07-19 16:12:17,292 - INFO - [23/183] -------------------------
+2025-07-19 16:12:17,461 - INFO - Processing Item SKU: P00037 -> Catalogue: Firstline Firstline evolve fuchsia satin wide edge bonnet, Pink (X1-00340)
+2025-07-19 16:12:22,522 - INFO - ✅ Uploaded image and full metadata: 'firstline-firstline-evolve-fuchsia-satin-wide-edge-1.webp' (ID: 46568)
+2025-07-19 16:12:28,008 - INFO - ✅ Uploaded image and full metadata: 'firstline-firstline-evolve-fuchsia-satin-wide-edge-2.webp' (ID: 46569)
+2025-07-19 16:12:28,513 - INFO - Cached 2 new images for catalogue code: X1-00340
+2025-07-19 16:12:30,120 - INFO - Product with SKU 'P00037' not found. Attempting to create new product...
+2025-07-19 16:12:32,322 - INFO - ✅ Successfully synced product SKU: P00037 (ID: 46570)
+2025-07-19 16:12:32,323 - INFO - Updating SEO for product 46570 via custom endpoint...
+2025-07-19 16:12:33,831 - INFO - ✅ Successfully updated SEO for product 46570.
+2025-07-19 16:12:33,834 - INFO - [24/183] -------------------------
+2025-07-19 16:12:33,955 - INFO - Processing Item SKU: P00040 -> Catalogue: DOITOOL 1pc Silicone Ice Cube Tray Ice Box Sausage DIY Baking Mold Baking Supplies (K1-00011)
+2025-07-19 16:12:38,584 - INFO - ✅ Uploaded image and full metadata: 'doitool-1pc-silicone-ice-cube-tray-ice-box-sausage-1.webp' (ID: 46571)
+2025-07-19 16:12:44,546 - INFO - ✅ Uploaded image and full metadata: 'doitool-1pc-silicone-ice-cube-tray-ice-box-sausage-2.webp' (ID: 46572)
+2025-07-19 16:12:45,052 - INFO - Cached 2 new images for catalogue code: K1-00011
+2025-07-19 16:12:46,521 - INFO - Updating existing product (ID: 45326)...
+2025-07-19 16:12:49,190 - INFO - ✅ Successfully synced product SKU: P00040 (ID: 45326)
+2025-07-19 16:12:49,191 - INFO - Updating SEO for product 45326 via custom endpoint...
+2025-07-19 16:12:50,715 - INFO - ✅ Successfully updated SEO for product 45326.
+2025-07-19 16:12:50,717 - INFO - [25/183] -------------------------
+2025-07-19 16:12:50,836 - INFO - Processing Item SKU: P00043 -> Catalogue: Kitsch Satin Scrunchies for Women - No Crease Hair Ties for Girls | Scrunchies For All Hair Types and Textures, Perfect for Day or Night - 5 Pcs, Black (X1-00575)
+2025-07-19 16:12:55,631 - INFO - ✅ Uploaded image and full metadata: 'kitsch-satin-scrunchies-for-women-no-crease-hair-t-1.webp' (ID: 46573)
+2025-07-19 16:13:02,169 - INFO - ✅ Uploaded image and full metadata: 'kitsch-satin-scrunchies-for-women-no-crease-hair-t-2.webp' (ID: 46574)
+2025-07-19 16:13:02,676 - INFO - Cached 2 new images for catalogue code: X1-00575
+2025-07-19 16:13:04,238 - INFO - Product with SKU 'P00043' not found. Attempting to create new product...
+2025-07-19 16:13:07,106 - INFO - ✅ Successfully synced product SKU: P00043 (ID: 46575)
+2025-07-19 16:13:07,107 - INFO - Updating SEO for product 46575 via custom endpoint...
+2025-07-19 16:13:08,703 - INFO - ✅ Successfully updated SEO for product 46575.
+2025-07-19 16:13:08,706 - INFO - [26/183] -------------------------
+2025-07-19 16:13:08,827 - INFO - Processing Item SKU: P00045 -> Catalogue: The Ultimate Detangler Hairbrush Marlin Blue (X1-00318)
+2025-07-19 16:13:08,828 - INFO - Creating new tags: 'Wet & Dry Detangling Brush'
+2025-07-19 16:13:10,314 - WARNING - Term 'Wet & Dry Detangling Brush' already exists with ID: 3827. Using existing ID.
+2025-07-19 16:13:14,945 - INFO - ✅ Uploaded image and full metadata: 'the-ultimate-detangler-hairbrush-marlin-blue-1.webp' (ID: 46576)
+2025-07-19 16:13:20,608 - INFO - ✅ Uploaded image and full metadata: 'the-ultimate-detangler-hairbrush-marlin-blue-2.webp' (ID: 46577)
+2025-07-19 16:13:21,114 - INFO - Cached 2 new images for catalogue code: X1-00318
+2025-07-19 16:13:22,597 - INFO - Product with SKU 'P00045' not found. Attempting to create new product...
+2025-07-19 16:13:24,784 - INFO - ✅ Successfully synced product SKU: P00045 (ID: 46578)
+2025-07-19 16:13:24,785 - INFO - Updating SEO for product 46578 via custom endpoint...
+2025-07-19 16:13:26,301 - INFO - ✅ Successfully updated SEO for product 46578.
+2025-07-19 16:13:26,303 - INFO - [27/183] -------------------------
+2025-07-19 16:13:26,459 - INFO - Processing Item SKU: P00047 -> Catalogue: Owala 24 oz (K1-00010)
+2025-07-19 16:13:26,460 - INFO - Creating new tags: '2-in-1 Sip & Swig Spout'
+2025-07-19 16:13:27,908 - WARNING - Term '2-in-1 Sip & Swig Spout' already exists with ID: 5332. Using existing ID.
+2025-07-19 16:13:32,739 - INFO - ✅ Uploaded image and full metadata: 'owala-24-oz-1.webp' (ID: 46579)
+2025-07-19 16:13:37,743 - INFO - ✅ Uploaded image and full metadata: 'owala-24-oz-2.webp' (ID: 46580)
+2025-07-19 16:13:38,248 - INFO - Cached 2 new images for catalogue code: K1-00010
+2025-07-19 16:13:39,725 - INFO - Updating existing product (ID: 45329)...
+2025-07-19 16:13:41,740 - INFO - ✅ Successfully synced product SKU: P00047 (ID: 45329)
+2025-07-19 16:13:41,741 - INFO - Updating SEO for product 45329 via custom endpoint...
+2025-07-19 16:13:43,264 - INFO - ✅ Successfully updated SEO for product 45329.
+2025-07-19 16:13:43,266 - INFO - [28/183] -------------------------
+2025-07-19 16:13:43,396 - INFO - Processing Item SKU: P00052 -> Catalogue: MONDAY Shampoo, Repair + Keratin (X1-00455)
+2025-07-19 16:13:43,397 - INFO - Creating new tags: 'Keratin & Argan Oil Intensive Repair Treatment'
+2025-07-19 16:13:44,795 - WARNING - Term 'Keratin & Argan Oil Intensive Repair Treatment' already exists with ID: 3834. Using existing ID.
+2025-07-19 16:13:49,553 - INFO - ✅ Uploaded image and full metadata: 'monday-shampoo-repair-keratin-1.webp' (ID: 46581)
+2025-07-19 16:13:50,058 - INFO - Cached 1 new images for catalogue code: X1-00455
+2025-07-19 16:13:51,535 - INFO - Product with SKU 'P00052' not found. Attempting to create new product...
+2025-07-19 16:13:53,535 - INFO - ✅ Successfully synced product SKU: P00052 (ID: 46582)
+2025-07-19 16:13:53,535 - INFO - Updating SEO for product 46582 via custom endpoint...
+2025-07-19 16:13:55,146 - INFO - ✅ Successfully updated SEO for product 46582.
+2025-07-19 16:13:55,148 - INFO - [29/183] -------------------------
+2025-07-19 16:13:55,301 - INFO - Processing Item SKU: P00053 -> Catalogue: Revitalizing Hair Mask (X1-00592)
+2025-07-19 16:13:59,619 - INFO - ✅ Uploaded image and full metadata: 'revitalizing-hair-mask-1.webp' (ID: 46583)
+2025-07-19 16:14:06,258 - INFO - ✅ Uploaded image and full metadata: 'revitalizing-hair-mask-2.webp' (ID: 46584)
+2025-07-19 16:14:11,913 - INFO - ✅ Uploaded image and full metadata: 'revitalizing-hair-mask-3.webp' (ID: 46585)
+2025-07-19 16:14:12,417 - INFO - Cached 3 new images for catalogue code: X1-00592
+2025-07-19 16:14:13,852 - INFO - Updating existing product (ID: 45333)...
+2025-07-19 16:14:15,953 - INFO - ✅ Successfully synced product SKU: P00053 (ID: 45333)
+2025-07-19 16:14:15,954 - INFO - Updating SEO for product 45333 via custom endpoint...
+2025-07-19 16:14:17,502 - INFO - ✅ Successfully updated SEO for product 45333.
+2025-07-19 16:14:17,504 - INFO - [30/183] -------------------------
+2025-07-19 16:14:17,640 - INFO - Processing Item SKU: P00055 -> Catalogue: Curl Control CURL DEFINING CONDITIONER (X1-00648)
+2025-07-19 16:14:22,357 - INFO - ✅ Uploaded image and full metadata: 'curl-control-curl-defining-conditioner-1.webp' (ID: 46586)
+2025-07-19 16:14:22,864 - INFO - Cached 1 new images for catalogue code: X1-00648
+2025-07-19 16:14:24,498 - INFO - Product with SKU 'P00055' not found. Attempting to create new product...
+2025-07-19 16:14:27,132 - INFO - ✅ Successfully synced product SKU: P00055 (ID: 46587)
+2025-07-19 16:14:27,133 - INFO - Updating SEO for product 46587 via custom endpoint...
+2025-07-19 16:14:28,571 - INFO - ✅ Successfully updated SEO for product 46587.
+2025-07-19 16:14:28,573 - INFO - [31/183] -------------------------
+2025-07-19 16:14:28,729 - INFO - Processing Item SKU: P00057 -> Catalogue: MONDAY Haircare Moisture Conditioner 350ml (X1-00492)
+2025-07-19 16:14:33,292 - INFO - ✅ Uploaded image and full metadata: 'monday-haircare-moisture-conditioner-350ml-1.webp' (ID: 46588)
+2025-07-19 16:14:33,797 - INFO - Cached 1 new images for catalogue code: X1-00492
+2025-07-19 16:14:35,206 - INFO - Product with SKU 'P00057' not found. Attempting to create new product...
+2025-07-19 16:14:37,502 - INFO - ✅ Successfully synced product SKU: P00057 (ID: 46589)
+2025-07-19 16:14:37,503 - INFO - Updating SEO for product 46589 via custom endpoint...
+2025-07-19 16:14:38,999 - INFO - ✅ Successfully updated SEO for product 46589.
+2025-07-19 16:14:39,002 - INFO - [32/183] -------------------------
+2025-07-19 16:14:39,202 - INFO - Processing Item SKU: P00066 -> Catalogue: Not Your Mother's Curl Talk Bond Building Shampoo and Conditioner (2-Pack) - 8 fl oz - Strengthening Shampoo and Conditioner Set for Curly Hair (X1-00498)
+2025-07-19 16:14:44,105 - INFO - ✅ Uploaded image and full metadata: 'not-your-mothers-curl-talk-bond-building-shampoo-a-1.webp' (ID: 46590)
+2025-07-19 16:14:44,608 - INFO - Cached 1 new images for catalogue code: X1-00498
+2025-07-19 16:14:46,102 - INFO - Updating existing product (ID: 45335)...
+2025-07-19 16:14:48,068 - INFO - ✅ Successfully synced product SKU: P00066 (ID: 45335)
+2025-07-19 16:14:48,069 - INFO - Updating SEO for product 45335 via custom endpoint...
+2025-07-19 16:14:49,457 - INFO - ✅ Successfully updated SEO for product 45335.
+2025-07-19 16:14:49,459 - INFO - [33/183] -------------------------
+2025-07-19 16:14:49,645 - INFO - Processing Item SKU: P00068 -> Catalogue: MIELLE Babassu Oil And Mint Deep Conditioner (H1-00001)
+2025-07-19 16:14:54,549 - INFO - ✅ Uploaded image and full metadata: 'mielle-babassu-oil-and-mint-deep-conditioner-1.webp' (ID: 46591)
+2025-07-19 16:14:55,056 - INFO - Cached 1 new images for catalogue code: H1-00001
+2025-07-19 16:14:56,512 - INFO - Updating existing product (ID: 45337)...
+2025-07-19 16:14:58,417 - INFO - ✅ Successfully synced product SKU: P00068 (ID: 45337)
+2025-07-19 16:14:58,418 - INFO - Updating SEO for product 45337 via custom endpoint...
+2025-07-19 16:14:59,935 - INFO - ✅ Successfully updated SEO for product 45337.
+2025-07-19 16:14:59,938 - INFO - [34/183] -------------------------
+2025-07-19 16:15:00,073 - INFO - Processing Item SKU: P00069 -> Catalogue: Vintage 1980's Magic 8 Ball Classic Mattel Toy Fortune Teller (30188, 1186) (T1-00001)
+2025-07-19 16:15:00,074 - INFO - Creating new categories: 'Toys & Games'
+2025-07-19 16:15:01,607 - WARNING - Term 'Toys & Games' already exists with ID: 5868. Using existing ID.
+2025-07-19 16:15:07,334 - INFO - ✅ Uploaded image and full metadata: 'vintage-1980s-magic-8-ball-classic-mattel-toy-fort-1.webp' (ID: 46592)
+2025-07-19 16:15:13,026 - INFO - ✅ Uploaded image and full metadata: 'vintage-1980s-magic-8-ball-classic-mattel-toy-fort-2.webp' (ID: 46593)
+2025-07-19 16:15:18,321 - INFO - ✅ Uploaded image and full metadata: 'vintage-1980s-magic-8-ball-classic-mattel-toy-fort-3.webp' (ID: 46594)
+2025-07-19 16:15:18,825 - INFO - Cached 3 new images for catalogue code: T1-00001
+2025-07-19 16:15:20,283 - INFO - Updating existing product (ID: 45341)...
+2025-07-19 16:15:22,392 - INFO - ✅ Successfully synced product SKU: P00069 (ID: 45341)
+2025-07-19 16:15:22,393 - INFO - Updating SEO for product 45341 via custom endpoint...
+2025-07-19 16:15:23,902 - INFO - ✅ Successfully updated SEO for product 45341.
+2025-07-19 16:15:23,905 - INFO - [35/183] -------------------------
+2025-07-19 16:15:24,043 - INFO - Processing Item SKU: P00075 -> Catalogue: Clarifying Serum BALANCE & CLARIFY 30ml/1.01fl.oz (X1-00519)
+2025-07-19 16:15:28,675 - INFO - ✅ Uploaded image and full metadata: 'clarifying-serum-balance-clarify-30ml101floz-1.webp' (ID: 46595)
+2025-07-19 16:15:34,014 - INFO - ✅ Uploaded image and full metadata: 'clarifying-serum-balance-clarify-30ml101floz-2.webp' (ID: 46596)
+2025-07-19 16:15:34,520 - INFO - Cached 2 new images for catalogue code: X1-00519
+2025-07-19 16:15:35,970 - INFO - Updating existing product (ID: 45347)...
+2025-07-19 16:15:37,935 - INFO - ✅ Successfully synced product SKU: P00075 (ID: 45347)
+2025-07-19 16:15:37,936 - INFO - Updating SEO for product 45347 via custom endpoint...
+2025-07-19 16:15:39,427 - INFO - ✅ Successfully updated SEO for product 45347.
+2025-07-19 16:15:39,429 - INFO - [36/183] -------------------------
+2025-07-19 16:15:39,550 - INFO - Processing Item SKU: P00076 -> Catalogue: Raptor Pro 6 Axis Cyro Drone (T1-00002)
+2025-07-19 16:15:44,328 - INFO - ✅ Uploaded image and full metadata: 'raptor-pro-6-axis-cyro-drone-1.webp' (ID: 46597)
+2025-07-19 16:15:49,517 - INFO - ✅ Uploaded image and full metadata: 'raptor-pro-6-axis-cyro-drone-2.webp' (ID: 46598)
+2025-07-19 16:15:50,023 - INFO - Cached 2 new images for catalogue code: T1-00002
+2025-07-19 16:15:51,515 - INFO - Updating existing product (ID: 45350)...
+2025-07-19 16:15:53,552 - INFO - ✅ Successfully synced product SKU: P00076 (ID: 45350)
+2025-07-19 16:15:53,553 - INFO - Updating SEO for product 45350 via custom endpoint...
+2025-07-19 16:15:55,016 - INFO - ✅ Successfully updated SEO for product 45350.
+2025-07-19 16:15:55,019 - INFO - [37/183] -------------------------
+2025-07-19 16:15:55,232 - INFO - Processing Item SKU: P00078 -> Catalogue: Super Enduring Brushless Motor Drone (X1-00665)
+2025-07-19 16:15:59,694 - INFO - ✅ Uploaded image and full metadata: 'super-enduring-brushless-motor-drone-1.webp' (ID: 46599)
+2025-07-19 16:16:00,199 - INFO - Cached 1 new images for catalogue code: X1-00665
+2025-07-19 16:16:01,736 - INFO - Updating existing product (ID: 46031)...
+2025-07-19 16:16:03,710 - INFO - ✅ Successfully synced product SKU: P00078 (ID: 46031)
+2025-07-19 16:16:03,711 - INFO - Updating SEO for product 46031 via custom endpoint...
+2025-07-19 16:16:05,300 - INFO - ✅ Successfully updated SEO for product 46031.
+2025-07-19 16:16:05,303 - INFO - [38/183] -------------------------
+2025-07-19 16:16:05,450 - INFO - Processing Item SKU: P00079 -> Catalogue: Evenflo Advanced Double Electric Hospital-Strength Breast Pump (X1-00301)
+2025-07-19 16:16:05,451 - INFO - Creating new categories: 'Nursing & Feeding'
+2025-07-19 16:16:06,955 - WARNING - Term 'Nursing & Feeding' already exists with ID: 5736. Using existing ID.
+2025-07-19 16:16:12,726 - INFO - ✅ Uploaded image and full metadata: 'evenflo-advanced-double-electric-hospital-strength-1.webp' (ID: 46600)
+2025-07-19 16:16:17,940 - INFO - ✅ Uploaded image and full metadata: 'evenflo-advanced-double-electric-hospital-strength-2.webp' (ID: 46601)
+2025-07-19 16:16:23,166 - INFO - ✅ Uploaded image and full metadata: 'evenflo-advanced-double-electric-hospital-strength-3.webp' (ID: 46602)
+2025-07-19 16:16:23,671 - INFO - Cached 3 new images for catalogue code: X1-00301
+2025-07-19 16:16:25,214 - INFO - Updating existing product (ID: 46035)...
+2025-07-19 16:16:27,965 - INFO - ✅ Successfully synced product SKU: P00079 (ID: 46035)
+2025-07-19 16:16:27,965 - INFO - Updating SEO for product 46035 via custom endpoint...
+2025-07-19 16:16:29,553 - INFO - ✅ Successfully updated SEO for product 46035.
+2025-07-19 16:16:29,556 - INFO - [39/183] -------------------------
+2025-07-19 16:16:29,833 - INFO - Processing Item SKU: P00082 -> Catalogue: BLACK+DECKER Steam Iron (F1-00215)
+2025-07-19 16:16:34,426 - INFO - ✅ Uploaded image and full metadata: 'blackdecker-steam-iron-1.webp' (ID: 46603)
+2025-07-19 16:16:39,813 - INFO - ✅ Uploaded image and full metadata: 'blackdecker-steam-iron-2.webp' (ID: 46604)
+2025-07-19 16:16:45,013 - INFO - ✅ Uploaded image and full metadata: 'blackdecker-steam-iron-3.webp' (ID: 46605)
+2025-07-19 16:16:45,518 - INFO - Cached 3 new images for catalogue code: F1-00215
+2025-07-19 16:16:46,904 - INFO - Updating existing product (ID: 45354)...
+2025-07-19 16:16:49,135 - INFO - ✅ Successfully synced product SKU: P00082 (ID: 45354)
+2025-07-19 16:16:49,136 - INFO - Updating SEO for product 45354 via custom endpoint...
+2025-07-19 16:16:50,623 - INFO - ✅ Successfully updated SEO for product 45354.
+2025-07-19 16:16:50,625 - INFO - [40/183] -------------------------
+2025-07-19 16:16:50,761 - INFO - Processing Item SKU: P00083 -> Catalogue: Remington Pro Multi-Styler with Twist & Curl Technology Ceramic Multi (X1-00240)
+2025-07-19 16:16:55,568 - INFO - ✅ Uploaded image and full metadata: 'remington-pro-multi-styler-with-twist-curl-technol-1.webp' (ID: 46606)
+2025-07-19 16:17:00,827 - INFO - ✅ Uploaded image and full metadata: 'remington-pro-multi-styler-with-twist-curl-technol-2.webp' (ID: 46607)
+2025-07-19 16:17:06,101 - INFO - ✅ Uploaded image and full metadata: 'remington-pro-multi-styler-with-twist-curl-technol-3.webp' (ID: 46608)
+2025-07-19 16:17:11,520 - INFO - ✅ Uploaded image and full metadata: 'remington-pro-multi-styler-with-twist-curl-technol-4.webp' (ID: 46609)
+2025-07-19 16:17:17,896 - INFO - ✅ Uploaded image and full metadata: 'remington-pro-multi-styler-with-twist-curl-technol-5.webp' (ID: 46610)
+2025-07-19 16:17:18,401 - INFO - Cached 5 new images for catalogue code: X1-00240
+2025-07-19 16:17:20,086 - INFO - Updating existing product (ID: 45360)...
+2025-07-19 16:17:22,017 - INFO - ✅ Successfully synced product SKU: P00083 (ID: 45360)
+2025-07-19 16:17:22,018 - INFO - Updating SEO for product 45360 via custom endpoint...
+2025-07-19 16:17:23,606 - INFO - ✅ Successfully updated SEO for product 45360.
+2025-07-19 16:17:23,609 - INFO - [41/183] -------------------------
+2025-07-19 16:17:23,805 - INFO - Processing Item SKU: P00084 -> Catalogue: Cutter Eclipse Zone Mosquito Repellent Device, Outdoor Diffuser for Effective Mosquito Protection (X1-00765)
+2025-07-19 16:17:28,489 - INFO - ✅ Uploaded image and full metadata: 'cutter-eclipse-zone-mosquito-repellent-device-outd-1.webp' (ID: 46611)
+2025-07-19 16:17:33,709 - INFO - ✅ Uploaded image and full metadata: 'cutter-eclipse-zone-mosquito-repellent-device-outd-2.webp' (ID: 46612)
+2025-07-19 16:17:38,884 - INFO - ✅ Uploaded image and full metadata: 'cutter-eclipse-zone-mosquito-repellent-device-outd-3.webp' (ID: 46613)
+2025-07-19 16:17:39,389 - INFO - Cached 3 new images for catalogue code: X1-00765
+2025-07-19 16:17:40,902 - INFO - Product with SKU 'P00084' not found. Attempting to create new product...
+2025-07-19 16:17:43,083 - INFO - ✅ Successfully synced product SKU: P00084 (ID: 46614)
+2025-07-19 16:17:43,083 - INFO - Updating SEO for product 46614 via custom endpoint...
+2025-07-19 16:17:44,610 - INFO - ✅ Successfully updated SEO for product 46614.
+2025-07-19 16:17:44,612 - INFO - [42/183] -------------------------
+2025-07-19 16:17:44,842 - INFO - Processing Item SKU: P00090 -> Catalogue: FORTESSA Bistro 18/10 Stainless Steel Flatware, 20 Piece Place Setting with Table Knives, Forks and Spoons (Service for 4), Dishwasher-Safe, Mirrored (K1-00001)
+2025-07-19 16:17:49,827 - INFO - ✅ Uploaded image and full metadata: 'fortessa-bistro-1810-stainless-steel-flatware-20-p-1.webp' (ID: 46615)
+2025-07-19 16:17:54,850 - INFO - ✅ Uploaded image and full metadata: 'fortessa-bistro-1810-stainless-steel-flatware-20-p-2.webp' (ID: 46616)
+2025-07-19 16:17:55,355 - INFO - Cached 2 new images for catalogue code: K1-00001
+2025-07-19 16:17:57,013 - INFO - Updating existing product (ID: 45363)...
+2025-07-19 16:17:59,751 - INFO - ✅ Successfully synced product SKU: P00090 (ID: 45363)
+2025-07-19 16:17:59,752 - INFO - Updating SEO for product 45363 via custom endpoint...
+2025-07-19 16:18:01,468 - INFO - ✅ Successfully updated SEO for product 45363.
+2025-07-19 16:18:01,470 - INFO - [43/183] -------------------------
+2025-07-19 16:18:01,874 - INFO - Processing Item SKU: P00091 -> Catalogue: Baby Brezza Bottle Sterilizer Dryer - Electric Steam Sterilizer Machine for Plastic and Glass Bottles, & Baby Product Parts & Accessories - Universal Fit (B1-00001)
+2025-07-19 16:18:06,888 - INFO - ✅ Uploaded image and full metadata: 'baby-brezza-bottle-sterilizer-dryer-electric-steam-1.webp' (ID: 46617)
+2025-07-19 16:18:12,418 - INFO - ✅ Uploaded image and full metadata: 'baby-brezza-bottle-sterilizer-dryer-electric-steam-2.webp' (ID: 46618)
+2025-07-19 16:18:18,594 - INFO - ✅ Uploaded image and full metadata: 'baby-brezza-bottle-sterilizer-dryer-electric-steam-3.webp' (ID: 46619)
+2025-07-19 16:18:19,099 - INFO - Cached 3 new images for catalogue code: B1-00001
+2025-07-19 16:18:20,695 - INFO - Updating existing product (ID: 45367)...
+2025-07-19 16:18:22,527 - INFO - ✅ Successfully synced product SKU: P00091 (ID: 45367)
+2025-07-19 16:18:22,528 - INFO - Updating SEO for product 45367 via custom endpoint...
+2025-07-19 16:18:24,067 - INFO - ✅ Successfully updated SEO for product 45367.
+2025-07-19 16:18:24,068 - INFO - [44/183] -------------------------
+2025-07-19 16:18:24,258 - INFO - Processing Item SKU: P00096 -> Catalogue: Funko Pop! Comic Covers: The Last Ronin - Limited Edition - CON 2024 #7 (X1-00583)
+2025-07-19 16:18:28,945 - INFO - ✅ Uploaded image and full metadata: 'funko-pop-comic-covers-the-last-ronin-limited-edit-1.webp' (ID: 46620)
+2025-07-19 16:18:29,450 - INFO - Cached 1 new images for catalogue code: X1-00583
+2025-07-19 16:18:30,969 - INFO - Updating existing product (ID: 46050)...
+2025-07-19 16:18:33,225 - INFO - ✅ Successfully synced product SKU: P00096 (ID: 46050)
+2025-07-19 16:18:33,227 - INFO - Updating SEO for product 46050 via custom endpoint...
+2025-07-19 16:18:34,737 - INFO - ✅ Successfully updated SEO for product 46050.
+2025-07-19 16:18:34,739 - INFO - [45/183] -------------------------
+2025-07-19 16:18:34,885 - INFO - Processing Item SKU: P00105 -> Catalogue: Nexxus Humectress Conditioner (X1-00320)
+2025-07-19 16:18:39,416 - INFO - ✅ Uploaded image and full metadata: 'nexxus-humectress-conditioner-1.webp' (ID: 46621)
+2025-07-19 16:18:39,921 - INFO - Cached 1 new images for catalogue code: X1-00320
+2025-07-19 16:18:41,403 - INFO - Product with SKU 'P00105' not found. Attempting to create new product...
+2025-07-19 16:18:43,910 - INFO - ✅ Successfully synced product SKU: P00105 (ID: 46622)
+2025-07-19 16:18:43,911 - INFO - Updating SEO for product 46622 via custom endpoint...
+2025-07-19 16:18:45,455 - INFO - ✅ Successfully updated SEO for product 46622.
+2025-07-19 16:18:45,457 - INFO - [46/183] -------------------------
+2025-07-19 16:18:45,650 - INFO - Processing Item SKU: P00107 -> Catalogue: KRISTIN ESS The One Signature Shampoo, The One Signature Shampoo (X1-00547)
+2025-07-19 16:18:50,127 - INFO - ✅ Uploaded image and full metadata: 'kristin-ess-the-one-signature-shampoo-the-one-sign-1.webp' (ID: 46623)
+2025-07-19 16:18:55,436 - INFO - ✅ Uploaded image and full metadata: 'kristin-ess-the-one-signature-shampoo-the-one-sign-2.webp' (ID: 46624)
+2025-07-19 16:19:01,111 - INFO - ✅ Uploaded image and full metadata: 'kristin-ess-the-one-signature-shampoo-the-one-sign-3.webp' (ID: 46625)
+2025-07-19 16:19:01,616 - INFO - Cached 3 new images for catalogue code: X1-00547
+2025-07-19 16:19:03,240 - INFO - Product with SKU 'P00107' not found. Attempting to create new product...
+2025-07-19 16:19:05,732 - INFO - ✅ Successfully synced product SKU: P00107 (ID: 46626)
+2025-07-19 16:19:05,733 - INFO - Updating SEO for product 46626 via custom endpoint...
+2025-07-19 16:19:07,182 - INFO - ✅ Successfully updated SEO for product 46626.
+2025-07-19 16:19:07,184 - INFO - [47/183] -------------------------
+2025-07-19 16:19:07,329 - INFO - Processing Item SKU: P00108 -> Catalogue: Cantu Shea Butter Hydrating Leave In Conditioning Mist, 8 Fluid Ounce (X1-00233)
+2025-07-19 16:19:11,790 - INFO - ✅ Uploaded image and full metadata: 'cantu-shea-butter-hydrating-leave-in-conditioning--1.webp' (ID: 46627)
+2025-07-19 16:19:12,295 - INFO - Cached 1 new images for catalogue code: X1-00233
+2025-07-19 16:19:13,767 - INFO - Product with SKU 'P00108' not found. Attempting to create new product...
+2025-07-19 16:19:15,720 - INFO - ✅ Successfully synced product SKU: P00108 (ID: 46628)
+2025-07-19 16:19:15,721 - INFO - Updating SEO for product 46628 via custom endpoint...
+2025-07-19 16:19:17,189 - INFO - ✅ Successfully updated SEO for product 46628.
+2025-07-19 16:19:17,191 - INFO - [48/183] -------------------------
+2025-07-19 16:19:17,441 - INFO - Processing Item SKU: P00109 -> Catalogue: Revitalizing Shampoo (X1-00325)
+2025-07-19 16:19:22,837 - INFO - ✅ Uploaded image and full metadata: 'revitalizing-shampoo-1.webp' (ID: 46629)
+2025-07-19 16:19:28,085 - INFO - ✅ Uploaded image and full metadata: 'revitalizing-shampoo-2.webp' (ID: 46630)
+2025-07-19 16:19:28,590 - INFO - Cached 2 new images for catalogue code: X1-00325
+2025-07-19 16:19:30,070 - INFO - Updating existing product (ID: 45370)...
+2025-07-19 16:19:31,936 - INFO - ✅ Successfully synced product SKU: P00109 (ID: 45370)
+2025-07-19 16:19:31,937 - INFO - Updating SEO for product 45370 via custom endpoint...
+2025-07-19 16:19:33,420 - INFO - ✅ Successfully updated SEO for product 45370.
+2025-07-19 16:19:33,422 - INFO - [49/183] -------------------------
+2025-07-19 16:19:33,602 - INFO - Processing Item SKU: P00112 -> Catalogue: Banana Boat Ultra Sport Sunscreen Spray, NEW FORMULA, Spf 50+, 170g (X1-00393)
+2025-07-19 16:19:38,240 - INFO - ✅ Uploaded image and full metadata: 'banana-boat-ultra-sport-sunscreen-spray-new-formul-1.webp' (ID: 46631)
+2025-07-19 16:19:43,624 - INFO - ✅ Uploaded image and full metadata: 'banana-boat-ultra-sport-sunscreen-spray-new-formul-2.webp' (ID: 46632)
+2025-07-19 16:19:48,838 - INFO - ✅ Uploaded image and full metadata: 'banana-boat-ultra-sport-sunscreen-spray-new-formul-3.webp' (ID: 46633)
+2025-07-19 16:19:49,344 - INFO - Cached 3 new images for catalogue code: X1-00393
+2025-07-19 16:19:50,792 - INFO - Updating existing product (ID: 45374)...
+2025-07-19 16:19:53,138 - INFO - ✅ Successfully synced product SKU: P00112 (ID: 45374)
+2025-07-19 16:19:53,139 - INFO - Updating SEO for product 45374 via custom endpoint...
+2025-07-19 16:19:54,633 - INFO - ✅ Successfully updated SEO for product 45374.
+2025-07-19 16:19:54,635 - INFO - [50/183] -------------------------
+2025-07-19 16:19:54,888 - INFO - Processing Item SKU: P00113 -> Catalogue: Mielle Rosemary Mint Strengthening Conditioner (X1-00777)
+2025-07-19 16:19:59,345 - INFO - ✅ Uploaded image and full metadata: 'mielle-rosemary-mint-strengthening-conditioner-1.webp' (ID: 46634)
+2025-07-19 16:20:04,906 - INFO - ✅ Uploaded image and full metadata: 'mielle-rosemary-mint-strengthening-conditioner-2.webp' (ID: 46635)
+2025-07-19 16:20:10,251 - INFO - ✅ Uploaded image and full metadata: 'mielle-rosemary-mint-strengthening-conditioner-3.webp' (ID: 46636)
+2025-07-19 16:20:10,756 - INFO - Cached 3 new images for catalogue code: X1-00777
+2025-07-19 16:20:12,302 - INFO - Product with SKU 'P00113' not found. Attempting to create new product...
+2025-07-19 16:20:14,280 - INFO - ✅ Successfully synced product SKU: P00113 (ID: 46637)
+2025-07-19 16:20:14,281 - INFO - Updating SEO for product 46637 via custom endpoint...
+2025-07-19 16:20:15,805 - INFO - ✅ Successfully updated SEO for product 46637.
+2025-07-19 16:20:15,807 - INFO - [51/183] -------------------------
+2025-07-19 16:20:15,942 - INFO - Processing Item SKU: P00114 -> Catalogue: Cantu Shea Butter Leave-In Conditioning Repair Cream, 16 Ounc (X1-00706)
+2025-07-19 16:20:20,919 - INFO - ✅ Uploaded image and full metadata: 'cantu-shea-butter-leave-in-conditioning-repair-cre-1.webp' (ID: 46638)
+2025-07-19 16:20:26,231 - INFO - ✅ Uploaded image and full metadata: 'cantu-shea-butter-leave-in-conditioning-repair-cre-2.webp' (ID: 46639)
+2025-07-19 16:20:31,705 - INFO - ✅ Uploaded image and full metadata: 'cantu-shea-butter-leave-in-conditioning-repair-cre-3.webp' (ID: 46640)
+2025-07-19 16:20:32,210 - INFO - Cached 3 new images for catalogue code: X1-00706
+2025-07-19 16:20:33,704 - INFO - Product with SKU 'P00114' not found. Attempting to create new product...
+2025-07-19 16:20:35,905 - INFO - ✅ Successfully synced product SKU: P00114 (ID: 46641)
+2025-07-19 16:20:35,906 - INFO - Updating SEO for product 46641 via custom endpoint...
+2025-07-19 16:20:37,471 - INFO - ✅ Successfully updated SEO for product 46641.
+2025-07-19 16:20:37,473 - INFO - [52/183] -------------------------
+2025-07-19 16:20:37,689 - INFO - Processing Item SKU: P00115 -> Catalogue: Aussie Miracle Curls with Coconut Oil, Paraben Free Detangling Milk Treatment, 8.4 fl oz (X1-00354)
+2025-07-19 16:20:43,032 - INFO - ✅ Uploaded image and full metadata: 'aussie-miracle-curls-with-coconut-oil-paraben-free-1.webp' (ID: 46642)
+2025-07-19 16:20:43,537 - INFO - Cached 1 new images for catalogue code: X1-00354
+2025-07-19 16:20:44,965 - INFO - Product with SKU 'P00115' not found. Attempting to create new product...
+2025-07-19 16:20:47,040 - INFO - ✅ Successfully synced product SKU: P00115 (ID: 46643)
+2025-07-19 16:20:47,040 - INFO - Updating SEO for product 46643 via custom endpoint...
+2025-07-19 16:20:48,630 - INFO - ✅ Successfully updated SEO for product 46643.
+2025-07-19 16:20:48,632 - INFO - [53/183] -------------------------
+2025-07-19 16:20:48,827 - INFO - Processing Item SKU: P00116 -> Catalogue: Cantu Natural Hair Coconut Curling Cream 12 Ounce Jar (354ml) (X1-00508)
+2025-07-19 16:20:53,622 - INFO - ✅ Uploaded image and full metadata: 'cantu-natural-hair-coconut-curling-cream-12-ounce--1.webp' (ID: 46644)
+2025-07-19 16:20:58,732 - INFO - ✅ Uploaded image and full metadata: 'cantu-natural-hair-coconut-curling-cream-12-ounce--2.webp' (ID: 46645)
+2025-07-19 16:20:59,236 - INFO - Cached 2 new images for catalogue code: X1-00508
+2025-07-19 16:21:00,675 - INFO - Product with SKU 'P00116' not found. Attempting to create new product...
+2025-07-19 16:21:04,027 - INFO - ✅ Successfully synced product SKU: P00116 (ID: 46646)
+2025-07-19 16:21:04,028 - INFO - Updating SEO for product 46646 via custom endpoint...
+2025-07-19 16:21:05,612 - INFO - ✅ Successfully updated SEO for product 46646.
+2025-07-19 16:21:05,613 - INFO - [54/183] -------------------------
+2025-07-19 16:21:05,733 - INFO - Processing Item SKU: P00117 -> Catalogue: Olive Oil Styling Gel (X1-00600)
+2025-07-19 16:21:10,237 - INFO - ✅ Uploaded image and full metadata: 'olive-oil-styling-gel-1.webp' (ID: 46647)
+2025-07-19 16:21:10,740 - INFO - Cached 1 new images for catalogue code: X1-00600
+2025-07-19 16:21:12,132 - INFO - Product with SKU 'P00117' not found. Attempting to create new product...
+2025-07-19 16:21:15,402 - INFO - ✅ Successfully synced product SKU: P00117 (ID: 46648)
+2025-07-19 16:21:15,403 - INFO - Updating SEO for product 46648 via custom endpoint...
+2025-07-19 16:21:16,794 - INFO - ✅ Successfully updated SEO for product 46648.
+2025-07-19 16:21:16,796 - INFO - [55/183] -------------------------
+2025-07-19 16:21:16,947 - INFO - Processing Item SKU: P00119 -> Catalogue: Cantu Shea Butter For Natural Hair Hydrating Cream Conditioner 25oz (X1-00504)
+2025-07-19 16:21:21,814 - INFO - ✅ Uploaded image and full metadata: 'cantu-shea-butter-for-natural-hair-hydrating-cream-1.webp' (ID: 46649)
+2025-07-19 16:21:28,164 - INFO - ✅ Uploaded image and full metadata: 'cantu-shea-butter-for-natural-hair-hydrating-cream-2.webp' (ID: 46650)
+2025-07-19 16:21:28,668 - INFO - Cached 2 new images for catalogue code: X1-00504
+2025-07-19 16:21:30,313 - INFO - Product with SKU 'P00119' not found. Attempting to create new product...
+2025-07-19 16:21:33,136 - INFO - ✅ Successfully synced product SKU: P00119 (ID: 46651)
+2025-07-19 16:21:33,137 - INFO - Updating SEO for product 46651 via custom endpoint...
+2025-07-19 16:21:34,769 - INFO - ✅ Successfully updated SEO for product 46651.
+2025-07-19 16:21:34,771 - INFO - [56/183] -------------------------
+2025-07-19 16:21:34,960 - INFO - Processing Item SKU: P00120 -> Catalogue: TROPICAL SCENT (X1-00525)
+2025-07-19 16:21:39,205 - INFO - ✅ Uploaded image and full metadata: 'tropical-scent-1.webp' (ID: 46652)
+2025-07-19 16:21:39,709 - INFO - Cached 1 new images for catalogue code: X1-00525
+2025-07-19 16:21:41,316 - INFO - Updating existing product (ID: 45376)...
+2025-07-19 16:21:43,315 - INFO - ✅ Successfully synced product SKU: P00120 (ID: 45376)
+2025-07-19 16:21:43,316 - INFO - Updating SEO for product 45376 via custom endpoint...
+2025-07-19 16:21:44,883 - INFO - ✅ Successfully updated SEO for product 45376.
+2025-07-19 16:21:44,885 - INFO - [57/183] -------------------------
+2025-07-19 16:21:45,045 - INFO - Processing Item SKU: P00120 -> Catalogue: TROPICAL SCENT (X1-00525)
+2025-07-19 16:21:45,046 - INFO - Using cached images for catalogue code: X1-00525
+2025-07-19 16:21:46,572 - INFO - Updating existing product (ID: 45376)...
+2025-07-19 16:21:49,756 - INFO - ✅ Successfully synced product SKU: P00120 (ID: 45376)
+2025-07-19 16:21:49,756 - INFO - Updating SEO for product 45376 via custom endpoint...
+2025-07-19 16:21:51,334 - INFO - ✅ Successfully updated SEO for product 45376.
+2025-07-19 16:21:51,336 - INFO - [58/183] -------------------------
+2025-07-19 16:21:51,515 - INFO - Processing Item SKU: P00122 -> Catalogue: Not Your Mother's Beach Babe Texturizing Sea Salt Spray, Hair Texture Spray, 8 fl oz (X1-00370)
+2025-07-19 16:21:55,959 - INFO - ✅ Uploaded image and full metadata: 'not-your-mothers-beach-babe-texturizing-sea-salt-s-1.webp' (ID: 46653)
+2025-07-19 16:21:56,464 - INFO - Cached 1 new images for catalogue code: X1-00370
+2025-07-19 16:21:57,902 - INFO - Product with SKU 'P00122' not found. Attempting to create new product...
+2025-07-19 16:22:00,612 - INFO - ✅ Successfully synced product SKU: P00122 (ID: 46654)
+2025-07-19 16:22:00,612 - INFO - Updating SEO for product 46654 via custom endpoint...
+2025-07-19 16:22:02,209 - INFO - ✅ Successfully updated SEO for product 46654.
+2025-07-19 16:22:02,211 - INFO - [59/183] -------------------------
+2025-07-19 16:22:02,337 - INFO - Processing Item SKU: P00131 -> Catalogue: Not Your Mother's Curl Talk Curl Activating Hair Mousse for Lightweight Hold, 7 oz (X1-00435)
+2025-07-19 16:22:07,236 - INFO - ✅ Uploaded image and full metadata: 'not-your-mothers-curl-talk-curl-activating-hair-mo-1.webp' (ID: 46655)
+2025-07-19 16:22:12,372 - INFO - ✅ Uploaded image and full metadata: 'not-your-mothers-curl-talk-curl-activating-hair-mo-2.webp' (ID: 46656)
+2025-07-19 16:22:12,876 - INFO - Cached 2 new images for catalogue code: X1-00435
+2025-07-19 16:22:14,334 - INFO - Product with SKU 'P00131' not found. Attempting to create new product...
+2025-07-19 16:22:16,448 - INFO - ✅ Successfully synced product SKU: P00131 (ID: 46657)
+2025-07-19 16:22:16,449 - INFO - Updating SEO for product 46657 via custom endpoint...
+2025-07-19 16:22:17,892 - INFO - ✅ Successfully updated SEO for product 46657.
+2025-07-19 16:22:17,893 - INFO - [60/183] -------------------------
+2025-07-19 16:22:18,042 - INFO - Processing Item SKU: P00132 -> Catalogue: Kitsch, Strengthening Solid Shampoo Bar, Rice Water Protein, White Tea & Mandarin, 1 Bar, 3.2 oz (91 g) (X1-00533)
+2025-07-19 16:22:23,003 - INFO - ✅ Uploaded image and full metadata: 'kitsch-strengthening-solid-shampoo-bar-rice-water--1.webp' (ID: 46658)
+2025-07-19 16:22:29,433 - INFO - ✅ Uploaded image and full metadata: 'kitsch-strengthening-solid-shampoo-bar-rice-water--2.webp' (ID: 46659)
+2025-07-19 16:22:29,937 - INFO - Cached 2 new images for catalogue code: X1-00533
+2025-07-19 16:22:31,375 - INFO - Product with SKU 'P00132' not found. Attempting to create new product...
+2025-07-19 16:22:34,272 - INFO - ✅ Successfully synced product SKU: P00132 (ID: 46660)
+2025-07-19 16:22:34,273 - INFO - Updating SEO for product 46660 via custom endpoint...
+2025-07-19 16:22:35,805 - INFO - ✅ Successfully updated SEO for product 46660.
+2025-07-19 16:22:35,808 - INFO - [61/183] -------------------------
+2025-07-19 16:22:36,000 - INFO - Processing Item SKU: P00133 -> Catalogue: 1Pc Not Your Mothers CURL TALK DEFINING CREAM Frizz Control 2oz (X1-00344)
+2025-07-19 16:22:40,811 - INFO - ✅ Uploaded image and full metadata: '1pc-not-your-mothers-curl-talk-defining-cream-friz-1.webp' (ID: 46661)
+2025-07-19 16:22:41,315 - INFO - Cached 1 new images for catalogue code: X1-00344
+2025-07-19 16:22:43,049 - INFO - Product with SKU 'P00133' not found. Attempting to create new product...
+2025-07-19 16:22:45,866 - INFO - ✅ Successfully synced product SKU: P00133 (ID: 46662)
+2025-07-19 16:22:45,866 - INFO - Updating SEO for product 46662 via custom endpoint...
+2025-07-19 16:22:47,372 - INFO - ✅ Successfully updated SEO for product 46662.
+2025-07-19 16:22:47,375 - INFO - [62/183] -------------------------
+2025-07-19 16:22:47,524 - INFO - Processing Item SKU: P00134 -> Catalogue: CURL TALK FRIZZ CONTROL SCULPTING GEL, Highly defined curls and natural movement. (X1-00672)
+2025-07-19 16:22:52,471 - INFO - ✅ Uploaded image and full metadata: 'curl-talk-frizz-control-sculpting-gel-highly-defin-1.webp' (ID: 46663)
+2025-07-19 16:22:52,975 - INFO - Cached 1 new images for catalogue code: X1-00672
+2025-07-19 16:22:54,401 - INFO - Product with SKU 'P00134' not found. Attempting to create new product...
+2025-07-19 16:22:57,777 - INFO - ✅ Successfully synced product SKU: P00134 (ID: 46664)
+2025-07-19 16:22:57,778 - INFO - Updating SEO for product 46664 via custom endpoint...
+2025-07-19 16:22:59,228 - INFO - ✅ Successfully updated SEO for product 46664.
+2025-07-19 16:22:59,229 - INFO - [63/183] -------------------------
+2025-07-19 16:22:59,399 - INFO - Processing Item SKU: P00143 -> Catalogue: 13.1' LED Flexible Strip Rope Light West & Arrow Ombre Color (E1-00002)
+2025-07-19 16:23:04,287 - INFO - ✅ Uploaded image and full metadata: '131-led-flexible-strip-rope-light-west-arrow-ombre-1.webp' (ID: 46665)
+2025-07-19 16:23:09,628 - INFO - ✅ Uploaded image and full metadata: '131-led-flexible-strip-rope-light-west-arrow-ombre-2.webp' (ID: 46666)
+2025-07-19 16:23:14,684 - INFO - ✅ Uploaded image and full metadata: '131-led-flexible-strip-rope-light-west-arrow-ombre-3.webp' (ID: 46667)
+2025-07-19 16:23:19,920 - INFO - ✅ Uploaded image and full metadata: '131-led-flexible-strip-rope-light-west-arrow-ombre-4.webp' (ID: 46668)
+2025-07-19 16:23:20,424 - INFO - Cached 4 new images for catalogue code: E1-00002
+2025-07-19 16:23:21,910 - INFO - Updating existing product (ID: 45381)...
+2025-07-19 16:23:23,992 - INFO - ✅ Successfully synced product SKU: P00143 (ID: 45381)
+2025-07-19 16:23:23,993 - INFO - Updating SEO for product 45381 via custom endpoint...
+2025-07-19 16:23:25,468 - INFO - ✅ Successfully updated SEO for product 45381.
+2025-07-19 16:23:25,470 - INFO - [64/183] -------------------------
+2025-07-19 16:23:25,584 - INFO - Processing Item SKU: P00148 -> Catalogue: Multicolor Pen (X1-00692)
+2025-07-19 16:23:25,585 - INFO - Creating new categories: 'Office & School Supplies'
+2025-07-19 16:23:27,119 - WARNING - Term 'Office & School Supplies' already exists with ID: 3354. Using existing ID.
+2025-07-19 16:23:32,990 - INFO - ✅ Uploaded image and full metadata: 'multicolor-pen-1.webp' (ID: 46669)
+2025-07-19 16:23:33,493 - INFO - Cached 1 new images for catalogue code: X1-00692
+2025-07-19 16:23:34,980 - INFO - Product with SKU 'P00148' not found. Attempting to create new product...
+2025-07-19 16:23:37,064 - INFO - ✅ Successfully synced product SKU: P00148 (ID: 46670)
+2025-07-19 16:23:37,065 - INFO - Updating SEO for product 46670 via custom endpoint...
+2025-07-19 16:23:38,591 - INFO - ✅ Successfully updated SEO for product 46670.
+2025-07-19 16:23:38,593 - INFO - [65/183] -------------------------
+2025-07-19 16:23:38,747 - INFO - Processing Item SKU: P00150 -> Catalogue: Primula Whistling kettle 1.5 qt (K1-00009)
+2025-07-19 16:23:43,529 - INFO - ✅ Uploaded image and full metadata: 'primula-whistling-kettle-15-qt-1.webp' (ID: 46671)
+2025-07-19 16:23:48,500 - INFO - ✅ Uploaded image and full metadata: 'primula-whistling-kettle-15-qt-2.webp' (ID: 46672)
+2025-07-19 16:23:49,005 - INFO - Cached 2 new images for catalogue code: K1-00009
+2025-07-19 16:23:50,545 - INFO - Updating existing product (ID: 45384)...
+2025-07-19 16:23:52,620 - INFO - ✅ Successfully synced product SKU: P00150 (ID: 45384)
+2025-07-19 16:23:52,620 - INFO - Updating SEO for product 45384 via custom endpoint...
+2025-07-19 16:23:54,138 - INFO - ✅ Successfully updated SEO for product 45384.
+2025-07-19 16:23:54,139 - INFO - [66/183] -------------------------
+2025-07-19 16:23:54,297 - INFO - Processing Item SKU: P00152 -> Catalogue: 10" Round Wooden Paddle Serving Board - Hearth & Hand with Magnolia - New (K1-00005)
+2025-07-19 16:23:59,014 - INFO - ✅ Uploaded image and full metadata: '10-round-wooden-paddle-serving-board-hearth-hand-w-1.webp' (ID: 46673)
+2025-07-19 16:23:59,518 - INFO - Cached 1 new images for catalogue code: K1-00005
+2025-07-19 16:24:00,991 - INFO - Updating existing product (ID: 45386)...
+2025-07-19 16:24:03,221 - INFO - ✅ Successfully synced product SKU: P00152 (ID: 45386)
+2025-07-19 16:24:03,222 - INFO - Updating SEO for product 45386 via custom endpoint...
+2025-07-19 16:24:04,661 - INFO - ✅ Successfully updated SEO for product 45386.
+2025-07-19 16:24:04,663 - INFO - [67/183] -------------------------
+2025-07-19 16:24:04,781 - INFO - Processing Item SKU: P00169 -> Catalogue: Apple Magic Keyboard for 12.9-inch iPad Pro 5th 6th Gen, iPad Air 13" NEW SEALED (X1-00317)
+2025-07-19 16:24:09,604 - INFO - ✅ Uploaded image and full metadata: 'apple-magic-keyboard-for-129-inch-ipad-pro-5th-6th-1.webp' (ID: 46674)
+2025-07-19 16:24:14,729 - INFO - ✅ Uploaded image and full metadata: 'apple-magic-keyboard-for-129-inch-ipad-pro-5th-6th-2.webp' (ID: 46675)
+2025-07-19 16:24:19,926 - INFO - ✅ Uploaded image and full metadata: 'apple-magic-keyboard-for-129-inch-ipad-pro-5th-6th-3.webp' (ID: 46676)
+2025-07-19 16:24:20,431 - INFO - Cached 3 new images for catalogue code: X1-00317
+2025-07-19 16:24:21,859 - INFO - Updating existing product (ID: 46067)...
+2025-07-19 16:24:23,905 - INFO - ✅ Successfully synced product SKU: P00169 (ID: 46067)
+2025-07-19 16:24:23,905 - INFO - Updating SEO for product 46067 via custom endpoint...
+2025-07-19 16:24:25,393 - INFO - ✅ Successfully updated SEO for product 46067.
+2025-07-19 16:24:25,395 - INFO - [68/183] -------------------------
+2025-07-19 16:24:25,504 - INFO - Processing Item SKU: P00171 -> Catalogue: Marshall Motif True Wireless Noise Canceling Headphones, Black (X1-00391)
+2025-07-19 16:24:30,239 - INFO - ✅ Uploaded image and full metadata: 'marshall-motif-true-wireless-noise-canceling-headp-1.webp' (ID: 46678)
+2025-07-19 16:24:36,488 - INFO - ✅ Uploaded image and full metadata: 'marshall-motif-true-wireless-noise-canceling-headp-2.webp' (ID: 46679)
+2025-07-19 16:24:36,990 - INFO - Cached 2 new images for catalogue code: X1-00391
+2025-07-19 16:24:38,383 - INFO - Updating existing product (ID: 46070)...
+2025-07-19 16:24:40,567 - INFO - ✅ Successfully synced product SKU: P00171 (ID: 46070)
+2025-07-19 16:24:40,568 - INFO - Updating SEO for product 46070 via custom endpoint...
+2025-07-19 16:24:42,059 - INFO - ✅ Successfully updated SEO for product 46070.
+2025-07-19 16:24:42,062 - INFO - [69/183] -------------------------
+2025-07-19 16:24:42,194 - INFO - Processing Item SKU: P00173 -> Catalogue: Rokinon 135mm F2.0 ED UMC Telephoto Lens for Canon Digital SLR Cameras (X1-00244)
+2025-07-19 16:24:42,194 - INFO - Creating new categories: 'Cameras & Photography'
+2025-07-19 16:24:43,633 - WARNING - Term 'Cameras & Photography' already exists with ID: 5740. Using existing ID.
+2025-07-19 16:24:48,080 - INFO - ✅ Uploaded image and full metadata: 'rokinon-135mm-f20-ed-umc-telephoto-lens-for-canon--1.webp' (ID: 46680)
+2025-07-19 16:24:53,252 - INFO - ✅ Uploaded image and full metadata: 'rokinon-135mm-f20-ed-umc-telephoto-lens-for-canon--2.webp' (ID: 46681)
+2025-07-19 16:24:58,490 - INFO - ✅ Uploaded image and full metadata: 'rokinon-135mm-f20-ed-umc-telephoto-lens-for-canon--3.webp' (ID: 46682)
+2025-07-19 16:24:58,997 - INFO - Cached 3 new images for catalogue code: X1-00244
+2025-07-19 16:25:00,574 - INFO - Updating existing product (ID: 46074)...
+2025-07-19 16:25:02,609 - INFO - ✅ Successfully synced product SKU: P00173 (ID: 46074)
+2025-07-19 16:25:02,610 - INFO - Updating SEO for product 46074 via custom endpoint...
+2025-07-19 16:25:04,146 - INFO - ✅ Successfully updated SEO for product 46074.
+2025-07-19 16:25:04,150 - INFO - [70/183] -------------------------
+2025-07-19 16:25:04,302 - INFO - Processing Item SKU: P00175 -> Catalogue: NXT Technologies UC-5100 Speakerphone, Blk NX55446 (X1-00263)
+2025-07-19 16:25:09,247 - INFO - ✅ Uploaded image and full metadata: 'nxt-technologies-uc-5100-speakerphone-blk-nx55446-1.webp' (ID: 46683)
+2025-07-19 16:25:09,753 - INFO - Cached 1 new images for catalogue code: X1-00263
+2025-07-19 16:25:11,418 - INFO - Updating existing product (ID: 46076)...
+2025-07-19 16:25:13,529 - INFO - ✅ Successfully synced product SKU: P00175 (ID: 46076)
+2025-07-19 16:25:13,530 - INFO - Updating SEO for product 46076 via custom endpoint...
+2025-07-19 16:25:15,020 - INFO - ✅ Successfully updated SEO for product 46076.
+2025-07-19 16:25:15,022 - INFO - [71/183] -------------------------
+2025-07-19 16:25:15,219 - INFO - Processing Item SKU: P00176 -> Catalogue: Ridgid18V 6.0Ah Battery (X1-00541)
+2025-07-19 16:25:19,929 - INFO - ✅ Uploaded image and full metadata: 'ridgid18v-60ah-battery-1.webp' (ID: 46684)
+2025-07-19 16:25:20,435 - INFO - Cached 1 new images for catalogue code: X1-00541
+2025-07-19 16:25:22,025 - INFO - Updating existing product (ID: 46078)...
+2025-07-19 16:25:23,992 - INFO - ✅ Successfully synced product SKU: P00176 (ID: 46078)
+2025-07-19 16:25:23,993 - INFO - Updating SEO for product 46078 via custom endpoint...
+2025-07-19 16:25:25,494 - INFO - ✅ Successfully updated SEO for product 46078.
+2025-07-19 16:25:25,496 - INFO - [72/183] -------------------------
+2025-07-19 16:25:25,675 - INFO - Processing Item SKU: P00207 -> Catalogue: Beats Powerbeats Pro 2 Wireless Bluetooth Earbuds - Noise Cancelling, Heart Rate Monitor, IPX4, Up to 45H Battery & Charging Case, Works with Apple & Android - Jet Black (E1-00003)
+2025-07-19 16:25:31,273 - INFO - ✅ Uploaded image and full metadata: 'beats-powerbeats-pro-2-wireless-bluetooth-earbuds--1.webp' (ID: 46685)
+2025-07-19 16:25:31,776 - INFO - Cached 1 new images for catalogue code: E1-00003
+2025-07-19 16:25:33,365 - INFO - Updating existing product (ID: 45388)...
+2025-07-19 16:25:35,354 - INFO - ✅ Successfully synced product SKU: P00207 (ID: 45388)
+2025-07-19 16:25:35,355 - INFO - Updating SEO for product 45388 via custom endpoint...
+2025-07-19 16:25:36,800 - INFO - ✅ Successfully updated SEO for product 45388.
+2025-07-19 16:25:36,802 - INFO - [73/183] -------------------------
+2025-07-19 16:25:36,966 - INFO - Processing Item SKU: P00208 -> Catalogue: Novopal 1500 watt Pure Sine Wave Power Inverter DC 12V to 110V/120V Converter 4 AC Outlets Car Inverters with USB Port 16.4 Feet Remote Control and LCD Display (X1-00386)
+2025-07-19 16:25:42,942 - INFO - ✅ Uploaded image and full metadata: 'novopal-1500-watt-pure-sine-wave-power-inverter-dc-1.webp' (ID: 46686)
+2025-07-19 16:25:48,127 - INFO - ✅ Uploaded image and full metadata: 'novopal-1500-watt-pure-sine-wave-power-inverter-dc-2.webp' (ID: 46687)
+2025-07-19 16:25:53,504 - INFO - ✅ Uploaded image and full metadata: 'novopal-1500-watt-pure-sine-wave-power-inverter-dc-3.webp' (ID: 46688)
+2025-07-19 16:25:54,007 - INFO - Cached 3 new images for catalogue code: X1-00386
+2025-07-19 16:25:55,757 - INFO - Updating existing product (ID: 46083)...
+2025-07-19 16:25:57,635 - INFO - ✅ Successfully synced product SKU: P00208 (ID: 46083)
+2025-07-19 16:25:57,636 - INFO - Updating SEO for product 46083 via custom endpoint...
+2025-07-19 16:25:59,076 - INFO - ✅ Successfully updated SEO for product 46083.
+2025-07-19 16:25:59,078 - INFO - [74/183] -------------------------
+2025-07-19 16:25:59,245 - INFO - Processing Item SKU: P00209 -> Catalogue: Novopal Power Inverter Pure Sine Wave-1000 Watt 12V DC to 110V/120V AC Converter- 4 AC Outlets Car Inverter with 1 USB Port-16.4 feet Remote Control,Two Cooling Fans and LCD Display (X1-00352)
+2025-07-19 16:26:04,293 - INFO - ✅ Uploaded image and full metadata: 'novopal-power-inverter-pure-sine-wave-1000-watt-12-1.webp' (ID: 46689)
+2025-07-19 16:26:09,813 - INFO - ✅ Uploaded image and full metadata: 'novopal-power-inverter-pure-sine-wave-1000-watt-12-2.webp' (ID: 46690)
+2025-07-19 16:26:15,174 - INFO - ✅ Uploaded image and full metadata: 'novopal-power-inverter-pure-sine-wave-1000-watt-12-3.webp' (ID: 46691)
+2025-07-19 16:26:15,679 - INFO - Cached 3 new images for catalogue code: X1-00352
+2025-07-19 16:26:17,401 - INFO - Updating existing product (ID: 46087)...
+2025-07-19 16:26:19,537 - INFO - ✅ Successfully synced product SKU: P00209 (ID: 46087)
+2025-07-19 16:26:19,538 - INFO - Updating SEO for product 46087 via custom endpoint...
+2025-07-19 16:26:21,296 - INFO - ✅ Successfully updated SEO for product 46087.
+2025-07-19 16:26:21,298 - INFO - [75/183] -------------------------
+2025-07-19 16:26:21,483 - INFO - Processing Item SKU: P00210 -> Catalogue: HoMedics Fitness Stretching Mat with Air Compression 3 Intensity Levels (X1-00635)
+2025-07-19 16:26:21,484 - INFO - Creating new categories: 'Smart Health & Wellness'
+2025-07-19 16:26:23,122 - WARNING - Term 'Smart Health & Wellness' already exists with ID: 5741. Using existing ID.
+2025-07-19 16:26:24,653 - INFO - Updating existing product (ID: 46088)...
+2025-07-19 16:26:26,687 - INFO - ✅ Successfully synced product SKU: P00210 (ID: 46088)
+2025-07-19 16:26:26,687 - INFO - Updating SEO for product 46088 via custom endpoint...
+2025-07-19 16:26:28,180 - INFO - ✅ Successfully updated SEO for product 46088.
+2025-07-19 16:26:28,182 - INFO - [76/183] -------------------------
+2025-07-19 16:26:28,317 - INFO - Processing Item SKU: P00219 -> Catalogue: Metabo HPT 18V Cordless Impact Driver, Sub-Compact, Brushless Motor, Lithium-Ion, Lifetime Tool Warranty (WH18DDXM) (X1-00678)
+2025-07-19 16:26:33,004 - INFO - ✅ Uploaded image and full metadata: 'metabo-hpt-18v-cordless-impact-driver-sub-compact--1.webp' (ID: 46692)
+2025-07-19 16:26:38,554 - INFO - ✅ Uploaded image and full metadata: 'metabo-hpt-18v-cordless-impact-driver-sub-compact--2.webp' (ID: 46693)
+2025-07-19 16:26:44,968 - INFO - ✅ Uploaded image and full metadata: 'metabo-hpt-18v-cordless-impact-driver-sub-compact--3.webp' (ID: 46694)
+2025-07-19 16:26:45,472 - INFO - Cached 3 new images for catalogue code: X1-00678
+2025-07-19 16:26:46,860 - INFO - Updating existing product (ID: 46092)...
+2025-07-19 16:26:48,955 - INFO - ✅ Successfully synced product SKU: P00219 (ID: 46092)
+2025-07-19 16:26:48,956 - INFO - Updating SEO for product 46092 via custom endpoint...
+2025-07-19 16:26:50,522 - INFO - ✅ Successfully updated SEO for product 46092.
+2025-07-19 16:26:50,524 - INFO - [77/183] -------------------------
+2025-07-19 16:26:50,669 - INFO - Processing Item SKU: P00230 -> Catalogue: 25-piece pack of Milwaukee SHOCKWAVE Impact Phillips #2 Drywall Insert Bits (Product no. 48-32-4604) (C1-00007)
+2025-07-19 16:26:56,031 - INFO - ✅ Uploaded image and full metadata: '25-piece-pack-of-milwaukee-shockwave-impact-philli-1.webp' (ID: 46695)
+2025-07-19 16:27:01,758 - INFO - ✅ Uploaded image and full metadata: '25-piece-pack-of-milwaukee-shockwave-impact-philli-2.webp' (ID: 46696)
+2025-07-19 16:27:02,263 - INFO - Cached 2 new images for catalogue code: C1-00007
+2025-07-19 16:27:03,723 - INFO - Updating existing product (ID: 46095)...
+2025-07-19 16:27:05,715 - INFO - ✅ Successfully synced product SKU: P00230 (ID: 46095)
+2025-07-19 16:27:05,716 - INFO - Updating SEO for product 46095 via custom endpoint...
+2025-07-19 16:27:07,274 - INFO - ✅ Successfully updated SEO for product 46095.
+2025-07-19 16:27:07,277 - INFO - [78/183] -------------------------
+2025-07-19 16:27:07,463 - INFO - Processing Item SKU: P00231 -> Catalogue: Milwaukee Tool 4 -inch x 11-3/8 -inch SDS-MAX Core Bit (C1-00001)
+2025-07-19 16:27:12,086 - INFO - ✅ Uploaded image and full metadata: 'milwaukee-tool-4-inch-x-11-38-inch-sds-max-core-bi-1.webp' (ID: 46697)
+2025-07-19 16:27:17,437 - INFO - ✅ Uploaded image and full metadata: 'milwaukee-tool-4-inch-x-11-38-inch-sds-max-core-bi-2.webp' (ID: 46698)
+2025-07-19 16:27:17,941 - INFO - Cached 2 new images for catalogue code: C1-00001
+2025-07-19 16:27:19,525 - INFO - Updating existing product (ID: 45394)...
+2025-07-19 16:27:21,681 - INFO - ✅ Successfully synced product SKU: P00231 (ID: 45394)
+2025-07-19 16:27:21,682 - INFO - Updating SEO for product 45394 via custom endpoint...
+2025-07-19 16:27:23,295 - INFO - ✅ Successfully updated SEO for product 45394.
+2025-07-19 16:27:23,297 - INFO - [79/183] -------------------------
+2025-07-19 16:27:23,484 - INFO - Processing Item SKU: P00236 -> Catalogue: RTRMAX Long Nose Plier (X1-00634)
+2025-07-19 16:27:28,235 - INFO - ✅ Uploaded image and full metadata: 'rtrmax-long-nose-plier-1.webp' (ID: 46699)
+2025-07-19 16:27:28,740 - INFO - Cached 1 new images for catalogue code: X1-00634
+2025-07-19 16:27:30,229 - INFO - Product with SKU 'P00236' not found. Attempting to create new product...
+2025-07-19 16:27:32,427 - INFO - ✅ Successfully synced product SKU: P00236 (ID: 46700)
+2025-07-19 16:27:32,428 - INFO - Updating SEO for product 46700 via custom endpoint...
+2025-07-19 16:27:33,886 - INFO - ✅ Successfully updated SEO for product 46700.
+2025-07-19 16:27:33,888 - INFO - [80/183] -------------------------
+2025-07-19 16:27:34,032 - INFO - Processing Item SKU: P00239 -> Catalogue: 3M Scotch-Brite 4Pc scrub sponges (K1-00006)
+2025-07-19 16:27:34,033 - INFO - Creating new categories: 'Cleaning Tools & Equipment'
+2025-07-19 16:27:35,722 - WARNING - Term 'Cleaning Tools & Equipment' already exists with ID: 5738. Using existing ID.
+2025-07-19 16:27:40,922 - INFO - ✅ Uploaded image and full metadata: '3m-scotch-brite-4pc-scrub-sponges-1.webp' (ID: 46701)
+2025-07-19 16:27:47,593 - INFO - ✅ Uploaded image and full metadata: '3m-scotch-brite-4pc-scrub-sponges-2.webp' (ID: 46702)
+2025-07-19 16:27:48,097 - INFO - Cached 2 new images for catalogue code: K1-00006
+2025-07-19 16:27:49,528 - INFO - Updating existing product (ID: 45397)...
+2025-07-19 16:27:51,647 - INFO - ✅ Successfully synced product SKU: P00239 (ID: 45397)
+2025-07-19 16:27:51,648 - INFO - Updating SEO for product 45397 via custom endpoint...
+2025-07-19 16:27:53,110 - INFO - ✅ Successfully updated SEO for product 45397.
+2025-07-19 16:27:53,112 - INFO - [81/183] -------------------------
+2025-07-19 16:27:53,307 - INFO - Processing Item SKU: P00240 -> Catalogue: 3M Scotch-Brite 6Pc scrub sponges (K1-00004)
+2025-07-19 16:27:58,261 - INFO - ✅ Uploaded image and full metadata: '3m-scotch-brite-6pc-scrub-sponges-1.webp' (ID: 46703)
+2025-07-19 16:28:03,638 - INFO - ✅ Uploaded image and full metadata: '3m-scotch-brite-6pc-scrub-sponges-2.webp' (ID: 46704)
+2025-07-19 16:28:04,142 - INFO - Cached 2 new images for catalogue code: K1-00004
+2025-07-19 16:28:05,587 - INFO - Updating existing product (ID: 45400)...
+2025-07-19 16:28:07,944 - INFO - ✅ Successfully synced product SKU: P00240 (ID: 45400)
+2025-07-19 16:28:07,945 - INFO - Updating SEO for product 45400 via custom endpoint...
+2025-07-19 16:28:09,469 - INFO - ✅ Successfully updated SEO for product 45400.
+2025-07-19 16:28:09,470 - INFO - [82/183] -------------------------
+2025-07-19 16:28:09,654 - INFO - Processing Item SKU: P00244 -> Catalogue: Milwaukee bi-metal blades (C1-00003)
+2025-07-19 16:28:14,628 - INFO - ✅ Uploaded image and full metadata: 'milwaukee-bi-metal-blades-1.webp' (ID: 46705)
+2025-07-19 16:28:15,131 - INFO - Cached 1 new images for catalogue code: C1-00003
+2025-07-19 16:28:16,628 - INFO - Updating existing product (ID: 45569)...
+2025-07-19 16:28:18,514 - INFO - ✅ Successfully synced product SKU: P00244 (ID: 45569)
+2025-07-19 16:28:18,515 - INFO - Updating SEO for product 45569 via custom endpoint...
+2025-07-19 16:28:20,155 - INFO - ✅ Successfully updated SEO for product 45569.
+2025-07-19 16:28:20,157 - INFO - [83/183] -------------------------
+2025-07-19 16:28:20,318 - INFO - Processing Item SKU: P00249 -> Catalogue: Milwaukee 48-32-4644 25PC PR2 Impact Bit PK (C1-00006)
+2025-07-19 16:28:25,211 - INFO - ✅ Uploaded image and full metadata: 'milwaukee-48-32-4644-25pc-pr2-impact-bit-pk-1.webp' (ID: 46706)
+2025-07-19 16:28:30,463 - INFO - ✅ Uploaded image and full metadata: 'milwaukee-48-32-4644-25pc-pr2-impact-bit-pk-2.webp' (ID: 46707)
+2025-07-19 16:28:30,966 - INFO - Cached 2 new images for catalogue code: C1-00006
+2025-07-19 16:28:32,502 - INFO - Updating existing product (ID: 45403)...
+2025-07-19 16:28:34,637 - INFO - ✅ Successfully synced product SKU: P00249 (ID: 45403)
+2025-07-19 16:28:34,638 - INFO - Updating SEO for product 45403 via custom endpoint...
+2025-07-19 16:28:36,209 - INFO - ✅ Successfully updated SEO for product 45403.
+2025-07-19 16:28:36,211 - INFO - [84/183] -------------------------
+2025-07-19 16:28:36,396 - INFO - Processing Item SKU: P00250 -> Catalogue: Milwaukee 48-32-5004 PH2 2" SHOCKWAVE Impact Duty Philiips Bits (15 Pack) (C1-00002)
+2025-07-19 16:28:41,052 - INFO - ✅ Uploaded image and full metadata: 'milwaukee-48-32-5004-ph2-2-shockwave-impact-duty-p-1.webp' (ID: 46708)
+2025-07-19 16:28:46,272 - INFO - ✅ Uploaded image and full metadata: 'milwaukee-48-32-5004-ph2-2-shockwave-impact-duty-p-2.webp' (ID: 46709)
+2025-07-19 16:28:46,777 - INFO - Cached 2 new images for catalogue code: C1-00002
+2025-07-19 16:28:48,327 - INFO - Updating existing product (ID: 45406)...
+2025-07-19 16:28:50,880 - INFO - ✅ Successfully synced product SKU: P00250 (ID: 45406)
+2025-07-19 16:28:50,880 - INFO - Updating SEO for product 45406 via custom endpoint...
+2025-07-19 16:28:52,608 - INFO - ✅ Successfully updated SEO for product 45406.
+2025-07-19 16:28:52,611 - INFO - [85/183] -------------------------
+2025-07-19 16:28:52,782 - INFO - Processing Item SKU: P00251 -> Catalogue: Milwaukee multi material Blades 48-90-9009 (C1-00005)
+2025-07-19 16:28:58,938 - INFO - ✅ Uploaded image and full metadata: 'milwaukee-multi-material-blades-48-90-9009-1.webp' (ID: 46710)
+2025-07-19 16:29:04,251 - INFO - ✅ Uploaded image and full metadata: 'milwaukee-multi-material-blades-48-90-9009-2.webp' (ID: 46711)
+2025-07-19 16:29:04,753 - INFO - Cached 2 new images for catalogue code: C1-00005
+2025-07-19 16:29:06,326 - INFO - Updating existing product (ID: 45408)...
+2025-07-19 16:29:08,401 - INFO - ✅ Successfully synced product SKU: P00251 (ID: 45408)
+2025-07-19 16:29:08,402 - INFO - Updating SEO for product 45408 via custom endpoint...
+2025-07-19 16:29:09,964 - INFO - ✅ Successfully updated SEO for product 45408.
+2025-07-19 16:29:09,966 - INFO - [86/183] -------------------------
+2025-07-19 16:29:10,158 - INFO - Processing Item SKU: P00263 -> Catalogue: iPad Smart Keyboard Folio (X1-00771)
+2025-07-19 16:29:14,650 - INFO - ✅ Uploaded image and full metadata: 'ipad-smart-keyboard-folio-1.webp' (ID: 46712)
+2025-07-19 16:29:15,154 - INFO - Cached 1 new images for catalogue code: X1-00771
+2025-07-19 16:29:16,720 - INFO - Updating existing product (ID: 46110)...
+2025-07-19 16:29:18,926 - INFO - ✅ Successfully synced product SKU: P00263 (ID: 46110)
+2025-07-19 16:29:18,927 - INFO - Updating SEO for product 46110 via custom endpoint...
+2025-07-19 16:29:20,578 - INFO - ✅ Successfully updated SEO for product 46110.
+2025-07-19 16:29:20,580 - INFO - [87/183] -------------------------
+2025-07-19 16:29:20,772 - INFO - Processing Item SKU: P00265 -> Catalogue: Pack of 2 Hurley Tank Top XXL (A1-00003)
+2025-07-19 16:29:20,773 - INFO - Creating new categories: 'Apparel & Accessories'
+2025-07-19 16:29:22,325 - WARNING - Term 'Apparel & Accessories' already exists with ID: 3343. Using existing ID.
+2025-07-19 16:29:27,164 - INFO - ✅ Uploaded image and full metadata: 'pack-of-2-hurley-tank-top-xxl-1.webp' (ID: 46714)
+2025-07-19 16:29:32,467 - INFO - ✅ Uploaded image and full metadata: 'pack-of-2-hurley-tank-top-xxl-2.webp' (ID: 46715)
+2025-07-19 16:29:38,023 - INFO - ✅ Uploaded image and full metadata: 'pack-of-2-hurley-tank-top-xxl-3.webp' (ID: 46716)
+2025-07-19 16:29:43,239 - INFO - ✅ Uploaded image and full metadata: 'pack-of-2-hurley-tank-top-xxl-4.webp' (ID: 46717)
+2025-07-19 16:29:43,744 - INFO - Cached 4 new images for catalogue code: A1-00003
+2025-07-19 16:29:45,388 - INFO - Updating existing product (ID: 45413)...
+2025-07-19 16:29:47,394 - INFO - ✅ Successfully synced product SKU: P00265 (ID: 45413)
+2025-07-19 16:29:47,395 - INFO - Updating SEO for product 45413 via custom endpoint...
+2025-07-19 16:29:48,939 - INFO - ✅ Successfully updated SEO for product 45413.
+2025-07-19 16:29:48,941 - INFO - [88/183] -------------------------
+2025-07-19 16:29:49,160 - INFO - Processing Item SKU: P00273 -> Catalogue: 2Pc Hurley Men’s Top (A1-00002)
+2025-07-19 16:29:54,034 - INFO - ✅ Uploaded image and full metadata: '2pc-hurley-mens-top-1.webp' (ID: 46718)
+2025-07-19 16:30:00,394 - INFO - ✅ Uploaded image and full metadata: '2pc-hurley-mens-top-2.webp' (ID: 46719)
+2025-07-19 16:30:06,035 - INFO - ✅ Uploaded image and full metadata: '2pc-hurley-mens-top-3.webp' (ID: 46720)
+2025-07-19 16:30:11,287 - INFO - ✅ Uploaded image and full metadata: '2pc-hurley-mens-top-4.webp' (ID: 46721)
+2025-07-19 16:30:11,792 - INFO - Cached 4 new images for catalogue code: A1-00002
+2025-07-19 16:30:13,252 - INFO - Updating existing product (ID: 45418)...
+2025-07-19 16:30:15,349 - INFO - ✅ Successfully synced product SKU: P00273 (ID: 45418)
+2025-07-19 16:30:15,350 - INFO - Updating SEO for product 45418 via custom endpoint...
+2025-07-19 16:30:16,829 - INFO - ✅ Successfully updated SEO for product 45418.
+2025-07-19 16:30:16,831 - INFO - [89/183] -------------------------
+2025-07-19 16:30:16,943 - INFO - Processing Item SKU: P00283 -> Catalogue: Google Nest Doorbell (X1-00769)
+2025-07-19 16:30:16,944 - INFO - Creating new categories: 'Smart Locks & Access Control'
+2025-07-19 16:30:18,535 - WARNING - Term 'Smart Locks & Access Control' already exists with ID: 5888. Using existing ID.
+2025-07-19 16:30:23,304 - INFO - ✅ Uploaded image and full metadata: 'google-nest-doorbell-1.webp' (ID: 46722)
+2025-07-19 16:30:23,810 - INFO - Cached 1 new images for catalogue code: X1-00769
+2025-07-19 16:30:25,426 - INFO - Updating existing product (ID: 46120)...
+2025-07-19 16:30:28,547 - INFO - ✅ Successfully synced product SKU: P00283 (ID: 46120)
+2025-07-19 16:30:28,548 - INFO - Updating SEO for product 46120 via custom endpoint...
+2025-07-19 16:30:30,180 - INFO - ✅ Successfully updated SEO for product 46120.
+2025-07-19 16:30:30,181 - INFO - [90/183] -------------------------
+2025-07-19 16:30:30,366 - INFO - Processing Item SKU: P00284 -> Catalogue: Drive sleek (X1-00695)
+2025-07-19 16:30:35,238 - INFO - ✅ Uploaded image and full metadata: 'drive-sleek-1.webp' (ID: 46723)
+2025-07-19 16:30:35,743 - INFO - Cached 1 new images for catalogue code: X1-00695
+2025-07-19 16:30:37,185 - INFO - Updating existing product (ID: 46122)...
+2025-07-19 16:30:39,337 - INFO - ✅ Successfully synced product SKU: P00284 (ID: 46122)
+2025-07-19 16:30:39,338 - INFO - Updating SEO for product 46122 via custom endpoint...
+2025-07-19 16:30:40,828 - INFO - ✅ Successfully updated SEO for product 46122.
+2025-07-19 16:30:40,830 - INFO - [91/183] -------------------------
+2025-07-19 16:30:41,001 - INFO - Processing Item SKU: P00286 -> Catalogue: RIDGID 18V MAX Output Lithium-Ion 6.0 Ah Battery (X1-00387)
+2025-07-19 16:30:45,639 - INFO - ✅ Uploaded image and full metadata: 'ridgid-18v-max-output-lithium-ion-60-ah-battery-1.webp' (ID: 46724)
+2025-07-19 16:30:46,141 - INFO - Cached 1 new images for catalogue code: X1-00387
+2025-07-19 16:30:47,570 - INFO - Updating existing product (ID: 46124)...
+2025-07-19 16:30:49,525 - INFO - ✅ Successfully synced product SKU: P00286 (ID: 46124)
+2025-07-19 16:30:49,526 - INFO - Updating SEO for product 46124 via custom endpoint...
+2025-07-19 16:30:50,982 - INFO - ✅ Successfully updated SEO for product 46124.
+2025-07-19 16:30:50,984 - INFO - [92/183] -------------------------
+2025-07-19 16:30:51,170 - INFO - Processing Item SKU: P00289 -> Catalogue: Speedo Junior Sprinter Swim Goggles - Blue - Age 6-14 SECURE FIT NO LEAK (S1-00007)
+2025-07-19 16:30:55,854 - INFO - ✅ Uploaded image and full metadata: 'speedo-junior-sprinter-swim-goggles-blue-age-6-14--1.webp' (ID: 46725)
+2025-07-19 16:30:56,358 - INFO - Cached 1 new images for catalogue code: S1-00007
+2025-07-19 16:30:57,870 - INFO - Updating existing product (ID: 45420)...
+2025-07-19 16:30:59,934 - INFO - ✅ Successfully synced product SKU: P00289 (ID: 45420)
+2025-07-19 16:30:59,935 - INFO - Updating SEO for product 45420 via custom endpoint...
+2025-07-19 16:31:01,521 - INFO - ✅ Successfully updated SEO for product 45420.
+2025-07-19 16:31:01,524 - INFO - [93/183] -------------------------
+2025-07-19 16:31:01,736 - INFO - Processing Item SKU: P00297 -> Catalogue: IRIS USA WOOZOO Desk Fan (E1-00001)
+2025-07-19 16:31:07,577 - INFO - ✅ Uploaded image and full metadata: 'iris-usa-woozoo-desk-fan-1.webp' (ID: 46726)
+2025-07-19 16:31:12,645 - INFO - ✅ Uploaded image and full metadata: 'iris-usa-woozoo-desk-fan-2.webp' (ID: 46727)
+2025-07-19 16:31:13,147 - INFO - Cached 2 new images for catalogue code: E1-00001
+2025-07-19 16:31:14,630 - INFO - Updating existing product (ID: 45423)...
+2025-07-19 16:31:16,642 - INFO - ✅ Successfully synced product SKU: P00297 (ID: 45423)
+2025-07-19 16:31:16,643 - INFO - Updating SEO for product 45423 via custom endpoint...
+2025-07-19 16:31:18,142 - INFO - ✅ Successfully updated SEO for product 45423.
+2025-07-19 16:31:18,144 - INFO - [94/183] -------------------------
+2025-07-19 16:31:18,332 - INFO - Processing Item SKU: P00308 -> Catalogue: SexyHair Style Hard Up Gel Tenue Extrême Non-écaillante Formule Tous Types de Cheveux (X1-00670)
+2025-07-19 16:31:22,654 - INFO - ✅ Uploaded image and full metadata: 'sexyhair-style-hard-up-gel-tenue-extrême-non-écail-1.webp' (ID: 46728)
+2025-07-19 16:31:27,657 - INFO - ✅ Uploaded image and full metadata: 'sexyhair-style-hard-up-gel-tenue-extrême-non-écail-2.webp' (ID: 46729)
+2025-07-19 16:31:33,035 - INFO - ✅ Uploaded image and full metadata: 'sexyhair-style-hard-up-gel-tenue-extrême-non-écail-3.webp' (ID: 46730)
+2025-07-19 16:31:38,362 - INFO - ✅ Uploaded image and full metadata: 'sexyhair-style-hard-up-gel-tenue-extrême-non-écail-4.webp' (ID: 46731)
+2025-07-19 16:31:38,867 - INFO - Cached 4 new images for catalogue code: X1-00670
+2025-07-19 16:31:40,427 - INFO - Updating existing product (ID: 45428)...
+2025-07-19 16:31:43,184 - INFO - ✅ Successfully synced product SKU: P00308 (ID: 45428)
+2025-07-19 16:31:43,185 - INFO - Updating SEO for product 45428 via custom endpoint...
+2025-07-19 16:31:44,741 - INFO - ✅ Successfully updated SEO for product 45428.
+2025-07-19 16:31:44,743 - INFO - [95/183] -------------------------
+2025-07-19 16:31:44,931 - INFO - Processing Item SKU: P00309 -> Catalogue: Moisture Rich Curl Shampoo by Kristin Ess for Unisex - 10 oz Shampoo (X1-00609)
+2025-07-19 16:31:49,634 - INFO - ✅ Uploaded image and full metadata: 'moisture-rich-curl-shampoo-by-kristin-ess-for-unis-1.webp' (ID: 46732)
+2025-07-19 16:31:54,575 - INFO - ✅ Uploaded image and full metadata: 'moisture-rich-curl-shampoo-by-kristin-ess-for-unis-2.webp' (ID: 46733)
+2025-07-19 16:31:59,617 - INFO - ✅ Uploaded image and full metadata: 'moisture-rich-curl-shampoo-by-kristin-ess-for-unis-3.webp' (ID: 46734)
+2025-07-19 16:32:00,123 - INFO - Cached 3 new images for catalogue code: X1-00609
+2025-07-19 16:32:01,590 - INFO - Product with SKU 'P00309' not found. Attempting to create new product...
+2025-07-19 16:32:03,607 - INFO - ✅ Successfully synced product SKU: P00309 (ID: 46735)
+2025-07-19 16:32:03,608 - INFO - Updating SEO for product 46735 via custom endpoint...
+2025-07-19 16:32:05,134 - INFO - ✅ Successfully updated SEO for product 46735.
+2025-07-19 16:32:05,137 - INFO - [96/183] -------------------------
+2025-07-19 16:32:05,301 - INFO - Processing Item SKU: P00311 -> Catalogue: Dry Shampoo, Oil-Absorbing Powder to Revive Volume for All Hair Types & Textures, 1 oz (X1-00329)
+2025-07-19 16:32:11,142 - INFO - ✅ Uploaded image and full metadata: 'dry-shampoo-oil-absorbing-powder-to-revive-volume--1.webp' (ID: 46736)
+2025-07-19 16:32:16,727 - INFO - ✅ Uploaded image and full metadata: 'dry-shampoo-oil-absorbing-powder-to-revive-volume--2.webp' (ID: 46737)
+2025-07-19 16:32:22,066 - INFO - ✅ Uploaded image and full metadata: 'dry-shampoo-oil-absorbing-powder-to-revive-volume--3.webp' (ID: 46738)
+2025-07-19 16:32:22,572 - INFO - Cached 3 new images for catalogue code: X1-00329
+2025-07-19 16:32:24,038 - INFO - Product with SKU 'P00311' not found. Attempting to create new product...
+2025-07-19 16:32:26,412 - INFO - ✅ Successfully synced product SKU: P00311 (ID: 46739)
+2025-07-19 16:32:26,413 - INFO - Updating SEO for product 46739 via custom endpoint...
+2025-07-19 16:32:28,142 - INFO - ✅ Successfully updated SEO for product 46739.
+2025-07-19 16:32:28,144 - INFO - [97/183] -------------------------
+2025-07-19 16:32:28,346 - INFO - Processing Item SKU: P00312 -> Catalogue: Raw Sugar Hair Care & Styling Kit - Rosemary + Apple Cider Vinegar Rinse & Not So Dry Shampoo, Formulated without Sulfates + Parabens, Cruelty Free & Vegan (X1-00725)
+2025-07-19 16:32:33,340 - INFO - ✅ Uploaded image and full metadata: 'raw-sugar-hair-care-styling-kit-rosemary-apple-cid-1.webp' (ID: 46740)
+2025-07-19 16:32:38,542 - INFO - ✅ Uploaded image and full metadata: 'raw-sugar-hair-care-styling-kit-rosemary-apple-cid-2.webp' (ID: 46741)
+2025-07-19 16:32:43,611 - INFO - ✅ Uploaded image and full metadata: 'raw-sugar-hair-care-styling-kit-rosemary-apple-cid-3.webp' (ID: 46742)
+2025-07-19 16:32:44,114 - INFO - Cached 3 new images for catalogue code: X1-00725
+2025-07-19 16:32:45,663 - INFO - Product with SKU 'P00312' not found. Attempting to create new product...
+2025-07-19 16:32:47,717 - INFO - ✅ Successfully synced product SKU: P00312 (ID: 46743)
+2025-07-19 16:32:47,718 - INFO - Updating SEO for product 46743 via custom endpoint...
+2025-07-19 16:32:49,217 - INFO - ✅ Successfully updated SEO for product 46743.
+2025-07-19 16:32:49,219 - INFO - [98/183] -------------------------
+2025-07-19 16:32:49,357 - INFO - Processing Item SKU: P00314 -> Catalogue: Smoothing Sulfate-Free Shampoo & Conditioner Set for Moisture, Frizz Control, Shine, and Straight to Curly Hair Types, 13 Fl Oz Each (2-Pack) (X1-00535)
+2025-07-19 16:32:54,187 - INFO - ✅ Uploaded image and full metadata: 'smoothing-sulfate-free-shampoo-conditioner-set-for-1.webp' (ID: 46744)
+2025-07-19 16:32:59,337 - INFO - ✅ Uploaded image and full metadata: 'smoothing-sulfate-free-shampoo-conditioner-set-for-2.webp' (ID: 46745)
+2025-07-19 16:33:04,524 - INFO - ✅ Uploaded image and full metadata: 'smoothing-sulfate-free-shampoo-conditioner-set-for-3.webp' (ID: 46746)
+2025-07-19 16:33:05,029 - INFO - Cached 3 new images for catalogue code: X1-00535
+2025-07-19 16:33:06,399 - INFO - Product with SKU 'P00314' not found. Attempting to create new product...
+2025-07-19 16:33:08,447 - INFO - ✅ Successfully synced product SKU: P00314 (ID: 46747)
+2025-07-19 16:33:08,448 - INFO - Updating SEO for product 46747 via custom endpoint...
+2025-07-19 16:33:09,906 - INFO - ✅ Successfully updated SEO for product 46747.
+2025-07-19 16:33:09,908 - INFO - [99/183] -------------------------
+2025-07-19 16:33:10,119 - INFO - Processing Item SKU: P00315 -> Catalogue: Odele Curl Defining No-Lather Shampoo for Deep Moisture + Strength - 13 fl oz (X1-00731)
+2025-07-19 16:33:15,501 - INFO - ✅ Uploaded image and full metadata: 'odele-curl-defining-no-lather-shampoo-for-deep-moi-1.webp' (ID: 46748)
+2025-07-19 16:33:20,621 - INFO - ✅ Uploaded image and full metadata: 'odele-curl-defining-no-lather-shampoo-for-deep-moi-2.webp' (ID: 46749)
+2025-07-19 16:33:26,138 - INFO - ✅ Uploaded image and full metadata: 'odele-curl-defining-no-lather-shampoo-for-deep-moi-3.webp' (ID: 46750)
+2025-07-19 16:33:26,644 - INFO - Cached 3 new images for catalogue code: X1-00731
+2025-07-19 16:33:27,988 - INFO - Product with SKU 'P00315' not found. Attempting to create new product...
+2025-07-19 16:33:29,990 - INFO - ✅ Successfully synced product SKU: P00315 (ID: 46751)
+2025-07-19 16:33:29,991 - INFO - Updating SEO for product 46751 via custom endpoint...
+2025-07-19 16:33:31,516 - INFO - ✅ Successfully updated SEO for product 46751.
+2025-07-19 16:33:31,518 - INFO - [100/183] -------------------------
+2025-07-19 16:33:31,724 - INFO - Processing Item SKU: P00316 -> Catalogue: Odele Bulk Smoothing Conditioner for Frizz Control + Shine (X1-00380)
+2025-07-19 16:33:36,547 - INFO - ✅ Uploaded image and full metadata: 'odele-bulk-smoothing-conditioner-for-frizz-control-1.webp' (ID: 46752)
+2025-07-19 16:33:41,812 - INFO - ✅ Uploaded image and full metadata: 'odele-bulk-smoothing-conditioner-for-frizz-control-2.webp' (ID: 46753)
+2025-07-19 16:33:46,893 - INFO - ✅ Uploaded image and full metadata: 'odele-bulk-smoothing-conditioner-for-frizz-control-3.webp' (ID: 46754)
+2025-07-19 16:33:47,398 - INFO - Cached 3 new images for catalogue code: X1-00380
+2025-07-19 16:33:48,883 - INFO - Product with SKU 'P00316' not found. Attempting to create new product...
+2025-07-19 16:33:51,011 - INFO - ✅ Successfully synced product SKU: P00316 (ID: 46755)
+2025-07-19 16:33:51,012 - INFO - Updating SEO for product 46755 via custom endpoint...
+2025-07-19 16:33:52,635 - INFO - ✅ Successfully updated SEO for product 46755.
+2025-07-19 16:33:52,637 - INFO - [101/183] -------------------------
+2025-07-19 16:33:52,819 - INFO - Processing Item SKU: P00317 -> Catalogue: Kristin Ess The One Signature Conditioner for Unisex 10 oz Conditioner (X1-00581)
+2025-07-19 16:33:57,374 - INFO - ✅ Uploaded image and full metadata: 'kristin-ess-the-one-signature-conditioner-for-unis-1.webp' (ID: 46756)
+2025-07-19 16:34:02,827 - INFO - ✅ Uploaded image and full metadata: 'kristin-ess-the-one-signature-conditioner-for-unis-2.webp' (ID: 46757)
+2025-07-19 16:34:08,241 - INFO - ✅ Uploaded image and full metadata: 'kristin-ess-the-one-signature-conditioner-for-unis-3.webp' (ID: 46758)
+2025-07-19 16:34:08,743 - INFO - Cached 3 new images for catalogue code: X1-00581
+2025-07-19 16:34:10,184 - INFO - Product with SKU 'P00317' not found. Attempting to create new product...
+2025-07-19 16:34:12,248 - INFO - ✅ Successfully synced product SKU: P00317 (ID: 46759)
+2025-07-19 16:34:12,248 - INFO - Updating SEO for product 46759 via custom endpoint...
+2025-07-19 16:34:13,741 - INFO - ✅ Successfully updated SEO for product 46759.
+2025-07-19 16:34:13,744 - INFO - [102/183] -------------------------
+2025-07-19 16:34:13,920 - INFO - Processing Item SKU: P00318 -> Catalogue: KRISTIN ESS The One Signature Shampoo, The One Signature Shampoo (X1-00547)
+2025-07-19 16:34:13,921 - INFO - Using cached images for catalogue code: X1-00547
+2025-07-19 16:34:15,372 - INFO - Product with SKU 'P00318' not found. Attempting to create new product...
+2025-07-19 16:34:17,417 - INFO - ✅ Successfully synced product SKU: P00318 (ID: 46760)
+2025-07-19 16:34:17,418 - INFO - Updating SEO for product 46760 via custom endpoint...
+2025-07-19 16:34:18,918 - INFO - ✅ Successfully updated SEO for product 46760.
+2025-07-19 16:34:18,921 - INFO - [103/183] -------------------------
+2025-07-19 16:34:19,031 - INFO - Processing Item SKU: P00329 -> Catalogue: Sun Squad Pineapple Light Up Inflatable Beach Ball Motion Activated LED (X1-00711)
+2025-07-19 16:34:19,031 - INFO - Creating new categories: 'Pool Floats & Recreation'
+2025-07-19 16:34:20,528 - WARNING - Term 'Pool Floats & Recreation' already exists with ID: 5774. Using existing ID.
+2025-07-19 16:34:20,530 - INFO - Creating new categories: 'Pool Care & Maintenance'
+2025-07-19 16:34:21,961 - WARNING - Term 'Pool Care & Maintenance' already exists with ID: 3357. Using existing ID.
+2025-07-19 16:34:27,516 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-pineapple-light-up-inflatable-beach-ball-1.webp' (ID: 46761)
+2025-07-19 16:34:32,850 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-pineapple-light-up-inflatable-beach-ball-2.webp' (ID: 46762)
+2025-07-19 16:34:33,355 - INFO - Cached 2 new images for catalogue code: X1-00711
+2025-07-19 16:34:34,860 - INFO - Product with SKU 'P00329' not found. Attempting to create new product...
+2025-07-19 16:34:37,087 - INFO - ✅ Successfully synced product SKU: P00329 (ID: 46763)
+2025-07-19 16:34:37,088 - INFO - Updating SEO for product 46763 via custom endpoint...
+2025-07-19 16:34:38,820 - INFO - ✅ Successfully updated SEO for product 46763.
+2025-07-19 16:34:38,822 - INFO - [104/183] -------------------------
+2025-07-19 16:34:38,995 - INFO - Processing Item SKU: P00330 -> Catalogue: Giant Inflatable Unicorn Swimming Pool Float Sun Squad 6' Long BRAND NEW (X1-00577)
+2025-07-19 16:34:43,436 - INFO - ✅ Uploaded image and full metadata: 'giant-inflatable-unicorn-swimming-pool-float-sun-s-1.webp' (ID: 46764)
+2025-07-19 16:34:48,595 - INFO - ✅ Uploaded image and full metadata: 'giant-inflatable-unicorn-swimming-pool-float-sun-s-2.webp' (ID: 46765)
+2025-07-19 16:34:49,099 - INFO - Cached 2 new images for catalogue code: X1-00577
+2025-07-19 16:34:50,522 - INFO - Product with SKU 'P00330' not found. Attempting to create new product...
+2025-07-19 16:34:52,941 - INFO - ✅ Successfully synced product SKU: P00330 (ID: 46766)
+2025-07-19 16:34:52,942 - INFO - Updating SEO for product 46766 via custom endpoint...
+2025-07-19 16:34:54,664 - INFO - ✅ Successfully updated SEO for product 46766.
+2025-07-19 16:34:54,665 - INFO - [105/183] -------------------------
+2025-07-19 16:34:54,850 - INFO - Processing Item SKU: P00331 -> Catalogue: Luxy Float Large Inflatable Pineapple Pool Float for Adults (X1-00524)
+2025-07-19 16:34:59,643 - INFO - ✅ Uploaded image and full metadata: 'luxy-float-large-inflatable-pineapple-pool-float-f-1.webp' (ID: 46767)
+2025-07-19 16:35:05,045 - INFO - ✅ Uploaded image and full metadata: 'luxy-float-large-inflatable-pineapple-pool-float-f-2.webp' (ID: 46768)
+2025-07-19 16:35:10,459 - INFO - ✅ Uploaded image and full metadata: 'luxy-float-large-inflatable-pineapple-pool-float-f-3.webp' (ID: 46769)
+2025-07-19 16:35:16,286 - INFO - ✅ Uploaded image and full metadata: 'luxy-float-large-inflatable-pineapple-pool-float-f-4.webp' (ID: 46770)
+2025-07-19 16:35:16,790 - INFO - Cached 4 new images for catalogue code: X1-00524
+2025-07-19 16:35:18,308 - INFO - Product with SKU 'P00331' not found. Attempting to create new product...
+2025-07-19 16:35:20,541 - INFO - ✅ Successfully synced product SKU: P00331 (ID: 46771)
+2025-07-19 16:35:20,542 - INFO - Updating SEO for product 46771 via custom endpoint...
+2025-07-19 16:35:22,021 - INFO - ✅ Successfully updated SEO for product 46771.
+2025-07-19 16:35:22,023 - INFO - [106/183] -------------------------
+2025-07-19 16:35:22,206 - INFO - Processing Item SKU: P00334 -> Catalogue: Kids' Cheetah Pool Float Orange - Sun Squad™ (X1-00773)
+2025-07-19 16:35:26,984 - INFO - ✅ Uploaded image and full metadata: 'kids-cheetah-pool-float-orange-sun-squad-1.webp' (ID: 46772)
+2025-07-19 16:35:33,248 - INFO - ✅ Uploaded image and full metadata: 'kids-cheetah-pool-float-orange-sun-squad-2.webp' (ID: 46773)
+2025-07-19 16:35:38,524 - INFO - ✅ Uploaded image and full metadata: 'kids-cheetah-pool-float-orange-sun-squad-3.webp' (ID: 46774)
+2025-07-19 16:35:39,030 - INFO - Cached 3 new images for catalogue code: X1-00773
+2025-07-19 16:35:40,411 - INFO - Product with SKU 'P00334' not found. Attempting to create new product...
+2025-07-19 16:35:42,462 - INFO - ✅ Successfully synced product SKU: P00334 (ID: 46775)
+2025-07-19 16:35:42,463 - INFO - Updating SEO for product 46775 via custom endpoint...
+2025-07-19 16:35:43,885 - INFO - ✅ Successfully updated SEO for product 46775.
+2025-07-19 16:35:43,887 - INFO - [107/183] -------------------------
+2025-07-19 16:35:44,169 - INFO - Processing Item SKU: P00335 -> Catalogue: Sun Squad Inflatable Bungalow Swim Tube Yellow White Pool Float 42" Ages 9+ (X1-00572)
+2025-07-19 16:35:48,945 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-inflatable-bungalow-swim-tube-yellow-whi-1.webp' (ID: 46776)
+2025-07-19 16:35:54,199 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-inflatable-bungalow-swim-tube-yellow-whi-2.webp' (ID: 46777)
+2025-07-19 16:35:54,703 - INFO - Cached 2 new images for catalogue code: X1-00572
+2025-07-19 16:35:56,127 - INFO - Product with SKU 'P00335' not found. Attempting to create new product...
+2025-07-19 16:35:58,248 - INFO - ✅ Successfully synced product SKU: P00335 (ID: 46778)
+2025-07-19 16:35:58,249 - INFO - Updating SEO for product 46778 via custom endpoint...
+2025-07-19 16:35:59,704 - INFO - ✅ Successfully updated SEO for product 46778.
+2025-07-19 16:35:59,707 - INFO - [108/183] -------------------------
+2025-07-19 16:35:59,870 - INFO - Processing Item SKU: P00339 -> Catalogue: New Sun Squad Inflatable Swim Tube With Handles 36 Inch Diameter (S1-00010)
+2025-07-19 16:36:04,694 - INFO - ✅ Uploaded image and full metadata: 'new-sun-squad-inflatable-swim-tube-with-handles-36-1.webp' (ID: 46779)
+2025-07-19 16:36:09,917 - INFO - ✅ Uploaded image and full metadata: 'new-sun-squad-inflatable-swim-tube-with-handles-36-2.webp' (ID: 46780)
+2025-07-19 16:36:15,048 - INFO - ✅ Uploaded image and full metadata: 'new-sun-squad-inflatable-swim-tube-with-handles-36-3.webp' (ID: 46781)
+2025-07-19 16:36:15,550 - INFO - Cached 3 new images for catalogue code: S1-00010
+2025-07-19 16:36:17,065 - INFO - Updating existing product (ID: 45432)...
+2025-07-19 16:36:19,168 - INFO - ✅ Successfully synced product SKU: P00339 (ID: 45432)
+2025-07-19 16:36:19,168 - INFO - Updating SEO for product 45432 via custom endpoint...
+2025-07-19 16:36:20,629 - INFO - ✅ Successfully updated SEO for product 45432.
+2025-07-19 16:36:20,631 - INFO - [109/183] -------------------------
+2025-07-19 16:36:20,748 - INFO - Processing Item SKU: P00340 -> Catalogue: Sun Squad 36 Inch Diameter Palm Trees Swim Tube with Handles (X1-00723)
+2025-07-19 16:36:25,326 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-36-inch-diameter-palm-trees-swim-tube-wi-1.webp' (ID: 46782)
+2025-07-19 16:36:30,541 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-36-inch-diameter-palm-trees-swim-tube-wi-2.webp' (ID: 46783)
+2025-07-19 16:36:31,046 - INFO - Cached 2 new images for catalogue code: X1-00723
+2025-07-19 16:36:32,476 - INFO - Product with SKU 'P00340' not found. Attempting to create new product...
+2025-07-19 16:36:34,822 - INFO - ✅ Successfully synced product SKU: P00340 (ID: 46784)
+2025-07-19 16:36:34,823 - INFO - Updating SEO for product 46784 via custom endpoint...
+2025-07-19 16:36:36,377 - INFO - ✅ Successfully updated SEO for product 46784.
+2025-07-19 16:36:36,379 - INFO - [110/183] -------------------------
+2025-07-19 16:36:36,538 - INFO - Processing Item SKU: P00341 -> Catalogue: Target  Inflatable Glitter PINK  Chair 26"L x 22"W x 16"H (S1-00009)
+2025-07-19 16:36:41,179 - INFO - ✅ Uploaded image and full metadata: 'target-inflatable-glitter-pink-chair-26l-x-22w-x-1-1.webp' (ID: 46785)
+2025-07-19 16:36:41,684 - INFO - Cached 1 new images for catalogue code: S1-00009
+2025-07-19 16:36:43,173 - INFO - Updating existing product (ID: 45434)...
+2025-07-19 16:36:45,119 - INFO - ✅ Successfully synced product SKU: P00341 (ID: 45434)
+2025-07-19 16:36:45,120 - INFO - Updating SEO for product 45434 via custom endpoint...
+2025-07-19 16:36:46,762 - INFO - ✅ Successfully updated SEO for product 45434.
+2025-07-19 16:36:46,765 - INFO - [111/183] -------------------------
+2025-07-19 16:36:46,905 - INFO - Processing Item SKU: P00342 -> Catalogue: Inflatable Pool Float 36" Pool Inner Tube with Handles Sun Squad Wavy Stripe (X1-00440)
+2025-07-19 16:36:51,794 - INFO - ✅ Uploaded image and full metadata: 'inflatable-pool-float-36-pool-inner-tube-with-hand-1.webp' (ID: 46786)
+2025-07-19 16:36:52,299 - INFO - Cached 1 new images for catalogue code: X1-00440
+2025-07-19 16:36:53,721 - INFO - Product with SKU 'P00342' not found. Attempting to create new product...
+2025-07-19 16:36:55,864 - INFO - ✅ Successfully synced product SKU: P00342 (ID: 46787)
+2025-07-19 16:36:55,865 - INFO - Updating SEO for product 46787 via custom endpoint...
+2025-07-19 16:36:57,317 - INFO - ✅ Successfully updated SEO for product 46787.
+2025-07-19 16:36:57,319 - INFO - [112/183] -------------------------
+2025-07-19 16:36:57,517 - INFO - Processing Item SKU: P00343 -> Catalogue: Inflatable Pool Float 36" Pool Inner Tube with Handles Sun Squad Wavy Stripe (X1-00440)
+2025-07-19 16:36:57,518 - INFO - Using cached images for catalogue code: X1-00440
+2025-07-19 16:36:59,166 - INFO - Product with SKU 'P00343' not found. Attempting to create new product...
+2025-07-19 16:37:01,981 - INFO - ✅ Successfully synced product SKU: P00343 (ID: 46788)
+2025-07-19 16:37:01,982 - INFO - Updating SEO for product 46788 via custom endpoint...
+2025-07-19 16:37:03,403 - INFO - ✅ Successfully updated SEO for product 46788.
+2025-07-19 16:37:03,404 - INFO - [113/183] -------------------------
+2025-07-19 16:37:03,566 - INFO - Processing Item SKU: P00344 -> Catalogue: Sun Squad Inflatable Swim Tube - 31 Inch Diameter - Pool Float for Summer Fun (S1-00011)
+2025-07-19 16:37:08,431 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-inflatable-swim-tube-31-inch-diameter-po-1.webp' (ID: 46789)
+2025-07-19 16:37:13,613 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-inflatable-swim-tube-31-inch-diameter-po-2.webp' (ID: 46790)
+2025-07-19 16:37:18,942 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-inflatable-swim-tube-31-inch-diameter-po-3.webp' (ID: 46791)
+2025-07-19 16:37:19,446 - INFO - Cached 3 new images for catalogue code: S1-00011
+2025-07-19 16:37:20,895 - INFO - Updating existing product (ID: 45438)...
+2025-07-19 16:37:23,663 - INFO - ✅ Successfully synced product SKU: P00344 (ID: 45438)
+2025-07-19 16:37:23,664 - INFO - Updating SEO for product 45438 via custom endpoint...
+2025-07-19 16:37:25,239 - INFO - ✅ Successfully updated SEO for product 45438.
+2025-07-19 16:37:25,241 - INFO - [114/183] -------------------------
+2025-07-19 16:37:25,413 - INFO - Processing Item SKU: P00345 -> Catalogue: 36" Inflatable Glitter Swim Tube - Sun Squad™ (S1-00008)
+2025-07-19 16:37:30,296 - INFO - ✅ Uploaded image and full metadata: '36-inflatable-glitter-swim-tube-sun-squad-1.webp' (ID: 46792)
+2025-07-19 16:37:30,801 - INFO - Cached 1 new images for catalogue code: S1-00008
+2025-07-19 16:37:32,379 - INFO - Updating existing product (ID: 45440)...
+2025-07-19 16:37:34,608 - INFO - ✅ Successfully synced product SKU: P00345 (ID: 45440)
+2025-07-19 16:37:34,609 - INFO - Updating SEO for product 45440 via custom endpoint...
+2025-07-19 16:37:36,270 - INFO - ✅ Successfully updated SEO for product 45440.
+2025-07-19 16:37:36,273 - INFO - [115/183] -------------------------
+2025-07-19 16:37:36,401 - INFO - Processing Item SKU: P00347 -> Catalogue: Speedo Jr. Goggle 3 in Pack. (Anti-fog) (UV Protection) ! Green (S1-00001)
+2025-07-19 16:37:42,345 - INFO - ✅ Uploaded image and full metadata: 'speedo-jr-goggle-3-in-pack-anti-fog-uv-protection--1.webp' (ID: 46793)
+2025-07-19 16:37:47,398 - INFO - ✅ Uploaded image and full metadata: 'speedo-jr-goggle-3-in-pack-anti-fog-uv-protection--2.webp' (ID: 46794)
+2025-07-19 16:37:47,903 - INFO - Cached 2 new images for catalogue code: S1-00001
+2025-07-19 16:37:49,323 - INFO - Updating existing product (ID: 45441)...
+2025-07-19 16:37:52,045 - INFO - ✅ Successfully synced product SKU: P00347 (ID: 45441)
+2025-07-19 16:37:52,046 - INFO - Updating SEO for product 45441 via custom endpoint...
+2025-07-19 16:37:53,478 - INFO - ✅ Successfully updated SEO for product 45441.
+2025-07-19 16:37:53,480 - INFO - [116/183] -------------------------
+2025-07-19 16:37:53,664 - INFO - Processing Item SKU: P00366 -> Catalogue: Konftel OCC Hub 900102149 (X1-00333)
+2025-07-19 16:37:58,529 - INFO - ✅ Uploaded image and full metadata: 'konftel-occ-hub-900102149-1.webp' (ID: 46795)
+2025-07-19 16:38:03,792 - INFO - ✅ Uploaded image and full metadata: 'konftel-occ-hub-900102149-2.webp' (ID: 46796)
+2025-07-19 16:38:04,297 - INFO - Cached 2 new images for catalogue code: X1-00333
+2025-07-19 16:38:05,750 - INFO - Updating existing product (ID: 46144)...
+2025-07-19 16:38:08,478 - INFO - ✅ Successfully synced product SKU: P00366 (ID: 46144)
+2025-07-19 16:38:08,479 - INFO - Updating SEO for product 46144 via custom endpoint...
+2025-07-19 16:38:10,088 - INFO - ✅ Successfully updated SEO for product 46144.
+2025-07-19 16:38:10,090 - INFO - [117/183] -------------------------
+2025-07-19 16:38:10,328 - INFO - Processing Item SKU: P00381 -> Catalogue: Logitech Combo Touch iPad Pro 12.9-inch (5th, 6th gen - 2021, 2022) Keyboard Case - Detachable Backlit Keyboard with Kickstand, Click-Anywhere Trackpad, Smart Connector - Oxford Gray; USA Layout (X1-00549)
+2025-07-19 16:38:15,076 - INFO - ✅ Uploaded image and full metadata: 'logitech-combo-touch-ipad-pro-129-inch-5th-6th-gen-1.webp' (ID: 46797)
+2025-07-19 16:38:20,275 - INFO - ✅ Uploaded image and full metadata: 'logitech-combo-touch-ipad-pro-129-inch-5th-6th-gen-2.webp' (ID: 46798)
+2025-07-19 16:38:25,539 - INFO - ✅ Uploaded image and full metadata: 'logitech-combo-touch-ipad-pro-129-inch-5th-6th-gen-3.webp' (ID: 46799)
+2025-07-19 16:38:26,043 - INFO - Cached 3 new images for catalogue code: X1-00549
+2025-07-19 16:38:27,621 - INFO - Updating existing product (ID: 46148)...
+2025-07-19 16:38:30,643 - INFO - ✅ Successfully synced product SKU: P00381 (ID: 46148)
+2025-07-19 16:38:30,643 - INFO - Updating SEO for product 46148 via custom endpoint...
+2025-07-19 16:38:32,101 - INFO - ✅ Successfully updated SEO for product 46148.
+2025-07-19 16:38:32,104 - INFO - [118/183] -------------------------
+2025-07-19 16:38:32,274 - INFO - Processing Item SKU: P00390 -> Catalogue: Funko Pop ! Jeux : Pokémon - Jumbo Umbreon (exclusivité cible) (X1-00500)
+2025-07-19 16:38:37,154 - INFO - ✅ Uploaded image and full metadata: 'funko-pop-jeux-pokémon-jumbo-umbreon-exclusivité-c-1.webp' (ID: 46801)
+2025-07-19 16:38:43,470 - INFO - ✅ Uploaded image and full metadata: 'funko-pop-jeux-pokémon-jumbo-umbreon-exclusivité-c-2.webp' (ID: 46802)
+2025-07-19 16:38:43,974 - INFO - Cached 2 new images for catalogue code: X1-00500
+2025-07-19 16:38:45,472 - INFO - Updating existing product (ID: 46151)...
+2025-07-19 16:38:48,220 - INFO - ✅ Successfully synced product SKU: P00390 (ID: 46151)
+2025-07-19 16:38:48,221 - INFO - Updating SEO for product 46151 via custom endpoint...
+2025-07-19 16:38:49,712 - INFO - ✅ Successfully updated SEO for product 46151.
+2025-07-19 16:38:49,715 - INFO - [119/183] -------------------------
+2025-07-19 16:38:49,913 - INFO - Processing Item SKU: P00417 -> Catalogue: Logitech MX Master 3S - Wireless Performance Mouse (X1-00406)
+2025-07-19 16:38:54,435 - INFO - ✅ Uploaded image and full metadata: 'logitech-mx-master-3s-wireless-performance-mouse-1.webp' (ID: 46804)
+2025-07-19 16:38:59,699 - INFO - ✅ Uploaded image and full metadata: 'logitech-mx-master-3s-wireless-performance-mouse-2.webp' (ID: 46805)
+2025-07-19 16:39:04,677 - INFO - ✅ Uploaded image and full metadata: 'logitech-mx-master-3s-wireless-performance-mouse-3.webp' (ID: 46806)
+2025-07-19 16:39:05,183 - INFO - Cached 3 new images for catalogue code: X1-00406
+2025-07-19 16:39:06,664 - INFO - Updating existing product (ID: 46155)...
+2025-07-19 16:39:09,837 - INFO - ✅ Successfully synced product SKU: P00417 (ID: 46155)
+2025-07-19 16:39:09,838 - INFO - Updating SEO for product 46155 via custom endpoint...
+2025-07-19 16:39:11,363 - INFO - ✅ Successfully updated SEO for product 46155.
+2025-07-19 16:39:11,364 - INFO - [120/183] -------------------------
+2025-07-19 16:39:11,566 - INFO - Processing Item SKU: P00427 -> Catalogue: Swimways, Pop-Up Pool, Canopy, Carrying Case, Foldable, 9-24 Months, 32" (X1-00593)
+2025-07-19 16:39:16,549 - INFO - ✅ Uploaded image and full metadata: 'swimways-pop-up-pool-canopy-carrying-case-foldable-1.webp' (ID: 46807)
+2025-07-19 16:39:22,047 - INFO - ✅ Uploaded image and full metadata: 'swimways-pop-up-pool-canopy-carrying-case-foldable-2.webp' (ID: 46808)
+2025-07-19 16:39:22,553 - INFO - Cached 2 new images for catalogue code: X1-00593
+2025-07-19 16:39:24,022 - INFO - Product with SKU 'P00427' not found. Attempting to create new product...
+2025-07-19 16:39:26,124 - INFO - ✅ Successfully synced product SKU: P00427 (ID: 46809)
+2025-07-19 16:39:26,124 - INFO - Updating SEO for product 46809 via custom endpoint...
+2025-07-19 16:39:27,543 - INFO - ✅ Successfully updated SEO for product 46809.
+2025-07-19 16:39:27,545 - INFO - [121/183] -------------------------
+2025-07-19 16:39:27,730 - INFO - Processing Item SKU: P00437 -> Catalogue: Reusable Sponge Water Balls 16pk (S1-00018)
+2025-07-19 16:39:27,731 - INFO - Creating new categories: 'Water & Pool Toys'
+2025-07-19 16:39:29,256 - WARNING - Term 'Water & Pool Toys' already exists with ID: 5889. Using existing ID.
+2025-07-19 16:39:34,154 - INFO - ✅ Uploaded image and full metadata: 'reusable-sponge-water-balls-16pk-1.webp' (ID: 46810)
+2025-07-19 16:39:39,634 - INFO - ✅ Uploaded image and full metadata: 'reusable-sponge-water-balls-16pk-2.webp' (ID: 46811)
+2025-07-19 16:39:46,116 - INFO - ✅ Uploaded image and full metadata: 'reusable-sponge-water-balls-16pk-3.webp' (ID: 46812)
+2025-07-19 16:39:46,622 - INFO - Cached 3 new images for catalogue code: S1-00018
+2025-07-19 16:39:48,137 - INFO - Updating existing product (ID: 45445)...
+2025-07-19 16:39:50,166 - INFO - ✅ Successfully synced product SKU: P00437 (ID: 45445)
+2025-07-19 16:39:50,167 - INFO - Updating SEO for product 45445 via custom endpoint...
+2025-07-19 16:39:51,716 - INFO - ✅ Successfully updated SEO for product 45445.
+2025-07-19 16:39:51,719 - INFO - [122/183] -------------------------
+2025-07-19 16:39:51,853 - INFO - Processing Item SKU: P00463 -> Catalogue: BRAND NEW Sun Squad EASY GRIP DIVING RINGS SET OF 2 GREEN & ORANGE (X1-00309)
+2025-07-19 16:39:51,854 - INFO - Creating new categories: 'Water & Dive Toys'
+2025-07-19 16:39:53,261 - WARNING - Term 'Water & Dive Toys' already exists with ID: 5890. Using existing ID.
+2025-07-19 16:39:57,809 - INFO - ✅ Uploaded image and full metadata: 'brand-new-sun-squad-easy-grip-diving-rings-set-of--1.webp' (ID: 46813)
+2025-07-19 16:40:03,355 - INFO - ✅ Uploaded image and full metadata: 'brand-new-sun-squad-easy-grip-diving-rings-set-of--2.webp' (ID: 46814)
+2025-07-19 16:40:03,860 - INFO - Cached 2 new images for catalogue code: X1-00309
+2025-07-19 16:40:05,333 - INFO - Updating existing product (ID: 45448)...
+2025-07-19 16:40:07,403 - INFO - ✅ Successfully synced product SKU: P00463 (ID: 45448)
+2025-07-19 16:40:07,404 - INFO - Updating SEO for product 45448 via custom endpoint...
+2025-07-19 16:40:09,044 - INFO - ✅ Successfully updated SEO for product 45448.
+2025-07-19 16:40:09,046 - INFO - [123/183] -------------------------
+2025-07-19 16:40:09,243 - INFO - Processing Item SKU: P00468 -> Catalogue: Carters Baby Girls Swim Hat Pink Solid Just One You Sun Head Cover Toddler UPF50 (X1-00636)
+2025-07-19 16:40:13,929 - INFO - ✅ Uploaded image and full metadata: 'carters-baby-girls-swim-hat-pink-solid-just-one-yo-1.webp' (ID: 46815)
+2025-07-19 16:40:19,356 - INFO - ✅ Uploaded image and full metadata: 'carters-baby-girls-swim-hat-pink-solid-just-one-yo-2.webp' (ID: 46816)
+2025-07-19 16:40:19,861 - INFO - Cached 2 new images for catalogue code: X1-00636
+2025-07-19 16:40:21,406 - INFO - Updating existing product (ID: 45451)...
+2025-07-19 16:40:24,236 - INFO - ✅ Successfully synced product SKU: P00468 (ID: 45451)
+2025-07-19 16:40:24,237 - INFO - Updating SEO for product 45451 via custom endpoint...
+2025-07-19 16:40:25,767 - INFO - ✅ Successfully updated SEO for product 45451.
+2025-07-19 16:40:25,770 - INFO - [124/183] -------------------------
+2025-07-19 16:40:25,988 - INFO - Processing Item SKU: P00469 -> Catalogue: Carter's Baby Size 6-12Months Navy Blue Sun Hat (X1-00779)
+2025-07-19 16:40:30,783 - INFO - ✅ Uploaded image and full metadata: 'carters-baby-size-6-12months-navy-blue-sun-hat-1.webp' (ID: 46817)
+2025-07-19 16:40:36,056 - INFO - ✅ Uploaded image and full metadata: 'carters-baby-size-6-12months-navy-blue-sun-hat-2.webp' (ID: 46818)
+2025-07-19 16:40:36,560 - INFO - Cached 2 new images for catalogue code: X1-00779
+2025-07-19 16:40:38,035 - INFO - Updating existing product (ID: 45454)...
+2025-07-19 16:40:40,237 - INFO - ✅ Successfully synced product SKU: P00469 (ID: 45454)
+2025-07-19 16:40:40,238 - INFO - Updating SEO for product 45454 via custom endpoint...
+2025-07-19 16:40:41,778 - INFO - ✅ Successfully updated SEO for product 45454.
+2025-07-19 16:40:41,781 - INFO - [125/183] -------------------------
+2025-07-19 16:40:41,953 - INFO - Processing Item SKU: P00470 -> Catalogue: Cat and jack baby hat (X1-00474)
+2025-07-19 16:40:47,608 - INFO - ✅ Uploaded image and full metadata: 'cat-and-jack-baby-hat-1.webp' (ID: 46819)
+2025-07-19 16:40:52,753 - INFO - ✅ Uploaded image and full metadata: 'cat-and-jack-baby-hat-2.webp' (ID: 46820)
+2025-07-19 16:40:53,256 - INFO - Cached 2 new images for catalogue code: X1-00474
+2025-07-19 16:40:54,639 - INFO - Updating existing product (ID: 45457)...
+2025-07-19 16:40:56,711 - INFO - ✅ Successfully synced product SKU: P00470 (ID: 45457)
+2025-07-19 16:40:56,712 - INFO - Updating SEO for product 45457 via custom endpoint...
+2025-07-19 16:40:58,345 - INFO - ✅ Successfully updated SEO for product 45457.
+2025-07-19 16:40:58,348 - INFO - [126/183] -------------------------
+2025-07-19 16:40:58,566 - INFO - Processing Item SKU: P00471 -> Catalogue: 3 Ring Pool Blue Yellow - Sun Squad (S1-00014)
+2025-07-19 16:41:03,136 - INFO - ✅ Uploaded image and full metadata: '3-ring-pool-blue-yellow-sun-squad-1.webp' (ID: 46821)
+2025-07-19 16:41:08,251 - INFO - ✅ Uploaded image and full metadata: '3-ring-pool-blue-yellow-sun-squad-2.webp' (ID: 46822)
+2025-07-19 16:41:08,758 - INFO - Cached 2 new images for catalogue code: S1-00014
+2025-07-19 16:41:10,239 - INFO - Updating existing product (ID: 45460)...
+2025-07-19 16:41:12,351 - INFO - ✅ Successfully synced product SKU: P00471 (ID: 45460)
+2025-07-19 16:41:12,352 - INFO - Updating SEO for product 45460 via custom endpoint...
+2025-07-19 16:41:13,866 - INFO - ✅ Successfully updated SEO for product 45460.
+2025-07-19 16:41:13,868 - INFO - [127/183] -------------------------
+2025-07-19 16:41:13,998 - INFO - Processing Item SKU: P00476 -> Catalogue: Self-Watering Plastic Indoor Outdoor Planter Pot - Room Essentials™ (X1-00452)
+2025-07-19 16:41:18,848 - INFO - ✅ Uploaded image and full metadata: 'self-watering-plastic-indoor-outdoor-planter-pot-r-1.webp' (ID: 46823)
+2025-07-19 16:41:24,025 - INFO - ✅ Uploaded image and full metadata: 'self-watering-plastic-indoor-outdoor-planter-pot-r-2.webp' (ID: 46824)
+2025-07-19 16:41:24,530 - INFO - Cached 2 new images for catalogue code: X1-00452
+2025-07-19 16:41:26,125 - INFO - Product with SKU 'P00476' not found. Attempting to create new product...
+2025-07-19 16:41:28,098 - INFO - ✅ Successfully synced product SKU: P00476 (ID: 46825)
+2025-07-19 16:41:28,099 - INFO - Updating SEO for product 46825 via custom endpoint...
+2025-07-19 16:41:29,465 - INFO - ✅ Successfully updated SEO for product 46825.
+2025-07-19 16:41:29,468 - INFO - [128/183] -------------------------
+2025-07-19 16:41:29,654 - INFO - Processing Item SKU: P00481 -> Catalogue: Ooly Note Pals Sticky Tabs (Bookmarks, Note taking) - NEW - Cute Dinos (X1-00257)
+2025-07-19 16:41:34,429 - INFO - ✅ Uploaded image and full metadata: 'ooly-note-pals-sticky-tabs-bookmarks-note-taking-n-1.webp' (ID: 46826)
+2025-07-19 16:41:34,934 - INFO - Cached 1 new images for catalogue code: X1-00257
+2025-07-19 16:41:36,525 - INFO - Product with SKU 'P00481' not found. Attempting to create new product...
+2025-07-19 16:41:38,716 - INFO - ✅ Successfully synced product SKU: P00481 (ID: 46827)
+2025-07-19 16:41:38,717 - INFO - Updating SEO for product 46827 via custom endpoint...
+2025-07-19 16:41:40,340 - INFO - ✅ Successfully updated SEO for product 46827.
+2025-07-19 16:41:40,342 - INFO - [129/183] -------------------------
+2025-07-19 16:41:40,506 - INFO - Processing Item SKU: P00497 -> Catalogue: Inflatable Duck Sprinkler - Sun Squad™ Colorful 3 Ft 4 Inches Long Summer Fun (X1-00630)
+2025-07-19 16:41:45,452 - INFO - ✅ Uploaded image and full metadata: 'inflatable-duck-sprinkler-sun-squad-colorful-3-ft--1.webp' (ID: 46828)
+2025-07-19 16:41:50,551 - INFO - ✅ Uploaded image and full metadata: 'inflatable-duck-sprinkler-sun-squad-colorful-3-ft--2.webp' (ID: 46829)
+2025-07-19 16:41:55,860 - INFO - ✅ Uploaded image and full metadata: 'inflatable-duck-sprinkler-sun-squad-colorful-3-ft--3.webp' (ID: 46830)
+2025-07-19 16:41:56,365 - INFO - Cached 3 new images for catalogue code: X1-00630
+2025-07-19 16:41:57,750 - INFO - Product with SKU 'P00497' not found. Attempting to create new product...
+2025-07-19 16:41:59,969 - INFO - ✅ Successfully synced product SKU: P00497 (ID: 46831)
+2025-07-19 16:41:59,970 - INFO - Updating SEO for product 46831 via custom endpoint...
+2025-07-19 16:42:01,614 - INFO - ✅ Successfully updated SEO for product 46831.
+2025-07-19 16:42:01,616 - INFO - [130/183] -------------------------
+2025-07-19 16:42:01,803 - INFO - Processing Item SKU: P00502 -> Catalogue: NEW Nerf Super Soaker Hydro Battle Ride-On Cruiser – Inflatable Pool Float [B1] (X1-00686)
+2025-07-19 16:42:06,623 - INFO - ✅ Uploaded image and full metadata: 'new-nerf-super-soaker-hydro-battle-ride-on-cruiser-1.webp' (ID: 46832)
+2025-07-19 16:42:12,241 - INFO - ✅ Uploaded image and full metadata: 'new-nerf-super-soaker-hydro-battle-ride-on-cruiser-2.webp' (ID: 46833)
+2025-07-19 16:42:17,746 - INFO - ✅ Uploaded image and full metadata: 'new-nerf-super-soaker-hydro-battle-ride-on-cruiser-3.webp' (ID: 46834)
+2025-07-19 16:42:18,250 - INFO - Cached 3 new images for catalogue code: X1-00686
+2025-07-19 16:42:19,728 - INFO - Product with SKU 'P00502' not found. Attempting to create new product...
+2025-07-19 16:42:21,906 - INFO - ✅ Successfully synced product SKU: P00502 (ID: 46835)
+2025-07-19 16:42:21,907 - INFO - Updating SEO for product 46835 via custom endpoint...
+2025-07-19 16:42:23,434 - INFO - ✅ Successfully updated SEO for product 46835.
+2025-07-19 16:42:23,436 - INFO - [131/183] -------------------------
+2025-07-19 16:42:23,572 - INFO - Processing Item SKU: P00519 -> Catalogue: SwimWays Spring Float Premium SunSeat Pool Chairs, Inflatable Pool Floats Adult with Fast Inflation for Ages 15 & Up, Sky Blue (X1-00764)
+2025-07-19 16:42:23,573 - INFO - Creating new tags: '&'
+2025-07-19 16:42:24,940 - WARNING - Term '&' already exists with ID: 5829. Using existing ID.
+2025-07-19 16:42:29,927 - INFO - ✅ Uploaded image and full metadata: 'swimways-spring-float-premium-sunseat-pool-chairs--1.webp' (ID: 46836)
+2025-07-19 16:42:35,415 - INFO - ✅ Uploaded image and full metadata: 'swimways-spring-float-premium-sunseat-pool-chairs--2.webp' (ID: 46837)
+2025-07-19 16:42:40,646 - INFO - ✅ Uploaded image and full metadata: 'swimways-spring-float-premium-sunseat-pool-chairs--3.webp' (ID: 46838)
+2025-07-19 16:42:46,080 - INFO - ✅ Uploaded image and full metadata: 'swimways-spring-float-premium-sunseat-pool-chairs--4.webp' (ID: 46839)
+2025-07-19 16:42:46,585 - INFO - Cached 4 new images for catalogue code: X1-00764
+2025-07-19 16:42:48,127 - INFO - Product with SKU 'P00519' not found. Attempting to create new product...
+2025-07-19 16:42:50,212 - INFO - ✅ Successfully synced product SKU: P00519 (ID: 46840)
+2025-07-19 16:42:50,213 - INFO - Updating SEO for product 46840 via custom endpoint...
+2025-07-19 16:42:51,645 - INFO - ✅ Successfully updated SEO for product 46840.
+2025-07-19 16:42:51,647 - INFO - [132/183] -------------------------
+2025-07-19 16:42:51,767 - INFO - Processing Item SKU: P00527 -> Catalogue: Sun Squad Polka Dots Kids' Garden Tote Recycled Polyester Unstructured Handbag (X1-00730)
+2025-07-19 16:42:56,487 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-polka-dots-kids-garden-tote-recycled-pol-1.webp' (ID: 46841)
+2025-07-19 16:42:56,989 - INFO - Cached 1 new images for catalogue code: X1-00730
+2025-07-19 16:42:58,646 - INFO - Product with SKU 'P00527' not found. Attempting to create new product...
+2025-07-19 16:43:00,849 - INFO - ✅ Successfully synced product SKU: P00527 (ID: 46842)
+2025-07-19 16:43:00,850 - INFO - Updating SEO for product 46842 via custom endpoint...
+2025-07-19 16:43:02,342 - INFO - ✅ Successfully updated SEO for product 46842.
+2025-07-19 16:43:02,344 - INFO - [133/183] -------------------------
+2025-07-19 16:43:02,489 - INFO - Processing Item SKU: P00536 -> Catalogue:  Bulleye's Playground Coral Snack Bowl for Stanley Cup Green (X1-00748)
+2025-07-19 16:43:07,241 - INFO - ✅ Uploaded image and full metadata: 'bulleyes-playground-coral-snack-bowl-for-stanley-c-1.webp' (ID: 46843)
+2025-07-19 16:43:07,745 - INFO - Cached 1 new images for catalogue code: X1-00748
+2025-07-19 16:43:09,099 - INFO - Product with SKU 'P00536' not found. Attempting to create new product...
+2025-07-19 16:43:11,233 - INFO - ✅ Successfully synced product SKU: P00536 (ID: 46844)
+2025-07-19 16:43:11,234 - INFO - Updating SEO for product 46844 via custom endpoint...
+2025-07-19 16:43:13,225 - INFO - ✅ Successfully updated SEO for product 46844.
+2025-07-19 16:43:13,228 - INFO - [134/183] -------------------------
+2025-07-19 16:43:13,347 - INFO - Processing Item SKU: P00537 -> Catalogue: 2pc Silicone Bottle Label Bands Food and Beverage Markers - Bullseye's Playground™ (X1-00228)
+2025-07-19 16:43:18,247 - INFO - ✅ Uploaded image and full metadata: '2pc-silicone-bottle-label-bands-food-and-beverage--1.webp' (ID: 46845)
+2025-07-19 16:43:18,749 - INFO - Cached 1 new images for catalogue code: X1-00228
+2025-07-19 16:43:20,406 - INFO - Product with SKU 'P00537' not found. Attempting to create new product...
+2025-07-19 16:43:22,480 - INFO - ✅ Successfully synced product SKU: P00537 (ID: 46846)
+2025-07-19 16:43:22,481 - INFO - Updating SEO for product 46846 via custom endpoint...
+2025-07-19 16:43:24,001 - INFO - ✅ Successfully updated SEO for product 46846.
+2025-07-19 16:43:24,004 - INFO - [135/183] -------------------------
+2025-07-19 16:43:24,114 - INFO - Processing Item SKU: P00538 -> Catalogue: Conair Volume, Lift & Separate Tail Combs, Assorted Colors, 2-Pieces (X1-00737)
+2025-07-19 16:43:28,701 - INFO - ✅ Uploaded image and full metadata: 'conair-volume-lift-separate-tail-combs-assorted-co-1.webp' (ID: 46847)
+2025-07-19 16:43:29,207 - INFO - Cached 1 new images for catalogue code: X1-00737
+2025-07-19 16:43:30,606 - INFO - Product with SKU 'P00538' not found. Attempting to create new product...
+2025-07-19 16:43:32,731 - INFO - ✅ Successfully synced product SKU: P00538 (ID: 46848)
+2025-07-19 16:43:32,732 - INFO - Updating SEO for product 46848 via custom endpoint...
+2025-07-19 16:43:34,357 - INFO - ✅ Successfully updated SEO for product 46848.
+2025-07-19 16:43:34,359 - INFO - [136/183] -------------------------
+2025-07-19 16:43:34,488 - INFO - Processing Item SKU: P00543 -> Catalogue: Lucky Star Divided Split Bowl with Lid (X1-00357)
+2025-07-19 16:43:39,216 - INFO - ✅ Uploaded image and full metadata: 'lucky-star-divided-split-bowl-with-lid-1.webp' (ID: 46849)
+2025-07-19 16:43:39,721 - INFO - Cached 1 new images for catalogue code: X1-00357
+2025-07-19 16:43:41,087 - INFO - Product with SKU 'P00543' not found. Attempting to create new product...
+2025-07-19 16:43:43,021 - INFO - ✅ Successfully synced product SKU: P00543 (ID: 46850)
+2025-07-19 16:43:43,022 - INFO - Updating SEO for product 46850 via custom endpoint...
+2025-07-19 16:43:44,530 - INFO - ✅ Successfully updated SEO for product 46850.
+2025-07-19 16:43:44,532 - INFO - [137/183] -------------------------
+2025-07-19 16:43:44,764 - INFO - Processing Item SKU: P00566 -> Catalogue: SUN SQUAD INFLATABLE 31" Swim Yellow (X1-00540)
+2025-07-19 16:43:49,566 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-inflatable-31-swim-yellow-1.webp' (ID: 46851)
+2025-07-19 16:43:50,070 - INFO - Cached 1 new images for catalogue code: X1-00540
+2025-07-19 16:43:51,450 - INFO - Product with SKU 'P00566' not found. Attempting to create new product...
+2025-07-19 16:43:53,477 - INFO - ✅ Successfully synced product SKU: P00566 (ID: 46852)
+2025-07-19 16:43:53,478 - INFO - Updating SEO for product 46852 via custom endpoint...
+2025-07-19 16:43:55,020 - INFO - ✅ Successfully updated SEO for product 46852.
+2025-07-19 16:43:55,023 - INFO - [138/183] -------------------------
+2025-07-19 16:43:55,148 - INFO - Processing Item SKU: P00568 -> Catalogue: Sun Squad Pool Swim 31 (X1-00412)
+2025-07-19 16:44:01,233 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-pool-swim-31-1.webp' (ID: 46853)
+2025-07-19 16:44:06,389 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-pool-swim-31-2.webp' (ID: 46854)
+2025-07-19 16:44:06,894 - INFO - Cached 2 new images for catalogue code: X1-00412
+2025-07-19 16:44:08,541 - INFO - Product with SKU 'P00568' not found. Attempting to create new product...
+2025-07-19 16:44:10,563 - INFO - ✅ Successfully synced product SKU: P00568 (ID: 46855)
+2025-07-19 16:44:10,564 - INFO - Updating SEO for product 46855 via custom endpoint...
+2025-07-19 16:44:12,089 - INFO - ✅ Successfully updated SEO for product 46855.
+2025-07-19 16:44:12,091 - INFO - [139/183] -------------------------
+2025-07-19 16:44:12,207 - INFO - Processing Item SKU: P00569 -> Catalogue: 31" Swim Tube Mint Green/White - Sun Squad (X1-00696)
+2025-07-19 16:44:17,063 - INFO - ✅ Uploaded image and full metadata: '31-swim-tube-mint-greenwhite-sun-squad-1.webp' (ID: 46856)
+2025-07-19 16:44:17,568 - INFO - Cached 1 new images for catalogue code: X1-00696
+2025-07-19 16:44:19,034 - INFO - Product with SKU 'P00569' not found. Attempting to create new product...
+2025-07-19 16:44:21,151 - INFO - ✅ Successfully synced product SKU: P00569 (ID: 46857)
+2025-07-19 16:44:21,152 - INFO - Updating SEO for product 46857 via custom endpoint...
+2025-07-19 16:44:22,616 - INFO - ✅ Successfully updated SEO for product 46857.
+2025-07-19 16:44:22,617 - INFO - [140/183] -------------------------
+2025-07-19 16:44:22,737 - INFO - Processing Item SKU: P00573 -> Catalogue: Sun Squad Inflatable Fruit Design Swim Tube - Blue & Yellow (X1-00683)
+2025-07-19 16:44:27,148 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-inflatable-fruit-design-swim-tube-blue-y-1.webp' (ID: 46858)
+2025-07-19 16:44:27,654 - INFO - Cached 1 new images for catalogue code: X1-00683
+2025-07-19 16:44:29,014 - INFO - Product with SKU 'P00573' not found. Attempting to create new product...
+2025-07-19 16:44:31,087 - INFO - ✅ Successfully synced product SKU: P00573 (ID: 46859)
+2025-07-19 16:44:31,088 - INFO - Updating SEO for product 46859 via custom endpoint...
+2025-07-19 16:44:32,513 - INFO - ✅ Successfully updated SEO for product 46859.
+2025-07-19 16:44:32,516 - INFO - [141/183] -------------------------
+2025-07-19 16:44:32,664 - INFO - Processing Item SKU: P00574 -> Catalogue: GE TL86597 InstaJack Wireless Phoneline Jack (X1-00235)
+2025-07-19 16:44:32,665 - INFO - Creating new categories: 'Smartphones & Accessories'
+2025-07-19 16:44:34,103 - WARNING - Term 'Smartphones & Accessories' already exists with ID: 5891. Using existing ID.
+2025-07-19 16:44:38,609 - INFO - ✅ Uploaded image and full metadata: 'ge-tl86597-instajack-wireless-phoneline-jack-1.webp' (ID: 46860)
+2025-07-19 16:44:43,646 - INFO - ✅ Uploaded image and full metadata: 'ge-tl86597-instajack-wireless-phoneline-jack-2.webp' (ID: 46861)
+2025-07-19 16:44:44,149 - INFO - Cached 2 new images for catalogue code: X1-00235
+2025-07-19 16:44:45,844 - INFO - Updating existing product (ID: 46171)...
+2025-07-19 16:44:48,120 - INFO - ✅ Successfully synced product SKU: P00574 (ID: 46171)
+2025-07-19 16:44:48,121 - INFO - Updating SEO for product 46171 via custom endpoint...
+2025-07-19 16:44:49,637 - INFO - ✅ Successfully updated SEO for product 46171.
+2025-07-19 16:44:49,639 - INFO - [142/183] -------------------------
+2025-07-19 16:44:49,846 - INFO - Processing Item SKU: P00575 -> Catalogue: Sun Squad Blue Inflatable Swim Tube With Handles, 36 Inch Diameter (S1-00006)
+2025-07-19 16:44:54,704 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-blue-inflatable-swim-tube-with-handles-3-1.webp' (ID: 46862)
+2025-07-19 16:44:55,209 - INFO - Cached 1 new images for catalogue code: S1-00006
+2025-07-19 16:44:56,763 - INFO - Updating existing product (ID: 45462)...
+2025-07-19 16:44:58,831 - INFO - ✅ Successfully synced product SKU: P00575 (ID: 45462)
+2025-07-19 16:44:58,832 - INFO - Updating SEO for product 45462 via custom endpoint...
+2025-07-19 16:45:00,408 - INFO - ✅ Successfully updated SEO for product 45462.
+2025-07-19 16:45:00,411 - INFO - [143/183] -------------------------
+2025-07-19 16:45:00,528 - INFO - Processing Item SKU: P00576 -> Catalogue: Inflatable Round Swim Tube Pool Float Inner Tube Rainbow Summer Beach Lake 31” (S1-00005)
+2025-07-19 16:45:06,306 - INFO - ✅ Uploaded image and full metadata: 'inflatable-round-swim-tube-pool-float-inner-tube-r-1.webp' (ID: 46863)
+2025-07-19 16:45:06,811 - INFO - Cached 1 new images for catalogue code: S1-00005
+2025-07-19 16:45:08,250 - INFO - Updating existing product (ID: 45464)...
+2025-07-19 16:45:10,517 - INFO - ✅ Successfully synced product SKU: P00576 (ID: 45464)
+2025-07-19 16:45:10,518 - INFO - Updating SEO for product 45464 via custom endpoint...
+2025-07-19 16:45:12,043 - INFO - ✅ Successfully updated SEO for product 45464.
+2025-07-19 16:45:12,044 - INFO - [144/183] -------------------------
+2025-07-19 16:45:12,185 - INFO - Processing Item SKU: P00577 -> Catalogue: Sun Squad Inflatable swim tube 31 inch (S1-00004)
+2025-07-19 16:45:16,904 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-inflatable-swim-tube-31-inch-1.webp' (ID: 46864)
+2025-07-19 16:45:17,409 - INFO - Cached 1 new images for catalogue code: S1-00004
+2025-07-19 16:45:19,046 - INFO - Updating existing product (ID: 45466)...
+2025-07-19 16:45:21,120 - INFO - ✅ Successfully synced product SKU: P00577 (ID: 45466)
+2025-07-19 16:45:21,121 - INFO - Updating SEO for product 45466 via custom endpoint...
+2025-07-19 16:45:22,664 - INFO - ✅ Successfully updated SEO for product 45466.
+2025-07-19 16:45:22,666 - INFO - [145/183] -------------------------
+2025-07-19 16:45:22,787 - INFO - Processing Item SKU: P00578 -> Catalogue: Sun Squad 36" Inflatable Retro Palm Tree Design Swin Tube with Handles (S1-00003)
+2025-07-19 16:45:27,349 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-36-inflatable-retro-palm-tree-design-swi-1.webp' (ID: 46865)
+2025-07-19 16:45:27,855 - INFO - Cached 1 new images for catalogue code: S1-00003
+2025-07-19 16:45:29,268 - INFO - Updating existing product (ID: 45468)...
+2025-07-19 16:45:31,559 - INFO - ✅ Successfully synced product SKU: P00578 (ID: 45468)
+2025-07-19 16:45:31,559 - INFO - Updating SEO for product 45468 via custom endpoint...
+2025-07-19 16:45:33,033 - INFO - ✅ Successfully updated SEO for product 45468.
+2025-07-19 16:45:33,035 - INFO - [146/183] -------------------------
+2025-07-19 16:45:33,168 - INFO - Processing Item SKU: P00579 -> Catalogue: Speedo Splash Jammer Life Jacket Swim Vest Kids Weight 33-55 lbs Dinosaur (S1-00002)
+2025-07-19 16:45:37,796 - INFO - ✅ Uploaded image and full metadata: 'speedo-splash-jammer-life-jacket-swim-vest-kids-we-1.webp' (ID: 46866)
+2025-07-19 16:45:42,990 - INFO - ✅ Uploaded image and full metadata: 'speedo-splash-jammer-life-jacket-swim-vest-kids-we-2.webp' (ID: 46867)
+2025-07-19 16:45:43,496 - INFO - Cached 2 new images for catalogue code: S1-00002
+2025-07-19 16:45:45,058 - INFO - Updating existing product (ID: 45471)...
+2025-07-19 16:45:47,074 - INFO - ✅ Successfully synced product SKU: P00579 (ID: 45471)
+2025-07-19 16:45:47,075 - INFO - Updating SEO for product 45471 via custom endpoint...
+2025-07-19 16:45:48,514 - INFO - ✅ Successfully updated SEO for product 45471.
+2025-07-19 16:45:48,517 - INFO - [147/183] -------------------------
+2025-07-19 16:45:48,642 - INFO - Processing Item SKU: P00585 -> Catalogue: Sun Squad- Inflatable Swim Tube Ice Cream Cone Blue 31" Summer Pool (X1-00272)
+2025-07-19 16:45:53,407 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-inflatable-swim-tube-ice-cream-cone-blue-1.webp' (ID: 46868)
+2025-07-19 16:45:53,911 - INFO - Cached 1 new images for catalogue code: X1-00272
+2025-07-19 16:45:55,463 - INFO - Product with SKU 'P00585' not found. Attempting to create new product...
+2025-07-19 16:45:57,437 - INFO - ✅ Successfully synced product SKU: P00585 (ID: 46869)
+2025-07-19 16:45:57,437 - INFO - Updating SEO for product 46869 via custom endpoint...
+2025-07-19 16:45:58,877 - INFO - ✅ Successfully updated SEO for product 46869.
+2025-07-19 16:45:58,879 - INFO - [148/183] -------------------------
+2025-07-19 16:45:59,036 - INFO - Processing Item SKU: P00586 -> Catalogue: CRAFTSMAN V20 4 Ah 20 volts Lithium-Ion Batteries with 3-LED Light Indicator - 2/Pack (X1-00238)
+2025-07-19 16:46:03,650 - INFO - ✅ Uploaded image and full metadata: 'craftsman-v20-4-ah-20-volts-lithium-ion-batteries--1.webp' (ID: 46870)
+2025-07-19 16:46:04,156 - INFO - Cached 1 new images for catalogue code: X1-00238
+2025-07-19 16:46:05,744 - INFO - Updating existing product (ID: 46179)...
+2025-07-19 16:46:07,820 - INFO - ✅ Successfully synced product SKU: P00586 (ID: 46179)
+2025-07-19 16:46:07,821 - INFO - Updating SEO for product 46179 via custom endpoint...
+2025-07-19 16:46:09,265 - INFO - ✅ Successfully updated SEO for product 46179.
+2025-07-19 16:46:09,268 - INFO - [149/183] -------------------------
+2025-07-19 16:46:09,399 - INFO - Processing Item SKU: P00588 -> Catalogue: Insinkerator Sink Top Switch (X1-00515)
+2025-07-19 16:46:15,021 - INFO - ✅ Uploaded image and full metadata: 'insinkerator-sink-top-switch-1.webp' (ID: 46872)
+2025-07-19 16:46:15,524 - INFO - Cached 1 new images for catalogue code: X1-00515
+2025-07-19 16:46:17,042 - INFO - Updating existing product (ID: 46181)...
+2025-07-19 16:46:19,160 - INFO - ✅ Successfully synced product SKU: P00588 (ID: 46181)
+2025-07-19 16:46:19,160 - INFO - Updating SEO for product 46181 via custom endpoint...
+2025-07-19 16:46:20,687 - INFO - ✅ Successfully updated SEO for product 46181.
+2025-07-19 16:46:20,689 - INFO - [150/183] -------------------------
+2025-07-19 16:46:20,819 - INFO - Processing Item SKU: P00589 -> Catalogue: CRAFTSMAN V20 Craftsman Battery, 9.0-Ah (CMCB209) (X1-00589)
+2025-07-19 16:46:25,468 - INFO - ✅ Uploaded image and full metadata: 'craftsman-v20-craftsman-battery-90-ah-cmcb209-1.webp' (ID: 46873)
+2025-07-19 16:46:25,974 - INFO - Cached 1 new images for catalogue code: X1-00589
+2025-07-19 16:46:27,488 - INFO - Updating existing product (ID: 46183)...
+2025-07-19 16:46:29,681 - INFO - ✅ Successfully synced product SKU: P00589 (ID: 46183)
+2025-07-19 16:46:29,682 - INFO - Updating SEO for product 46183 via custom endpoint...
+2025-07-19 16:46:31,187 - INFO - ✅ Successfully updated SEO for product 46183.
+2025-07-19 16:46:31,189 - INFO - [151/183] -------------------------
+2025-07-19 16:46:31,304 - INFO - Processing Item SKU: P00590 -> Catalogue: Combo Touch for iPad Pro (X1-00735)
+2025-07-19 16:46:35,910 - INFO - ✅ Uploaded image and full metadata: 'combo-touch-for-ipad-pro-1.webp' (ID: 46874)
+2025-07-19 16:46:41,120 - INFO - ✅ Uploaded image and full metadata: 'combo-touch-for-ipad-pro-2.webp' (ID: 46875)
+2025-07-19 16:46:41,626 - INFO - Cached 2 new images for catalogue code: X1-00735
+2025-07-19 16:46:42,999 - INFO - Updating existing product (ID: 46186)...
+2025-07-19 16:46:45,031 - INFO - ✅ Successfully synced product SKU: P00590 (ID: 46186)
+2025-07-19 16:46:45,032 - INFO - Updating SEO for product 46186 via custom endpoint...
+2025-07-19 16:46:46,570 - INFO - ✅ Successfully updated SEO for product 46186.
+2025-07-19 16:46:46,573 - INFO - [152/183] -------------------------
+2025-07-19 16:46:46,753 - INFO - Processing Item SKU: P00592 -> Catalogue: iPad magic keyboard folio (X1-00569)
+2025-07-19 16:46:51,353 - INFO - ✅ Uploaded image and full metadata: 'ipad-magic-keyboard-folio-1.webp' (ID: 46876)
+2025-07-19 16:46:56,638 - INFO - ✅ Uploaded image and full metadata: 'ipad-magic-keyboard-folio-2.webp' (ID: 46877)
+2025-07-19 16:46:57,141 - INFO - Cached 2 new images for catalogue code: X1-00569
+2025-07-19 16:46:58,707 - INFO - Updating existing product (ID: 46189)...
+2025-07-19 16:47:00,993 - INFO - ✅ Successfully synced product SKU: P00592 (ID: 46189)
+2025-07-19 16:47:00,994 - INFO - Updating SEO for product 46189 via custom endpoint...
+2025-07-19 16:47:02,572 - INFO - ✅ Successfully updated SEO for product 46189.
+2025-07-19 16:47:02,574 - INFO - [153/183] -------------------------
+2025-07-19 16:47:02,758 - INFO - Processing Item SKU: P00612 -> Catalogue: Squishmallows Hello Kitty Hugmees 10'' Plush NWT Soft  (T1-00003)
+2025-07-19 16:47:02,760 - INFO - Creating new categories: 'Stuffed Animals & Plush'
+2025-07-19 16:47:04,186 - WARNING - Term 'Stuffed Animals & Plush' already exists with ID: 5892. Using existing ID.
+2025-07-19 16:47:09,094 - INFO - ✅ Uploaded image and full metadata: 'squishmallows-hello-kitty-hugmees-10-plush-nwt-sof-1.webp' (ID: 46878)
+2025-07-19 16:47:09,600 - INFO - Cached 1 new images for catalogue code: T1-00003
+2025-07-19 16:47:11,072 - INFO - Updating existing product (ID: 45473)...
+2025-07-19 16:47:13,089 - INFO - ✅ Successfully synced product SKU: P00612 (ID: 45473)
+2025-07-19 16:47:13,091 - INFO - [154/183] -------------------------
+2025-07-19 16:47:13,238 - INFO - Processing Item SKU: P00619 -> Catalogue: Sun Bum Heat Protector Spray | Vegan and Cruelty Free Hair Protecting Spray for All Hair Types | 6 Oz, 6 ounces (X1-00220)
+2025-07-19 16:47:18,649 - INFO - ✅ Uploaded image and full metadata: 'sun-bum-heat-protector-spray-vegan-and-cruelty-fre-1.webp' (ID: 46879)
+2025-07-19 16:47:24,077 - INFO - ✅ Uploaded image and full metadata: 'sun-bum-heat-protector-spray-vegan-and-cruelty-fre-2.webp' (ID: 46880)
+2025-07-19 16:47:29,401 - INFO - ✅ Uploaded image and full metadata: 'sun-bum-heat-protector-spray-vegan-and-cruelty-fre-3.webp' (ID: 46881)
+2025-07-19 16:47:29,905 - INFO - Cached 3 new images for catalogue code: X1-00220
+2025-07-19 16:47:31,497 - INFO - Product with SKU 'P00619' not found. Attempting to create new product...
+2025-07-19 16:47:33,710 - INFO - ✅ Successfully synced product SKU: P00619 (ID: 46882)
+2025-07-19 16:47:33,711 - INFO - Updating SEO for product 46882 via custom endpoint...
+2025-07-19 16:47:35,256 - INFO - ✅ Successfully updated SEO for product 46882.
+2025-07-19 16:47:35,259 - INFO - [155/183] -------------------------
+2025-07-19 16:47:35,436 - INFO - Processing Item SKU: P00620 -> Catalogue: Native Strengthening Conditioner, Almond & Shea, Sulfate & Paraben Free, 487mL (X1-00767)
+2025-07-19 16:47:40,158 - INFO - ✅ Uploaded image and full metadata: 'native-strengthening-conditioner-almond-shea-sulfa-1.webp' (ID: 46883)
+2025-07-19 16:47:45,764 - INFO - ✅ Uploaded image and full metadata: 'native-strengthening-conditioner-almond-shea-sulfa-2.webp' (ID: 46884)
+2025-07-19 16:47:51,129 - INFO - ✅ Uploaded image and full metadata: 'native-strengthening-conditioner-almond-shea-sulfa-3.webp' (ID: 46885)
+2025-07-19 16:47:51,633 - INFO - Cached 3 new images for catalogue code: X1-00767
+2025-07-19 16:47:53,107 - INFO - Product with SKU 'P00620' not found. Attempting to create new product...
+2025-07-19 16:47:55,277 - INFO - ✅ Successfully synced product SKU: P00620 (ID: 46886)
+2025-07-19 16:47:55,278 - INFO - Updating SEO for product 46886 via custom endpoint...
+2025-07-19 16:47:56,807 - INFO - ✅ Successfully updated SEO for product 46886.
+2025-07-19 16:47:56,809 - INFO - [156/183] -------------------------
+2025-07-19 16:47:56,967 - INFO - Processing Item SKU: P00621 -> Catalogue: Native Strengthening Conditioner, Almond & Shea, Sulfate & Paraben Free, 487mL (X1-00767)
+2025-07-19 16:47:56,968 - INFO - Using cached images for catalogue code: X1-00767
+2025-07-19 16:47:58,430 - INFO - Product with SKU 'P00621' not found. Attempting to create new product...
+2025-07-19 16:48:00,691 - INFO - ✅ Successfully synced product SKU: P00621 (ID: 46887)
+2025-07-19 16:48:00,692 - INFO - Updating SEO for product 46887 via custom endpoint...
+2025-07-19 16:48:02,204 - INFO - ✅ Successfully updated SEO for product 46887.
+2025-07-19 16:48:02,206 - INFO - [157/183] -------------------------
+2025-07-19 16:48:02,324 - INFO - Processing Item SKU: P00622 -> Catalogue: Function of Beauty Customizable Leave In Conditioner for Curly Hair, 7 oz Each (2-Pack) - Sulfate Free Conditioner with Mango Butter Hydrates, De-Frizzes and Defines Curls (X1-00673)
+2025-07-19 16:48:07,650 - INFO - ✅ Uploaded image and full metadata: 'function-of-beauty-customizable-leave-in-condition-1.webp' (ID: 46888)
+2025-07-19 16:48:12,965 - INFO - ✅ Uploaded image and full metadata: 'function-of-beauty-customizable-leave-in-condition-2.webp' (ID: 46889)
+2025-07-19 16:48:18,436 - INFO - ✅ Uploaded image and full metadata: 'function-of-beauty-customizable-leave-in-condition-3.webp' (ID: 46890)
+2025-07-19 16:48:18,942 - INFO - Cached 3 new images for catalogue code: X1-00673
+2025-07-19 16:48:20,433 - INFO - Product with SKU 'P00622' not found. Attempting to create new product...
+2025-07-19 16:48:22,554 - INFO - ✅ Successfully synced product SKU: P00622 (ID: 46891)
+2025-07-19 16:48:22,554 - INFO - Updating SEO for product 46891 via custom endpoint...
+2025-07-19 16:48:24,006 - INFO - ✅ Successfully updated SEO for product 46891.
+2025-07-19 16:48:24,007 - INFO - [158/183] -------------------------
+2025-07-19 16:48:24,160 - INFO - Processing Item SKU: P00623 -> Catalogue: Function of Beauty Customizable Super Shape Curl Cream for Curly Hair, 7 oz Each (2-Pack) - Formulated With Moringa Oil for Frizz-Free, Defined and Hydrated Manageable Curls (X1-00271)
+2025-07-19 16:48:29,734 - INFO - ✅ Uploaded image and full metadata: 'function-of-beauty-customizable-super-shape-curl-c-1.webp' (ID: 46892)
+2025-07-19 16:48:35,010 - INFO - ✅ Uploaded image and full metadata: 'function-of-beauty-customizable-super-shape-curl-c-2.webp' (ID: 46893)
+2025-07-19 16:48:35,515 - INFO - Cached 2 new images for catalogue code: X1-00271
+2025-07-19 16:48:37,042 - INFO - Updating existing product (ID: 45476)...
+2025-07-19 16:48:39,046 - INFO - ✅ Successfully synced product SKU: P00623 (ID: 45476)
+2025-07-19 16:48:39,047 - INFO - Updating SEO for product 45476 via custom endpoint...
+2025-07-19 16:48:40,587 - INFO - ✅ Successfully updated SEO for product 45476.
+2025-07-19 16:48:40,588 - INFO - [159/183] -------------------------
+2025-07-19 16:48:40,749 - INFO - Processing Item SKU: P00624 -> Catalogue: Maui Moisture Scalp Care Clarifying Shampoo (X1-00336)
+2025-07-19 16:48:45,222 - INFO - ✅ Uploaded image and full metadata: 'maui-moisture-scalp-care-clarifying-shampoo-1.webp' (ID: 46894)
+2025-07-19 16:48:50,331 - INFO - ✅ Uploaded image and full metadata: 'maui-moisture-scalp-care-clarifying-shampoo-2.webp' (ID: 46895)
+2025-07-19 16:48:50,835 - INFO - Cached 2 new images for catalogue code: X1-00336
+2025-07-19 16:48:52,333 - INFO - Product with SKU 'P00624' not found. Attempting to create new product...
+2025-07-19 16:48:54,390 - INFO - ✅ Successfully synced product SKU: P00624 (ID: 46896)
+2025-07-19 16:48:54,391 - INFO - Updating SEO for product 46896 via custom endpoint...
+2025-07-19 16:48:55,866 - INFO - ✅ Successfully updated SEO for product 46896.
+2025-07-19 16:48:55,868 - INFO - [160/183] -------------------------
+2025-07-19 16:48:56,090 - INFO - Processing Item SKU: P00625 -> Catalogue: Sun Bum Beach Formula Revitalizing Shampoo, Hydrating, Smoothing and Shine Enhancing, Paraben Free, Gluten Free, Vegan, UV Protection, 300 mL Bottle, 1 Count (X1-00414)
+2025-07-19 16:49:00,941 - INFO - ✅ Uploaded image and full metadata: 'sun-bum-beach-formula-revitalizing-shampoo-hydrati-1.webp' (ID: 46897)
+2025-07-19 16:49:06,328 - INFO - ✅ Uploaded image and full metadata: 'sun-bum-beach-formula-revitalizing-shampoo-hydrati-2.webp' (ID: 46898)
+2025-07-19 16:49:06,834 - INFO - Cached 2 new images for catalogue code: X1-00414
+2025-07-19 16:49:08,366 - INFO - Product with SKU 'P00625' not found. Attempting to create new product...
+2025-07-19 16:49:10,569 - INFO - ✅ Successfully synced product SKU: P00625 (ID: 46899)
+2025-07-19 16:49:10,570 - INFO - Updating SEO for product 46899 via custom endpoint...
+2025-07-19 16:49:12,063 - INFO - ✅ Successfully updated SEO for product 46899.
+2025-07-19 16:49:12,065 - INFO - [161/183] -------------------------
+2025-07-19 16:49:12,311 - INFO - Processing Item SKU: P00627 -> Catalogue: Damage Repair Conditioner (X1-00312)
+2025-07-19 16:49:16,955 - INFO - ✅ Uploaded image and full metadata: 'damage-repair-conditioner-1.webp' (ID: 46900)
+2025-07-19 16:49:22,365 - INFO - ✅ Uploaded image and full metadata: 'damage-repair-conditioner-2.webp' (ID: 46901)
+2025-07-19 16:49:22,870 - INFO - Cached 2 new images for catalogue code: X1-00312
+2025-07-19 16:49:24,372 - INFO - Product with SKU 'P00627' not found. Attempting to create new product...
+2025-07-19 16:49:26,461 - INFO - ✅ Successfully synced product SKU: P00627 (ID: 46902)
+2025-07-19 16:49:26,462 - INFO - Updating SEO for product 46902 via custom endpoint...
+2025-07-19 16:49:28,028 - INFO - ✅ Successfully updated SEO for product 46902.
+2025-07-19 16:49:28,030 - INFO - [162/183] -------------------------
+2025-07-19 16:49:28,202 - INFO - Processing Item SKU: P00628 -> Catalogue: Damage Repair Shampoo (X1-00306)
+2025-07-19 16:49:33,916 - INFO - ✅ Uploaded image and full metadata: 'damage-repair-shampoo-1.webp' (ID: 46903)
+2025-07-19 16:49:39,167 - INFO - ✅ Uploaded image and full metadata: 'damage-repair-shampoo-2.webp' (ID: 46904)
+2025-07-19 16:49:39,672 - INFO - Cached 2 new images for catalogue code: X1-00306
+2025-07-19 16:49:41,084 - INFO - Product with SKU 'P00628' not found. Attempting to create new product...
+2025-07-19 16:49:43,156 - INFO - ✅ Successfully synced product SKU: P00628 (ID: 46905)
+2025-07-19 16:49:43,157 - INFO - Updating SEO for product 46905 via custom endpoint...
+2025-07-19 16:49:44,715 - INFO - ✅ Successfully updated SEO for product 46905.
+2025-07-19 16:49:44,716 - INFO - [163/183] -------------------------
+2025-07-19 16:49:44,868 - INFO - Processing Item SKU: P00632 -> Catalogue: Clear Bathroom Shower Curtain Rings Hooks Round Snap Quality Plastic (X1-00486)
+2025-07-19 16:49:49,439 - INFO - ✅ Uploaded image and full metadata: 'clear-bathroom-shower-curtain-rings-hooks-round-sn-1.webp' (ID: 46906)
+2025-07-19 16:49:49,944 - INFO - Cached 1 new images for catalogue code: X1-00486
+2025-07-19 16:49:51,485 - INFO - Product with SKU 'P00632' not found. Attempting to create new product...
+2025-07-19 16:49:53,526 - INFO - ✅ Successfully synced product SKU: P00632 (ID: 46907)
+2025-07-19 16:49:53,527 - INFO - Updating SEO for product 46907 via custom endpoint...
+2025-07-19 16:49:55,058 - INFO - ✅ Successfully updated SEO for product 46907.
+2025-07-19 16:49:55,060 - INFO - [164/183] -------------------------
+2025-07-19 16:49:55,218 - INFO - Processing Item SKU: P00643 -> Catalogue: e.l.f. SKIN Mini Holy Hydration! Makeup Melting Cleansing Balm, Face Cleanser & Makeup Remover, Infused with Hyaluronic Acid to Hydrate Skin, 0.45 Oz (X1-00527)
+2025-07-19 16:49:59,660 - INFO - ✅ Uploaded image and full metadata: 'elf-skin-mini-holy-hydration-makeup-melting-cleans-1.webp' (ID: 46908)
+2025-07-19 16:50:00,165 - INFO - Cached 1 new images for catalogue code: X1-00527
+2025-07-19 16:50:01,813 - INFO - Product with SKU 'P00643' not found. Attempting to create new product...
+2025-07-19 16:50:03,970 - INFO - ✅ Successfully synced product SKU: P00643 (ID: 46909)
+2025-07-19 16:50:03,971 - INFO - Updating SEO for product 46909 via custom endpoint...
+2025-07-19 16:50:05,590 - INFO - ✅ Successfully updated SEO for product 46909.
+2025-07-19 16:50:05,592 - INFO - [165/183] -------------------------
+2025-07-19 16:50:05,724 - INFO - Processing Item SKU: P00651 -> Catalogue: ECOCO Eco Style Gel, Olive, 32 Ounce (X1-00196)
+2025-07-19 16:50:10,600 - INFO - ✅ Uploaded image and full metadata: 'ecoco-eco-style-gel-olive-32-ounce-1.webp' (ID: 46910)
+2025-07-19 16:50:15,816 - INFO - ✅ Uploaded image and full metadata: 'ecoco-eco-style-gel-olive-32-ounce-2.webp' (ID: 46911)
+2025-07-19 16:50:21,246 - INFO - ✅ Uploaded image and full metadata: 'ecoco-eco-style-gel-olive-32-ounce-3.webp' (ID: 46912)
+2025-07-19 16:50:21,751 - INFO - Cached 3 new images for catalogue code: X1-00196
+2025-07-19 16:50:23,240 - INFO - Product with SKU 'P00651' not found. Attempting to create new product...
+2025-07-19 16:50:25,428 - INFO - ✅ Successfully synced product SKU: P00651 (ID: 46913)
+2025-07-19 16:50:25,429 - INFO - [166/183] -------------------------
+2025-07-19 16:50:25,616 - INFO - Processing Item SKU: P00652 -> Catalogue: Got2B Glued Bonding Glue, 6 oz (X1-00714)
+2025-07-19 16:50:30,278 - INFO - ✅ Uploaded image and full metadata: 'got2b-glued-bonding-glue-6-oz-1.webp' (ID: 46914)
+2025-07-19 16:50:36,552 - INFO - ✅ Uploaded image and full metadata: 'got2b-glued-bonding-glue-6-oz-2.webp' (ID: 46915)
+2025-07-19 16:50:41,784 - INFO - ✅ Uploaded image and full metadata: 'got2b-glued-bonding-glue-6-oz-3.webp' (ID: 46916)
+2025-07-19 16:50:42,290 - INFO - Cached 3 new images for catalogue code: X1-00714
+2025-07-19 16:50:43,784 - INFO - Product with SKU 'P00652' not found. Attempting to create new product...
+2025-07-19 16:50:45,831 - INFO - ✅ Successfully synced product SKU: P00652 (ID: 46917)
+2025-07-19 16:50:45,831 - INFO - Updating SEO for product 46917 via custom endpoint...
+2025-07-19 16:50:47,346 - INFO - ✅ Successfully updated SEO for product 46917.
+2025-07-19 16:50:47,348 - INFO - [167/183] -------------------------
+2025-07-19 16:50:47,475 - INFO - Processing Item SKU: P00659 -> Catalogue: Function of Beauty Clean Slate Clarifying Shampoo (X1-00571)
+2025-07-19 16:50:52,509 - INFO - ✅ Uploaded image and full metadata: 'function-of-beauty-clean-slate-clarifying-shampoo-1.webp' (ID: 46918)
+2025-07-19 16:50:57,877 - INFO - ✅ Uploaded image and full metadata: 'function-of-beauty-clean-slate-clarifying-shampoo-2.webp' (ID: 46919)
+2025-07-19 16:51:03,458 - INFO - ✅ Uploaded image and full metadata: 'function-of-beauty-clean-slate-clarifying-shampoo-3.webp' (ID: 46920)
+2025-07-19 16:51:03,963 - INFO - Cached 3 new images for catalogue code: X1-00571
+2025-07-19 16:51:05,381 - INFO - Product with SKU 'P00659' not found. Attempting to create new product...
+2025-07-19 16:51:07,464 - INFO - ✅ Successfully synced product SKU: P00659 (ID: 46921)
+2025-07-19 16:51:07,465 - INFO - Updating SEO for product 46921 via custom endpoint...
+2025-07-19 16:51:08,875 - INFO - ✅ Successfully updated SEO for product 46921.
+2025-07-19 16:51:08,878 - INFO - [168/183] -------------------------
+2025-07-19 16:51:09,016 - INFO - Processing Item SKU: P00660 -> Catalogue: Eva NYC - Tones Brightens Softens Tone It Blonde Shampoo.  (X1-00588)
+2025-07-19 16:51:13,739 - INFO - ✅ Uploaded image and full metadata: 'eva-nyc-tones-brightens-softens-tone-it-blonde-sha-1.webp' (ID: 46922)
+2025-07-19 16:51:19,057 - INFO - ✅ Uploaded image and full metadata: 'eva-nyc-tones-brightens-softens-tone-it-blonde-sha-2.webp' (ID: 46923)
+2025-07-19 16:51:19,561 - INFO - Cached 2 new images for catalogue code: X1-00588
+2025-07-19 16:51:20,996 - INFO - Updating existing product (ID: 45479)...
+2025-07-19 16:51:23,192 - INFO - ✅ Successfully synced product SKU: P00660 (ID: 45479)
+2025-07-19 16:51:23,194 - INFO - Updating SEO for product 45479 via custom endpoint...
+2025-07-19 16:51:25,009 - INFO - ✅ Successfully updated SEO for product 45479.
+2025-07-19 16:51:25,011 - INFO - [169/183] -------------------------
+2025-07-19 16:51:25,152 - INFO - Processing Item SKU: P00663 -> Catalogue: Function of Beauty In Hot Pursuit Custom Heat Protectant Styling Primer with Artichoke Leaf Extract - 7 fl oz (X1-00293)
+2025-07-19 16:51:29,923 - INFO - ✅ Uploaded image and full metadata: 'function-of-beauty-in-hot-pursuit-custom-heat-prot-1.webp' (ID: 46924)
+2025-07-19 16:51:35,356 - INFO - ✅ Uploaded image and full metadata: 'function-of-beauty-in-hot-pursuit-custom-heat-prot-2.webp' (ID: 46925)
+2025-07-19 16:51:41,543 - INFO - ✅ Uploaded image and full metadata: 'function-of-beauty-in-hot-pursuit-custom-heat-prot-3.webp' (ID: 46926)
+2025-07-19 16:51:42,045 - INFO - Cached 3 new images for catalogue code: X1-00293
+2025-07-19 16:51:43,524 - INFO - Product with SKU 'P00663' not found. Attempting to create new product...
+2025-07-19 16:51:46,948 - INFO - ✅ Successfully synced product SKU: P00663 (ID: 46927)
+2025-07-19 16:51:46,948 - INFO - Updating SEO for product 46927 via custom endpoint...
+2025-07-19 16:51:48,407 - INFO - ✅ Successfully updated SEO for product 46927.
+2025-07-19 16:51:48,409 - INFO - [170/183] -------------------------
+2025-07-19 16:51:48,526 - INFO - Processing Item SKU: P00664 -> Catalogue: Nexxus Intense Bonding Treatment Amino Bond for Stronger, More Damage-Resistant Hair, with Amino Acids & Keratin Protein, 5 oz (X1-00720)
+2025-07-19 16:51:52,865 - INFO - ✅ Uploaded image and full metadata: 'nexxus-intense-bonding-treatment-amino-bond-for-st-1.webp' (ID: 46928)
+2025-07-19 16:51:58,137 - INFO - ✅ Uploaded image and full metadata: 'nexxus-intense-bonding-treatment-amino-bond-for-st-2.webp' (ID: 46929)
+2025-07-19 16:52:03,597 - INFO - ✅ Uploaded image and full metadata: 'nexxus-intense-bonding-treatment-amino-bond-for-st-3.webp' (ID: 46930)
+2025-07-19 16:52:04,100 - INFO - Cached 3 new images for catalogue code: X1-00720
+2025-07-19 16:52:05,589 - INFO - Product with SKU 'P00664' not found. Attempting to create new product...
+2025-07-19 16:52:08,450 - INFO - ✅ Successfully synced product SKU: P00664 (ID: 46931)
+2025-07-19 16:52:08,451 - INFO - Updating SEO for product 46931 via custom endpoint...
+2025-07-19 16:52:09,956 - INFO - ✅ Successfully updated SEO for product 46931.
+2025-07-19 16:52:09,959 - INFO - [171/183] -------------------------
+2025-07-19 16:52:10,149 - INFO - Processing Item SKU: P00666 -> Catalogue: Nexxus, Clean & Pure Exfoliating Scrub, Hair Scrub, Removes Impurities, Product Residue, Sebum & Oils, Elastin & Marine Mineral Based Formula, Leather Purifying Scrub (X1-00656)
+2025-07-19 16:52:14,910 - INFO - ✅ Uploaded image and full metadata: 'nexxus-clean-pure-exfoliating-scrub-hair-scrub-rem-1.webp' (ID: 46932)
+2025-07-19 16:52:20,204 - INFO - ✅ Uploaded image and full metadata: 'nexxus-clean-pure-exfoliating-scrub-hair-scrub-rem-2.webp' (ID: 46933)
+2025-07-19 16:52:25,258 - INFO - ✅ Uploaded image and full metadata: 'nexxus-clean-pure-exfoliating-scrub-hair-scrub-rem-3.webp' (ID: 46934)
+2025-07-19 16:52:25,761 - INFO - Cached 3 new images for catalogue code: X1-00656
+2025-07-19 16:52:27,249 - INFO - Product with SKU 'P00666' not found. Attempting to create new product...
+2025-07-19 16:52:30,034 - INFO - ✅ Successfully synced product SKU: P00666 (ID: 46935)
+2025-07-19 16:52:30,035 - INFO - Updating SEO for product 46935 via custom endpoint...
+2025-07-19 16:52:31,532 - INFO - ✅ Successfully updated SEO for product 46935.
+2025-07-19 16:52:31,533 - INFO - [172/183] -------------------------
+2025-07-19 16:52:31,690 - INFO - Processing Item SKU: P00667 -> Catalogue: Function of Beauty Curly Hair Mask Base with Coconut Oil, 6.5 fl oz (X1-00703)
+2025-07-19 16:52:36,477 - INFO - ✅ Uploaded image and full metadata: 'function-of-beauty-curly-hair-mask-base-with-cocon-1.webp' (ID: 46936)
+2025-07-19 16:52:42,739 - INFO - ✅ Uploaded image and full metadata: 'function-of-beauty-curly-hair-mask-base-with-cocon-2.webp' (ID: 46937)
+2025-07-19 16:52:43,243 - INFO - Cached 2 new images for catalogue code: X1-00703
+2025-07-19 16:52:44,698 - INFO - Product with SKU 'P00667' not found. Attempting to create new product...
+2025-07-19 16:52:47,535 - INFO - ✅ Successfully synced product SKU: P00667 (ID: 46938)
+2025-07-19 16:52:47,535 - INFO - Updating SEO for product 46938 via custom endpoint...
+2025-07-19 16:52:49,054 - INFO - ✅ Successfully updated SEO for product 46938.
+2025-07-19 16:52:49,056 - INFO - [173/183] -------------------------
+2025-07-19 16:52:49,204 - INFO - Processing Item SKU: P00673 -> Catalogue: Eva NYC Mane Magic 10-in-1 Split End Mender Hair Treatment, 4 Fl Oz, Repairs ends for healthier, stronger & Damaged hair, GMO, Cruelty-Free (X1-00637)
+2025-07-19 16:52:53,876 - INFO - ✅ Uploaded image and full metadata: 'eva-nyc-mane-magic-10-in-1-split-end-mender-hair-t-1.webp' (ID: 46939)
+2025-07-19 16:52:59,064 - INFO - ✅ Uploaded image and full metadata: 'eva-nyc-mane-magic-10-in-1-split-end-mender-hair-t-2.webp' (ID: 46940)
+2025-07-19 16:53:04,322 - INFO - ✅ Uploaded image and full metadata: 'eva-nyc-mane-magic-10-in-1-split-end-mender-hair-t-3.webp' (ID: 46941)
+2025-07-19 16:53:04,823 - INFO - Cached 3 new images for catalogue code: X1-00637
+2025-07-19 16:53:06,293 - INFO - Product with SKU 'P00673' not found. Attempting to create new product...
+2025-07-19 16:53:09,026 - INFO - ✅ Successfully synced product SKU: P00673 (ID: 46942)
+2025-07-19 16:53:09,027 - INFO - Updating SEO for product 46942 via custom endpoint...
+2025-07-19 16:53:10,542 - INFO - ✅ Successfully updated SEO for product 46942.
+2025-07-19 16:53:10,543 - INFO - [174/183] -------------------------
+2025-07-19 16:53:10,790 - INFO - Processing Item SKU: P00674 -> Catalogue: Nexxus Heat Defense Spray Prep & Protect for 450 degree heat protection, with StyleProtect Technology 177mL (X1-00433)
+2025-07-19 16:53:15,106 - INFO - ✅ Uploaded image and full metadata: 'nexxus-heat-defense-spray-prep-protect-for-450-deg-1.webp' (ID: 46943)
+2025-07-19 16:53:20,306 - INFO - ✅ Uploaded image and full metadata: 'nexxus-heat-defense-spray-prep-protect-for-450-deg-2.webp' (ID: 46944)
+2025-07-19 16:53:25,563 - INFO - ✅ Uploaded image and full metadata: 'nexxus-heat-defense-spray-prep-protect-for-450-deg-3.webp' (ID: 46945)
+2025-07-19 16:53:26,065 - INFO - Cached 3 new images for catalogue code: X1-00433
+2025-07-19 16:53:27,370 - INFO - Product with SKU 'P00674' not found. Attempting to create new product...
+2025-07-19 16:53:30,616 - INFO - ✅ Successfully synced product SKU: P00674 (ID: 46946)
+2025-07-19 16:53:30,617 - INFO - Updating SEO for product 46946 via custom endpoint...
+2025-07-19 16:53:32,199 - INFO - ✅ Successfully updated SEO for product 46946.
+2025-07-19 16:53:32,200 - INFO - [175/183] -------------------------
+2025-07-19 16:53:32,327 - INFO - Processing Item SKU: P00678 -> Catalogue: Nexxus Clean & Pure Shampoo nourishes all hair types Moisture silicone free, paraben free, dye free 400 ml (X1-00660)
+2025-07-19 16:53:36,831 - INFO - ✅ Uploaded image and full metadata: 'nexxus-clean-pure-shampoo-nourishes-all-hair-types-1.webp' (ID: 46947)
+2025-07-19 16:53:42,159 - INFO - ✅ Uploaded image and full metadata: 'nexxus-clean-pure-shampoo-nourishes-all-hair-types-2.webp' (ID: 46948)
+2025-07-19 16:53:48,124 - INFO - ✅ Uploaded image and full metadata: 'nexxus-clean-pure-shampoo-nourishes-all-hair-types-3.webp' (ID: 46949)
+2025-07-19 16:53:48,628 - INFO - Cached 3 new images for catalogue code: X1-00660
+2025-07-19 16:53:50,078 - INFO - Product with SKU 'P00678' not found. Attempting to create new product...
+2025-07-19 16:53:52,299 - INFO - ✅ Successfully synced product SKU: P00678 (ID: 46950)
+2025-07-19 16:53:52,300 - INFO - Updating SEO for product 46950 via custom endpoint...
+2025-07-19 16:53:53,783 - INFO - ✅ Successfully updated SEO for product 46950.
+2025-07-19 16:53:53,784 - INFO - [176/183] -------------------------
+2025-07-19 16:53:53,941 - INFO - Processing Item SKU: P00679 -> Catalogue: Kristin Ess Hair Fragrance Free Shine Enhancing Hair Conditioner, Moisturizing, Color Safe, Vegan + Sulfate Free - 10 fl oz (X1-00234)
+2025-07-19 16:53:58,653 - INFO - ✅ Uploaded image and full metadata: 'kristin-ess-hair-fragrance-free-shine-enhancing-ha-1.webp' (ID: 46951)
+2025-07-19 16:54:03,677 - INFO - ✅ Uploaded image and full metadata: 'kristin-ess-hair-fragrance-free-shine-enhancing-ha-2.webp' (ID: 46952)
+2025-07-19 16:54:09,125 - INFO - ✅ Uploaded image and full metadata: 'kristin-ess-hair-fragrance-free-shine-enhancing-ha-3.webp' (ID: 46953)
+2025-07-19 16:54:09,629 - INFO - Cached 3 new images for catalogue code: X1-00234
+2025-07-19 16:54:11,038 - INFO - Product with SKU 'P00679' not found. Attempting to create new product...
+2025-07-19 16:54:13,097 - INFO - ✅ Successfully synced product SKU: P00679 (ID: 46954)
+2025-07-19 16:54:13,098 - INFO - Updating SEO for product 46954 via custom endpoint...
+2025-07-19 16:54:14,521 - INFO - ✅ Successfully updated SEO for product 46954.
+2025-07-19 16:54:14,523 - INFO - [177/183] -------------------------
+2025-07-19 16:54:14,650 - INFO - Processing Item SKU: P00680 -> Catalogue: Nexxus Clean & Pure Conditioner moisturizing for all hair types Moisture silicone free, paraben free, dye free 400 ml (X1-00410)
+2025-07-19 16:54:19,447 - INFO - ✅ Uploaded image and full metadata: 'nexxus-clean-pure-conditioner-moisturizing-for-all-1.webp' (ID: 46955)
+2025-07-19 16:54:24,482 - INFO - ✅ Uploaded image and full metadata: 'nexxus-clean-pure-conditioner-moisturizing-for-all-2.webp' (ID: 46956)
+2025-07-19 16:54:24,983 - INFO - Cached 2 new images for catalogue code: X1-00410
+2025-07-19 16:54:26,477 - INFO - Product with SKU 'P00680' not found. Attempting to create new product...
+2025-07-19 16:54:29,418 - INFO - ✅ Successfully synced product SKU: P00680 (ID: 46957)
+2025-07-19 16:54:29,419 - INFO - Updating SEO for product 46957 via custom endpoint...
+2025-07-19 16:54:30,888 - INFO - ✅ Successfully updated SEO for product 46957.
+2025-07-19 16:54:30,888 - INFO - [178/183] -------------------------
+2025-07-19 16:54:31,060 - INFO - Processing Item SKU: P00682 -> Catalogue: Kitsch Conditioner Bar Castor Oil 77g (X1-00415)
+2025-07-19 16:54:35,539 - INFO - ✅ Uploaded image and full metadata: 'kitsch-conditioner-bar-castor-oil-77g-1.webp' (ID: 46958)
+2025-07-19 16:54:40,536 - INFO - ✅ Uploaded image and full metadata: 'kitsch-conditioner-bar-castor-oil-77g-2.webp' (ID: 46959)
+2025-07-19 16:54:41,040 - INFO - Cached 2 new images for catalogue code: X1-00415
+2025-07-19 16:54:42,619 - INFO - Product with SKU 'P00682' not found. Attempting to create new product...
+2025-07-19 16:54:44,828 - INFO - ✅ Successfully synced product SKU: P00682 (ID: 46960)
+2025-07-19 16:54:44,828 - INFO - Updating SEO for product 46960 via custom endpoint...
+2025-07-19 16:54:46,347 - INFO - ✅ Successfully updated SEO for product 46960.
+2025-07-19 16:54:46,348 - INFO - [179/183] -------------------------
+2025-07-19 16:54:46,507 - INFO - Processing Item SKU: P00688 -> Catalogue: Band-Aid for Sensitive Skin Assorted Sizes Adhesive Bandages (X1-00494)
+2025-07-19 16:54:46,508 - INFO - Creating new categories: 'Health & Medical'
+2025-07-19 16:54:47,913 - WARNING - Term 'Health & Medical' already exists with ID: 3342. Using existing ID.
+2025-07-19 16:54:53,465 - INFO - ✅ Uploaded image and full metadata: 'band-aid-for-sensitive-skin-assorted-sizes-adhesiv-1.webp' (ID: 46961)
+2025-07-19 16:54:53,969 - INFO - Cached 1 new images for catalogue code: X1-00494
+2025-07-19 16:54:55,339 - INFO - Product with SKU 'P00688' not found. Attempting to create new product...
+2025-07-19 16:54:57,463 - INFO - ✅ Successfully synced product SKU: P00688 (ID: 46962)
+2025-07-19 16:54:57,463 - INFO - Updating SEO for product 46962 via custom endpoint...
+2025-07-19 16:54:59,031 - INFO - ✅ Successfully updated SEO for product 46962.
+2025-07-19 16:54:59,032 - INFO - [180/183] -------------------------
+2025-07-19 16:54:59,186 - INFO - Processing Item SKU: P00715 -> Catalogue: 4pc 6" Appetizer Plates Light Gray - RE (K1-00020)
+2025-07-19 16:55:04,058 - INFO - ✅ Uploaded image and full metadata: '4pc-6-appetizer-plates-light-gray-re-1.webp' (ID: 46963)
+2025-07-19 16:55:09,193 - INFO - ✅ Uploaded image and full metadata: '4pc-6-appetizer-plates-light-gray-re-2.webp' (ID: 46964)
+2025-07-19 16:55:14,789 - INFO - ✅ Uploaded image and full metadata: '4pc-6-appetizer-plates-light-gray-re-3.webp' (ID: 46965)
+2025-07-19 16:55:15,291 - INFO - Cached 3 new images for catalogue code: K1-00020
+2025-07-19 16:55:16,902 - INFO - Updating existing product (ID: 45483)...
+2025-07-19 16:55:18,969 - INFO - ✅ Successfully synced product SKU: P00715 (ID: 45483)
+2025-07-19 16:55:18,970 - INFO - [181/183] -------------------------
+2025-07-19 16:55:19,106 - INFO - Processing Item SKU: P00716 -> Catalogue: 4pc 6" Appetizer Plates black - RE (K1-00021)
+2025-07-19 16:55:23,592 - INFO - ✅ Uploaded image and full metadata: '4pc-6-appetizer-plates-black-re-1.webp' (ID: 46966)
+2025-07-19 16:55:28,672 - INFO - ✅ Uploaded image and full metadata: '4pc-6-appetizer-plates-black-re-2.webp' (ID: 46967)
+2025-07-19 16:55:33,882 - INFO - ✅ Uploaded image and full metadata: '4pc-6-appetizer-plates-black-re-3.webp' (ID: 46968)
+2025-07-19 16:55:34,387 - INFO - Cached 3 new images for catalogue code: K1-00021
+2025-07-19 16:55:35,882 - INFO - Updating existing product (ID: 45487)...
+2025-07-19 16:55:37,951 - INFO - ✅ Successfully synced product SKU: P00716 (ID: 45487)
+2025-07-19 16:55:37,952 - INFO - [182/183] -------------------------
+2025-07-19 16:55:38,118 - INFO - Processing Item SKU: P00717 -> Catalogue: Set of 3 - 26.05 fl oz Tall Tumbler - Room Essentials™ (K1-00022)
+2025-07-19 16:55:42,724 - INFO - ✅ Uploaded image and full metadata: 'set-of-3-2605-fl-oz-tall-tumbler-room-essentials-1.webp' (ID: 46969)
+2025-07-19 16:55:47,780 - INFO - ✅ Uploaded image and full metadata: 'set-of-3-2605-fl-oz-tall-tumbler-room-essentials-2.webp' (ID: 46970)
+2025-07-19 16:55:48,284 - INFO - Cached 2 new images for catalogue code: K1-00022
+2025-07-19 16:55:49,718 - INFO - Updating existing product (ID: 45490)...
+2025-07-19 16:55:51,946 - INFO - ✅ Successfully synced product SKU: P00717 (ID: 45490)
+2025-07-19 16:55:51,947 - INFO - [183/183] -------------------------
+2025-07-19 16:55:52,109 - INFO - Processing Item SKU: P00718 -> Catalogue: THRESHOLD 20oz Tumbler (K1-00023)
+2025-07-19 16:55:57,780 - INFO - ✅ Uploaded image and full metadata: 'threshold-20oz-tumbler-1.webp' (ID: 46971)
+2025-07-19 16:55:58,285 - INFO - Cached 1 new images for catalogue code: K1-00023
+2025-07-19 16:55:59,800 - INFO - Updating existing product (ID: 45492)...
+2025-07-19 16:56:02,467 - INFO - ✅ Successfully synced product SKU: P00718 (ID: 45492)
+2025-07-19 16:56:02,468 - INFO - ============================================================
+🏁 SYNC COMPLETE! ✅ Success: 183, ❌ Errors: 0
+============================================================
