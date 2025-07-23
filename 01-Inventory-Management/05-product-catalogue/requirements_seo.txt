@@ -1,0 +1,4 @@
+pyairtable
+google-generativeai
+python-dotenv
+python-wordpress-xmlrpc
