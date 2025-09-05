@@ -1,0 +1,17 @@
+Content-Length: 3173
+Accept-Ranges: bytes
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Expires: Fri, 08 Aug 2025 04:01:33 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Fri, 08 Aug 2025 04:01:33 GMT
+Vary: Accept-Encoding
+Set-Cookie: isoLoc=US_CA_t3; path=/; domain=.www.walmart.com
+Cache-Status: Hit
+Server-Timing: cdn-cache; desc=HIT
+Server-Timing: edge; dur=1
+Server-Timing: ak_p; desc="1754625693806_2917070619_794775263_63_15368_12_0_-";dur=1
+Origin-Ex: 
+Origin-Cc: 
+Strict-Transport-Security: max-age=31536000

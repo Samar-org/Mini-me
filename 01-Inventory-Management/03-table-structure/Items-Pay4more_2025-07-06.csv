@@ -1,0 +1,39 @@
+Field Name,Inferred Type
+Product Name,str
+Item Type,str
+SKU,str
+Description,str
+Photo Files,list
+Quantity,int
+Unit Retail Price,float
+Total Price,float
+Warehouse,list
+Shelf Location,str
+4more Store,str
+Created By,dict
+Created Time,str
+Last Modified By,dict
+Last modified time,str
+4more Price,float
+Brand,str
+Category,list
+Product Tags,list
+Shipping Available,bool
+Scraping Website,str
+Meta Description,str
+Meta Title,str
+Focus Keyword,str
+Product Slug,str
+Image Alt Text,str
+Product URL,str
+WC-Type,str
+Weight,str
+Dimensions,str
+Parent Category Rollup (from Category),list
+Color,str
+Woocommerce-Status,str
+Item Featured Photo copy,list
+Product SEO Title,str
+Inspected,str
+Inspection Condition,str
+Model,str

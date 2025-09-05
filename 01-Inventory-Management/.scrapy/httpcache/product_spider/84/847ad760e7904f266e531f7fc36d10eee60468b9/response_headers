@@ -1,0 +1,23 @@
+Content-Length: 21
+Accept-Ranges: bytes
+Content-Type: text/plain; charset=utf-8
+Location: /blocked?url=L2lwL0N1dHRlci0zcGstQXJlYS1hbmQtUGVyc29uYWwtUmVwZWxsZW50LVZhbHVlLVBhY2svNTA4NDI3MzkxNQ==&uuid=5de5fe93-740c-11f0-bea3-1c8973456df1&vid=&g=b
+X-Edgeconnect-Midmile-Rtt: 0
+X-Edgeconnect-Origin-Mex-Latency: 151
+Expires: Fri, 08 Aug 2025 04:01:31 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Fri, 08 Aug 2025 04:01:31 GMT
+Set-Cookie: _pxhd=74c1a2f55c4db2faaf23b951b571dbe16a4c80ddbabc9c817bd48ec65142f114:5de60372-740c-11f0-bea3-42697e2711fb; Path=/; Expires=Sat, 08 Aug 2026 04:01:31 GMT
+Set-Cookie: TS012768cf=01150cd537279eafe1ddc1fb81bba45e08637b6a85b373c821f37aba1127f02d6dd92410b8d9f743f830c17ec087d411b2d234b0a1; Path=/; Domain=.www.walmart.com;
+Set-Cookie: TS2a5e0c5c027=08ac1b1c64ab2000f2c3ef6cf741ecde2d64c2d04b80418d103188f3cc5d035622c6ea835470cc8308cc970da31130009dd141e3eb04f649051976e0dee2fc2c71bef4ef9bc8a45e78939dc59080b19d1246dca7305519356571ad1f95e08a23; Path=/
+Set-Cookie: isoLoc=US_CA_t3; path=/; domain=.www.walmart.com
+Set-Cookie: akavpau_p2=1754626291~id=0d2592e183e09bb8dacb8338a22820bf; Path=/; HttpOnly; Secure; SameSite=None
+Cache-Status: Miss
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=15
+Server-Timing: origin; dur=151
+Server-Timing: ak_p; desc="1754625691110_2917070619_794775073_16521_43248_12_17_-";dur=1
+Origin-Ex: 
+Origin-Cc: max-age=0, no-cache, no-store
+Strict-Transport-Security: max-age=31536000

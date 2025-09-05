@@ -1,0 +1,30 @@
+{
+  "timestamp": "2025-08-18T19:38:30.276194",
+  "duration_seconds": 615.14,
+  "total_products": 16,
+  "successful": 16,
+  "failed": 0,
+  "created": 15,
+  "updated": 1,
+  "skipped": 0,
+  "rate_per_second": 0.03,
+  "rate_per_minute": 1.56,
+  "caches": {
+    "categories": 392,
+    "brands": 370,
+    "tags": 1064,
+    "products": 706,
+    "image_hashes": 51
+  },
+  "orphan_images_found": 0,
+  "missing_categories": 0,
+  "sync_source": "Python",
+  "config": {
+    "batch_size": 10,
+    "max_workers": 4,
+    "image_workers": 3,
+    "delete_old_images": true,
+    "cleanup_orphans": true,
+    "update_images": false
+  }
+}

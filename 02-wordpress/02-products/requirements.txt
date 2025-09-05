@@ -1,0 +1,5 @@
+Pillow
+pyairtable
+python-dotenv
+requests
+woocommerce

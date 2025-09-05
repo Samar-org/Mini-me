@@ -1,0 +1,9 @@
+Content-Length: 2
+Server: Server
+Date: Fri, 08 Aug 2025 04:01:56 GMT
+Content-Type: application/json
+X-Amz-Rid: 402AD8ANP6QH55YAHFBN
+X-Amzn-Requestid: 88dc949e-e83b-429b-bcee-5e91085e31ba
+Location: https://www.amazon.ca/dp/B01N52QRWL?ref=cm_sw_r_cp_ud_dp_PF7RC759AJ37PBT0A4GG_1&ref_=cm_sw_r_cp_ud_dp_PF7RC759AJ37PBT0A4GG_1&social_share=cm_sw_r_cp_ud_dp_PF7RC759AJ37PBT0A4GG_1&previewDohEventScheduleTesting=C
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload

@@ -1,0 +1,9 @@
+"use client"
+
+import React from "react";
+
+
+
+export function Portfolio-header6() {
+return (<section id="relume"><div className="flex h-svh min-h-svh flex-col"><div className="relative flex-1"><img src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg" className="absolute inset-0 size-full object-cover" alt="Relume placeholder image"/></div><div className="px-[5%]"><div className="container"><div className="grid grid-cols-1 items-start gap-12 py-12 md:grid-cols-[1.5fr_1fr] md:py-16 lg:gap-x-20 lg:py-20"><div><h1 className="mb-5 text-6xl font-bold md:mb-6 md:text-9xl lg:text-10xl">Bid4more Auctions</h1><p className="md:text-md">Experience the thrill of bidding and win incredible deals at unbeatable prices with Bid4more.</p><div className="mt-5 flex flex-wrap gap-2 md:mt-6"><li className="flex"><a href="#" target="_blank" rel="noopener" className="bg-background-secondary px-2 py-1 text-sm font-semibold">Online Auctions</a></li><li className="flex"><a href="#" target="_blank" rel="noopener" className="bg-background-secondary px-2 py-1 text-sm font-semibold">Bargain Deals</a></li><li className="flex"><a href="#" target="_blank" rel="noopener" className="bg-background-secondary px-2 py-1 text-sm font-semibold">Value Savings</a></li></div></div><div className="grid grid-cols-2 gap-8"><div><h3 className="mb-2 text-md font-bold leading-[1.4] md:text-xl">Client</h3><p>Bid4more Team</p></div><div><h3 className="mb-2 text-md font-bold leading-[1.4] md:text-xl">Date</h3><p>March 2023</p></div><div><h3 className="mb-2 text-md font-bold leading-[1.4] md:text-xl">Role</h3><p>Content Creator</p></div><div><h3 className="mb-2 text-md font-bold leading-[1.4] md:text-xl">Website</h3><a href="#" target="_blank" rel="noopener" className="underline">www.bid4more.com</a></div></div></div></div></div></div></section>);
+}

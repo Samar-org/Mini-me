@@ -1,0 +1,596 @@
+{
+  "export_date": "2025-07-21T09:47:29.828609",
+  "total_products": 5,
+  "successful": 5,
+  "failed": 0,
+  "products": [
+    {
+      "success": true,
+      "original_data": {
+        "name": "Wireless Bluetooth Headphones",
+        "price": "$79.99",
+        "features": [
+          "Noise Cancellation",
+          "20hr Battery"
+        ]
+      },
+      "optimized_data": {
+        "original_name": "Wireless Bluetooth Headphones",
+        "ecommerce_name": "Wireless Wireless Bluetooth Headphones",
+        "brand": "Wireless",
+        "slug": "wireless-wireless-bluetooth-headphones",
+        "seo_title": "Wireless Wireless Bluetooth Headphones | Buy Online in To...",
+        "meta_description": "Shop premium Wireless Wireless Bluetooth Headphones in Toronto starting at $79.99 Local Pickup Available with free local delivery & pickup. Key features: Noi...",
+        "focus_keywords": [
+          "wireless bluetooth headphones",
+          "buy wireless bluetooth headphones",
+          "wireless bluetooth headphones online",
+          "best wireless bluetooth headphones",
+          "wireless wireless bluetooth headphones",
+          "wireless deals",
+          "wireless bluetooth headphones oakville",
+          "buy wireless bluetooth headphones oakville"
+        ],
+        "recommended_category": {
+          "id": 1,
+          "name": "Electronics",
+          "slug": "electronics",
+          "parent": null,
+          "keywords": [
+            "phone",
+            "laptop",
+            "computer",
+            "tablet",
+            "camera",
+            "headphones",
+            "tv",
+            "monitor",
+            "gaming",
+            "tech",
+            "digital"
+          ]
+        },
+        "product_tags": "Noise Cancellation, Fast Delivery, Mississauga, Electronics, Toronto, Wireless Bluetooth Headphones, Local Pickup, Best Price, Oakville, 20hr Battery, Wireless, Quality Guarantee, Customer Service",
+        "image_alt_texts": [
+          "Wireless Wireless Bluetooth Headphones with Noise Cancellation - main view"
+        ],
+        "target_location": "Toronto",
+        "applied_promotion": "Sale up to 90%",
+        "local_seo_boost": {
+          "local_keywords": [
+            "Wireless Bluetooth Headphones Oakville",
+            "buy Wireless Bluetooth Headphones Oakville",
+            "Oakville Wireless Bluetooth Headphones store",
+            "Wireless Oakville"
+          ],
+          "business_data": {
+            "name": "Promote Local",
+            "address": "Oakville, Ontario, Canada",
+            "service_area": [
+              "Toronto",
+              "Oakville",
+              "Mississauga"
+            ],
+            "business_type": "Local Retail Store"
+          }
+        },
+        "structured_data": {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "name": "Wireless Wireless Bluetooth Headphones",
+          "description": "High-quality Wireless Bluetooth Headphones available at Promote Local",
+          "brand": {
+            "@type": "Brand",
+            "name": "Wireless"
+          },
+          "category": "Electronics",
+          "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "price": "79.99",
+            "priceCurrency": "CAD",
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Toronto"
+              },
+              {
+                "@type": "City",
+                "name": "Oakville"
+              },
+              {
+                "@type": "City",
+                "name": "Mississauga"
+              }
+            ],
+            "seller": {
+              "@type": "Organization",
+              "name": "Promote Local"
+            }
+          },
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Feature",
+              "value": "Noise Cancellation"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Feature",
+              "value": "20hr Battery"
+            }
+          ]
+        },
+        "optimization_score": 40,
+        "generated_at": "2025-07-21T09:47:29.590944",
+        "optimizer_version": "2.0.0"
+      },
+      "index": 0
+    },
+    {
+      "success": true,
+      "original_data": {
+        "name": "Cotton T-Shirt",
+        "color": "Red",
+        "size": "Large",
+        "price": "$24.99"
+      },
+      "optimized_data": {
+        "original_name": "Cotton T-Shirt",
+        "ecommerce_name": "Cotton Cotton T-Shirt (Red) - Large - Red",
+        "brand": "Cotton",
+        "slug": "cotton-cotton-t-shirt",
+        "seo_title": "Cotton Cotton T-Shirt | Buy Online in Mississauga 2025",
+        "meta_description": "Shop premium Cotton Cotton T-Shirt in Mississauga starting at $24.99 Sale up to 90% with free local delivery & pickup.",
+        "focus_keywords": [
+          "cotton t-shirt",
+          "buy cotton t-shirt",
+          "cotton t-shirt online",
+          "best cotton t-shirt",
+          "cotton cotton t-shirt",
+          "cotton deals",
+          "cotton t-shirt mississauga",
+          "buy cotton t-shirt mississauga"
+        ],
+        "recommended_category": {
+          "id": 2,
+          "name": "Clothing & Fashion",
+          "slug": "clothing-fashion",
+          "parent": null,
+          "keywords": [
+            "shirt",
+            "pants",
+            "dress",
+            "jacket",
+            "shoes",
+            "boots",
+            "fashion",
+            "apparel",
+            "wear",
+            "clothing",
+            "style"
+          ]
+        },
+        "product_tags": "Red, Fast Delivery, Mississauga, Toronto, Local Pickup, Large, Best Price, Oakville, Quality Guarantee, Clothing & Fashion, Cotton, Customer Service, Cotton T-Shirt",
+        "image_alt_texts": [
+          "Cotton Cotton T-Shirt in Red - main view"
+        ],
+        "target_location": "Mississauga",
+        "applied_promotion": "Save with 4more",
+        "local_seo_boost": {
+          "local_keywords": [
+            "Cotton T-Shirt Toronto",
+            "buy Cotton T-Shirt Toronto",
+            "Toronto Cotton T-Shirt store",
+            "Cotton Toronto"
+          ],
+          "business_data": {
+            "name": "Promote Local",
+            "address": "Toronto, Ontario, Canada",
+            "service_area": [
+              "Toronto",
+              "Oakville",
+              "Mississauga"
+            ],
+            "business_type": "Local Retail Store"
+          }
+        },
+        "structured_data": {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "name": "Cotton Cotton T-Shirt",
+          "description": "High-quality Cotton T-Shirt available at Promote Local",
+          "brand": {
+            "@type": "Brand",
+            "name": "Cotton"
+          },
+          "category": "Clothing & Fashion",
+          "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "price": "24.99",
+            "priceCurrency": "CAD",
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Toronto"
+              },
+              {
+                "@type": "City",
+                "name": "Oakville"
+              },
+              {
+                "@type": "City",
+                "name": "Mississauga"
+              }
+            ],
+            "seller": {
+              "@type": "Organization",
+              "name": "Promote Local"
+            }
+          }
+        },
+        "optimization_score": 25,
+        "generated_at": "2025-07-21T09:47:29.591171",
+        "optimizer_version": "2.0.0"
+      },
+      "index": 1
+    },
+    {
+      "success": true,
+      "original_data": {
+        "name": "Coffee Maker",
+        "brand": "Hamilton Beach",
+        "features": [
+          "12-Cup",
+          "Programmable"
+        ],
+        "price": "$89.99"
+      },
+      "optimized_data": {
+        "original_name": "Coffee Maker",
+        "ecommerce_name": "Hamilton Beach Coffee Maker",
+        "brand": "Hamilton Beach",
+        "slug": "hamilton-beach-coffee-maker",
+        "seo_title": "Hamilton Beach Coffee Maker Sale | Mississauga Best Price",
+        "meta_description": "Get the best Hamilton Beach Coffee Maker deals in Oakville. Best Deals in GTA starting at $89.99. Fast shipping across GTA. Key features: 12-Cup, Programmable.",
+        "focus_keywords": [
+          "coffee maker",
+          "buy coffee maker",
+          "coffee maker online",
+          "best coffee maker",
+          "hamilton beach coffee maker",
+          "hamilton beach deals",
+          "coffee maker toronto",
+          "buy coffee maker toronto"
+        ],
+        "recommended_category": {
+          "id": 1,
+          "parent": null,
+          "slug": "electronics",
+          "name": "Electronics",
+          "keywords": [
+            "phone",
+            "laptop",
+            "computer",
+            "tablet",
+            "camera",
+            "headphones",
+            "tv",
+            "monitor",
+            "gaming",
+            "tech",
+            "digital"
+          ]
+        },
+        "product_tags": "Fast Delivery, Mississauga, Electronics, Toronto, Local Pickup, Best Price, Oakville, Customer Service, Quality Guarantee, Programmable, Coffee Maker, Hamilton Beach, 12-Cup",
+        "image_alt_texts": [
+          "Hamilton Beach Coffee Maker with 12-Cup - main view"
+        ],
+        "target_location": "Mississauga",
+        "applied_promotion": "Best Deals in GTA",
+        "local_seo_boost": {
+          "local_keywords": [
+            "Coffee Maker Toronto",
+            "buy Coffee Maker Toronto",
+            "Toronto Coffee Maker store",
+            "Hamilton Beach Toronto"
+          ],
+          "business_data": {
+            "name": "Promote Local",
+            "address": "Toronto, Ontario, Canada",
+            "service_area": [
+              "Toronto",
+              "Oakville",
+              "Mississauga"
+            ],
+            "business_type": "Local Retail Store"
+          }
+        },
+        "structured_data": {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "name": "Hamilton Beach Coffee Maker",
+          "description": "High-quality Coffee Maker available at Promote Local",
+          "brand": {
+            "@type": "Brand",
+            "name": "Hamilton Beach"
+          },
+          "category": "Electronics",
+          "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "price": "89.99",
+            "priceCurrency": "CAD",
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Toronto"
+              },
+              {
+                "@type": "City",
+                "name": "Oakville"
+              },
+              {
+                "@type": "City",
+                "name": "Mississauga"
+              }
+            ],
+            "seller": {
+              "@type": "Organization",
+              "name": "Promote Local"
+            }
+          },
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Feature",
+              "value": "12-Cup"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Feature",
+              "value": "Programmable"
+            }
+          ]
+        },
+        "optimization_score": 40,
+        "generated_at": "2025-07-21T09:47:29.705845",
+        "optimizer_version": "2.0.0"
+      },
+      "index": 2
+    },
+    {
+      "success": true,
+      "original_data": {
+        "name": "Yoga Mat",
+        "material": "TPE",
+        "color": "Purple",
+        "price": "$39.99"
+      },
+      "optimized_data": {
+        "original_name": "Yoga Mat",
+        "ecommerce_name": "Yoga Yoga Mat (Purple) - Purple",
+        "brand": "Yoga",
+        "slug": "yoga-yoga-mat",
+        "seo_title": "Shop Yoga Yoga Mat | Oakville Local Store",
+        "meta_description": "Buy Yoga Yoga Mat online from Promote Local starting at $39.99. Toronto trusted local store. Sale up to 90%!",
+        "focus_keywords": [
+          "yoga mat",
+          "buy yoga mat",
+          "yoga mat online",
+          "best yoga mat",
+          "yoga yoga mat",
+          "yoga deals",
+          "yoga mat mississauga",
+          "buy yoga mat mississauga"
+        ],
+        "recommended_category": {
+          "id": 1,
+          "parent": null,
+          "slug": "electronics",
+          "name": "Electronics",
+          "keywords": [
+            "phone",
+            "laptop",
+            "computer",
+            "tablet",
+            "camera",
+            "headphones",
+            "tv",
+            "monitor",
+            "gaming",
+            "tech",
+            "digital"
+          ]
+        },
+        "product_tags": "Fast Delivery, Yoga, Mississauga, TPE, Electronics, Toronto, Local Pickup, Best Price, Yoga Mat, Oakville, Purple, Quality Guarantee, Customer Service",
+        "image_alt_texts": [
+          "Yoga Yoga Mat in Purple - main view"
+        ],
+        "target_location": "Mississauga",
+        "applied_promotion": "Save with 4more",
+        "local_seo_boost": {
+          "local_keywords": [
+            "Yoga Mat Toronto",
+            "buy Yoga Mat Toronto",
+            "Toronto Yoga Mat store",
+            "Yoga Toronto"
+          ],
+          "business_data": {
+            "name": "Promote Local",
+            "address": "Toronto, Ontario, Canada",
+            "service_area": [
+              "Toronto",
+              "Oakville",
+              "Mississauga"
+            ],
+            "business_type": "Local Retail Store"
+          }
+        },
+        "structured_data": {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "name": "Yoga Yoga Mat",
+          "description": "High-quality Yoga Mat available at Promote Local",
+          "brand": {
+            "@type": "Brand",
+            "name": "Yoga"
+          },
+          "category": "Electronics",
+          "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "price": "39.99",
+            "priceCurrency": "CAD",
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Toronto"
+              },
+              {
+                "@type": "City",
+                "name": "Oakville"
+              },
+              {
+                "@type": "City",
+                "name": "Mississauga"
+              }
+            ],
+            "seller": {
+              "@type": "Organization",
+              "name": "Promote Local"
+            }
+          }
+        },
+        "optimization_score": 25,
+        "generated_at": "2025-07-21T09:47:29.706773",
+        "optimizer_version": "2.0.0"
+      },
+      "index": 3
+    },
+    {
+      "success": true,
+      "original_data": {
+        "name": "LED Desk Lamp",
+        "features": [
+          "Adjustable",
+          "USB Charging"
+        ],
+        "price": "$59.99"
+      },
+      "optimized_data": {
+        "original_name": "LED Desk Lamp",
+        "ecommerce_name": "Led LED Desk Lamp",
+        "brand": "Led",
+        "slug": "led-led-desk-lamp",
+        "seo_title": "Buy Led LED Desk Lamp Online | Oakville Promote Local",
+        "meta_description": "Shop premium Led LED Desk Lamp in Toronto starting at $59.99 Price Match Guarantee with free local delivery & pickup. Key features: Adjustable, USB Charging.",
+        "focus_keywords": [
+          "led desk lamp",
+          "buy led desk lamp",
+          "led desk lamp online",
+          "best led desk lamp",
+          "led led desk lamp",
+          "led deals",
+          "led desk lamp toronto",
+          "buy led desk lamp toronto"
+        ],
+        "recommended_category": {
+          "id": 1,
+          "parent": null,
+          "slug": "electronics",
+          "name": "Electronics",
+          "keywords": [
+            "phone",
+            "laptop",
+            "computer",
+            "tablet",
+            "camera",
+            "headphones",
+            "tv",
+            "monitor",
+            "gaming",
+            "tech",
+            "digital"
+          ]
+        },
+        "product_tags": "Led, Fast Delivery, Mississauga, Electronics, Toronto, Local Pickup, Best Price, Oakville, Customer Service, Quality Guarantee, LED Desk Lamp, USB Charging, Adjustable",
+        "image_alt_texts": [
+          "Led LED Desk Lamp with Adjustable - main view"
+        ],
+        "target_location": "Oakville",
+        "applied_promotion": "Price Match Guarantee",
+        "local_seo_boost": {
+          "local_keywords": [
+            "LED Desk Lamp Oakville",
+            "buy LED Desk Lamp Oakville",
+            "Oakville LED Desk Lamp store",
+            "Led Oakville"
+          ],
+          "business_data": {
+            "name": "Promote Local",
+            "address": "Oakville, Ontario, Canada",
+            "service_area": [
+              "Toronto",
+              "Oakville",
+              "Mississauga"
+            ],
+            "business_type": "Local Retail Store"
+          }
+        },
+        "structured_data": {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "name": "Led LED Desk Lamp",
+          "description": "High-quality LED Desk Lamp available at Promote Local",
+          "brand": {
+            "@type": "Brand",
+            "name": "Led"
+          },
+          "category": "Electronics",
+          "offers": {
+            "@type": "Offer",
+            "availability": "https://schema.org/InStock",
+            "price": "59.99",
+            "priceCurrency": "CAD",
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Toronto"
+              },
+              {
+                "@type": "City",
+                "name": "Oakville"
+              },
+              {
+                "@type": "City",
+                "name": "Mississauga"
+              }
+            ],
+            "seller": {
+              "@type": "Organization",
+              "name": "Promote Local"
+            }
+          },
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Feature",
+              "value": "Adjustable"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Feature",
+              "value": "USB Charging"
+            }
+          ]
+        },
+        "optimization_score": 40,
+        "generated_at": "2025-07-21T09:47:29.823329",
+        "optimizer_version": "2.0.0"
+      },
+      "index": 4
+    }
+  ]
+}

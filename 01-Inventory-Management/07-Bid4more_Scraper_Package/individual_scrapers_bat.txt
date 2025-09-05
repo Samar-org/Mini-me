@@ -1,0 +1,160 @@
+REM =============================================================================
+REM Run URL Scraper.bat - Direct URL Scraper Runner
+REM =============================================================================
+@echo off
+title Bid4more URL Scraper
+
+cd /d "%~dp0"
+
+if not exist "venv\Scripts\activate.bat" (
+    echo ERROR: Virtual environment not found. Please run setup.bat first.
+    pause
+    exit /b 1
+)
+
+call venv\Scripts\activate.bat
+
+if not exist "enhanced_scraper.py" (
+    echo ERROR: enhanced_scraper.py not found
+    echo Please ensure the URL scraper file is in the current directory
+    pause
+    exit /b 1
+)
+
+if not exist ".env" (
+    echo ERROR: .env configuration file not found
+    echo Please run setup.bat or create the .env file with your API keys
+    pause
+    exit /b 1
+)
+
+echo =====================================
+echo   Bid4more URL Scraper
+echo =====================================
+echo.
+echo Starting URL scraper for Amazon and Walmart links...
+echo This will process all records with status "Entered" in your Airtable
+echo.
+
+python enhanced_scraper.py
+
+echo.
+echo =====================================
+echo   URL Scraper Finished
+echo =====================================
+echo.
+echo Check your Airtable for updated product information.
+echo Check the logs\ directory for detailed operation logs.
+echo.
+echo Press any key to close this window.
+pause
+
+REM =============================================================================
+REM Run Image Search.bat - Direct Image Search Scraper Runner  
+REM =============================================================================
+@echo off
+title Bid4more Image Search Scraper
+
+cd /d "%~dp0"
+
+if not exist "venv\Scripts\activate.bat" (
+    echo ERROR: Virtual environment not found. Please run setup.bat first.
+    pause
+    exit /b 1
+)
+
+call venv\Scripts\activate.bat
+
+if not exist "google_lens_scraper.py" (
+    echo ERROR: google_lens_scraper.py not found
+    echo Please ensure the image search scraper file is in the current directory
+    pause
+    exit /b 1
+)
+
+if not exist ".env" (
+    echo ERROR: .env configuration file not found
+    echo Please run setup.bat or create the .env file with your API keys
+    pause
+    exit /b 1
+)
+
+echo =====================================
+echo   Bid4more Image Search Scraper
+echo =====================================
+echo.
+echo Starting image search scraper using Google Lens technology...
+echo This will process records with photos but no product information
+echo.
+echo Note: Image search requires Google API keys or SerpAPI key
+echo Check your .env file configuration if you encounter API errors
+echo.
+
+python google_lens_scraper.py
+
+echo.
+echo =====================================
+echo   Image Search Scraper Finished  
+echo =====================================
+echo.
+echo Check your Airtable for updated product information.
+echo Check the logs\ directory for detailed operation logs.
+echo.
+echo Press any key to close this window.
+pause
+
+REM =============================================================================
+REM Run Custom Scraper.bat - Direct Custom Scraper Runner
+REM =============================================================================
+@echo off
+title Bid4more Custom Scraper
+
+cd /d "%~dp0"
+
+if not exist "venv\Scripts\activate.bat" (
+    echo ERROR: Virtual environment not found. Please run setup.bat first.
+    pause
+    exit /b 1
+)
+
+call venv\Scripts\activate.bat
+
+if not exist "custom_scraper.py" (
+    echo ERROR: custom_scraper.py not found
+    echo.
+    echo This scraper is optional. If you have a third custom scraper:
+    echo 1. Name it "custom_scraper.py" and place it in this directory
+    echo 2. OR modify the GUI to use your existing scraper filename
+    echo.
+    echo If you don't have a third scraper, you can ignore this file.
+    pause
+    exit /b 1
+)
+
+if not exist ".env" (
+    echo ERROR: .env configuration file not found
+    echo Please run setup.bat or create the .env file with your API keys
+    pause
+    exit /b 1
+)
+
+echo =====================================
+echo   Bid4more Custom Scraper
+echo =====================================
+echo.
+echo Starting custom scraper...
+echo This will run your organization's custom scraping functionality
+echo.
+
+python custom_scraper.py
+
+echo.
+echo =====================================
+echo   Custom Scraper Finished
+echo =====================================
+echo.
+echo Check your Airtable for updated information.
+echo Check the logs\ directory for detailed operation logs.
+echo.
+echo Press any key to close this window.
+pause

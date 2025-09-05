@@ -1,0 +1,34 @@
+# Bid4more Product Scraper Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core web scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Image processing
+Pillow>=10.0.0
+
+# Airtable integration
+pyairtable>=2.3.0
+
+# Configuration management
+python-dotenv>=1.0.0
+
+# HTTP session management
+urllib3>=2.0.0
+
+# GUI framework (built into Python, but listed for reference)
+# tkinter - included with Python standard library
+
+# Optional: For advanced image processing (if needed)
+# opencv-python>=4.8.0
+
+# Optional: For OCR functionality (if using photo analysis)
+# pytesseract>=0.3.10
+
+# Optional: For Google Cloud Vision API (if using advanced image search)
+# google-cloud-vision>=3.4.0
+
+# Development and debugging (optional)
+# logging - included with Python standard library

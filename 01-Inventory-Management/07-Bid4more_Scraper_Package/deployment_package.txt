@@ -1,0 +1,108 @@
+@echo off
+REM =============================================================================
+REM Bid4more Product Scraper - Easy Deployment Package
+REM =============================================================================
+
+echo.
+echo =====================================
+echo   Bid4more Product Scraper Setup
+echo =====================================
+echo.
+
+REM Check if Python is installed
+python --version >nul 2>&1
+if %errorlevel% neq 0 (
+    echo ERROR: Python is not installed or not in PATH
+    echo Please install Python from https://python.org
+    echo Make sure to check "Add Python to PATH" during installation
+    pause
+    exit /b 1
+)
+
+echo [OK] Python is installed
+
+REM Check if pip is available
+pip --version >nul 2>&1
+if %errorlevel% neq 0 (
+    echo ERROR: pip is not available
+    echo Please reinstall Python with pip included
+    pause
+    exit /b 1
+)
+
+echo [OK] pip is available
+
+REM Create virtual environment if it doesn't exist
+if not exist "venv" (
+    echo Creating virtual environment...
+    python -m venv venv
+)
+
+REM Activate virtual environment
+echo Activating virtual environment...
+call venv\Scripts\activate.bat
+
+REM Install required packages
+echo Installing required packages...
+pip install --upgrade pip
+pip install requests beautifulsoup4 lxml pillow pyairtable python-dotenv
+
+REM Check if .env file exists, create template if not
+if not exist ".env" (
+    echo Creating .env template...
+    (
+        echo # Airtable Configuration
+        echo AIRTABLE_API_KEY=YOUR_AIRTABLE_API_KEY_HERE
+        echo AIRTABLE_BASE_ID=YOUR_AIRTABLE_BASE_ID_HERE
+        echo.
+        echo # Google Custom Search ^(Optional^)
+        echo GOOGLE_API_KEY=YOUR_GOOGLE_API_KEY_HERE
+        echo GOOGLE_CX=YOUR_CUSTOM_SEARCH_ENGINE_ID_HERE
+        echo.
+        echo # SerpAPI ^(Optional^)
+        echo SERPAPI_KEY=YOUR_SERPAPI_KEY_HERE
+    ) > .env
+    echo.
+    echo [INFO] Created .env template file
+    echo Please edit .env file with your actual API keys before running the scraper
+)
+
+REM Create desktop shortcut script
+echo Creating desktop shortcut...
+(
+    echo @echo off
+    echo cd /d "%~dp0"
+    echo call venv\Scripts\activate.bat
+    echo python scraper_gui.py
+    echo pause
+) > "Run Scraper GUI.bat"
+
+echo.
+echo =====================================
+echo        Setup Complete!
+echo =====================================
+echo.
+echo Next steps:
+echo 1. Edit the .env file with your API keys
+echo 2. Double-click "Run Scraper GUI.bat" to start
+echo.
+echo Files created:
+echo - venv\                 (Python virtual environment)
+echo - .env                  (Configuration file - EDIT THIS!)
+echo - Run Scraper GUI.bat   (Desktop shortcut)
+echo.
+
+REM Check if GUI file exists
+if exist "scraper_gui.py" (
+    echo [OK] GUI file found
+    echo.
+    set /p choice="Would you like to start the GUI now? (y/n): "
+    if /i "%choice%"=="y" (
+        python scraper_gui.py
+    )
+) else (
+    echo [WARNING] scraper_gui.py not found in current directory
+    echo Please ensure all files are in the same folder
+)
+
+pause

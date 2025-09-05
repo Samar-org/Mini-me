@@ -1,0 +1,29 @@
+Field Name,Inferred Type
+URL,str
+Product Name,str
+Description,str
+Dimensions,str
+Weight,str
+Photos URL,str
+Status,str
+Photo Files,list
+Scraping Status,str
+SKU,str
+Shelf Location,str
+Inspection Condition,str
+Created By,dict
+Created Time,str
+Last modified by,dict
+Last modified time,str
+Currency,str
+Source,str
+4more Store,str
+Sale Price,Mixed
+Box Condition,str
+Pallets,str
+Quantity,int
+URL copy,str
+Parent Category,list
+Inspection Notes,str
+Color,str
+Model,str

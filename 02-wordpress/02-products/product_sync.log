@@ -1,0 +1,1407 @@
+2025-07-17 20:14:09,080 - INFO - 🚀 Starting product sync from Airtable to WooCommerce...
+2025-07-17 20:15:06,464 - INFO - Pre-fetched 296 categories, 2474 tags, and 1 brands.
+2025-07-17 20:15:06,465 - INFO - Fetching products from Airtable view 'Pay4more Sync View'...
+2025-07-17 20:15:07,390 - INFO - Found 61 products to sync.
+2025-07-17 20:15:07,391 - INFO - [1/61] -------------------------
+2025-07-17 20:15:07,539 - INFO - Processing Item SKU: P00003 -> Catalogue: Unique Appliances Off-Grid 24-inch 6 cu. ft. Propane Top Freezer Counter Depth Refrigerator with (X1-00447)
+2025-07-17 20:15:07,540 - INFO - Creating new categories: 'Sports & Outdoors'
+2025-07-17 20:15:09,228 - WARNING - Term 'Sports & Outdoors' already exists with ID: 3351. Using existing ID.
+2025-07-17 20:15:09,229 - INFO - Creating new categories: 'Kitchen & Bath'
+2025-07-17 20:15:10,794 - WARNING - Term 'Kitchen & Bath' already exists with ID: 5731. Using existing ID.
+2025-07-17 20:15:18,767 - INFO - ✅ Uploaded image and full metadata: 'unique-appliances-off-grid-24-inch-6-cu-ft-propane-1.webp' (ID: 45256)
+2025-07-17 20:15:24,638 - INFO - ✅ Uploaded image and full metadata: 'unique-appliances-off-grid-24-inch-6-cu-ft-propane-2.webp' (ID: 45257)
+2025-07-17 20:15:30,836 - INFO - ✅ Uploaded image and full metadata: 'unique-appliances-off-grid-24-inch-6-cu-ft-propane-3.webp' (ID: 45258)
+2025-07-17 20:15:36,418 - INFO - ✅ Uploaded image and full metadata: 'unique-appliances-off-grid-24-inch-6-cu-ft-propane-4.webp' (ID: 45259)
+2025-07-17 20:15:42,253 - INFO - ✅ Uploaded image and full metadata: 'unique-appliances-off-grid-24-inch-6-cu-ft-propane-5.webp' (ID: 45260)
+2025-07-17 20:15:42,757 - INFO - Cached 5 new images for catalogue code: X1-00447
+2025-07-17 20:15:44,354 - INFO - Product with SKU 'P00003' not found. Attempting to create new product...
+2025-07-17 20:15:46,810 - ERROR - ❌ API Error while syncing SKU 'P00003': unknown - 400 Client Error: Bad Request for url: https://pay.4more.ca/wp-json/wc/v3/products
+2025-07-17 20:15:46,811 - ERROR -     ↳ Data payload that failed: {'type': 'simple', 'status': 'publish', 'manage_stock': True, 'sku': 'P00003', 'stock_quantity': 1, 'name': 'Unique Appliances Off-Grid 24-inch 6 cu. ft. Propane Top Freezer Counter Depth Refrigerator with', 'description': 'The Unique 6 is the perfect entry-level upright propane refrigerator. Consumers have been asking Unique for a value oriented propane refrigerator, one that fits the needs of a smaller cabin/cottage. With a huge 1.5 cu/ft freezer, and a relatively tall profile, it is ergonomically excellent. You will find it very easy to access your food. The Unique 6 is dual powered (LP gas or 110 volt backup). Features include battery-operated interior light and ignition, adjustable glass shelves, crisper drawer, reversible door, and CO alarming device for safety.', 'short_description': 'Shop Unique Appliances Off-Grid 24-inch 6 cu. ft. Propane Top Freezer Counter Depth Refrigerator with at Pay4more. The Unique 6 is the perfect entry-level up...Shop and save with 4more!', 'regular_price': '2699.00', 'sale_price': '1619.40', 'weight': '152', 'categories': [{'id': 3351}, {'id': 3390}, {'id': 3619}, {'id': 5731}], 'tags': [{'id': 546}, {'id': 2201}, {'id': 2179}], 'meta_data': [{'key': 'color', 'value': 'White'}, {'key': 'model', 'value': 'UGP-6C SM W'}, {'key': 'heavy', 'value': 'No'}, {'key': 'fragile', 'value': 'No'}, {'key': 'big', 'value': 'No'}], 'dimensions': {}, 'images': [{'id': 45256}, {'id': 45257}, {'id': 45258}, {'id': 45259}, {'id': 45260}]}
+2025-07-17 20:15:46,812 - INFO - [2/61] -------------------------
+2025-07-17 20:15:47,069 - INFO - Processing Item SKU: P00004 -> Catalogue: Baxton Studio Landis Dresser in Ash Walnut and Gold (F1-00001)
+2025-07-17 20:15:47,070 - INFO - Creating new categories: 'Home & Furniture'
+2025-07-17 20:15:48,962 - WARNING - Term 'Home & Furniture' already exists with ID: 3353. Using existing ID.
+2025-07-17 20:15:54,594 - INFO - ✅ Uploaded image and full metadata: 'baxton-studio-landis-dresser-in-ash-walnut-and-gol-1.webp' (ID: 45262)
+2025-07-17 20:16:00,694 - INFO - ✅ Uploaded image and full metadata: 'baxton-studio-landis-dresser-in-ash-walnut-and-gol-2.webp' (ID: 45263)
+2025-07-17 20:16:06,679 - INFO - ✅ Uploaded image and full metadata: 'baxton-studio-landis-dresser-in-ash-walnut-and-gol-3.webp' (ID: 45264)
+2025-07-17 20:16:07,184 - INFO - Cached 3 new images for catalogue code: F1-00001
+2025-07-17 20:16:08,726 - INFO - Product with SKU 'P00004' not found. Attempting to create new product...
+2025-07-17 20:16:10,781 - ERROR - ❌ API Error while syncing SKU 'P00004': unknown - 400 Client Error: Bad Request for url: https://pay.4more.ca/wp-json/wc/v3/products
+2025-07-17 20:16:10,782 - ERROR -     ↳ Data payload that failed: {'type': 'simple', 'status': 'publish', 'manage_stock': True, 'sku': 'P00004', 'stock_quantity': 1, 'name': 'Baxton Studio Landis Dresser in Ash Walnut and Gold', 'description': 'Configure your bedroom to fit your needs with the stunning utility and style of the Landis dresser. Made in Malaysia, this dresser is constructed from sturdy wood displaying a natural ash walnut finish. Six drawers accommodate your daily routine with plenty of space for clothes, linens, and more. Requiring assembly, the Landis features gold-tone metal drawer knobs for a subtle touch of glamour. Elevating the function of any bedroom space, the Landis dresser brings classic convenience to the modern home. Features mid-century modern design with rubberwood and engineered wood construction.', 'short_description': 'Shop Baxton Studio Landis Dresser in Ash Walnut and Gold at Pay4more. Configure your bedroom to fit your needs with the stunning utility and style of the Lan...Shop and save with 4more!', 'regular_price': '836.00', 'sale_price': '501.60', 'weight': 'Approximately 88 lbs', 'categories': [{'id': 3369}, {'id': 3353}], 'tags': [{'id': 5204}, {'id': 5205}, {'id': 860}, {'id': 5206}, {'id': 2179}, {'id': 5207}, {'id': 198}, {'id': 5194}, {'id': 5208}], 'meta_data': [{'key': 'color', 'value': 'Ash Walnut and Gold'}, {'key': 'model', 'value': '193-11303-HD / MG9002-Ash Walnut-6DW-Dresser'}, {'key': 'heavy', 'value': 'No'}, {'key': 'fragile', 'value': 'No'}, {'key': 'big', 'value': 'No'}], 'dimensions': {}, 'images': [{'id': 45262}, {'id': 45263}, {'id': 45264}]}
+2025-07-17 20:16:10,784 - INFO - [3/61] -------------------------
+2025-07-17 20:16:11,034 - INFO - Processing Item SKU: P00021 -> Catalogue: 12 Cup Programmable Coffee Maker Gray – Figmint™ (K1-00003)
+2025-07-17 20:16:15,916 - INFO - ✅ Uploaded image and full metadata: '12-cup-programmable-coffee-maker-gray-figmint-1.webp' (ID: 45266)
+2025-07-17 20:16:22,623 - INFO - ✅ Uploaded image and full metadata: '12-cup-programmable-coffee-maker-gray-figmint-2.webp' (ID: 45267)
+2025-07-17 20:16:23,127 - INFO - Cached 2 new images for catalogue code: K1-00003
+2025-07-17 20:16:24,619 - INFO - Product with SKU 'P00021' not found. Attempting to create new product...
+2025-07-17 20:16:28,130 - ERROR - ❌ API Error while syncing SKU 'P00021': unknown - 400 Client Error: Bad Request for url: https://pay.4more.ca/wp-json/wc/v3/products
+2025-07-17 20:16:28,131 - ERROR -     ↳ Data payload that failed: {'type': 'simple', 'status': 'publish', 'manage_stock': True, 'sku': 'P00021', 'stock_quantity': 1, 'name': '12 Cup Programmable Coffee Maker Gray – Figmint™', 'description': 'Wake up to perfect coffee every morning with the Figmint 12-Cup Programmable Coffee Maker. This sleek gray stainless steel coffee maker features a 12-cup borosilicate glass carafe, permanent filter basket, and included measuring scoop. Program up to 24 hours in advance for wake-up ready coffee. Choose between regular or bold brew strength to match your taste. The pause-and-serve feature lets you grab a cup mid-brew, while the nonstick warming plate keeps coffee hot. Perfect for home kitchens, offices, or anywhere you need reliable, delicious coffee. Easy to clean with dishwasher-safe components.', 'short_description': 'Shop 12 Cup Programmable Coffee Maker Gray – Figmint™ at Pay4more. Wake up to perfect coffee every morning with the Figmint 12-Cup Programmable Coffee Maker. Shop and save 4more!', 'regular_price': '119.99', 'sale_price': '71.99', 'weight': '5.5 lbs (estimated)', 'categories': [{'id': 5731}, {'id': 3619}], 'tags': [{'id': 916}, {'id': 197}, {'id': 5218}, {'id': 5276}, {'id': 2179}, {'id': 2465}, {'id': 5234}, {'id': 5277}], 'meta_data': [{'key': 'color', 'value': 'Gray'}, {'key': 'model', 'value': '87589148'}, {'key': 'heavy', 'value': 'No'}, {'key': 'fragile', 'value': 'No'}, {'key': 'big', 'value': 'No'}], 'dimensions': {'length': '11.25', 'width': '8.89', 'height': '15.59'}, 'images': [{'id': 45266}, {'id': 45267}]}
+2025-07-17 20:16:28,133 - INFO - [4/61] -------------------------
+2025-07-17 20:16:28,389 - INFO - Processing Item SKU: P00029 -> Catalogue: 5-Section Serving Platter Set Light Gray - Room Essentials™ Recycled Plastic, Microwave & Dishwasher Safe (K1-00002)
+2025-07-17 20:16:33,507 - INFO - ✅ Uploaded image and full metadata: '5-section-serving-platter-set-light-gray-room-esse-1.webp' (ID: 45269)
+2025-07-17 20:16:39,652 - INFO - ✅ Uploaded image and full metadata: '5-section-serving-platter-set-light-gray-room-esse-2.webp' (ID: 45270)
+2025-07-17 20:16:45,181 - INFO - ✅ Uploaded image and full metadata: '5-section-serving-platter-set-light-gray-room-esse-3.webp' (ID: 45271)
+2025-07-17 20:16:45,685 - INFO - Cached 3 new images for catalogue code: K1-00002
+2025-07-17 20:16:47,404 - INFO - Product with SKU 'P00029' not found. Attempting to create new product...
+2025-07-17 20:16:49,332 - ERROR - ❌ API Error while syncing SKU 'P00029': unknown - 400 Client Error: Bad Request for url: https://pay.4more.ca/wp-json/wc/v3/products
+2025-07-17 20:16:49,333 - ERROR -     ↳ Data payload that failed: {'type': 'simple', 'status': 'publish', 'manage_stock': True, 'sku': 'P00029', 'stock_quantity': 1, 'name': '5-Section Serving Platter Set Light Gray - Room Essentials™ Recycled Plastic, Microwave & Dishwasher Safe', 'description': "Serve variety with this versatile 5-Section Serving Platter Set from Room Essentials. Features five removable compartments including four serving sections and one center dip bowl. Made from durable recycled plastic that's BPA-free and eco-friendly. Light gray color complements any table setting. Microwave safe for reheating only. Dishwasher safe for easy cleanup. Perfect for appetizers, snacks, veggies, fruits, nuts, chips and dips. Ideal for parties, gatherings, holidays, or everyday use. Sectional design keeps foods separated and organized. Stackable for convenient storage. Room Essentials: Everyday Value.", 'short_description': 'Shop 5-Section Serving Platter Set Light Gray - Room Essentials™ Recycled Plastic, Microwave & Dishwasher Safe at Pay4more. Serve variety with this versatile...', 'regular_price': '19.99', 'sale_price': '11.99', 'weight': '3 lbs (estimated)', 'categories': [{'id': 3353}, {'id': 3389}], 'tags': [{'id': 516}, {'id': 5294}, {'id': 758}, {'id': 755}, {'id': 5218}, {'id': 160}, {'id': 754}, {'id': 5295}, {'id': 5296}, {'id': 5287}, {'id': 750}], 'meta_data': [{'key': 'color', 'value': 'Light Gray'}, {'key': 'model', 'value': '90009990'}, {'key': 'heavy', 'value': 'No'}, {'key': 'fragile', 'value': 'No'}, {'key': 'big', 'value': 'No'}], 'dimensions': {'length': '14', 'width': '14', 'height': '3'}, 'images': [{'id': 45269}, {'id': 45270}, {'id': 45271}]}
+2025-07-17 20:16:49,335 - INFO - [5/61] -------------------------
+2025-07-17 20:16:49,687 - INFO - Processing Item SKU: P00040 -> Catalogue: DOITOOL 1pc Silicone Ice Cube Tray Ice Box Sausage DIY Baking Mold Baking Supplies (K1-00011)
+2025-07-17 20:16:49,688 - INFO - Creating new categories: 'Kitchen & Dining'
+2025-07-17 20:17:15,009 - INFO - 🚀 Starting product sync from Airtable to WooCommerce...
+2025-07-17 20:18:11,155 - INFO - Pre-fetched 296 categories, 2474 tags, and 1 brands.
+2025-07-17 20:18:11,155 - INFO - Fetching products from Airtable view 'Pay4more Sync View'...
+2025-07-17 20:18:11,854 - INFO - Found 61 products to sync.
+2025-07-17 20:18:11,854 - INFO - [1/61] -------------------------
+2025-07-17 20:18:12,018 - INFO - Processing Item SKU: P00003 -> Catalogue: Unique Appliances Off-Grid 24-inch 6 cu. ft. Propane Top Freezer Counter Depth Refrigerator with (X1-00447)
+2025-07-17 20:18:12,019 - INFO - Creating new categories: 'Kitchen & Bath'
+2025-07-17 20:18:13,554 - WARNING - Term 'Kitchen & Bath' already exists with ID: 5731. Using existing ID.
+2025-07-17 20:18:13,556 - INFO - Creating new categories: 'Sports & Outdoors'
+2025-07-17 20:18:15,295 - WARNING - Term 'Sports & Outdoors' already exists with ID: 3351. Using existing ID.
+2025-07-17 20:18:21,440 - INFO - ✅ Uploaded image and full metadata: 'unique-appliances-off-grid-24-inch-6-cu-ft-propane-1.webp' (ID: 45273)
+2025-07-17 20:18:26,970 - INFO - ✅ Uploaded image and full metadata: 'unique-appliances-off-grid-24-inch-6-cu-ft-propane-2.webp' (ID: 45274)
+2025-07-17 20:18:33,012 - INFO - ✅ Uploaded image and full metadata: 'unique-appliances-off-grid-24-inch-6-cu-ft-propane-3.webp' (ID: 45275)
+2025-07-17 20:18:38,745 - INFO - ✅ Uploaded image and full metadata: 'unique-appliances-off-grid-24-inch-6-cu-ft-propane-4.webp' (ID: 45276)
+2025-07-17 20:18:44,481 - INFO - ✅ Uploaded image and full metadata: 'unique-appliances-off-grid-24-inch-6-cu-ft-propane-5.webp' (ID: 45277)
+2025-07-17 20:18:44,985 - INFO - Cached 5 new images for catalogue code: X1-00447
+2025-07-17 20:18:46,631 - INFO - Product with SKU 'P00003' not found. Attempting to create new product...
+2025-07-17 20:18:48,807 - ERROR - ❌ API Error while syncing SKU 'P00003': unknown - 400 Client Error: Bad Request for url: https://pay.4more.ca/wp-json/wc/v3/products
+2025-07-17 20:18:48,808 - ERROR -     ↳ Data payload that failed: {'type': 'simple', 'status': 'publish', 'manage_stock': True, 'sku': 'P00003', 'stock_quantity': 1, 'name': 'Unique Appliances Off-Grid 24-inch 6 cu. ft. Propane Top Freezer Counter Depth Refrigerator with', 'description': 'The Unique 6 is the perfect entry-level upright propane refrigerator. Consumers have been asking Unique for a value oriented propane refrigerator, one that fits the needs of a smaller cabin/cottage. With a huge 1.5 cu/ft freezer, and a relatively tall profile, it is ergonomically excellent. You will find it very easy to access your food. The Unique 6 is dual powered (LP gas or 110 volt backup). Features include battery-operated interior light and ignition, adjustable glass shelves, crisper drawer, reversible door, and CO alarming device for safety.', 'short_description': 'Shop Unique Appliances Off-Grid 24-inch 6 cu. ft. Propane Top Freezer Counter Depth Refrigerator with at Pay4more. The Unique 6 is the perfect entry-level up...Shop and save with 4more!', 'regular_price': '2699.00', 'sale_price': '1619.40', 'weight': '152', 'categories': [{'id': 3390}, {'id': 5731}, {'id': 3619}, {'id': 3351}], 'tags': [{'id': 546}, {'id': 2201}, {'id': 2179}], 'meta_data': [{'key': 'color', 'value': 'White'}, {'key': 'model', 'value': 'UGP-6C SM W'}, {'key': 'heavy', 'value': 'No'}, {'key': 'fragile', 'value': 'No'}, {'key': 'big', 'value': 'No'}], 'dimensions': {}, 'images': [{'id': 45273}, {'id': 45274}, {'id': 45275}, {'id': 45276}, {'id': 45277}]}
+2025-07-17 20:18:48,809 - INFO - [2/61] -------------------------
+2025-07-17 20:18:49,089 - INFO - Processing Item SKU: P00004 -> Catalogue: Baxton Studio Landis Dresser in Ash Walnut and Gold (F1-00001)
+2025-07-17 20:18:49,090 - INFO - Creating new categories: 'Home & Furniture'
+2025-07-17 20:18:50,782 - WARNING - Term 'Home & Furniture' already exists with ID: 3353. Using existing ID.
+2025-07-17 20:18:55,913 - INFO - ✅ Uploaded image and full metadata: 'baxton-studio-landis-dresser-in-ash-walnut-and-gol-1.webp' (ID: 45279)
+2025-07-17 20:19:01,683 - INFO - ✅ Uploaded image and full metadata: 'baxton-studio-landis-dresser-in-ash-walnut-and-gol-2.webp' (ID: 45280)
+2025-07-17 20:19:07,377 - INFO - ✅ Uploaded image and full metadata: 'baxton-studio-landis-dresser-in-ash-walnut-and-gol-3.webp' (ID: 45281)
+2025-07-17 20:19:07,882 - INFO - Cached 3 new images for catalogue code: F1-00001
+2025-07-17 20:19:09,877 - INFO - Product with SKU 'P00004' not found. Attempting to create new product...
+2025-07-17 20:19:12,122 - ERROR - ❌ API Error while syncing SKU 'P00004': unknown - 400 Client Error: Bad Request for url: https://pay.4more.ca/wp-json/wc/v3/products
+2025-07-17 20:19:12,123 - ERROR -     ↳ Data payload that failed: {'type': 'simple', 'status': 'publish', 'manage_stock': True, 'sku': 'P00004', 'stock_quantity': 1, 'name': 'Baxton Studio Landis Dresser in Ash Walnut and Gold', 'description': 'Configure your bedroom to fit your needs with the stunning utility and style of the Landis dresser. Made in Malaysia, this dresser is constructed from sturdy wood displaying a natural ash walnut finish. Six drawers accommodate your daily routine with plenty of space for clothes, linens, and more. Requiring assembly, the Landis features gold-tone metal drawer knobs for a subtle touch of glamour. Elevating the function of any bedroom space, the Landis dresser brings classic convenience to the modern home. Features mid-century modern design with rubberwood and engineered wood construction.', 'short_description': 'Shop Baxton Studio Landis Dresser in Ash Walnut and Gold at Pay4more. Configure your bedroom to fit your needs with the stunning utility and style of the Lan...Shop and save with 4more!', 'regular_price': '836.00', 'sale_price': '501.60', 'weight': 'Approximately 88 lbs', 'categories': [{'id': 3353}, {'id': 3369}], 'tags': [{'id': 5204}, {'id': 5205}, {'id': 860}, {'id': 5206}, {'id': 2179}, {'id': 5207}, {'id': 198}, {'id': 5194}, {'id': 5208}], 'meta_data': [{'key': 'color', 'value': 'Ash Walnut and Gold'}, {'key': 'model', 'value': '193-11303-HD / MG9002-Ash Walnut-6DW-Dresser'}, {'key': 'heavy', 'value': 'No'}, {'key': 'fragile', 'value': 'No'}, {'key': 'big', 'value': 'No'}], 'dimensions': {}, 'images': [{'id': 45279}, {'id': 45280}, {'id': 45281}]}
+2025-07-17 20:19:12,126 - INFO - [3/61] -------------------------
+2025-07-17 20:19:12,438 - INFO - Processing Item SKU: P00021 -> Catalogue: 12 Cup Programmable Coffee Maker Gray – Figmint™ (K1-00003)
+2025-07-17 20:19:17,354 - INFO - ✅ Uploaded image and full metadata: '12-cup-programmable-coffee-maker-gray-figmint-1.webp' (ID: 45283)
+2025-07-17 20:19:24,034 - INFO - ✅ Uploaded image and full metadata: '12-cup-programmable-coffee-maker-gray-figmint-2.webp' (ID: 45284)
+2025-07-17 20:19:24,538 - INFO - Cached 2 new images for catalogue code: K1-00003
+2025-07-17 20:19:26,113 - INFO - Product with SKU 'P00021' not found. Attempting to create new product...
+2025-07-17 20:19:28,616 - ERROR - ❌ API Error while syncing SKU 'P00021': unknown - 400 Client Error: Bad Request for url: https://pay.4more.ca/wp-json/wc/v3/products
+2025-07-17 20:19:28,617 - ERROR -     ↳ Data payload that failed: {'type': 'simple', 'status': 'publish', 'manage_stock': True, 'sku': 'P00021', 'stock_quantity': 1, 'name': '12 Cup Programmable Coffee Maker Gray – Figmint™', 'description': 'Wake up to perfect coffee every morning with the Figmint 12-Cup Programmable Coffee Maker. This sleek gray stainless steel coffee maker features a 12-cup borosilicate glass carafe, permanent filter basket, and included measuring scoop. Program up to 24 hours in advance for wake-up ready coffee. Choose between regular or bold brew strength to match your taste. The pause-and-serve feature lets you grab a cup mid-brew, while the nonstick warming plate keeps coffee hot. Perfect for home kitchens, offices, or anywhere you need reliable, delicious coffee. Easy to clean with dishwasher-safe components.', 'short_description': 'Shop 12 Cup Programmable Coffee Maker Gray – Figmint™ at Pay4more. Wake up to perfect coffee every morning with the Figmint 12-Cup Programmable Coffee Maker. Shop and save 4more!', 'regular_price': '119.99', 'sale_price': '71.99', 'weight': '5.5 lbs (estimated)', 'categories': [{'id': 5731}, {'id': 3619}], 'tags': [{'id': 916}, {'id': 197}, {'id': 5218}, {'id': 5276}, {'id': 2179}, {'id': 2465}, {'id': 5234}, {'id': 5277}], 'meta_data': [{'key': 'color', 'value': 'Gray'}, {'key': 'model', 'value': '87589148'}, {'key': 'heavy', 'value': 'No'}, {'key': 'fragile', 'value': 'No'}, {'key': 'big', 'value': 'No'}], 'dimensions': {'length': '11.25', 'width': '8.89', 'height': '15.59'}, 'images': [{'id': 45283}, {'id': 45284}]}
+2025-07-17 20:19:28,618 - INFO - [4/61] -------------------------
+2025-07-17 20:19:28,924 - INFO - Processing Item SKU: P00029 -> Catalogue: 5-Section Serving Platter Set Light Gray - Room Essentials™ Recycled Plastic, Microwave & Dishwasher Safe (K1-00002)
+2025-07-17 20:19:34,371 - INFO - ✅ Uploaded image and full metadata: '5-section-serving-platter-set-light-gray-room-esse-1.webp' (ID: 45286)
+2025-07-17 20:19:39,963 - INFO - ✅ Uploaded image and full metadata: '5-section-serving-platter-set-light-gray-room-esse-2.webp' (ID: 45287)
+2025-07-17 20:19:45,410 - INFO - ✅ Uploaded image and full metadata: '5-section-serving-platter-set-light-gray-room-esse-3.webp' (ID: 45288)
+2025-07-17 20:19:45,916 - INFO - Cached 3 new images for catalogue code: K1-00002
+2025-07-17 20:19:47,407 - INFO - Product with SKU 'P00029' not found. Attempting to create new product...
+2025-07-18 09:10:35,243 - INFO - 🚀 Starting product sync from Airtable to WooCommerce...
+2025-07-18 09:11:45,732 - INFO - Pre-fetched 296 categories, 2474 tags, and 1 brands.
+2025-07-18 09:11:45,732 - INFO - Fetching products from Airtable view 'Pay4more Sync View'...
+2025-07-18 09:11:46,990 - INFO - Found 61 products to sync.
+2025-07-18 09:11:46,990 - INFO - [1/61] -------------------------
+2025-07-18 09:11:47,283 - INFO - Processing Item SKU: P00003 -> Catalogue: Unique Appliances Off-Grid 24-inch 6 cu. ft. Propane Top Freezer Counter Depth Refrigerator with (X1-00447)
+2025-07-18 09:11:47,284 - INFO - Creating new categories: 'Kitchen & Bath'
+2025-07-18 09:11:49,110 - WARNING - Term 'Kitchen & Bath' already exists with ID: 5731. Using existing ID.
+2025-07-18 09:11:49,111 - INFO - Creating new categories: 'Sports & Outdoors'
+2025-07-18 09:11:51,260 - WARNING - Term 'Sports & Outdoors' already exists with ID: 3351. Using existing ID.
+2025-07-18 09:11:53,002 - INFO - Product with SKU 'P00003' not found. Attempting to create new product...
+2025-07-18 09:11:55,356 - ERROR - ❌ API Error while syncing SKU 'P00003': unknown - 400 Client Error: Bad Request for url: https://pay.4more.ca/wp-json/wc/v3/products
+2025-07-18 09:11:55,357 - ERROR -     ↳ Data payload that failed: {'type': 'simple', 'status': 'publish', 'manage_stock': True, 'sku': 'P00003', 'stock_quantity': 1, 'name': 'Unique Appliances Off-Grid 24-inch 6 cu. ft. Propane Top Freezer Counter Depth Refrigerator with', 'description': 'The Unique 6 is the perfect entry-level upright propane refrigerator. Consumers have been asking Unique for a value oriented propane refrigerator, one that fits the needs of a smaller cabin/cottage. With a huge 1.5 cu/ft freezer, and a relatively tall profile, it is ergonomically excellent. You will find it very easy to access your food. The Unique 6 is dual powered (LP gas or 110 volt backup). Features include battery-operated interior light and ignition, adjustable glass shelves, crisper drawer, reversible door, and CO alarming device for safety.', 'short_description': 'Shop Unique Appliances Off-Grid 24-inch 6 cu. ft. Propane Top Freezer Counter Depth Refrigerator with at Pay4more. The Unique 6 is the perfect entry-level up...Shop and save with 4more!', 'regular_price': '2699.00', 'sale_price': '1619.40', 'weight': '152', 'categories': [{'id': 5731}, {'id': 3390}, {'id': 3351}, {'id': 3619}], 'tags': [{'id': 546}, {'id': 2201}, {'id': 2179}], 'meta_data': [{'key': 'color', 'value': 'White'}, {'key': 'model', 'value': 'UGP-6C SM W'}, {'key': 'heavy', 'value': 'No'}, {'key': 'fragile', 'value': 'No'}, {'key': 'big', 'value': 'No'}], 'dimensions': {}, 'images': []}
+2025-07-18 09:11:55,358 - INFO - [2/61] -------------------------
+2025-07-18 09:11:55,762 - INFO - Processing Item SKU: P00004 -> Catalogue: Baxton Studio Landis Dresser in Ash Walnut and Gold (F1-00001)
+2025-07-18 09:11:55,763 - INFO - Creating new categories: 'Home & Furniture'
+2025-07-18 09:11:57,571 - WARNING - Term 'Home & Furniture' already exists with ID: 3353. Using existing ID.
+2025-07-18 09:12:05,495 - INFO - ✅ Uploaded image and full metadata: 'baxton-studio-landis-dresser-in-ash-walnut-and-gol-1.webp' (ID: 45291)
+2025-07-18 09:12:12,863 - INFO - ✅ Uploaded image and full metadata: 'baxton-studio-landis-dresser-in-ash-walnut-and-gol-2.webp' (ID: 45292)
+2025-07-18 09:28:18,931 - INFO - 🚀 Starting product sync from Airtable to WooCommerce...
+2025-07-18 09:29:28,560 - INFO - Pre-fetched 296 categories, 2474 tags, and 1 brands.
+2025-07-18 09:29:28,561 - INFO - Fetching products from Airtable view 'Pay4more Sync View'...
+2025-07-18 09:29:29,754 - INFO - Found 61 products to sync.
+2025-07-18 09:29:29,755 - INFO - [1/61] -------------------------
+2025-07-18 09:29:29,996 - INFO - Processing Item SKU: P00003 -> Catalogue: Unique Appliances Off-Grid 24-inch 6 cu. ft. Propane Top Freezer Counter Depth Refrigerator with (X1-00447)
+2025-07-18 09:29:29,997 - INFO - Creating new categories: 'Kitchen & Bath'
+2025-07-18 09:29:32,145 - WARNING - Term 'Kitchen & Bath' already exists with ID: 5731. Using existing ID.
+2025-07-18 09:29:32,146 - INFO - Creating new categories: 'Sports & Outdoors'
+2025-07-18 09:29:34,091 - WARNING - Term 'Sports & Outdoors' already exists with ID: 3351. Using existing ID.
+2025-07-18 09:29:35,980 - INFO - Product with SKU 'P00003' not found. Attempting to create new product...
+2025-07-18 09:29:38,655 - INFO - ✅ Successfully synced product SKU: P00003 (ID: 45299)
+2025-07-18 09:29:38,656 - INFO - Updating SEO for product 45299 via custom endpoint...
+2025-07-18 09:29:40,704 - INFO - ✅ Successfully updated SEO for product 45299.
+2025-07-18 09:29:40,706 - INFO - [2/61] -------------------------
+2025-07-18 09:29:40,959 - INFO - Processing Item SKU: P00004 -> Catalogue: Baxton Studio Landis Dresser in Ash Walnut and Gold (F1-00001)
+2025-07-18 09:29:40,960 - INFO - Creating new categories: 'Home & Furniture'
+2025-07-18 09:29:43,000 - WARNING - Term 'Home & Furniture' already exists with ID: 3353. Using existing ID.
+2025-07-18 09:29:50,373 - INFO - ✅ Uploaded image and full metadata: 'baxton-studio-landis-dresser-in-ash-walnut-and-gol-1.webp' (ID: 45300)
+2025-07-18 09:29:57,377 - INFO - ✅ Uploaded image and full metadata: 'baxton-studio-landis-dresser-in-ash-walnut-and-gol-2.webp' (ID: 45301)
+2025-07-18 09:30:05,735 - INFO - ✅ Uploaded image and full metadata: 'baxton-studio-landis-dresser-in-ash-walnut-and-gol-3.webp' (ID: 45302)
+2025-07-18 09:30:06,239 - INFO - Cached 3 new images for catalogue code: F1-00001
+2025-07-18 09:30:08,294 - INFO - Product with SKU 'P00004' not found. Attempting to create new product...
+2025-07-18 09:30:10,883 - INFO - ✅ Successfully synced product SKU: P00004 (ID: 45303)
+2025-07-18 09:30:10,883 - INFO - Updating SEO for product 45303 via custom endpoint...
+2025-07-18 09:30:12,941 - INFO - ✅ Successfully updated SEO for product 45303.
+2025-07-18 09:30:12,943 - INFO - [3/61] -------------------------
+2025-07-18 09:30:13,286 - INFO - Processing Item SKU: P00021 -> Catalogue: 12 Cup Programmable Coffee Maker Gray – Figmint™ (K1-00003)
+2025-07-18 09:36:31,702 - INFO - 🚀 Starting product sync from Airtable to WooCommerce...
+2025-07-18 09:37:40,094 - INFO - Pre-fetched 296 categories, 2474 tags, and 1 brands.
+2025-07-18 09:37:40,094 - INFO - Fetching products from Airtable view 'Pay4more Sync View'...
+2025-07-18 09:37:41,141 - INFO - Found 61 products to sync.
+2025-07-18 09:37:41,142 - INFO - [1/61] -------------------------
+2025-07-18 09:37:41,349 - INFO - Processing Item SKU: P00003 -> Catalogue: Unique Appliances Off-Grid 24-inch 6 cu. ft. Propane Top Freezer Counter Depth Refrigerator with (X1-00447)
+2025-07-18 09:37:41,350 - INFO - Creating new categories: 'Sports & Outdoors'
+2025-07-18 09:37:43,417 - WARNING - Term 'Sports & Outdoors' already exists with ID: 3351. Using existing ID.
+2025-07-18 09:37:43,419 - INFO - Creating new categories: 'Kitchen & Bath'
+2025-07-18 09:37:45,416 - WARNING - Term 'Kitchen & Bath' already exists with ID: 5731. Using existing ID.
+2025-07-18 09:37:51,476 - INFO - ✅ Uploaded image and full metadata: 'unique-appliances-off-grid-24-inch-6-cu-ft-propane-1.webp' (ID: 45307)
+2025-07-18 09:37:57,726 - INFO - ✅ Uploaded image and full metadata: 'unique-appliances-off-grid-24-inch-6-cu-ft-propane-2.webp' (ID: 45308)
+2025-07-18 09:38:06,923 - INFO - ✅ Uploaded image and full metadata: 'unique-appliances-off-grid-24-inch-6-cu-ft-propane-3.webp' (ID: 45309)
+2025-07-18 09:38:14,636 - INFO - ✅ Uploaded image and full metadata: 'unique-appliances-off-grid-24-inch-6-cu-ft-propane-4.webp' (ID: 45310)
+2025-07-18 09:38:21,768 - INFO - ✅ Uploaded image and full metadata: 'unique-appliances-off-grid-24-inch-6-cu-ft-propane-5.webp' (ID: 45311)
+2025-07-18 09:38:22,273 - INFO - Cached 5 new images for catalogue code: X1-00447
+2025-07-18 09:38:24,561 - INFO - Product with SKU 'P00003' not found. Attempting to create new product...
+2025-07-18 09:38:27,291 - INFO - ✅ Successfully synced product SKU: P00003 (ID: 45312)
+2025-07-18 09:38:27,293 - INFO - Updating SEO for product 45312 via custom endpoint...
+2025-07-18 09:38:29,353 - INFO - ✅ Successfully updated SEO for product 45312.
+2025-07-18 09:38:29,355 - INFO - [2/61] -------------------------
+2025-07-18 09:38:29,658 - INFO - Processing Item SKU: P00004 -> Catalogue: Baxton Studio Landis Dresser in Ash Walnut and Gold (F1-00001)
+2025-07-18 09:38:29,659 - INFO - Creating new categories: 'Home & Furniture'
+2025-07-18 09:38:31,364 - WARNING - Term 'Home & Furniture' already exists with ID: 3353. Using existing ID.
+2025-07-18 09:38:38,564 - INFO - ✅ Uploaded image and full metadata: 'baxton-studio-landis-dresser-in-ash-walnut-and-gol-1.webp' (ID: 45313)
+2025-07-18 09:38:46,552 - INFO - ✅ Uploaded image and full metadata: 'baxton-studio-landis-dresser-in-ash-walnut-and-gol-2.webp' (ID: 45314)
+2025-07-18 09:38:53,924 - INFO - ✅ Uploaded image and full metadata: 'baxton-studio-landis-dresser-in-ash-walnut-and-gol-3.webp' (ID: 45315)
+2025-07-18 09:38:54,429 - INFO - Cached 3 new images for catalogue code: F1-00001
+2025-07-18 09:38:56,382 - INFO - Product with SKU 'P00004' not found. Attempting to create new product...
+2025-07-18 09:38:59,249 - INFO - ✅ Successfully synced product SKU: P00004 (ID: 45316)
+2025-07-18 09:38:59,250 - INFO - Updating SEO for product 45316 via custom endpoint...
+2025-07-18 09:39:01,399 - INFO - ✅ Successfully updated SEO for product 45316.
+2025-07-18 09:39:01,401 - INFO - [3/61] -------------------------
+2025-07-18 09:39:01,685 - INFO - Processing Item SKU: P00021 -> Catalogue: 12 Cup Programmable Coffee Maker Gray – Figmint™ (K1-00003)
+2025-07-18 09:39:07,544 - INFO - ✅ Uploaded image and full metadata: '12-cup-programmable-coffee-maker-gray-figmint-1.webp' (ID: 45317)
+2025-07-18 09:39:13,748 - INFO - ✅ Uploaded image and full metadata: '12-cup-programmable-coffee-maker-gray-figmint-2.webp' (ID: 45318)
+2025-07-18 09:39:14,253 - INFO - Cached 2 new images for catalogue code: K1-00003
+2025-07-18 09:39:16,581 - INFO - Product with SKU 'P00021' not found. Attempting to create new product...
+2025-07-18 09:39:19,627 - INFO - ✅ Successfully synced product SKU: P00021 (ID: 45319)
+2025-07-18 09:39:19,628 - INFO - Updating SEO for product 45319 via custom endpoint...
+2025-07-18 09:39:21,668 - INFO - ✅ Successfully updated SEO for product 45319.
+2025-07-18 09:39:21,670 - INFO - [4/61] -------------------------
+2025-07-18 09:39:22,085 - INFO - Processing Item SKU: P00029 -> Catalogue: 5-Section Serving Platter Set Light Gray - Room Essentials™ Recycled Plastic, Microwave & Dishwasher Safe (K1-00002)
+2025-07-18 09:39:28,883 - INFO - ✅ Uploaded image and full metadata: '5-section-serving-platter-set-light-gray-room-esse-1.webp' (ID: 45320)
+2025-07-18 09:39:37,285 - INFO - ✅ Uploaded image and full metadata: '5-section-serving-platter-set-light-gray-room-esse-2.webp' (ID: 45321)
+2025-07-18 09:39:45,638 - INFO - ✅ Uploaded image and full metadata: '5-section-serving-platter-set-light-gray-room-esse-3.webp' (ID: 45322)
+2025-07-18 09:39:46,143 - INFO - Cached 3 new images for catalogue code: K1-00002
+2025-07-18 09:39:48,095 - INFO - Product with SKU 'P00029' not found. Attempting to create new product...
+2025-07-18 09:41:09,040 - ERROR - ❌ API Error while syncing SKU 'P00029': unknown - ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 09:41:09,059 - ERROR -     ↳ Data payload that failed: {'type': 'simple', 'status': 'publish', 'manage_stock': True, 'sku': 'P00029', 'stock_quantity': 1, 'name': '5-Section Serving Platter Set Light Gray - Room Essentials™ Recycled Plastic, Microwave & Dishwasher Safe', 'description': "Serve variety with this versatile 5-Section Serving Platter Set from Room Essentials. Features five removable compartments including four serving sections and one center dip bowl. Made from durable recycled plastic that's BPA-free and eco-friendly. Light gray color complements any table setting. Microwave safe for reheating only. Dishwasher safe for easy cleanup. Perfect for appetizers, snacks, veggies, fruits, nuts, chips and dips. Ideal for parties, gatherings, holidays, or everyday use. Sectional design keeps foods separated and organized. Stackable for convenient storage. Room Essentials: Everyday Value.", 'short_description': 'Shop 5-Section Serving Platter Set Light Gray - Room Essentials™ Recycled Plastic, Microwave & Dishwasher Safe at Pay4more. Serve variety with this versatile...', 'regular_price': '19.99', 'sale_price': '11.99', 'weight': '3 lbs (estimated)', 'categories': [{'id': 3389}, {'id': 3353}], 'tags': [{'id': 516}, {'id': 5294}, {'id': 758}, {'id': 755}, {'id': 5218}, {'id': 160}, {'id': 754}, {'id': 5295}, {'id': 5296}, {'id': 5287}, {'id': 750}], 'meta_data': [{'key': 'color', 'value': 'Light Gray'}, {'key': 'model', 'value': '90009990'}, {'key': 'heavy', 'value': 'No'}, {'key': 'fragile', 'value': 'No'}, {'key': 'big', 'value': 'No'}], 'dimensions': {'length': '14', 'width': '14', 'height': '3'}, 'images': [{'id': 45320}, {'id': 45321}, {'id': 45322}]}
+2025-07-18 09:41:09,061 - INFO - [5/61] -------------------------
+2025-07-18 09:41:09,064 - WARNING - Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D94F673D90>: Failed to resolve 'api.airtable.com' ([Errno 11001] getaddrinfo failed)")': /v0/appI0EDHQVVZCxVZ9/Product%20Catalogue?filterByFormula=%7B4more-Product-Code%7D+%3D+%27K1-00011%27&maxRecords=1
+2025-07-18 09:41:09,266 - WARNING - Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D951009090>: Failed to resolve 'api.airtable.com' ([Errno 11001] getaddrinfo failed)")': /v0/appI0EDHQVVZCxVZ9/Product%20Catalogue?filterByFormula=%7B4more-Product-Code%7D+%3D+%27K1-00011%27&maxRecords=1
+2025-07-18 09:41:10,267 - INFO - Processing Item SKU: P00040 -> Catalogue: DOITOOL 1pc Silicone Ice Cube Tray Ice Box Sausage DIY Baking Mold Baking Supplies (K1-00011)
+2025-07-18 09:41:10,268 - INFO - Creating new categories: 'Kitchen & Dining'
+2025-07-18 09:41:12,705 - WARNING - Term 'Kitchen & Dining' already exists with ID: 5735. Using existing ID.
+2025-07-18 09:41:22,408 - INFO - ✅ Uploaded image and full metadata: 'doitool-1pc-silicone-ice-cube-tray-ice-box-sausage-1.webp' (ID: 45324)
+2025-07-18 09:41:29,335 - INFO - ✅ Uploaded image and full metadata: 'doitool-1pc-silicone-ice-cube-tray-ice-box-sausage-2.webp' (ID: 45325)
+2025-07-18 09:41:29,838 - INFO - Cached 2 new images for catalogue code: K1-00011
+2025-07-18 09:41:31,673 - INFO - Product with SKU 'P00040' not found. Attempting to create new product...
+2025-07-18 09:41:35,310 - INFO - ✅ Successfully synced product SKU: P00040 (ID: 45326)
+2025-07-18 09:41:35,311 - INFO - Updating SEO for product 45326 via custom endpoint...
+2025-07-18 09:41:37,256 - INFO - ✅ Successfully updated SEO for product 45326.
+2025-07-18 09:41:37,258 - INFO - [6/61] -------------------------
+2025-07-18 09:41:37,768 - INFO - Processing Item SKU: P00047 -> Catalogue: Owala 24 oz (K1-00010)
+2025-07-18 09:41:37,770 - INFO - Creating new tags: '2-in-1 Sip & Swig Spout'
+2025-07-18 09:41:39,599 - WARNING - Term '2-in-1 Sip & Swig Spout' already exists with ID: 5332. Using existing ID.
+2025-07-18 09:41:45,858 - INFO - ✅ Uploaded image and full metadata: 'owala-24-oz-1.webp' (ID: 45327)
+2025-07-18 09:41:52,002 - INFO - ✅ Uploaded image and full metadata: 'owala-24-oz-2.webp' (ID: 45328)
+2025-07-18 09:41:52,506 - INFO - Cached 2 new images for catalogue code: K1-00010
+2025-07-18 09:41:54,265 - INFO - Product with SKU 'P00047' not found. Attempting to create new product...
+2025-07-18 09:41:56,710 - INFO - ✅ Successfully synced product SKU: P00047 (ID: 45329)
+2025-07-18 09:41:56,712 - INFO - Updating SEO for product 45329 via custom endpoint...
+2025-07-18 09:41:58,549 - INFO - ✅ Successfully updated SEO for product 45329.
+2025-07-18 09:41:58,551 - INFO - [7/61] -------------------------
+2025-07-18 09:41:58,863 - INFO - Processing Item SKU: P00053 -> Catalogue: Revitalizing Hair Mask (X1-00592)
+2025-07-18 09:41:58,864 - INFO - Creating new categories: 'Beauty & Personal Care'
+2025-07-18 09:42:00,602 - WARNING - Term 'Beauty & Personal Care' already exists with ID: 3352. Using existing ID.
+2025-07-18 09:42:06,748 - INFO - ✅ Uploaded image and full metadata: 'revitalizing-hair-mask-1.webp' (ID: 45330)
+2025-07-18 09:42:14,814 - INFO - ✅ Uploaded image and full metadata: 'revitalizing-hair-mask-2.webp' (ID: 45331)
+2025-07-18 09:42:23,337 - INFO - ✅ Uploaded image and full metadata: 'revitalizing-hair-mask-3.webp' (ID: 45332)
+2025-07-18 09:42:23,842 - INFO - Cached 3 new images for catalogue code: X1-00592
+2025-07-18 09:42:25,908 - INFO - Product with SKU 'P00053' not found. Attempting to create new product...
+2025-07-18 09:42:28,354 - INFO - ✅ Successfully synced product SKU: P00053 (ID: 45333)
+2025-07-18 09:42:28,355 - INFO - Updating SEO for product 45333 via custom endpoint...
+2025-07-18 09:42:30,402 - INFO - ✅ Successfully updated SEO for product 45333.
+2025-07-18 09:42:30,404 - INFO - [8/61] -------------------------
+2025-07-18 09:42:30,712 - INFO - Processing Item SKU: P00066 -> Catalogue: Not Your Mother's Curl Talk Bond Building Shampoo and Conditioner (2-Pack) - 8 fl oz - Strengthening Shampoo and Conditioner Set for Curly Hair (X1-00498)
+2025-07-18 09:42:39,959 - INFO - ✅ Uploaded image and full metadata: 'not-your-mothers-curl-talk-bond-building-shampoo-a-1.webp' (ID: 45334)
+2025-07-18 09:42:40,464 - INFO - Cached 1 new images for catalogue code: X1-00498
+2025-07-18 09:42:42,384 - INFO - Product with SKU 'P00066' not found. Attempting to create new product...
+2025-07-18 09:42:45,046 - INFO - ✅ Successfully synced product SKU: P00066 (ID: 45335)
+2025-07-18 09:42:45,047 - INFO - Updating SEO for product 45335 via custom endpoint...
+2025-07-18 09:42:47,196 - INFO - ✅ Successfully updated SEO for product 45335.
+2025-07-18 09:42:47,198 - INFO - [9/61] -------------------------
+2025-07-18 09:42:47,811 - INFO - Processing Item SKU: P00068 -> Catalogue: MIELLE Babassu Oil And Mint Deep Conditioner (H1-00001)
+2025-07-18 09:42:55,077 - INFO - ✅ Uploaded image and full metadata: 'mielle-babassu-oil-and-mint-deep-conditioner-1.webp' (ID: 45336)
+2025-07-18 09:42:55,581 - INFO - Cached 1 new images for catalogue code: H1-00001
+2025-07-18 09:42:57,539 - INFO - Product with SKU 'P00068' not found. Attempting to create new product...
+2025-07-18 09:43:00,813 - INFO - ✅ Successfully synced product SKU: P00068 (ID: 45337)
+2025-07-18 09:43:00,814 - INFO - Updating SEO for product 45337 via custom endpoint...
+2025-07-18 09:43:02,863 - INFO - ✅ Successfully updated SEO for product 45337.
+2025-07-18 09:43:02,866 - INFO - [10/61] -------------------------
+2025-07-18 09:43:03,194 - INFO - Processing Item SKU: P00069 -> Catalogue: Vintage 1980's Magic 8 Ball Classic Mattel Toy Fortune Teller (30188, 1186) (T1-00001)
+2025-07-18 09:43:03,195 - INFO - Creating new categories: 'Toys & Games'
+2025-07-18 09:43:05,219 - WARNING - Term 'Toys & Games' already exists with ID: 3355. Using existing ID.
+2025-07-18 09:43:11,465 - INFO - ✅ Uploaded image and full metadata: 'vintage-1980s-magic-8-ball-classic-mattel-toy-fort-1.webp' (ID: 45338)
+2025-07-18 09:43:19,045 - INFO - ✅ Uploaded image and full metadata: 'vintage-1980s-magic-8-ball-classic-mattel-toy-fort-2.webp' (ID: 45339)
+2025-07-18 09:43:28,305 - INFO - ✅ Uploaded image and full metadata: 'vintage-1980s-magic-8-ball-classic-mattel-toy-fort-3.webp' (ID: 45340)
+2025-07-18 09:43:28,809 - INFO - Cached 3 new images for catalogue code: T1-00001
+2025-07-18 09:43:31,128 - INFO - Product with SKU 'P00069' not found. Attempting to create new product...
+2025-07-18 09:43:33,912 - INFO - ✅ Successfully synced product SKU: P00069 (ID: 45341)
+2025-07-18 09:43:33,913 - INFO - Updating SEO for product 45341 via custom endpoint...
+2025-07-18 09:43:35,835 - INFO - ✅ Successfully updated SEO for product 45341.
+2025-07-18 09:43:35,837 - INFO - [11/61] -------------------------
+2025-07-18 09:43:36,152 - INFO - Processing Item SKU: P00070 -> Catalogue: Speedo Jr. Goggle 3 in Pack. (Anti-fog) (UV Protection) ! Green (S1-00001)
+2025-07-18 09:43:43,629 - INFO - ✅ Uploaded image and full metadata: 'speedo-jr-goggle-3-in-pack-anti-fog-uv-protection--1.webp' (ID: 45342)
+2025-07-18 09:43:51,710 - INFO - ✅ Uploaded image and full metadata: 'speedo-jr-goggle-3-in-pack-anti-fog-uv-protection--2.webp' (ID: 45343)
+2025-07-18 09:43:52,214 - INFO - Cached 2 new images for catalogue code: S1-00001
+2025-07-18 09:43:54,269 - INFO - Product with SKU 'P00070' not found. Attempting to create new product...
+2025-07-18 09:43:56,941 - INFO - ✅ Successfully synced product SKU: P00070 (ID: 45344)
+2025-07-18 09:43:56,941 - INFO - Updating SEO for product 45344 via custom endpoint...
+2025-07-18 09:43:58,775 - INFO - ✅ Successfully updated SEO for product 45344.
+2025-07-18 09:43:58,777 - INFO - [12/61] -------------------------
+2025-07-18 09:43:59,187 - INFO - Processing Item SKU: P00075 -> Catalogue: Clarifying Serum BALANCE & CLARIFY 30ml/1.01fl.oz (X1-00519)
+2025-07-18 09:44:05,636 - INFO - ✅ Uploaded image and full metadata: 'clarifying-serum-balance-clarify-30ml101floz-1.webp' (ID: 45345)
+2025-07-18 09:44:12,832 - INFO - ✅ Uploaded image and full metadata: 'clarifying-serum-balance-clarify-30ml101floz-2.webp' (ID: 45346)
+2025-07-18 09:44:13,337 - INFO - Cached 2 new images for catalogue code: X1-00519
+2025-07-18 09:44:15,467 - INFO - Product with SKU 'P00075' not found. Attempting to create new product...
+2025-07-18 09:44:17,986 - INFO - ✅ Successfully synced product SKU: P00075 (ID: 45347)
+2025-07-18 09:44:17,987 - INFO - Updating SEO for product 45347 via custom endpoint...
+2025-07-18 09:44:19,768 - INFO - ✅ Successfully updated SEO for product 45347.
+2025-07-18 09:44:19,770 - INFO - [13/61] -------------------------
+2025-07-18 09:44:20,384 - INFO - Processing Item SKU: P00076 -> Catalogue: Raptor Pro 6 Axis Cyro Drone (T1-00002)
+2025-07-18 09:44:27,039 - INFO - ✅ Uploaded image and full metadata: 'raptor-pro-6-axis-cyro-drone-1.webp' (ID: 45348)
+2025-07-18 09:44:38,098 - INFO - ✅ Uploaded image and full metadata: 'raptor-pro-6-axis-cyro-drone-2.webp' (ID: 45349)
+2025-07-18 09:44:38,603 - INFO - Cached 2 new images for catalogue code: T1-00002
+2025-07-18 09:44:40,530 - INFO - Product with SKU 'P00076' not found. Attempting to create new product...
+2025-07-18 09:44:44,345 - INFO - ✅ Successfully synced product SKU: P00076 (ID: 45350)
+2025-07-18 09:44:44,345 - INFO - Updating SEO for product 45350 via custom endpoint...
+2025-07-18 09:44:46,771 - INFO - ✅ Successfully updated SEO for product 45350.
+2025-07-18 09:44:46,773 - INFO - [14/61] -------------------------
+2025-07-18 09:44:47,108 - INFO - Processing Item SKU: P00082 -> Catalogue: BLACK+DECKER Steam Iron (F1-00215)
+2025-07-18 09:44:56,428 - INFO - ✅ Uploaded image and full metadata: 'blackdecker-steam-iron-1.webp' (ID: 45351)
+2025-07-18 09:45:05,252 - INFO - ✅ Uploaded image and full metadata: 'blackdecker-steam-iron-2.webp' (ID: 45352)
+2025-07-18 09:45:12,714 - INFO - ✅ Uploaded image and full metadata: 'blackdecker-steam-iron-3.webp' (ID: 45353)
+2025-07-18 09:45:13,218 - INFO - Cached 3 new images for catalogue code: F1-00215
+2025-07-18 09:45:14,979 - INFO - Product with SKU 'P00082' not found. Attempting to create new product...
+2025-07-18 09:45:17,524 - INFO - ✅ Successfully synced product SKU: P00082 (ID: 45354)
+2025-07-18 09:45:17,524 - INFO - Updating SEO for product 45354 via custom endpoint...
+2025-07-18 09:45:19,520 - INFO - ✅ Successfully updated SEO for product 45354.
+2025-07-18 09:45:19,521 - INFO - [15/61] -------------------------
+2025-07-18 09:45:19,924 - INFO - Processing Item SKU: P00083 -> Catalogue: Remington Pro Multi-Styler with Twist & Curl Technology Ceramic Multi (X1-00240)
+2025-07-18 09:45:36,523 - INFO - ✅ Uploaded image and full metadata: 'remington-pro-multi-styler-with-twist-curl-technol-1.webp' (ID: 45355)
+2025-07-18 09:45:50,804 - INFO - ✅ Uploaded image and full metadata: 'remington-pro-multi-styler-with-twist-curl-technol-2.webp' (ID: 45356)
+2025-07-18 09:45:58,081 - INFO - ✅ Uploaded image and full metadata: 'remington-pro-multi-styler-with-twist-curl-technol-3.webp' (ID: 45357)
+2025-07-18 09:46:05,550 - INFO - ✅ Uploaded image and full metadata: 'remington-pro-multi-styler-with-twist-curl-technol-4.webp' (ID: 45358)
+2025-07-18 09:46:13,230 - INFO - ✅ Uploaded image and full metadata: 'remington-pro-multi-styler-with-twist-curl-technol-5.webp' (ID: 45359)
+2025-07-18 09:46:13,735 - INFO - Cached 5 new images for catalogue code: X1-00240
+2025-07-18 09:46:15,895 - INFO - Product with SKU 'P00083' not found. Attempting to create new product...
+2025-07-18 09:46:18,394 - INFO - ✅ Successfully synced product SKU: P00083 (ID: 45360)
+2025-07-18 09:46:18,396 - INFO - Updating SEO for product 45360 via custom endpoint...
+2025-07-18 09:46:20,499 - INFO - ✅ Successfully updated SEO for product 45360.
+2025-07-18 09:46:20,501 - INFO - [16/61] -------------------------
+2025-07-18 09:46:20,813 - INFO - Processing Item SKU: P00090 -> Catalogue: FORTESSA Bistro 18/10 Stainless Steel Flatware, 20 Piece Place Setting with Table Knives, Forks and Spoons (Service for 4), Dishwasher-Safe, Mirrored (K1-00001)
+2025-07-18 09:46:29,306 - INFO - ✅ Uploaded image and full metadata: 'fortessa-bistro-1810-stainless-steel-flatware-20-p-1.webp' (ID: 45361)
+2025-07-18 09:46:39,957 - INFO - ✅ Uploaded image and full metadata: 'fortessa-bistro-1810-stainless-steel-flatware-20-p-2.webp' (ID: 45362)
+2025-07-18 09:46:40,460 - INFO - Cached 2 new images for catalogue code: K1-00001
+2025-07-18 09:46:42,414 - INFO - Product with SKU 'P00090' not found. Attempting to create new product...
+2025-07-18 09:46:45,077 - INFO - ✅ Successfully synced product SKU: P00090 (ID: 45363)
+2025-07-18 09:46:45,078 - INFO - Updating SEO for product 45363 via custom endpoint...
+2025-07-18 09:46:47,227 - INFO - ✅ Successfully updated SEO for product 45363.
+2025-07-18 09:46:47,229 - INFO - [17/61] -------------------------
+2025-07-18 09:46:47,842 - INFO - Processing Item SKU: P00091 -> Catalogue: Baby Brezza Bottle Sterilizer Dryer - Electric Steam Sterilizer Machine for Plastic and Glass Bottles, & Baby Product Parts & Accessories - Universal Fit (B1-00001)
+2025-07-18 09:46:55,521 - INFO - ✅ Uploaded image and full metadata: 'baby-brezza-bottle-sterilizer-dryer-electric-steam-1.webp' (ID: 45364)
+2025-07-18 09:47:03,509 - INFO - ✅ Uploaded image and full metadata: 'baby-brezza-bottle-sterilizer-dryer-electric-steam-2.webp' (ID: 45365)
+2025-07-18 09:47:24,672 - INFO - ✅ Uploaded image and full metadata: 'baby-brezza-bottle-sterilizer-dryer-electric-steam-3.webp' (ID: 45366)
+2025-07-18 09:47:25,178 - INFO - Cached 3 new images for catalogue code: B1-00001
+2025-07-18 09:47:26,959 - INFO - Product with SKU 'P00091' not found. Attempting to create new product...
+2025-07-18 09:47:29,724 - INFO - ✅ Successfully synced product SKU: P00091 (ID: 45367)
+2025-07-18 09:47:29,726 - INFO - Updating SEO for product 45367 via custom endpoint...
+2025-07-18 09:47:31,465 - INFO - ✅ Successfully updated SEO for product 45367.
+2025-07-18 09:47:31,467 - INFO - [18/61] -------------------------
+2025-07-18 09:47:31,740 - INFO - Processing Item SKU: P00109 -> Catalogue: Revitalizing Shampoo (X1-00325)
+2025-07-18 09:47:37,814 - INFO - ✅ Uploaded image and full metadata: 'revitalizing-shampoo-1.webp' (ID: 45368)
+2025-07-18 09:47:46,416 - INFO - ✅ Uploaded image and full metadata: 'revitalizing-shampoo-2.webp' (ID: 45369)
+2025-07-18 09:47:46,921 - INFO - Cached 2 new images for catalogue code: X1-00325
+2025-07-18 09:47:48,797 - INFO - Product with SKU 'P00109' not found. Attempting to create new product...
+2025-07-18 09:47:51,330 - INFO - ✅ Successfully synced product SKU: P00109 (ID: 45370)
+2025-07-18 09:47:51,330 - INFO - Updating SEO for product 45370 via custom endpoint...
+2025-07-18 09:47:53,071 - INFO - ✅ Successfully updated SEO for product 45370.
+2025-07-18 09:47:53,073 - INFO - [19/61] -------------------------
+2025-07-18 09:47:53,146 - WARNING - Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /v0/appI0EDHQVVZCxVZ9/Product%20Catalogue?filterByFormula=%7B4more-Product-Code%7D+%3D+%27X1-00393%27&maxRecords=1
+2025-07-18 09:47:53,892 - INFO - Processing Item SKU: P00112 -> Catalogue: Banana Boat Ultra Sport Sunscreen Spray, NEW FORMULA, Spf 50+, 170g (X1-00393)
+2025-07-18 09:47:59,728 - INFO - ✅ Uploaded image and full metadata: 'banana-boat-ultra-sport-sunscreen-spray-new-formul-1.webp' (ID: 45371)
+2025-07-18 09:48:06,666 - INFO - ✅ Uploaded image and full metadata: 'banana-boat-ultra-sport-sunscreen-spray-new-formul-2.webp' (ID: 45372)
+2025-07-18 09:48:13,965 - INFO - ✅ Uploaded image and full metadata: 'banana-boat-ultra-sport-sunscreen-spray-new-formul-3.webp' (ID: 45373)
+2025-07-18 09:48:14,470 - INFO - Cached 3 new images for catalogue code: X1-00393
+2025-07-18 09:48:16,726 - INFO - Product with SKU 'P00112' not found. Attempting to create new product...
+2025-07-18 09:48:19,999 - INFO - ✅ Successfully synced product SKU: P00112 (ID: 45374)
+2025-07-18 09:48:20,000 - INFO - Updating SEO for product 45374 via custom endpoint...
+2025-07-18 09:48:21,845 - INFO - ✅ Successfully updated SEO for product 45374.
+2025-07-18 09:48:21,847 - INFO - [20/61] -------------------------
+2025-07-18 09:48:22,156 - INFO - Processing Item SKU: P00120 -> Catalogue: TROPICAL SCENT (X1-00525)
+2025-07-18 09:48:27,918 - INFO - ✅ Uploaded image and full metadata: 'tropical-scent-1.webp' (ID: 45375)
+2025-07-18 09:48:28,423 - INFO - Cached 1 new images for catalogue code: X1-00525
+2025-07-18 09:48:30,550 - INFO - Product with SKU 'P00120' not found. Attempting to create new product...
+2025-07-18 09:48:33,213 - INFO - ✅ Successfully synced product SKU: P00120 (ID: 45376)
+2025-07-18 09:48:33,214 - INFO - Updating SEO for product 45376 via custom endpoint...
+2025-07-18 09:48:35,204 - INFO - ✅ Successfully updated SEO for product 45376.
+2025-07-18 09:48:35,205 - INFO - [21/61] -------------------------
+2025-07-18 09:48:35,466 - INFO - Processing Item SKU: P00120 -> Catalogue: TROPICAL SCENT (X1-00525)
+2025-07-18 09:48:35,466 - INFO - Using cached images for catalogue code: X1-00525
+2025-07-18 09:48:37,512 - INFO - Updating existing product (ID: 45376)...
+2025-07-18 09:48:39,730 - INFO - ✅ Successfully synced product SKU: P00120 (ID: 45376)
+2025-07-18 09:48:39,730 - INFO - Updating SEO for product 45376 via custom endpoint...
+2025-07-18 09:48:41,608 - INFO - ✅ Successfully updated SEO for product 45376.
+2025-07-18 09:48:41,610 - INFO - [22/61] -------------------------
+2025-07-18 09:48:42,124 - INFO - Processing Item SKU: P00143 -> Catalogue: 13.1' LED Flexible Strip Rope Light West & Arrow Ombre Color (E1-00002)
+2025-07-18 09:48:49,290 - INFO - ✅ Uploaded image and full metadata: '131-led-flexible-strip-rope-light-west-arrow-ombre-1.webp' (ID: 45377)
+2025-07-18 09:48:55,741 - INFO - ✅ Uploaded image and full metadata: '131-led-flexible-strip-rope-light-west-arrow-ombre-2.webp' (ID: 45378)
+2025-07-18 09:49:02,808 - INFO - ✅ Uploaded image and full metadata: '131-led-flexible-strip-rope-light-west-arrow-ombre-3.webp' (ID: 45379)
+2025-07-18 09:49:10,207 - INFO - ✅ Uploaded image and full metadata: '131-led-flexible-strip-rope-light-west-arrow-ombre-4.webp' (ID: 45380)
+2025-07-18 09:49:10,711 - INFO - Cached 4 new images for catalogue code: E1-00002
+2025-07-18 09:49:12,433 - INFO - Product with SKU 'P00143' not found. Attempting to create new product...
+2025-07-18 09:49:14,993 - INFO - ✅ Successfully synced product SKU: P00143 (ID: 45381)
+2025-07-18 09:49:14,994 - INFO - Updating SEO for product 45381 via custom endpoint...
+2025-07-18 09:49:16,754 - INFO - ✅ Successfully updated SEO for product 45381.
+2025-07-18 09:49:16,755 - INFO - [23/61] -------------------------
+2025-07-18 09:49:17,041 - INFO - Processing Item SKU: P00150 -> Catalogue: Primula Whistling kettle 1.5 qt (K1-00009)
+2025-07-18 09:49:22,571 - INFO - ✅ Uploaded image and full metadata: 'primula-whistling-kettle-15-qt-1.webp' (ID: 45382)
+2025-07-18 09:49:28,656 - INFO - ✅ Uploaded image and full metadata: 'primula-whistling-kettle-15-qt-2.webp' (ID: 45383)
+2025-07-18 09:49:29,160 - INFO - Cached 2 new images for catalogue code: K1-00009
+2025-07-18 09:49:31,825 - INFO - Product with SKU 'P00150' not found. Attempting to create new product...
+2025-07-18 09:49:34,477 - INFO - ✅ Successfully synced product SKU: P00150 (ID: 45384)
+2025-07-18 09:49:34,478 - INFO - Updating SEO for product 45384 via custom endpoint...
+2025-07-18 09:49:36,261 - INFO - ✅ Successfully updated SEO for product 45384.
+2025-07-18 09:49:36,263 - INFO - [24/61] -------------------------
+2025-07-18 09:49:36,702 - INFO - Processing Item SKU: P00152 -> Catalogue: 10" Round Wooden Paddle Serving Board - Hearth & Hand with Magnolia - New (K1-00005)
+2025-07-18 09:49:42,663 - INFO - ✅ Uploaded image and full metadata: '10-round-wooden-paddle-serving-board-hearth-hand-w-1.webp' (ID: 45385)
+2025-07-18 09:49:43,167 - INFO - Cached 1 new images for catalogue code: K1-00005
+2025-07-18 09:49:45,128 - INFO - Product with SKU 'P00152' not found. Attempting to create new product...
+2025-07-18 09:49:47,664 - INFO - ✅ Successfully synced product SKU: P00152 (ID: 45386)
+2025-07-18 09:49:47,665 - INFO - Updating SEO for product 45386 via custom endpoint...
+2025-07-18 09:49:49,299 - INFO - ✅ Successfully updated SEO for product 45386.
+2025-07-18 09:49:49,300 - INFO - [25/61] -------------------------
+2025-07-18 09:49:49,685 - INFO - Processing Item SKU: P00207 -> Catalogue: Beats Powerbeats Pro 2 Wireless Bluetooth Earbuds - Noise Cancelling, Heart Rate Monitor, IPX4, Up to 45H Battery & Charging Case, Works with Apple & Android - Jet Black (E1-00003)
+2025-07-18 09:49:56,401 - INFO - ✅ Uploaded image and full metadata: 'beats-powerbeats-pro-2-wireless-bluetooth-earbuds--1.webp' (ID: 45387)
+2025-07-18 09:49:56,906 - INFO - Cached 1 new images for catalogue code: E1-00003
+2025-07-18 09:49:58,761 - INFO - Product with SKU 'P00207' not found. Attempting to create new product...
+2025-07-18 09:50:01,791 - INFO - ✅ Successfully synced product SKU: P00207 (ID: 45388)
+2025-07-18 09:50:01,792 - INFO - Updating SEO for product 45388 via custom endpoint...
+2025-07-18 09:50:03,594 - INFO - ✅ Successfully updated SEO for product 45388.
+2025-07-18 09:50:03,595 - INFO - [26/61] -------------------------
+2025-07-18 09:50:04,527 - INFO - Processing Item SKU: P00230 -> Catalogue: 25-piece pack of Milwaukee SHOCKWAVE Impact Phillips #2 Drywall Insert Bits (Product no. 48-32-4604) (C1-00007)
+2025-07-18 09:50:04,527 - INFO - Creating new categories: 'Tools & Accessories'
+2025-07-18 09:50:06,265 - WARNING - Term 'Tools & Accessories' already exists with ID: 5730. Using existing ID.
+2025-07-18 09:50:15,156 - INFO - ✅ Uploaded image and full metadata: '25-piece-pack-of-milwaukee-shockwave-impact-philli-1.webp' (ID: 45389)
+2025-07-18 09:50:26,307 - INFO - ✅ Uploaded image and full metadata: '25-piece-pack-of-milwaukee-shockwave-impact-philli-2.webp' (ID: 45390)
+2025-07-18 09:50:26,811 - INFO - Cached 2 new images for catalogue code: C1-00007
+2025-07-18 09:50:28,695 - INFO - Product with SKU 'P00230' not found. Attempting to create new product...
+2025-07-18 09:50:32,102 - INFO - ✅ Successfully synced product SKU: P00230 (ID: 45391)
+2025-07-18 09:50:32,104 - INFO - Updating SEO for product 45391 via custom endpoint...
+2025-07-18 09:50:34,485 - INFO - ✅ Successfully updated SEO for product 45391.
+2025-07-18 09:50:34,487 - INFO - [27/61] -------------------------
+2025-07-18 09:50:34,863 - INFO - Processing Item SKU: P00231 -> Catalogue: Milwaukee Tool 4 -inch x 11-3/8 -inch SDS-MAX Core Bit (C1-00001)
+2025-07-18 09:50:41,626 - INFO - ✅ Uploaded image and full metadata: 'milwaukee-tool-4-inch-x-11-38-inch-sds-max-core-bi-1.webp' (ID: 45392)
+2025-07-18 09:50:48,186 - INFO - ✅ Uploaded image and full metadata: 'milwaukee-tool-4-inch-x-11-38-inch-sds-max-core-bi-2.webp' (ID: 45393)
+2025-07-18 09:50:48,691 - INFO - Cached 2 new images for catalogue code: C1-00001
+2025-07-18 09:50:50,638 - INFO - Product with SKU 'P00231' not found. Attempting to create new product...
+2025-07-18 09:50:52,960 - INFO - ✅ Successfully synced product SKU: P00231 (ID: 45394)
+2025-07-18 09:50:52,961 - INFO - Updating SEO for product 45394 via custom endpoint...
+2025-07-18 09:50:54,787 - INFO - ✅ Successfully updated SEO for product 45394.
+2025-07-18 09:50:54,790 - INFO - [28/61] -------------------------
+2025-07-18 09:50:55,142 - INFO - Processing Item SKU: P00239 -> Catalogue: 3M Scotch-Brite 4Pc scrub sponges (K1-00006)
+2025-07-18 09:50:55,143 - INFO - Creating new categories: 'Cleaning Tools & Equipment'
+2025-07-18 09:50:56,903 - WARNING - Term 'Cleaning Tools & Equipment' already exists with ID: 5738. Using existing ID.
+2025-07-18 09:51:04,257 - INFO - ✅ Uploaded image and full metadata: '3m-scotch-brite-4pc-scrub-sponges-1.webp' (ID: 45395)
+2025-07-18 09:51:11,834 - INFO - ✅ Uploaded image and full metadata: '3m-scotch-brite-4pc-scrub-sponges-2.webp' (ID: 45396)
+2025-07-18 09:51:12,339 - INFO - Cached 2 new images for catalogue code: K1-00006
+2025-07-18 09:51:14,033 - INFO - Product with SKU 'P00239' not found. Attempting to create new product...
+2025-07-18 09:51:16,578 - INFO - ✅ Successfully synced product SKU: P00239 (ID: 45397)
+2025-07-18 09:51:16,578 - INFO - Updating SEO for product 45397 via custom endpoint...
+2025-07-18 09:51:18,423 - INFO - ✅ Successfully updated SEO for product 45397.
+2025-07-18 09:51:18,425 - INFO - [29/61] -------------------------
+2025-07-18 09:51:18,692 - INFO - Processing Item SKU: P00240 -> Catalogue: 3M Scotch-Brite 6Pc scrub sponges (K1-00004)
+2025-07-18 09:51:25,657 - INFO - ✅ Uploaded image and full metadata: '3m-scotch-brite-6pc-scrub-sponges-1.webp' (ID: 45398)
+2025-07-18 09:51:33,466 - INFO - ✅ Uploaded image and full metadata: '3m-scotch-brite-6pc-scrub-sponges-2.webp' (ID: 45399)
+2025-07-18 09:51:33,972 - INFO - Cached 2 new images for catalogue code: K1-00004
+2025-07-18 09:51:36,058 - INFO - Product with SKU 'P00240' not found. Attempting to create new product...
+2025-07-18 09:51:39,506 - INFO - ✅ Successfully synced product SKU: P00240 (ID: 45400)
+2025-07-18 09:51:39,507 - INFO - Updating SEO for product 45400 via custom endpoint...
+2025-07-18 09:51:41,325 - INFO - ✅ Successfully updated SEO for product 45400.
+2025-07-18 09:51:41,327 - INFO - [30/61] -------------------------
+2025-07-18 09:51:41,625 - INFO - Processing Item SKU: P00244 -> Catalogue: Milwaukee bi-metal blades (C1-00003)
+2025-07-18 09:51:48,681 - INFO - ✅ Uploaded image and full metadata: 'milwaukee-bi-metal-blades-1.webp' (ID: 45401)
+2025-07-18 09:51:49,186 - INFO - Cached 1 new images for catalogue code: C1-00003
+2025-07-18 09:55:31,441 - ERROR - ❌ API Error while syncing SKU 'P00244': unknown - ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 09:55:31,444 - ERROR -     ↳ Data payload that failed: {'type': 'simple', 'status': 'publish', 'manage_stock': True, 'sku': 'P00244', 'stock_quantity': 12, 'name': 'Milwaukee bi-metal blades', 'description': '15-piece bi-metal reciprocating saw blade set. Tough Neck ribs strengthen blade tang. Matrix II bi-metal teeth for longer life. Optimized tooth forms for fast cutting. Includes various lengths and TPI.', 'short_description': 'Shop Milwaukee bi-metal blades at Pay4more. 15-piece bi-metal reciprocating saw blade set. Tough Neck ribs strengthen blade tang. Matrix II bi-metal teeth fo...', 'regular_price': '49.99', 'sale_price': '29.99', 'weight': '0.5 kg', 'categories': [{'id': 5730}, {'id': 3618}], 'tags': [{'id': 4428}, {'id': 5536}, {'id': 4431}], 'meta_data': [{'key': 'color', 'value': 'Red/Silver'}, {'key': 'heavy', 'value': 'No'}, {'key': 'fragile', 'value': 'No'}, {'key': 'big', 'value': 'No'}], 'dimensions': {}, 'images': [{'id': 45401}]}
+2025-07-18 09:55:31,447 - INFO - [31/61] -------------------------
+2025-07-18 09:55:32,425 - INFO - Processing Item SKU: P00249 -> Catalogue: Milwaukee 48-32-4644 25PC PR2 Impact Bit PK (C1-00006)
+2025-07-18 09:55:45,039 - ERROR - Error processing image https://v5.airtableusercontent.com/v3/u/43/43/1752854400000/6VAzzLlm_eAf5ABWHcjU-w/IOB4Mzyv9oxn0zZTL9kyudSKt1k38KXdl3Yib4bflxovl9qL9Xww_nzYKkLRf3RhKHNgTbmjdEO8g0YjbNk4awqxjwDWhPyOxRiSEc6TRGOWYYT4Qht6hMQPalGRR3lnSJHeYmLTt5x1LWG9GX1DbA/Db1D_VfcN0aeacPrppAtcp9z4vOfHDHuZ_Hx2rako3E: HTTPSConnectionPool(host='pay.4more.ca', port=443): Max retries exceeded with url: /wp-json/wp/v2/media (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D95100A490>: Failed to resolve 'pay.4more.ca' ([Errno 11001] getaddrinfo failed)"))
+2025-07-18 09:55:52,108 - INFO - ✅ Uploaded image and full metadata: 'milwaukee-48-32-4644-25pc-pr2-impact-bit-pk-2.webp' (ID: 45402)
+2025-07-18 09:55:52,612 - INFO - Cached 1 new images for catalogue code: C1-00006
+2025-07-18 09:55:54,566 - INFO - Product with SKU 'P00249' not found. Attempting to create new product...
+2025-07-18 09:55:57,116 - INFO - ✅ Successfully synced product SKU: P00249 (ID: 45403)
+2025-07-18 09:55:57,117 - INFO - Updating SEO for product 45403 via custom endpoint...
+2025-07-18 09:55:59,011 - INFO - ✅ Successfully updated SEO for product 45403.
+2025-07-18 09:55:59,012 - INFO - [32/61] -------------------------
+2025-07-18 09:55:59,480 - INFO - Processing Item SKU: P00250 -> Catalogue: Milwaukee 48-32-5004 PH2 2" SHOCKWAVE Impact Duty Philiips Bits (15 Pack) (C1-00002)
+2025-07-18 09:56:07,869 - INFO - ✅ Uploaded image and full metadata: 'milwaukee-48-32-5004-ph2-2-shockwave-impact-duty-p-1.webp' (ID: 45404)
+2025-07-18 09:56:14,740 - INFO - ✅ Uploaded image and full metadata: 'milwaukee-48-32-5004-ph2-2-shockwave-impact-duty-p-2.webp' (ID: 45405)
+2025-07-18 09:56:15,244 - INFO - Cached 2 new images for catalogue code: C1-00002
+2025-07-18 09:56:16,992 - INFO - Product with SKU 'P00250' not found. Attempting to create new product...
+2025-07-18 09:56:20,578 - INFO - ✅ Successfully synced product SKU: P00250 (ID: 45406)
+2025-07-18 09:56:20,579 - INFO - Updating SEO for product 45406 via custom endpoint...
+2025-07-18 09:56:22,458 - INFO - ✅ Successfully updated SEO for product 45406.
+2025-07-18 09:56:22,459 - INFO - [33/61] -------------------------
+2025-07-18 09:56:22,829 - INFO - Processing Item SKU: P00251 -> Catalogue: Milwaukee multi material Blades 48-90-9009 (C1-00005)
+2025-07-18 09:56:29,470 - INFO - ✅ Uploaded image and full metadata: 'milwaukee-multi-material-blades-48-90-9009-1.webp' (ID: 45407)
+2025-07-18 09:56:57,224 - ERROR - Error processing image https://v5.airtableusercontent.com/v3/u/43/43/1752854400000/AzoiqOeVEMfUzdDKS5ycdA/_dxBPqzMZd7zfd3FfI_tNMsHu15osrqQF11bOxx_xelvg4vCkPVXzD-6bZaN469rP98KBC3ipcLO78x_vDiqTJkO0zY2cYlVyazWASKkHMPhBy2S42SEMzXbYlt73y8bWHysFDdjMAUOR1DgXbKyHA/ug2aI20y1hPJzo4_1AZX7D4X2R_mmC4diXBVIiChJEI: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 09:56:57,733 - INFO - Cached 1 new images for catalogue code: C1-00005
+2025-07-18 09:56:59,773 - INFO - Product with SKU 'P00251' not found. Attempting to create new product...
+2025-07-18 09:57:02,418 - INFO - ✅ Successfully synced product SKU: P00251 (ID: 45408)
+2025-07-18 09:57:02,419 - INFO - Updating SEO for product 45408 via custom endpoint...
+2025-07-18 09:57:04,275 - INFO - ✅ Successfully updated SEO for product 45408.
+2025-07-18 09:57:04,276 - INFO - [34/61] -------------------------
+2025-07-18 09:57:04,661 - INFO - Processing Item SKU: P00265 -> Catalogue: Pack of 2 Hurley Tank Top XXL (A1-00003)
+2025-07-18 09:57:04,664 - INFO - Creating new categories: 'Apparel & Accessories'
+2025-07-18 09:57:06,434 - WARNING - Term 'Apparel & Accessories' already exists with ID: 3343. Using existing ID.
+2025-07-18 09:57:13,571 - INFO - ✅ Uploaded image and full metadata: 'pack-of-2-hurley-tank-top-xxl-1.webp' (ID: 45409)
+2025-07-18 09:57:20,393 - INFO - ✅ Uploaded image and full metadata: 'pack-of-2-hurley-tank-top-xxl-2.webp' (ID: 45410)
+2025-07-18 09:57:26,946 - INFO - ✅ Uploaded image and full metadata: 'pack-of-2-hurley-tank-top-xxl-3.webp' (ID: 45411)
+2025-07-18 09:57:33,403 - INFO - ✅ Uploaded image and full metadata: 'pack-of-2-hurley-tank-top-xxl-4.webp' (ID: 45412)
+2025-07-18 09:57:33,907 - INFO - Cached 4 new images for catalogue code: A1-00003
+2025-07-18 09:57:35,855 - INFO - Product with SKU 'P00265' not found. Attempting to create new product...
+2025-07-18 09:57:38,415 - INFO - ✅ Successfully synced product SKU: P00265 (ID: 45413)
+2025-07-18 09:57:38,415 - INFO - Updating SEO for product 45413 via custom endpoint...
+2025-07-18 09:57:40,156 - INFO - ✅ Successfully updated SEO for product 45413.
+2025-07-18 09:57:40,157 - INFO - [35/61] -------------------------
+2025-07-18 09:57:40,463 - INFO - Processing Item SKU: P00273 -> Catalogue: 2Pc Hurley Men’s Top (A1-00002)
+2025-07-18 09:57:45,763 - INFO - ✅ Uploaded image and full metadata: '2pc-hurley-mens-top-1.webp' (ID: 45414)
+2025-07-18 09:57:52,094 - INFO - ✅ Uploaded image and full metadata: '2pc-hurley-mens-top-2.webp' (ID: 45415)
+2025-07-18 09:57:58,408 - INFO - ✅ Uploaded image and full metadata: '2pc-hurley-mens-top-3.webp' (ID: 45416)
+2025-07-18 09:58:04,876 - INFO - ✅ Uploaded image and full metadata: '2pc-hurley-mens-top-4.webp' (ID: 45417)
+2025-07-18 09:58:05,380 - INFO - Cached 4 new images for catalogue code: A1-00002
+2025-07-18 09:58:07,190 - INFO - Product with SKU 'P00273' not found. Attempting to create new product...
+2025-07-18 09:58:09,663 - INFO - ✅ Successfully synced product SKU: P00273 (ID: 45418)
+2025-07-18 09:58:09,664 - INFO - Updating SEO for product 45418 via custom endpoint...
+2025-07-18 09:58:11,594 - INFO - ✅ Successfully updated SEO for product 45418.
+2025-07-18 09:58:11,596 - INFO - [36/61] -------------------------
+2025-07-18 09:58:11,901 - INFO - Processing Item SKU: P00289 -> Catalogue: Speedo Junior Sprinter Swim Goggles - Blue - Age 6-14 SECURE FIT NO LEAK (S1-00007)
+2025-07-18 09:58:19,252 - INFO - ✅ Uploaded image and full metadata: 'speedo-junior-sprinter-swim-goggles-blue-age-6-14--1.webp' (ID: 45419)
+2025-07-18 09:58:19,755 - INFO - Cached 1 new images for catalogue code: S1-00007
+2025-07-18 09:58:21,528 - INFO - Product with SKU 'P00289' not found. Attempting to create new product...
+2025-07-18 09:58:23,891 - INFO - ✅ Successfully synced product SKU: P00289 (ID: 45420)
+2025-07-18 09:58:23,892 - INFO - Updating SEO for product 45420 via custom endpoint...
+2025-07-18 09:58:25,597 - INFO - ✅ Successfully updated SEO for product 45420.
+2025-07-18 09:58:25,599 - INFO - [37/61] -------------------------
+2025-07-18 09:58:25,792 - INFO - Processing Item SKU: P00297 -> Catalogue: IRIS USA WOOZOO Desk Fan (E1-00001)
+2025-07-18 09:58:31,357 - INFO - ✅ Uploaded image and full metadata: 'iris-usa-woozoo-desk-fan-1.webp' (ID: 45421)
+2025-07-18 09:58:37,603 - INFO - ✅ Uploaded image and full metadata: 'iris-usa-woozoo-desk-fan-2.webp' (ID: 45422)
+2025-07-18 09:58:38,107 - INFO - Cached 2 new images for catalogue code: E1-00001
+2025-07-18 09:58:39,755 - INFO - Product with SKU 'P00297' not found. Attempting to create new product...
+2025-07-18 09:58:42,315 - INFO - ✅ Successfully synced product SKU: P00297 (ID: 45423)
+2025-07-18 09:58:42,316 - INFO - Updating SEO for product 45423 via custom endpoint...
+2025-07-18 09:58:44,099 - INFO - ✅ Successfully updated SEO for product 45423.
+2025-07-18 09:58:44,101 - INFO - [38/61] -------------------------
+2025-07-18 09:58:44,437 - INFO - Processing Item SKU: P00308 -> Catalogue: SexyHair Style Hard Up Gel Tenue Extrême Non-écaillante Formule Tous Types de Cheveux (X1-00670)
+2025-07-18 09:58:50,104 - INFO - ✅ Uploaded image and full metadata: 'sexyhair-style-hard-up-gel-tenue-extrême-non-écail-1.webp' (ID: 45424)
+2025-07-18 09:58:55,994 - INFO - ✅ Uploaded image and full metadata: 'sexyhair-style-hard-up-gel-tenue-extrême-non-écail-2.webp' (ID: 45425)
+2025-07-18 09:59:02,187 - INFO - ✅ Uploaded image and full metadata: 'sexyhair-style-hard-up-gel-tenue-extrême-non-écail-3.webp' (ID: 45426)
+2025-07-18 09:59:08,725 - INFO - ✅ Uploaded image and full metadata: 'sexyhair-style-hard-up-gel-tenue-extrême-non-écail-4.webp' (ID: 45427)
+2025-07-18 09:59:09,230 - INFO - Cached 4 new images for catalogue code: X1-00670
+2025-07-18 09:59:10,938 - INFO - Product with SKU 'P00308' not found. Attempting to create new product...
+2025-07-18 09:59:13,342 - INFO - ✅ Successfully synced product SKU: P00308 (ID: 45428)
+2025-07-18 09:59:13,343 - INFO - Updating SEO for product 45428 via custom endpoint...
+2025-07-18 09:59:15,191 - INFO - ✅ Successfully updated SEO for product 45428.
+2025-07-18 09:59:15,193 - INFO - [39/61] -------------------------
+2025-07-18 09:59:15,388 - INFO - Processing Item SKU: P00339 -> Catalogue: New Sun Squad Inflatable Swim Tube With Handles 36 Inch Diameter (S1-00010)
+2025-07-18 09:59:15,390 - INFO - Creating new categories: 'Pool Floats & Recreation'
+2025-07-18 09:59:17,131 - WARNING - Term 'Pool Floats & Recreation' already exists with ID: 5774. Using existing ID.
+2025-07-18 09:59:17,132 - INFO - Creating new categories: 'Pool Care & Maintenance'
+2025-07-18 09:59:18,900 - WARNING - Term 'Pool Care & Maintenance' already exists with ID: 3357. Using existing ID.
+2025-07-18 09:59:25,594 - INFO - ✅ Uploaded image and full metadata: 'new-sun-squad-inflatable-swim-tube-with-handles-36-1.webp' (ID: 45429)
+2025-07-18 09:59:31,630 - INFO - ✅ Uploaded image and full metadata: 'new-sun-squad-inflatable-swim-tube-with-handles-36-2.webp' (ID: 45430)
+2025-07-18 09:59:37,796 - INFO - ✅ Uploaded image and full metadata: 'new-sun-squad-inflatable-swim-tube-with-handles-36-3.webp' (ID: 45431)
+2025-07-18 09:59:38,301 - INFO - Cached 3 new images for catalogue code: S1-00010
+2025-07-18 09:59:40,069 - INFO - Product with SKU 'P00339' not found. Attempting to create new product...
+2025-07-18 09:59:42,425 - INFO - ✅ Successfully synced product SKU: P00339 (ID: 45432)
+2025-07-18 09:59:42,426 - INFO - Updating SEO for product 45432 via custom endpoint...
+2025-07-18 09:59:44,077 - INFO - ✅ Successfully updated SEO for product 45432.
+2025-07-18 09:59:44,078 - INFO - [40/61] -------------------------
+2025-07-18 09:59:44,428 - INFO - Processing Item SKU: P00341 -> Catalogue: Target  Inflatable Glitter PINK  Chair 26"L x 22"W x 16"H (S1-00009)
+2025-07-18 09:59:49,696 - INFO - ✅ Uploaded image and full metadata: 'target-inflatable-glitter-pink-chair-26l-x-22w-x-1-1.webp' (ID: 45433)
+2025-07-18 09:59:50,200 - INFO - Cached 1 new images for catalogue code: S1-00009
+2025-07-18 09:59:51,861 - INFO - Product with SKU 'P00341' not found. Attempting to create new product...
+2025-07-18 09:59:54,291 - INFO - ✅ Successfully synced product SKU: P00341 (ID: 45434)
+2025-07-18 09:59:54,291 - INFO - Updating SEO for product 45434 via custom endpoint...
+2025-07-18 09:59:56,005 - INFO - ✅ Successfully updated SEO for product 45434.
+2025-07-18 09:59:56,007 - INFO - [41/61] -------------------------
+2025-07-18 09:59:56,320 - INFO - Processing Item SKU: P00344 -> Catalogue: Sun Squad Inflatable Swim Tube - 31 Inch Diameter - Pool Float for Summer Fun (S1-00011)
+2025-07-18 10:00:02,714 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-inflatable-swim-tube-31-inch-diameter-po-1.webp' (ID: 45435)
+2025-07-18 10:00:09,459 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-inflatable-swim-tube-31-inch-diameter-po-2.webp' (ID: 45436)
+2025-07-18 10:00:15,675 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-inflatable-swim-tube-31-inch-diameter-po-3.webp' (ID: 45437)
+2025-07-18 10:00:16,180 - INFO - Cached 3 new images for catalogue code: S1-00011
+2025-07-18 10:00:18,171 - INFO - Product with SKU 'P00344' not found. Attempting to create new product...
+2025-07-18 10:00:20,831 - INFO - ✅ Successfully synced product SKU: P00344 (ID: 45438)
+2025-07-18 10:00:20,831 - INFO - Updating SEO for product 45438 via custom endpoint...
+2025-07-18 10:00:22,874 - INFO - ✅ Successfully updated SEO for product 45438.
+2025-07-18 10:00:22,875 - INFO - [42/61] -------------------------
+2025-07-18 10:00:23,223 - INFO - Processing Item SKU: P00345 -> Catalogue: 36" Inflatable Glitter Swim Tube - Sun Squad™ (S1-00008)
+2025-07-18 10:00:30,396 - INFO - ✅ Uploaded image and full metadata: '36-inflatable-glitter-swim-tube-sun-squad-1.webp' (ID: 45439)
+2025-07-18 10:00:30,900 - INFO - Cached 1 new images for catalogue code: S1-00008
+2025-07-18 10:00:32,705 - INFO - Product with SKU 'P00345' not found. Attempting to create new product...
+2025-07-18 10:00:35,218 - INFO - ✅ Successfully synced product SKU: P00345 (ID: 45440)
+2025-07-18 10:00:35,219 - INFO - Updating SEO for product 45440 via custom endpoint...
+2025-07-18 10:00:36,920 - INFO - ✅ Successfully updated SEO for product 45440.
+2025-07-18 10:00:36,921 - INFO - [43/61] -------------------------
+2025-07-18 10:00:37,143 - INFO - Processing Item SKU: P00347 -> Catalogue: Speedo Jr. Goggle 3 in Pack. (Anti-fog) (UV Protection) ! Green (S1-00001)
+2025-07-18 10:00:37,143 - INFO - Using cached images for catalogue code: S1-00001
+2025-07-18 10:00:38,955 - INFO - Product with SKU 'P00347' not found. Attempting to create new product...
+2025-07-18 10:00:41,322 - INFO - ✅ Successfully synced product SKU: P00347 (ID: 45441)
+2025-07-18 10:00:41,323 - INFO - Updating SEO for product 45441 via custom endpoint...
+2025-07-18 10:00:43,047 - INFO - ✅ Successfully updated SEO for product 45441.
+2025-07-18 10:00:43,049 - INFO - [44/61] -------------------------
+2025-07-18 10:00:43,354 - INFO - Processing Item SKU: P00437 -> Catalogue: Reusable Sponge Water Balls 16pk (S1-00018)
+2025-07-18 10:00:43,355 - INFO - Creating new categories: 'Water & Pool Toys'
+2025-07-18 10:00:45,169 - WARNING - Term 'Water & Pool Toys' already exists with ID: 5766. Using existing ID.
+2025-07-18 10:00:51,337 - INFO - ✅ Uploaded image and full metadata: 'reusable-sponge-water-balls-16pk-1.webp' (ID: 45442)
+2025-07-18 10:00:58,265 - INFO - ✅ Uploaded image and full metadata: 'reusable-sponge-water-balls-16pk-2.webp' (ID: 45443)
+2025-07-18 10:01:05,577 - INFO - ✅ Uploaded image and full metadata: 'reusable-sponge-water-balls-16pk-3.webp' (ID: 45444)
+2025-07-18 10:01:06,081 - INFO - Cached 3 new images for catalogue code: S1-00018
+2025-07-18 10:01:07,939 - INFO - Product with SKU 'P00437' not found. Attempting to create new product...
+2025-07-18 10:01:10,424 - INFO - ✅ Successfully synced product SKU: P00437 (ID: 45445)
+2025-07-18 10:01:10,425 - INFO - Updating SEO for product 45445 via custom endpoint...
+2025-07-18 10:01:12,215 - INFO - ✅ Successfully updated SEO for product 45445.
+2025-07-18 10:01:12,216 - INFO - [45/61] -------------------------
+2025-07-18 10:01:12,678 - INFO - Processing Item SKU: P00463 -> Catalogue: BRAND NEW Sun Squad EASY GRIP DIVING RINGS SET OF 2 GREEN & ORANGE (X1-00309)
+2025-07-18 10:01:12,678 - INFO - Creating new categories: 'Water & Dive Toys'
+2025-07-18 10:01:14,449 - WARNING - Term 'Water & Dive Toys' already exists with ID: 5773. Using existing ID.
+2025-07-18 10:01:19,914 - INFO - ✅ Uploaded image and full metadata: 'brand-new-sun-squad-easy-grip-diving-rings-set-of--1.webp' (ID: 45446)
+2025-07-18 10:01:26,467 - INFO - ✅ Uploaded image and full metadata: 'brand-new-sun-squad-easy-grip-diving-rings-set-of--2.webp' (ID: 45447)
+2025-07-18 10:01:26,971 - INFO - Cached 2 new images for catalogue code: X1-00309
+2025-07-18 10:01:28,834 - INFO - Product with SKU 'P00463' not found. Attempting to create new product...
+2025-07-18 10:01:31,172 - INFO - ✅ Successfully synced product SKU: P00463 (ID: 45448)
+2025-07-18 10:01:31,173 - INFO - Updating SEO for product 45448 via custom endpoint...
+2025-07-18 10:01:33,000 - INFO - ✅ Successfully updated SEO for product 45448.
+2025-07-18 10:01:33,002 - INFO - [46/61] -------------------------
+2025-07-18 10:01:33,561 - INFO - Processing Item SKU: P00468 -> Catalogue: Carters Baby Girls Swim Hat Pink Solid Just One You Sun Head Cover Toddler UPF50 (X1-00636)
+2025-07-18 10:01:41,332 - INFO - ✅ Uploaded image and full metadata: 'carters-baby-girls-swim-hat-pink-solid-just-one-yo-1.webp' (ID: 45449)
+2025-07-18 10:01:47,766 - INFO - ✅ Uploaded image and full metadata: 'carters-baby-girls-swim-hat-pink-solid-just-one-yo-2.webp' (ID: 45450)
+2025-07-18 10:01:48,270 - INFO - Cached 2 new images for catalogue code: X1-00636
+2025-07-18 10:01:50,021 - INFO - Product with SKU 'P00468' not found. Attempting to create new product...
+2025-07-18 10:01:52,442 - INFO - ✅ Successfully synced product SKU: P00468 (ID: 45451)
+2025-07-18 10:01:52,443 - INFO - Updating SEO for product 45451 via custom endpoint...
+2025-07-18 10:01:54,219 - INFO - ✅ Successfully updated SEO for product 45451.
+2025-07-18 10:01:54,221 - INFO - [47/61] -------------------------
+2025-07-18 10:01:54,427 - INFO - Processing Item SKU: P00469 -> Catalogue: Carter's Baby Size 6-12Months Navy Blue Sun Hat (X1-00779)
+2025-07-18 10:01:59,951 - INFO - ✅ Uploaded image and full metadata: 'carters-baby-size-6-12months-navy-blue-sun-hat-1.webp' (ID: 45452)
+2025-07-18 10:02:06,075 - INFO - ✅ Uploaded image and full metadata: 'carters-baby-size-6-12months-navy-blue-sun-hat-2.webp' (ID: 45453)
+2025-07-18 10:02:06,578 - INFO - Cached 2 new images for catalogue code: X1-00779
+2025-07-18 10:02:08,326 - INFO - Product with SKU 'P00469' not found. Attempting to create new product...
+2025-07-18 10:02:10,704 - INFO - ✅ Successfully synced product SKU: P00469 (ID: 45454)
+2025-07-18 10:02:10,705 - INFO - Updating SEO for product 45454 via custom endpoint...
+2025-07-18 10:02:12,414 - INFO - ✅ Successfully updated SEO for product 45454.
+2025-07-18 10:02:12,416 - INFO - [48/61] -------------------------
+2025-07-18 10:02:12,648 - INFO - Processing Item SKU: P00470 -> Catalogue: Cat and jack baby hat (X1-00474)
+2025-07-18 10:02:18,583 - INFO - ✅ Uploaded image and full metadata: 'cat-and-jack-baby-hat-1.webp' (ID: 45455)
+2025-07-18 10:02:25,453 - INFO - ✅ Uploaded image and full metadata: 'cat-and-jack-baby-hat-2.webp' (ID: 45456)
+2025-07-18 10:02:25,957 - INFO - Cached 2 new images for catalogue code: X1-00474
+2025-07-18 10:02:27,601 - INFO - Product with SKU 'P00470' not found. Attempting to create new product...
+2025-07-18 10:02:30,174 - INFO - ✅ Successfully synced product SKU: P00470 (ID: 45457)
+2025-07-18 10:02:30,175 - INFO - Updating SEO for product 45457 via custom endpoint...
+2025-07-18 10:02:31,960 - INFO - ✅ Successfully updated SEO for product 45457.
+2025-07-18 10:02:31,962 - INFO - [49/61] -------------------------
+2025-07-18 10:02:32,190 - INFO - Processing Item SKU: P00471 -> Catalogue: 3 Ring Pool Blue Yellow - Sun Squad (S1-00014)
+2025-07-18 10:02:37,850 - INFO - ✅ Uploaded image and full metadata: '3-ring-pool-blue-yellow-sun-squad-1.webp' (ID: 45458)
+2025-07-18 10:02:45,419 - INFO - ✅ Uploaded image and full metadata: '3-ring-pool-blue-yellow-sun-squad-2.webp' (ID: 45459)
+2025-07-18 10:02:45,924 - INFO - Cached 2 new images for catalogue code: S1-00014
+2025-07-18 10:02:47,706 - INFO - Product with SKU 'P00471' not found. Attempting to create new product...
+2025-07-18 10:02:50,130 - INFO - ✅ Successfully synced product SKU: P00471 (ID: 45460)
+2025-07-18 10:02:50,131 - INFO - Updating SEO for product 45460 via custom endpoint...
+2025-07-18 10:02:51,972 - INFO - ✅ Successfully updated SEO for product 45460.
+2025-07-18 10:02:51,973 - INFO - [50/61] -------------------------
+2025-07-18 10:02:52,285 - INFO - Processing Item SKU: P00575 -> Catalogue: Sun Squad Blue Inflatable Swim Tube With Handles, 36 Inch Diameter (S1-00006)
+2025-07-18 10:02:57,987 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-blue-inflatable-swim-tube-with-handles-3-1.webp' (ID: 45461)
+2025-07-18 10:02:58,491 - INFO - Cached 1 new images for catalogue code: S1-00006
+2025-07-18 10:03:00,073 - INFO - Product with SKU 'P00575' not found. Attempting to create new product...
+2025-07-18 10:03:03,297 - INFO - ✅ Successfully synced product SKU: P00575 (ID: 45462)
+2025-07-18 10:03:03,297 - INFO - Updating SEO for product 45462 via custom endpoint...
+2025-07-18 10:03:05,387 - INFO - ✅ Successfully updated SEO for product 45462.
+2025-07-18 10:03:05,389 - INFO - [51/61] -------------------------
+2025-07-18 10:03:05,700 - INFO - Processing Item SKU: P00576 -> Catalogue: Inflatable Round Swim Tube Pool Float Inner Tube Rainbow Summer Beach Lake 31” (S1-00005)
+2025-07-18 10:03:11,942 - INFO - ✅ Uploaded image and full metadata: 'inflatable-round-swim-tube-pool-float-inner-tube-r-1.webp' (ID: 45463)
+2025-07-18 10:03:12,446 - INFO - Cached 1 new images for catalogue code: S1-00005
+2025-07-18 10:03:14,241 - INFO - Product with SKU 'P00576' not found. Attempting to create new product...
+2025-07-18 10:03:16,650 - INFO - ✅ Successfully synced product SKU: P00576 (ID: 45464)
+2025-07-18 10:03:16,650 - INFO - Updating SEO for product 45464 via custom endpoint...
+2025-07-18 10:03:18,397 - INFO - ✅ Successfully updated SEO for product 45464.
+2025-07-18 10:03:18,398 - INFO - [52/61] -------------------------
+2025-07-18 10:03:18,603 - INFO - Processing Item SKU: P00577 -> Catalogue: Sun Squad Inflatable swim tube 31 inch (S1-00004)
+2025-07-18 10:03:24,087 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-inflatable-swim-tube-31-inch-1.webp' (ID: 45465)
+2025-07-18 10:03:24,592 - INFO - Cached 1 new images for catalogue code: S1-00004
+2025-07-18 10:03:26,383 - INFO - Product with SKU 'P00577' not found. Attempting to create new product...
+2025-07-18 10:03:28,744 - INFO - ✅ Successfully synced product SKU: P00577 (ID: 45466)
+2025-07-18 10:03:28,745 - INFO - Updating SEO for product 45466 via custom endpoint...
+2025-07-18 10:03:30,579 - INFO - ✅ Successfully updated SEO for product 45466.
+2025-07-18 10:03:30,581 - INFO - [53/61] -------------------------
+2025-07-18 10:03:30,842 - INFO - Processing Item SKU: P00578 -> Catalogue: Sun Squad 36" Inflatable Retro Palm Tree Design Swin Tube with Handles (S1-00003)
+2025-07-18 10:03:36,517 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-36-inflatable-retro-palm-tree-design-swi-1.webp' (ID: 45467)
+2025-07-18 10:03:37,020 - INFO - Cached 1 new images for catalogue code: S1-00003
+2025-07-18 10:03:38,741 - INFO - Product with SKU 'P00578' not found. Attempting to create new product...
+2025-07-18 10:03:41,211 - INFO - ✅ Successfully synced product SKU: P00578 (ID: 45468)
+2025-07-18 10:03:41,211 - INFO - Updating SEO for product 45468 via custom endpoint...
+2025-07-18 10:03:42,969 - INFO - ✅ Successfully updated SEO for product 45468.
+2025-07-18 10:03:42,971 - INFO - [54/61] -------------------------
+2025-07-18 10:03:43,278 - INFO - Processing Item SKU: P00579 -> Catalogue: Speedo Splash Jammer Life Jacket Swim Vest Kids Weight 33-55 lbs Dinosaur (S1-00002)
+2025-07-18 10:03:49,831 - INFO - ✅ Uploaded image and full metadata: 'speedo-splash-jammer-life-jacket-swim-vest-kids-we-1.webp' (ID: 45469)
+2025-07-18 10:03:55,606 - INFO - ✅ Uploaded image and full metadata: 'speedo-splash-jammer-life-jacket-swim-vest-kids-we-2.webp' (ID: 45470)
+2025-07-18 10:03:56,111 - INFO - Cached 2 new images for catalogue code: S1-00002
+2025-07-18 10:03:57,711 - INFO - Product with SKU 'P00579' not found. Attempting to create new product...
+2025-07-18 10:04:00,158 - INFO - ✅ Successfully synced product SKU: P00579 (ID: 45471)
+2025-07-18 10:04:00,159 - INFO - Updating SEO for product 45471 via custom endpoint...
+2025-07-18 10:04:02,026 - INFO - ✅ Successfully updated SEO for product 45471.
+2025-07-18 10:04:02,027 - INFO - [55/61] -------------------------
+2025-07-18 10:04:02,324 - INFO - Processing Item SKU: P00612 -> Catalogue: Squishmallows Hello Kitty Hugmees 10'' Plush NWT Soft  (T1-00003)
+2025-07-18 10:04:02,324 - INFO - Creating new categories: 'Stuffed Animals & Plush'
+2025-07-18 10:04:04,270 - WARNING - Term 'Stuffed Animals & Plush' already exists with ID: 5818. Using existing ID.
+2025-07-18 10:04:10,306 - INFO - ✅ Uploaded image and full metadata: 'squishmallows-hello-kitty-hugmees-10-plush-nwt-sof-1.webp' (ID: 45472)
+2025-07-18 10:04:10,811 - INFO - Cached 1 new images for catalogue code: T1-00003
+2025-07-18 10:04:12,666 - INFO - Product with SKU 'P00612' not found. Attempting to create new product...
+2025-07-18 10:04:15,206 - INFO - ✅ Successfully synced product SKU: P00612 (ID: 45473)
+2025-07-18 10:04:15,208 - INFO - [56/61] -------------------------
+2025-07-18 10:04:15,480 - INFO - Processing Item SKU: P00623 -> Catalogue: Function of Beauty Customizable Super Shape Curl Cream for Curly Hair, 7 oz Each (2-Pack) - Formulated With Moringa Oil for Frizz-Free, Defined and Hydrated Manageable Curls (X1-00271)
+2025-07-18 10:04:21,064 - INFO - ✅ Uploaded image and full metadata: 'function-of-beauty-customizable-super-shape-curl-c-1.webp' (ID: 45474)
+2025-07-18 10:04:27,413 - INFO - ✅ Uploaded image and full metadata: 'function-of-beauty-customizable-super-shape-curl-c-2.webp' (ID: 45475)
+2025-07-18 10:04:27,918 - INFO - Cached 2 new images for catalogue code: X1-00271
+2025-07-18 10:04:29,768 - INFO - Product with SKU 'P00623' not found. Attempting to create new product...
+2025-07-18 10:04:32,329 - INFO - ✅ Successfully synced product SKU: P00623 (ID: 45476)
+2025-07-18 10:04:32,330 - INFO - Updating SEO for product 45476 via custom endpoint...
+2025-07-18 10:04:34,273 - INFO - ✅ Successfully updated SEO for product 45476.
+2025-07-18 10:04:34,274 - INFO - [57/61] -------------------------
+2025-07-18 10:04:34,487 - INFO - Processing Item SKU: P00660 -> Catalogue: Eva NYC - Tones Brightens Softens Tone It Blonde Shampoo.  (X1-00588)
+2025-07-18 10:04:40,220 - INFO - ✅ Uploaded image and full metadata: 'eva-nyc-tones-brightens-softens-tone-it-blonde-sha-1.webp' (ID: 45477)
+2025-07-18 10:04:46,502 - INFO - ✅ Uploaded image and full metadata: 'eva-nyc-tones-brightens-softens-tone-it-blonde-sha-2.webp' (ID: 45478)
+2025-07-18 10:04:47,007 - INFO - Cached 2 new images for catalogue code: X1-00588
+2025-07-18 10:04:48,814 - INFO - Product with SKU 'P00660' not found. Attempting to create new product...
+2025-07-18 10:04:51,170 - INFO - ✅ Successfully synced product SKU: P00660 (ID: 45479)
+2025-07-18 10:04:51,171 - INFO - Updating SEO for product 45479 via custom endpoint...
+2025-07-18 10:04:53,014 - INFO - ✅ Successfully updated SEO for product 45479.
+2025-07-18 10:04:53,015 - INFO - [58/61] -------------------------
+2025-07-18 10:04:53,208 - INFO - Processing Item SKU: P00715 -> Catalogue: 4pc 6" Appetizer Plates Light Gray - RE (K1-00020)
+2025-07-18 10:04:59,983 - INFO - ✅ Uploaded image and full metadata: '4pc-6-appetizer-plates-light-gray-re-1.webp' (ID: 45480)
+2025-07-18 10:05:06,223 - INFO - ✅ Uploaded image and full metadata: '4pc-6-appetizer-plates-light-gray-re-2.webp' (ID: 45481)
+2025-07-18 10:05:13,075 - INFO - ✅ Uploaded image and full metadata: '4pc-6-appetizer-plates-light-gray-re-3.webp' (ID: 45482)
+2025-07-18 10:05:13,578 - INFO - Cached 3 new images for catalogue code: K1-00020
+2025-07-18 10:05:15,353 - INFO - Product with SKU 'P00715' not found. Attempting to create new product...
+2025-07-18 10:05:17,763 - INFO - ✅ Successfully synced product SKU: P00715 (ID: 45483)
+2025-07-18 10:05:17,764 - INFO - [59/61] -------------------------
+2025-07-18 10:05:18,036 - INFO - Processing Item SKU: P00716 -> Catalogue: 4pc 6" Appetizer Plates black - RE (K1-00021)
+2025-07-18 10:05:23,222 - INFO - ✅ Uploaded image and full metadata: '4pc-6-appetizer-plates-black-re-1.webp' (ID: 45484)
+2025-07-18 10:05:29,572 - INFO - ✅ Uploaded image and full metadata: '4pc-6-appetizer-plates-black-re-2.webp' (ID: 45485)
+2025-07-18 10:05:36,533 - INFO - ✅ Uploaded image and full metadata: '4pc-6-appetizer-plates-black-re-3.webp' (ID: 45486)
+2025-07-18 10:05:37,036 - INFO - Cached 3 new images for catalogue code: K1-00021
+2025-07-18 10:05:38,968 - INFO - Product with SKU 'P00716' not found. Attempting to create new product...
+2025-07-18 10:05:41,552 - INFO - ✅ Successfully synced product SKU: P00716 (ID: 45487)
+2025-07-18 10:05:41,554 - INFO - [60/61] -------------------------
+2025-07-18 10:05:41,870 - INFO - Processing Item SKU: P00717 -> Catalogue: Set of 3 - 26.05 fl oz Tall Tumbler - Room Essentials™ (K1-00022)
+2025-07-18 10:05:47,703 - INFO - ✅ Uploaded image and full metadata: 'set-of-3-2605-fl-oz-tall-tumbler-room-essentials-1.webp' (ID: 45488)
+2025-07-18 10:05:54,047 - INFO - ✅ Uploaded image and full metadata: 'set-of-3-2605-fl-oz-tall-tumbler-room-essentials-2.webp' (ID: 45489)
+2025-07-18 10:05:54,551 - INFO - Cached 2 new images for catalogue code: K1-00022
+2025-07-18 10:05:56,298 - INFO - Product with SKU 'P00717' not found. Attempting to create new product...
+2025-07-18 10:05:58,824 - INFO - ✅ Successfully synced product SKU: P00717 (ID: 45490)
+2025-07-18 10:05:58,826 - INFO - [61/61] -------------------------
+2025-07-18 10:05:59,063 - INFO - Processing Item SKU: P00718 -> Catalogue: THRESHOLD 20oz Tumbler (K1-00023)
+2025-07-18 10:06:06,562 - INFO - ✅ Uploaded image and full metadata: 'threshold-20oz-tumbler-1.webp' (ID: 45491)
+2025-07-18 10:06:07,067 - INFO - Cached 1 new images for catalogue code: K1-00023
+2025-07-18 10:06:08,995 - INFO - Product with SKU 'P00718' not found. Attempting to create new product...
+2025-07-18 10:06:11,742 - INFO - ✅ Successfully synced product SKU: P00718 (ID: 45492)
+2025-07-18 10:06:11,744 - INFO - ============================================================
+🏁 SYNC COMPLETE! ✅ Success: 59, ❌ Errors: 2
+============================================================
+2025-07-18 10:07:49,167 - INFO - 🚀 Starting product sync from Airtable to WooCommerce...
+2025-07-18 10:08:52,637 - INFO - Pre-fetched 296 categories, 2474 tags, and 1 brands.
+2025-07-18 10:08:52,638 - INFO - Fetching products from Airtable view 'Pay4more Sync View'...
+2025-07-18 10:08:53,325 - INFO - Found 61 products to sync.
+2025-07-18 10:08:53,325 - INFO - [1/61] -------------------------
+2025-07-18 10:08:53,463 - INFO - Processing Item SKU: P00003 -> Catalogue: Unique Appliances Off-Grid 24-inch 6 cu. ft. Propane Top Freezer Counter Depth Refrigerator with (X1-00447)
+2025-07-18 10:08:53,464 - INFO - Creating new categories: 'Kitchen & Bath'
+2025-07-18 10:08:55,198 - WARNING - Term 'Kitchen & Bath' already exists with ID: 5731. Using existing ID.
+2025-07-18 10:08:55,199 - INFO - Creating new categories: 'Sports & Outdoors'
+2025-07-18 10:08:56,835 - WARNING - Term 'Sports & Outdoors' already exists with ID: 3351. Using existing ID.
+2025-07-18 10:09:03,426 - INFO - ✅ Uploaded image and full metadata: 'unique-appliances-off-grid-24-inch-6-cu-ft-propane-1.webp' (ID: 45493)
+2025-07-18 10:09:09,635 - INFO - ✅ Uploaded image and full metadata: 'unique-appliances-off-grid-24-inch-6-cu-ft-propane-2.webp' (ID: 45494)
+2025-07-18 10:09:16,701 - INFO - ✅ Uploaded image and full metadata: 'unique-appliances-off-grid-24-inch-6-cu-ft-propane-3.webp' (ID: 45495)
+2025-07-18 10:09:22,643 - INFO - ✅ Uploaded image and full metadata: 'unique-appliances-off-grid-24-inch-6-cu-ft-propane-4.webp' (ID: 45496)
+2025-07-18 10:09:28,754 - INFO - ✅ Uploaded image and full metadata: 'unique-appliances-off-grid-24-inch-6-cu-ft-propane-5.webp' (ID: 45497)
+2025-07-18 10:09:29,258 - INFO - Cached 5 new images for catalogue code: X1-00447
+2025-07-18 10:09:31,039 - INFO - Updating existing product (ID: 45312)...
+2025-07-18 10:09:33,494 - INFO - ✅ Successfully synced product SKU: P00003 (ID: 45312)
+2025-07-18 10:09:33,495 - INFO - Updating SEO for product 45312 via custom endpoint...
+2025-07-18 10:09:35,644 - INFO - ✅ Successfully updated SEO for product 45312.
+2025-07-18 10:09:35,646 - INFO - [2/61] -------------------------
+2025-07-18 10:09:36,034 - INFO - Processing Item SKU: P00004 -> Catalogue: Baxton Studio Landis Dresser in Ash Walnut and Gold (F1-00001)
+2025-07-18 10:09:36,035 - INFO - Creating new categories: 'Home & Furniture'
+2025-07-18 10:09:37,795 - WARNING - Term 'Home & Furniture' already exists with ID: 3353. Using existing ID.
+2025-07-18 10:09:43,666 - INFO - ✅ Uploaded image and full metadata: 'baxton-studio-landis-dresser-in-ash-walnut-and-gol-1.webp' (ID: 45498)
+2025-07-18 10:09:50,288 - INFO - ✅ Uploaded image and full metadata: 'baxton-studio-landis-dresser-in-ash-walnut-and-gol-2.webp' (ID: 45499)
+2025-07-18 10:09:56,847 - INFO - ✅ Uploaded image and full metadata: 'baxton-studio-landis-dresser-in-ash-walnut-and-gol-3.webp' (ID: 45500)
+2025-07-18 10:09:57,352 - INFO - Cached 3 new images for catalogue code: F1-00001
+2025-07-18 10:09:59,200 - INFO - Updating existing product (ID: 45316)...
+2025-07-18 10:10:01,654 - INFO - ✅ Successfully synced product SKU: P00004 (ID: 45316)
+2025-07-18 10:10:01,655 - INFO - Updating SEO for product 45316 via custom endpoint...
+2025-07-18 10:10:03,557 - INFO - ✅ Successfully updated SEO for product 45316.
+2025-07-18 10:10:03,559 - INFO - [3/61] -------------------------
+2025-07-18 10:10:04,011 - INFO - Processing Item SKU: P00021 -> Catalogue: 12 Cup Programmable Coffee Maker Gray – Figmint™ (K1-00003)
+2025-07-18 10:10:10,670 - INFO - ✅ Uploaded image and full metadata: '12-cup-programmable-coffee-maker-gray-figmint-1.webp' (ID: 45501)
+2025-07-18 10:10:16,914 - INFO - ✅ Uploaded image and full metadata: '12-cup-programmable-coffee-maker-gray-figmint-2.webp' (ID: 45502)
+2025-07-18 10:10:17,419 - INFO - Cached 2 new images for catalogue code: K1-00003
+2025-07-18 10:10:19,167 - INFO - Updating existing product (ID: 45319)...
+2025-07-18 10:10:22,033 - INFO - ✅ Successfully synced product SKU: P00021 (ID: 45319)
+2025-07-18 10:10:22,033 - INFO - Updating SEO for product 45319 via custom endpoint...
+2025-07-18 10:10:24,016 - INFO - ✅ Successfully updated SEO for product 45319.
+2025-07-18 10:10:24,018 - INFO - [4/61] -------------------------
+2025-07-18 10:10:24,287 - INFO - Processing Item SKU: P00029 -> Catalogue: 5-Section Serving Platter Set Light Gray - Room Essentials™ Recycled Plastic, Microwave & Dishwasher Safe (K1-00002)
+2025-07-18 10:10:29,817 - INFO - ✅ Uploaded image and full metadata: '5-section-serving-platter-set-light-gray-room-esse-1.webp' (ID: 45503)
+2025-07-18 10:10:36,090 - INFO - ✅ Uploaded image and full metadata: '5-section-serving-platter-set-light-gray-room-esse-2.webp' (ID: 45504)
+2025-07-18 10:10:42,101 - INFO - ✅ Uploaded image and full metadata: '5-section-serving-platter-set-light-gray-room-esse-3.webp' (ID: 45505)
+2025-07-18 10:10:42,606 - INFO - Cached 3 new images for catalogue code: K1-00002
+2025-07-18 10:10:44,296 - INFO - Updating existing product (ID: 45323)...
+2025-07-18 10:10:46,816 - INFO - ✅ Successfully synced product SKU: P00029 (ID: 45323)
+2025-07-18 10:10:46,817 - INFO - Updating SEO for product 45323 via custom endpoint...
+2025-07-18 10:10:48,573 - INFO - ✅ Successfully updated SEO for product 45323.
+2025-07-18 10:10:48,575 - INFO - [5/61] -------------------------
+2025-07-18 10:10:48,863 - INFO - Processing Item SKU: P00040 -> Catalogue: DOITOOL 1pc Silicone Ice Cube Tray Ice Box Sausage DIY Baking Mold Baking Supplies (K1-00011)
+2025-07-18 10:10:48,863 - INFO - Creating new categories: 'Kitchen & Dining'
+2025-07-18 10:11:40,649 - ERROR - Exception creating categories 'Kitchen & Dining': ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 10:11:40,738 - ERROR - Error processing image https://v5.airtableusercontent.com/v3/u/43/43/1752861600000/5nCUOFlCNdWB-YbuUIDIfg/W15d3ST3JNo2m75OKk8rSDqkCgr-40UQol-ukqTtwUZ4SxSf5tKuTqkd_nV2LlEiMPJFxWkm4hE5FY0JFq5JcZ6dN7mzLTKFhT_y8zbxSNSjlnF5EZE6Dy4tfmUzx0qDrXlkp7f3nKLma77QN-WYPw/Xw9QQO58Rbt-4d-LoDyb-TWLbJM7uYJREIc1oAFfXss: HTTPSConnectionPool(host='v5.airtableusercontent.com', port=443): Max retries exceeded with url: /v3/u/43/43/1752861600000/5nCUOFlCNdWB-YbuUIDIfg/W15d3ST3JNo2m75OKk8rSDqkCgr-40UQol-ukqTtwUZ4SxSf5tKuTqkd_nV2LlEiMPJFxWkm4hE5FY0JFq5JcZ6dN7mzLTKFhT_y8zbxSNSjlnF5EZE6Dy4tfmUzx0qDrXlkp7f3nKLma77QN-WYPw/Xw9QQO58Rbt-4d-LoDyb-TWLbJM7uYJREIc1oAFfXss (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023EF4063110>: Failed to resolve 'v5.airtableusercontent.com' ([Errno 11001] getaddrinfo failed)"))
+2025-07-18 10:11:49,238 - INFO - ✅ Uploaded image and full metadata: 'doitool-1pc-silicone-ice-cube-tray-ice-box-sausage-2.webp' (ID: 45507)
+2025-07-18 10:11:49,743 - INFO - Cached 1 new images for catalogue code: K1-00011
+2025-07-18 10:11:51,535 - INFO - Updating existing product (ID: 45326)...
+2025-07-18 10:11:54,812 - INFO - ✅ Successfully synced product SKU: P00040 (ID: 45326)
+2025-07-18 10:11:54,812 - INFO - Updating SEO for product 45326 via custom endpoint...
+2025-07-18 10:11:56,685 - INFO - ✅ Successfully updated SEO for product 45326.
+2025-07-18 10:11:56,687 - INFO - [6/61] -------------------------
+2025-07-18 10:11:57,156 - INFO - Processing Item SKU: P00047 -> Catalogue: Owala 24 oz (K1-00010)
+2025-07-18 10:11:57,156 - INFO - Creating new categories: 'Kitchen & Dining'
+2025-07-18 10:11:59,040 - WARNING - Term 'Kitchen & Dining' already exists with ID: 5735. Using existing ID.
+2025-07-18 10:11:59,041 - INFO - Creating new tags: '2-in-1 Sip & Swig Spout'
+2025-07-18 10:12:00,797 - WARNING - Term '2-in-1 Sip & Swig Spout' already exists with ID: 5332. Using existing ID.
+2025-07-18 10:12:06,384 - INFO - ✅ Uploaded image and full metadata: 'owala-24-oz-1.webp' (ID: 45509)
+2025-07-18 10:12:12,219 - INFO - ✅ Uploaded image and full metadata: 'owala-24-oz-2.webp' (ID: 45510)
+2025-07-18 10:12:12,723 - INFO - Cached 2 new images for catalogue code: K1-00010
+2025-07-18 10:12:14,494 - INFO - Updating existing product (ID: 45329)...
+2025-07-18 10:12:16,804 - INFO - ✅ Successfully synced product SKU: P00047 (ID: 45329)
+2025-07-18 10:12:16,805 - INFO - Updating SEO for product 45329 via custom endpoint...
+2025-07-18 10:12:18,467 - INFO - ✅ Successfully updated SEO for product 45329.
+2025-07-18 10:12:18,469 - INFO - [7/61] -------------------------
+2025-07-18 10:12:18,816 - INFO - Processing Item SKU: P00053 -> Catalogue: Revitalizing Hair Mask (X1-00592)
+2025-07-18 10:12:18,817 - INFO - Creating new categories: 'Beauty & Personal Care'
+2025-07-18 10:12:20,428 - WARNING - Term 'Beauty & Personal Care' already exists with ID: 3352. Using existing ID.
+2025-07-18 10:12:26,044 - INFO - ✅ Uploaded image and full metadata: 'revitalizing-hair-mask-1.webp' (ID: 45511)
+2025-07-18 10:12:33,110 - INFO - ✅ Uploaded image and full metadata: 'revitalizing-hair-mask-2.webp' (ID: 45512)
+2025-07-18 10:12:39,932 - INFO - ✅ Uploaded image and full metadata: 'revitalizing-hair-mask-3.webp' (ID: 45513)
+2025-07-18 10:12:40,435 - INFO - Cached 3 new images for catalogue code: X1-00592
+2025-07-18 10:12:42,136 - INFO - Updating existing product (ID: 45333)...
+2025-07-18 10:12:45,214 - INFO - ✅ Successfully synced product SKU: P00053 (ID: 45333)
+2025-07-18 10:12:45,214 - INFO - Updating SEO for product 45333 via custom endpoint...
+2025-07-18 10:12:46,842 - INFO - ✅ Successfully updated SEO for product 45333.
+2025-07-18 10:12:46,844 - INFO - [8/61] -------------------------
+2025-07-18 10:12:47,048 - INFO - Processing Item SKU: P00066 -> Catalogue: Not Your Mother's Curl Talk Bond Building Shampoo and Conditioner (2-Pack) - 8 fl oz - Strengthening Shampoo and Conditioner Set for Curly Hair (X1-00498)
+2025-07-18 10:12:53,524 - INFO - ✅ Uploaded image and full metadata: 'not-your-mothers-curl-talk-bond-building-shampoo-a-1.webp' (ID: 45514)
+2025-07-18 10:12:54,029 - INFO - Cached 1 new images for catalogue code: X1-00498
+2025-07-18 10:12:55,753 - INFO - Updating existing product (ID: 45335)...
+2025-07-18 10:12:58,182 - INFO - ✅ Successfully synced product SKU: P00066 (ID: 45335)
+2025-07-18 10:12:58,183 - INFO - Updating SEO for product 45335 via custom endpoint...
+2025-07-18 10:13:00,071 - INFO - ✅ Successfully updated SEO for product 45335.
+2025-07-18 10:13:00,072 - INFO - [9/61] -------------------------
+2025-07-18 10:13:00,265 - INFO - Processing Item SKU: P00068 -> Catalogue: MIELLE Babassu Oil And Mint Deep Conditioner (H1-00001)
+2025-07-18 10:13:05,917 - INFO - ✅ Uploaded image and full metadata: 'mielle-babassu-oil-and-mint-deep-conditioner-1.webp' (ID: 45516)
+2025-07-18 10:13:06,422 - INFO - Cached 1 new images for catalogue code: H1-00001
+2025-07-18 10:13:08,252 - INFO - Updating existing product (ID: 45337)...
+2025-07-18 10:13:10,525 - INFO - ✅ Successfully synced product SKU: P00068 (ID: 45337)
+2025-07-18 10:13:10,526 - INFO - Updating SEO for product 45337 via custom endpoint...
+2025-07-18 10:13:12,271 - INFO - ✅ Successfully updated SEO for product 45337.
+2025-07-18 10:13:12,273 - INFO - [10/61] -------------------------
+2025-07-18 10:13:12,493 - INFO - Processing Item SKU: P00069 -> Catalogue: Vintage 1980's Magic 8 Ball Classic Mattel Toy Fortune Teller (30188, 1186) (T1-00001)
+2025-07-18 10:13:12,493 - INFO - Creating new categories: 'Toys & Games'
+2025-07-18 10:13:14,207 - WARNING - Term 'Toys & Games' already exists with ID: 3355. Using existing ID.
+2025-07-18 10:13:19,724 - INFO - ✅ Uploaded image and full metadata: 'vintage-1980s-magic-8-ball-classic-mattel-toy-fort-1.webp' (ID: 45517)
+2025-07-18 10:13:26,211 - INFO - ✅ Uploaded image and full metadata: 'vintage-1980s-magic-8-ball-classic-mattel-toy-fort-2.webp' (ID: 45518)
+2025-07-18 10:13:32,301 - INFO - ✅ Uploaded image and full metadata: 'vintage-1980s-magic-8-ball-classic-mattel-toy-fort-3.webp' (ID: 45519)
+2025-07-18 10:13:32,804 - INFO - Cached 3 new images for catalogue code: T1-00001
+2025-07-18 10:13:34,553 - INFO - Updating existing product (ID: 45341)...
+2025-07-18 10:13:36,913 - INFO - ✅ Successfully synced product SKU: P00069 (ID: 45341)
+2025-07-18 10:13:36,913 - INFO - Updating SEO for product 45341 via custom endpoint...
+2025-07-18 10:13:38,560 - INFO - ✅ Successfully updated SEO for product 45341.
+2025-07-18 10:13:38,562 - INFO - [11/61] -------------------------
+2025-07-18 10:13:38,854 - INFO - Processing Item SKU: P00070 -> Catalogue: Speedo Jr. Goggle 3 in Pack. (Anti-fog) (UV Protection) ! Green (S1-00001)
+2025-07-18 10:13:44,373 - INFO - ✅ Uploaded image and full metadata: 'speedo-jr-goggle-3-in-pack-anti-fog-uv-protection--1.webp' (ID: 45521)
+2025-07-18 10:13:50,526 - INFO - ✅ Uploaded image and full metadata: 'speedo-jr-goggle-3-in-pack-anti-fog-uv-protection--2.webp' (ID: 45522)
+2025-07-18 10:13:51,031 - INFO - Cached 2 new images for catalogue code: S1-00001
+2025-07-18 10:13:52,882 - INFO - Updating existing product (ID: 45344)...
+2025-07-18 10:13:55,441 - INFO - ✅ Successfully synced product SKU: P00070 (ID: 45344)
+2025-07-18 10:13:55,442 - INFO - Updating SEO for product 45344 via custom endpoint...
+2025-07-18 10:13:57,188 - INFO - ✅ Successfully updated SEO for product 45344.
+2025-07-18 10:13:57,190 - INFO - [12/61] -------------------------
+2025-07-18 10:13:57,489 - INFO - Processing Item SKU: P00075 -> Catalogue: Clarifying Serum BALANCE & CLARIFY 30ml/1.01fl.oz (X1-00519)
+2025-07-18 10:14:04,251 - INFO - ✅ Uploaded image and full metadata: 'clarifying-serum-balance-clarify-30ml101floz-1.webp' (ID: 45523)
+2025-07-18 10:14:10,417 - INFO - ✅ Uploaded image and full metadata: 'clarifying-serum-balance-clarify-30ml101floz-2.webp' (ID: 45524)
+2025-07-18 10:14:10,922 - INFO - Cached 2 new images for catalogue code: X1-00519
+2025-07-18 10:14:12,856 - INFO - Updating existing product (ID: 45347)...
+2025-07-18 10:14:15,905 - INFO - ✅ Successfully synced product SKU: P00075 (ID: 45347)
+2025-07-18 10:14:15,906 - INFO - Updating SEO for product 45347 via custom endpoint...
+2025-07-18 10:14:17,567 - INFO - ✅ Successfully updated SEO for product 45347.
+2025-07-18 10:14:17,569 - INFO - [13/61] -------------------------
+2025-07-18 10:14:17,868 - INFO - Processing Item SKU: P00076 -> Catalogue: Raptor Pro 6 Axis Cyro Drone (T1-00002)
+2025-07-18 10:14:23,501 - INFO - ✅ Uploaded image and full metadata: 'raptor-pro-6-axis-cyro-drone-1.webp' (ID: 45525)
+2025-07-18 10:14:29,643 - INFO - ✅ Uploaded image and full metadata: 'raptor-pro-6-axis-cyro-drone-2.webp' (ID: 45526)
+2025-07-18 10:14:30,147 - INFO - Cached 2 new images for catalogue code: T1-00002
+2025-07-18 10:14:31,898 - INFO - Updating existing product (ID: 45350)...
+2025-07-18 10:14:34,392 - INFO - ✅ Successfully synced product SKU: P00076 (ID: 45350)
+2025-07-18 10:14:34,393 - INFO - Updating SEO for product 45350 via custom endpoint...
+2025-07-18 10:14:36,345 - INFO - ✅ Successfully updated SEO for product 45350.
+2025-07-18 10:14:36,346 - INFO - [14/61] -------------------------
+2025-07-18 10:14:36,551 - INFO - Processing Item SKU: P00082 -> Catalogue: BLACK+DECKER Steam Iron (F1-00215)
+2025-07-18 10:14:42,110 - INFO - ✅ Uploaded image and full metadata: 'blackdecker-steam-iron-1.webp' (ID: 45527)
+2025-07-18 10:14:48,625 - INFO - ✅ Uploaded image and full metadata: 'blackdecker-steam-iron-2.webp' (ID: 45528)
+2025-07-18 10:14:54,835 - INFO - ✅ Uploaded image and full metadata: 'blackdecker-steam-iron-3.webp' (ID: 45529)
+2025-07-18 10:14:55,339 - INFO - Cached 3 new images for catalogue code: F1-00215
+2025-07-18 10:14:57,088 - INFO - Updating existing product (ID: 45354)...
+2025-07-18 10:14:59,513 - INFO - ✅ Successfully synced product SKU: P00082 (ID: 45354)
+2025-07-18 10:14:59,514 - INFO - Updating SEO for product 45354 via custom endpoint...
+2025-07-18 10:15:01,288 - INFO - ✅ Successfully updated SEO for product 45354.
+2025-07-18 10:15:01,290 - INFO - [15/61] -------------------------
+2025-07-18 10:15:01,595 - INFO - Processing Item SKU: P00083 -> Catalogue: Remington Pro Multi-Styler with Twist & Curl Technology Ceramic Multi (X1-00240)
+2025-07-18 10:15:08,430 - INFO - ✅ Uploaded image and full metadata: 'remington-pro-multi-styler-with-twist-curl-technol-1.webp' (ID: 45531)
+2025-07-18 10:15:14,394 - INFO - ✅ Uploaded image and full metadata: 'remington-pro-multi-styler-with-twist-curl-technol-2.webp' (ID: 45532)
+2025-07-18 10:15:20,847 - INFO - ✅ Uploaded image and full metadata: 'remington-pro-multi-styler-with-twist-curl-technol-3.webp' (ID: 45533)
+2025-07-18 10:15:27,195 - INFO - ✅ Uploaded image and full metadata: 'remington-pro-multi-styler-with-twist-curl-technol-4.webp' (ID: 45534)
+2025-07-18 10:15:33,426 - INFO - ✅ Uploaded image and full metadata: 'remington-pro-multi-styler-with-twist-curl-technol-5.webp' (ID: 45535)
+2025-07-18 10:15:33,930 - INFO - Cached 5 new images for catalogue code: X1-00240
+2025-07-18 10:15:35,587 - INFO - Updating existing product (ID: 45360)...
+2025-07-18 10:15:37,946 - INFO - ✅ Successfully synced product SKU: P00083 (ID: 45360)
+2025-07-18 10:15:37,947 - INFO - Updating SEO for product 45360 via custom endpoint...
+2025-07-18 10:15:39,696 - INFO - ✅ Successfully updated SEO for product 45360.
+2025-07-18 10:15:39,698 - INFO - [16/61] -------------------------
+2025-07-18 10:15:39,999 - INFO - Processing Item SKU: P00090 -> Catalogue: FORTESSA Bistro 18/10 Stainless Steel Flatware, 20 Piece Place Setting with Table Knives, Forks and Spoons (Service for 4), Dishwasher-Safe, Mirrored (K1-00001)
+2025-07-18 10:15:45,680 - INFO - ✅ Uploaded image and full metadata: 'fortessa-bistro-1810-stainless-steel-flatware-20-p-1.webp' (ID: 45536)
+2025-07-18 10:15:51,341 - INFO - ✅ Uploaded image and full metadata: 'fortessa-bistro-1810-stainless-steel-flatware-20-p-2.webp' (ID: 45537)
+2025-07-18 10:15:51,844 - INFO - Cached 2 new images for catalogue code: K1-00001
+2025-07-18 10:15:53,513 - INFO - Updating existing product (ID: 45363)...
+2025-07-18 10:15:55,874 - INFO - ✅ Successfully synced product SKU: P00090 (ID: 45363)
+2025-07-18 10:15:55,875 - INFO - Updating SEO for product 45363 via custom endpoint...
+2025-07-18 10:15:57,607 - INFO - ✅ Successfully updated SEO for product 45363.
+2025-07-18 10:15:57,609 - INFO - [17/61] -------------------------
+2025-07-18 10:15:57,873 - INFO - Processing Item SKU: P00091 -> Catalogue: Baby Brezza Bottle Sterilizer Dryer - Electric Steam Sterilizer Machine for Plastic and Glass Bottles, & Baby Product Parts & Accessories - Universal Fit (B1-00001)
+2025-07-18 10:16:04,060 - INFO - ✅ Uploaded image and full metadata: 'baby-brezza-bottle-sterilizer-dryer-electric-steam-1.webp' (ID: 45538)
+2025-07-18 10:16:12,017 - INFO - ✅ Uploaded image and full metadata: 'baby-brezza-bottle-sterilizer-dryer-electric-steam-2.webp' (ID: 45539)
+2025-07-18 10:16:18,190 - INFO - ✅ Uploaded image and full metadata: 'baby-brezza-bottle-sterilizer-dryer-electric-steam-3.webp' (ID: 45540)
+2025-07-18 10:16:18,694 - INFO - Cached 3 new images for catalogue code: B1-00001
+2025-07-18 10:16:20,341 - INFO - Updating existing product (ID: 45367)...
+2025-07-18 10:16:22,696 - INFO - ✅ Successfully synced product SKU: P00091 (ID: 45367)
+2025-07-18 10:16:22,697 - INFO - Updating SEO for product 45367 via custom endpoint...
+2025-07-18 10:16:24,437 - INFO - ✅ Successfully updated SEO for product 45367.
+2025-07-18 10:16:24,438 - INFO - [18/61] -------------------------
+2025-07-18 10:16:24,643 - INFO - Processing Item SKU: P00109 -> Catalogue: Revitalizing Shampoo (X1-00325)
+2025-07-18 10:16:30,274 - INFO - ✅ Uploaded image and full metadata: 'revitalizing-shampoo-1.webp' (ID: 45541)
+2025-07-18 10:16:36,606 - INFO - ✅ Uploaded image and full metadata: 'revitalizing-shampoo-2.webp' (ID: 45542)
+2025-07-18 10:16:37,110 - INFO - Cached 2 new images for catalogue code: X1-00325
+2025-07-18 10:16:38,885 - INFO - Updating existing product (ID: 45370)...
+2025-07-18 10:16:41,753 - INFO - ✅ Successfully synced product SKU: P00109 (ID: 45370)
+2025-07-18 10:16:41,753 - INFO - Updating SEO for product 45370 via custom endpoint...
+2025-07-18 10:16:43,482 - INFO - ✅ Successfully updated SEO for product 45370.
+2025-07-18 10:16:43,484 - INFO - [19/61] -------------------------
+2025-07-18 10:16:43,702 - INFO - Processing Item SKU: P00112 -> Catalogue: Banana Boat Ultra Sport Sunscreen Spray, NEW FORMULA, Spf 50+, 170g (X1-00393)
+2025-07-18 10:16:49,222 - INFO - ✅ Uploaded image and full metadata: 'banana-boat-ultra-sport-sunscreen-spray-new-formul-1.webp' (ID: 45543)
+2025-07-18 10:16:55,466 - INFO - ✅ Uploaded image and full metadata: 'banana-boat-ultra-sport-sunscreen-spray-new-formul-2.webp' (ID: 45544)
+2025-07-18 10:17:01,609 - INFO - ✅ Uploaded image and full metadata: 'banana-boat-ultra-sport-sunscreen-spray-new-formul-3.webp' (ID: 45545)
+2025-07-18 10:17:02,113 - INFO - Cached 3 new images for catalogue code: X1-00393
+2025-07-18 10:17:04,086 - INFO - Updating existing product (ID: 45374)...
+2025-07-18 10:17:06,556 - INFO - ✅ Successfully synced product SKU: P00112 (ID: 45374)
+2025-07-18 10:17:06,557 - INFO - Updating SEO for product 45374 via custom endpoint...
+2025-07-18 10:17:08,403 - INFO - ✅ Successfully updated SEO for product 45374.
+2025-07-18 10:17:08,404 - INFO - [20/61] -------------------------
+2025-07-18 10:17:08,621 - INFO - Processing Item SKU: P00120 -> Catalogue: TROPICAL SCENT (X1-00525)
+2025-07-18 10:17:15,537 - INFO - ✅ Uploaded image and full metadata: 'tropical-scent-1.webp' (ID: 45547)
+2025-07-18 10:17:16,041 - INFO - Cached 1 new images for catalogue code: X1-00525
+2025-07-18 10:17:17,790 - INFO - Updating existing product (ID: 45376)...
+2025-07-18 10:17:20,144 - INFO - ✅ Successfully synced product SKU: P00120 (ID: 45376)
+2025-07-18 10:17:20,145 - INFO - Updating SEO for product 45376 via custom endpoint...
+2025-07-18 10:17:21,976 - INFO - ✅ Successfully updated SEO for product 45376.
+2025-07-18 10:17:21,978 - INFO - [21/61] -------------------------
+2025-07-18 10:17:22,194 - INFO - Processing Item SKU: P00120 -> Catalogue: TROPICAL SCENT (X1-00525)
+2025-07-18 10:17:22,195 - INFO - Using cached images for catalogue code: X1-00525
+2025-07-18 10:17:24,241 - INFO - Updating existing product (ID: 45376)...
+2025-07-18 10:17:26,325 - INFO - ✅ Successfully synced product SKU: P00120 (ID: 45376)
+2025-07-18 10:17:26,326 - INFO - Updating SEO for product 45376 via custom endpoint...
+2025-07-18 10:17:28,234 - INFO - ✅ Successfully updated SEO for product 45376.
+2025-07-18 10:17:28,236 - INFO - [22/61] -------------------------
+2025-07-18 10:17:28,542 - INFO - Processing Item SKU: P00143 -> Catalogue: 13.1' LED Flexible Strip Rope Light West & Arrow Ombre Color (E1-00002)
+2025-07-18 10:17:34,174 - INFO - ✅ Uploaded image and full metadata: '131-led-flexible-strip-rope-light-west-arrow-ombre-1.webp' (ID: 45548)
+2025-07-18 10:17:40,743 - INFO - ✅ Uploaded image and full metadata: '131-led-flexible-strip-rope-light-west-arrow-ombre-2.webp' (ID: 45549)
+2025-07-18 10:17:46,918 - INFO - ✅ Uploaded image and full metadata: '131-led-flexible-strip-rope-light-west-arrow-ombre-3.webp' (ID: 45550)
+2025-07-18 10:17:52,914 - INFO - ✅ Uploaded image and full metadata: '131-led-flexible-strip-rope-light-west-arrow-ombre-4.webp' (ID: 45551)
+2025-07-18 10:17:53,418 - INFO - Cached 4 new images for catalogue code: E1-00002
+2025-07-18 10:17:55,271 - INFO - Updating existing product (ID: 45381)...
+2025-07-18 10:17:57,744 - INFO - ✅ Successfully synced product SKU: P00143 (ID: 45381)
+2025-07-18 10:17:57,745 - INFO - Updating SEO for product 45381 via custom endpoint...
+2025-07-18 10:17:59,783 - INFO - ✅ Successfully updated SEO for product 45381.
+2025-07-18 10:17:59,785 - INFO - [23/61] -------------------------
+2025-07-18 10:18:00,058 - INFO - Processing Item SKU: P00150 -> Catalogue: Primula Whistling kettle 1.5 qt (K1-00009)
+2025-07-18 10:18:05,769 - INFO - ✅ Uploaded image and full metadata: 'primula-whistling-kettle-15-qt-1.webp' (ID: 45553)
+2025-07-18 10:18:11,943 - INFO - ✅ Uploaded image and full metadata: 'primula-whistling-kettle-15-qt-2.webp' (ID: 45554)
+2025-07-18 10:18:12,448 - INFO - Cached 2 new images for catalogue code: K1-00009
+2025-07-18 10:18:14,315 - INFO - Updating existing product (ID: 45384)...
+2025-07-18 10:18:16,752 - INFO - ✅ Successfully synced product SKU: P00150 (ID: 45384)
+2025-07-18 10:18:16,753 - INFO - Updating SEO for product 45384 via custom endpoint...
+2025-07-18 10:18:18,514 - INFO - ✅ Successfully updated SEO for product 45384.
+2025-07-18 10:18:18,516 - INFO - [24/61] -------------------------
+2025-07-18 10:18:18,924 - INFO - Processing Item SKU: P00152 -> Catalogue: 10" Round Wooden Paddle Serving Board - Hearth & Hand with Magnolia - New (K1-00005)
+2025-07-18 10:18:25,477 - INFO - ✅ Uploaded image and full metadata: '10-round-wooden-paddle-serving-board-hearth-hand-w-1.webp' (ID: 45555)
+2025-07-18 10:18:25,988 - INFO - Cached 1 new images for catalogue code: K1-00005
+2025-07-18 10:18:27,636 - INFO - Updating existing product (ID: 45386)...
+2025-07-18 10:18:29,984 - INFO - ✅ Successfully synced product SKU: P00152 (ID: 45386)
+2025-07-18 10:18:29,984 - INFO - Updating SEO for product 45386 via custom endpoint...
+2025-07-18 10:18:31,885 - INFO - ✅ Successfully updated SEO for product 45386.
+2025-07-18 10:18:31,886 - INFO - [25/61] -------------------------
+2025-07-18 10:18:32,158 - INFO - Processing Item SKU: P00207 -> Catalogue: Beats Powerbeats Pro 2 Wireless Bluetooth Earbuds - Noise Cancelling, Heart Rate Monitor, IPX4, Up to 45H Battery & Charging Case, Works with Apple & Android - Jet Black (E1-00003)
+2025-07-18 10:18:37,665 - INFO - ✅ Uploaded image and full metadata: 'beats-powerbeats-pro-2-wireless-bluetooth-earbuds--1.webp' (ID: 45557)
+2025-07-18 10:18:38,169 - INFO - Cached 1 new images for catalogue code: E1-00003
+2025-07-18 10:18:39,883 - INFO - Updating existing product (ID: 45388)...
+2025-07-18 10:18:42,067 - INFO - ✅ Successfully synced product SKU: P00207 (ID: 45388)
+2025-07-18 10:18:42,068 - INFO - Updating SEO for product 45388 via custom endpoint...
+2025-07-18 10:18:43,909 - INFO - ✅ Successfully updated SEO for product 45388.
+2025-07-18 10:18:43,911 - INFO - [26/61] -------------------------
+2025-07-18 10:18:44,156 - INFO - Processing Item SKU: P00230 -> Catalogue: 25-piece pack of Milwaukee SHOCKWAVE Impact Phillips #2 Drywall Insert Bits (Product no. 48-32-4604) (C1-00007)
+2025-07-18 10:18:44,156 - INFO - Creating new categories: 'Tools & Accessories'
+2025-07-18 10:18:45,911 - WARNING - Term 'Tools & Accessories' already exists with ID: 5730. Using existing ID.
+2025-07-18 10:18:52,512 - INFO - ✅ Uploaded image and full metadata: '25-piece-pack-of-milwaukee-shockwave-impact-philli-1.webp' (ID: 45558)
+2025-07-18 10:18:59,578 - INFO - ✅ Uploaded image and full metadata: '25-piece-pack-of-milwaukee-shockwave-impact-philli-2.webp' (ID: 45559)
+2025-07-18 10:19:00,083 - INFO - Cached 2 new images for catalogue code: C1-00007
+2025-07-18 10:19:01,833 - INFO - Updating existing product (ID: 45391)...
+2025-07-18 10:19:04,186 - INFO - ✅ Successfully synced product SKU: P00230 (ID: 45391)
+2025-07-18 10:19:04,186 - INFO - Updating SEO for product 45391 via custom endpoint...
+2025-07-18 10:19:06,030 - INFO - ✅ Successfully updated SEO for product 45391.
+2025-07-18 10:19:06,032 - INFO - [27/61] -------------------------
+2025-07-18 10:19:06,338 - INFO - Processing Item SKU: P00231 -> Catalogue: Milwaukee Tool 4 -inch x 11-3/8 -inch SDS-MAX Core Bit (C1-00001)
+2025-07-18 10:19:11,866 - INFO - ✅ Uploaded image and full metadata: 'milwaukee-tool-4-inch-x-11-38-inch-sds-max-core-bi-1.webp' (ID: 45560)
+2025-07-18 10:19:17,911 - INFO - ✅ Uploaded image and full metadata: 'milwaukee-tool-4-inch-x-11-38-inch-sds-max-core-bi-2.webp' (ID: 45561)
+2025-07-18 10:19:18,415 - INFO - Cached 2 new images for catalogue code: C1-00001
+2025-07-18 10:19:20,136 - INFO - Updating existing product (ID: 45394)...
+2025-07-18 10:19:22,272 - INFO - ✅ Successfully synced product SKU: P00231 (ID: 45394)
+2025-07-18 10:19:22,272 - INFO - Updating SEO for product 45394 via custom endpoint...
+2025-07-18 10:19:24,052 - INFO - ✅ Successfully updated SEO for product 45394.
+2025-07-18 10:19:24,053 - INFO - [28/61] -------------------------
+2025-07-18 10:19:24,360 - INFO - Processing Item SKU: P00239 -> Catalogue: 3M Scotch-Brite 4Pc scrub sponges (K1-00006)
+2025-07-18 10:19:24,361 - INFO - Creating new categories: 'Cleaning Tools & Equipment'
+2025-07-18 10:19:26,099 - WARNING - Term 'Cleaning Tools & Equipment' already exists with ID: 5738. Using existing ID.
+2025-07-18 10:19:33,169 - INFO - ✅ Uploaded image and full metadata: '3m-scotch-brite-4pc-scrub-sponges-1.webp' (ID: 45562)
+2025-07-18 10:19:39,613 - INFO - ✅ Uploaded image and full metadata: '3m-scotch-brite-4pc-scrub-sponges-2.webp' (ID: 45563)
+2025-07-18 10:19:40,117 - INFO - Cached 2 new images for catalogue code: K1-00006
+2025-07-18 10:19:41,878 - INFO - Updating existing product (ID: 45397)...
+2025-07-18 10:19:44,127 - INFO - ✅ Successfully synced product SKU: P00239 (ID: 45397)
+2025-07-18 10:19:44,128 - INFO - Updating SEO for product 45397 via custom endpoint...
+2025-07-18 10:19:45,769 - INFO - ✅ Successfully updated SEO for product 45397.
+2025-07-18 10:19:45,770 - INFO - [29/61] -------------------------
+2025-07-18 10:19:46,040 - INFO - Processing Item SKU: P00240 -> Catalogue: 3M Scotch-Brite 6Pc scrub sponges (K1-00004)
+2025-07-18 10:19:51,952 - INFO - ✅ Uploaded image and full metadata: '3m-scotch-brite-6pc-scrub-sponges-1.webp' (ID: 45565)
+2025-07-18 10:19:58,254 - INFO - ✅ Uploaded image and full metadata: '3m-scotch-brite-6pc-scrub-sponges-2.webp' (ID: 45566)
+2025-07-18 10:19:58,759 - INFO - Cached 2 new images for catalogue code: K1-00004
+2025-07-18 10:20:00,379 - INFO - Updating existing product (ID: 45400)...
+2025-07-18 10:20:02,862 - INFO - ✅ Successfully synced product SKU: P00240 (ID: 45400)
+2025-07-18 10:20:02,863 - INFO - Updating SEO for product 45400 via custom endpoint...
+2025-07-18 10:20:04,811 - INFO - ✅ Successfully updated SEO for product 45400.
+2025-07-18 10:20:04,814 - INFO - [30/61] -------------------------
+2025-07-18 10:20:05,173 - INFO - Processing Item SKU: P00244 -> Catalogue: Milwaukee bi-metal blades (C1-00003)
+2025-07-18 10:20:11,399 - INFO - ✅ Uploaded image and full metadata: 'milwaukee-bi-metal-blades-1.webp' (ID: 45568)
+2025-07-18 10:20:11,903 - INFO - Cached 1 new images for catalogue code: C1-00003
+2025-07-18 10:20:13,933 - INFO - Product with SKU 'P00244' not found. Attempting to create new product...
+2025-07-18 10:20:16,379 - INFO - ✅ Successfully synced product SKU: P00244 (ID: 45569)
+2025-07-18 10:20:16,380 - INFO - Updating SEO for product 45569 via custom endpoint...
+2025-07-18 10:20:18,041 - INFO - ✅ Successfully updated SEO for product 45569.
+2025-07-18 10:20:18,043 - INFO - [31/61] -------------------------
+2025-07-18 10:20:18,281 - INFO - Processing Item SKU: P00249 -> Catalogue: Milwaukee 48-32-4644 25PC PR2 Impact Bit PK (C1-00006)
+2025-07-18 10:20:24,470 - INFO - ✅ Uploaded image and full metadata: 'milwaukee-48-32-4644-25pc-pr2-impact-bit-pk-1.webp' (ID: 45570)
+2025-07-18 10:20:30,914 - INFO - ✅ Uploaded image and full metadata: 'milwaukee-48-32-4644-25pc-pr2-impact-bit-pk-2.webp' (ID: 45571)
+2025-07-18 10:20:31,418 - INFO - Cached 2 new images for catalogue code: C1-00006
+2025-07-18 10:20:33,350 - INFO - Updating existing product (ID: 45403)...
+2025-07-18 10:20:35,735 - INFO - ✅ Successfully synced product SKU: P00249 (ID: 45403)
+2025-07-18 10:20:35,736 - INFO - Updating SEO for product 45403 via custom endpoint...
+2025-07-18 10:20:37,473 - INFO - ✅ Successfully updated SEO for product 45403.
+2025-07-18 10:20:37,474 - INFO - [32/61] -------------------------
+2025-07-18 10:20:37,715 - INFO - Processing Item SKU: P00250 -> Catalogue: Milwaukee 48-32-5004 PH2 2" SHOCKWAVE Impact Duty Philiips Bits (15 Pack) (C1-00002)
+2025-07-18 10:20:44,746 - INFO - ✅ Uploaded image and full metadata: 'milwaukee-48-32-5004-ph2-2-shockwave-impact-duty-p-1.webp' (ID: 45572)
+2025-07-18 10:20:50,976 - INFO - ✅ Uploaded image and full metadata: 'milwaukee-48-32-5004-ph2-2-shockwave-impact-duty-p-2.webp' (ID: 45573)
+2025-07-18 10:20:51,480 - INFO - Cached 2 new images for catalogue code: C1-00002
+2025-07-18 10:20:53,254 - INFO - Updating existing product (ID: 45406)...
+2025-07-18 10:20:55,969 - INFO - ✅ Successfully synced product SKU: P00250 (ID: 45406)
+2025-07-18 10:20:55,970 - INFO - Updating SEO for product 45406 via custom endpoint...
+2025-07-18 10:20:57,965 - INFO - ✅ Successfully updated SEO for product 45406.
+2025-07-18 10:20:57,967 - INFO - [33/61] -------------------------
+2025-07-18 10:20:58,274 - INFO - Processing Item SKU: P00251 -> Catalogue: Milwaukee multi material Blades 48-90-9009 (C1-00005)
+2025-07-18 10:21:04,724 - INFO - ✅ Uploaded image and full metadata: 'milwaukee-multi-material-blades-48-90-9009-1.webp' (ID: 45575)
+2025-07-18 10:21:11,072 - INFO - ✅ Uploaded image and full metadata: 'milwaukee-multi-material-blades-48-90-9009-2.webp' (ID: 45576)
+2025-07-18 10:21:11,577 - INFO - Cached 2 new images for catalogue code: C1-00005
+2025-07-18 10:21:13,428 - INFO - Updating existing product (ID: 45408)...
+2025-07-18 10:21:15,888 - INFO - ✅ Successfully synced product SKU: P00251 (ID: 45408)
+2025-07-18 10:21:15,889 - INFO - Updating SEO for product 45408 via custom endpoint...
+2025-07-18 10:21:17,831 - INFO - ✅ Successfully updated SEO for product 45408.
+2025-07-18 10:21:17,833 - INFO - [34/61] -------------------------
+2025-07-18 10:21:18,187 - INFO - Processing Item SKU: P00265 -> Catalogue: Pack of 2 Hurley Tank Top XXL (A1-00003)
+2025-07-18 10:21:18,189 - INFO - Creating new categories: 'Apparel & Accessories'
+2025-07-18 10:21:20,289 - WARNING - Term 'Apparel & Accessories' already exists with ID: 3343. Using existing ID.
+2025-07-18 10:21:26,275 - INFO - ✅ Uploaded image and full metadata: 'pack-of-2-hurley-tank-top-xxl-1.webp' (ID: 45577)
+2025-07-18 10:21:32,920 - INFO - ✅ Uploaded image and full metadata: 'pack-of-2-hurley-tank-top-xxl-2.webp' (ID: 45578)
+2025-07-18 10:21:39,726 - INFO - ✅ Uploaded image and full metadata: 'pack-of-2-hurley-tank-top-xxl-3.webp' (ID: 45579)
+2025-07-18 10:21:48,298 - INFO - ✅ Uploaded image and full metadata: 'pack-of-2-hurley-tank-top-xxl-4.webp' (ID: 45580)
+2025-07-18 10:21:48,802 - INFO - Cached 4 new images for catalogue code: A1-00003
+2025-07-18 10:21:50,649 - INFO - Updating existing product (ID: 45413)...
+2025-07-18 10:21:53,059 - INFO - ✅ Successfully synced product SKU: P00265 (ID: 45413)
+2025-07-18 10:21:53,060 - INFO - Updating SEO for product 45413 via custom endpoint...
+2025-07-18 10:21:54,962 - INFO - ✅ Successfully updated SEO for product 45413.
+2025-07-18 10:21:54,964 - INFO - [35/61] -------------------------
+2025-07-18 10:21:55,205 - INFO - Processing Item SKU: P00273 -> Catalogue: 2Pc Hurley Men’s Top (A1-00002)
+2025-07-18 10:22:01,401 - INFO - ✅ Uploaded image and full metadata: '2pc-hurley-mens-top-1.webp' (ID: 45581)
+2025-07-18 10:22:08,263 - INFO - ✅ Uploaded image and full metadata: '2pc-hurley-mens-top-2.webp' (ID: 45582)
+2025-07-18 10:22:14,870 - INFO - ✅ Uploaded image and full metadata: '2pc-hurley-mens-top-3.webp' (ID: 45583)
+2025-07-18 10:22:21,679 - INFO - ✅ Uploaded image and full metadata: '2pc-hurley-mens-top-4.webp' (ID: 45584)
+2025-07-18 10:22:22,183 - INFO - Cached 4 new images for catalogue code: A1-00002
+2025-07-18 10:22:23,928 - INFO - Updating existing product (ID: 45418)...
+2025-07-18 10:22:26,589 - INFO - ✅ Successfully synced product SKU: P00273 (ID: 45418)
+2025-07-18 10:22:26,590 - INFO - Updating SEO for product 45418 via custom endpoint...
+2025-07-18 10:22:28,535 - INFO - ✅ Successfully updated SEO for product 45418.
+2025-07-18 10:22:28,538 - INFO - [36/61] -------------------------
+2025-07-18 10:22:28,946 - INFO - Processing Item SKU: P00289 -> Catalogue: Speedo Junior Sprinter Swim Goggles - Blue - Age 6-14 SECURE FIT NO LEAK (S1-00007)
+2025-07-18 10:22:35,318 - INFO - ✅ Uploaded image and full metadata: 'speedo-junior-sprinter-swim-goggles-blue-age-6-14--1.webp' (ID: 45585)
+2025-07-18 10:22:35,823 - INFO - Cached 1 new images for catalogue code: S1-00007
+2025-07-18 10:22:37,757 - INFO - Updating existing product (ID: 45420)...
+2025-07-18 10:22:40,142 - INFO - ✅ Successfully synced product SKU: P00289 (ID: 45420)
+2025-07-18 10:22:40,145 - INFO - Updating SEO for product 45420 via custom endpoint...
+2025-07-18 10:22:41,950 - INFO - ✅ Successfully updated SEO for product 45420.
+2025-07-18 10:22:41,952 - INFO - [37/61] -------------------------
+2025-07-18 10:22:42,371 - INFO - Processing Item SKU: P00297 -> Catalogue: IRIS USA WOOZOO Desk Fan (E1-00001)
+2025-07-18 10:22:49,528 - INFO - ✅ Uploaded image and full metadata: 'iris-usa-woozoo-desk-fan-1.webp' (ID: 45586)
+2025-07-18 10:23:09,785 - INFO - ✅ Uploaded image and full metadata: 'iris-usa-woozoo-desk-fan-2.webp' (ID: 45587)
+2025-07-18 10:23:10,291 - INFO - Cached 2 new images for catalogue code: E1-00001
+2025-07-18 10:23:12,132 - INFO - Updating existing product (ID: 45423)...
+2025-07-18 10:23:14,542 - INFO - ✅ Successfully synced product SKU: P00297 (ID: 45423)
+2025-07-18 10:23:14,543 - INFO - Updating SEO for product 45423 via custom endpoint...
+2025-07-18 10:23:16,448 - INFO - ✅ Successfully updated SEO for product 45423.
+2025-07-18 10:23:16,449 - INFO - [38/61] -------------------------
+2025-07-18 10:23:16,927 - INFO - Processing Item SKU: P00308 -> Catalogue: SexyHair Style Hard Up Gel Tenue Extrême Non-écaillante Formule Tous Types de Cheveux (X1-00670)
+2025-07-18 10:23:22,559 - INFO - ✅ Uploaded image and full metadata: 'sexyhair-style-hard-up-gel-tenue-extrême-non-écail-1.webp' (ID: 45588)
+2025-07-18 10:23:28,606 - INFO - ✅ Uploaded image and full metadata: 'sexyhair-style-hard-up-gel-tenue-extrême-non-écail-2.webp' (ID: 45589)
+2025-07-18 10:23:34,848 - INFO - ✅ Uploaded image and full metadata: 'sexyhair-style-hard-up-gel-tenue-extrême-non-écail-3.webp' (ID: 45590)
+2025-07-18 10:23:41,196 - INFO - ✅ Uploaded image and full metadata: 'sexyhair-style-hard-up-gel-tenue-extrême-non-écail-4.webp' (ID: 45591)
+2025-07-18 10:23:41,701 - INFO - Cached 4 new images for catalogue code: X1-00670
+2025-07-18 10:23:43,351 - INFO - Updating existing product (ID: 45428)...
+2025-07-18 10:23:45,732 - INFO - ✅ Successfully synced product SKU: P00308 (ID: 45428)
+2025-07-18 10:23:45,732 - INFO - Updating SEO for product 45428 via custom endpoint...
+2025-07-18 10:23:47,954 - INFO - ✅ Successfully updated SEO for product 45428.
+2025-07-18 10:23:47,956 - INFO - [39/61] -------------------------
+2025-07-18 10:23:48,219 - INFO - Processing Item SKU: P00339 -> Catalogue: New Sun Squad Inflatable Swim Tube With Handles 36 Inch Diameter (S1-00010)
+2025-07-18 10:23:48,220 - INFO - Creating new categories: 'Pool Floats & Recreation'
+2025-07-18 10:23:49,912 - WARNING - Term 'Pool Floats & Recreation' already exists with ID: 5774. Using existing ID.
+2025-07-18 10:23:49,913 - INFO - Creating new categories: 'Pool Care & Maintenance'
+2025-07-18 10:23:51,757 - WARNING - Term 'Pool Care & Maintenance' already exists with ID: 3357. Using existing ID.
+2025-07-18 10:23:58,139 - INFO - ✅ Uploaded image and full metadata: 'new-sun-squad-inflatable-swim-tube-with-handles-36-1.webp' (ID: 45592)
+2025-07-18 10:24:04,192 - INFO - ✅ Uploaded image and full metadata: 'new-sun-squad-inflatable-swim-tube-with-handles-36-2.webp' (ID: 45593)
+2025-07-18 10:24:11,022 - INFO - ✅ Uploaded image and full metadata: 'new-sun-squad-inflatable-swim-tube-with-handles-36-3.webp' (ID: 45594)
+2025-07-18 10:24:11,526 - INFO - Cached 3 new images for catalogue code: S1-00010
+2025-07-18 10:24:13,139 - INFO - Updating existing product (ID: 45432)...
+2025-07-18 10:24:15,436 - INFO - ✅ Successfully synced product SKU: P00339 (ID: 45432)
+2025-07-18 10:24:15,436 - INFO - Updating SEO for product 45432 via custom endpoint...
+2025-07-18 10:24:17,249 - INFO - ✅ Successfully updated SEO for product 45432.
+2025-07-18 10:24:17,251 - INFO - [40/61] -------------------------
+2025-07-18 10:24:17,490 - INFO - Processing Item SKU: P00341 -> Catalogue: Target  Inflatable Glitter PINK  Chair 26"L x 22"W x 16"H (S1-00009)
+2025-07-18 10:24:22,797 - INFO - ✅ Uploaded image and full metadata: 'target-inflatable-glitter-pink-chair-26l-x-22w-x-1-1.webp' (ID: 45595)
+2025-07-18 10:24:23,301 - INFO - Cached 1 new images for catalogue code: S1-00009
+2025-07-18 10:24:25,127 - INFO - Updating existing product (ID: 45434)...
+2025-07-18 10:24:27,482 - INFO - ✅ Successfully synced product SKU: P00341 (ID: 45434)
+2025-07-18 10:24:27,483 - INFO - Updating SEO for product 45434 via custom endpoint...
+2025-07-18 10:24:29,167 - INFO - ✅ Successfully updated SEO for product 45434.
+2025-07-18 10:24:29,169 - INFO - [41/61] -------------------------
+2025-07-18 10:24:29,532 - INFO - Processing Item SKU: P00344 -> Catalogue: Sun Squad Inflatable Swim Tube - 31 Inch Diameter - Pool Float for Summer Fun (S1-00011)
+2025-07-18 10:24:35,574 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-inflatable-swim-tube-31-inch-diameter-po-1.webp' (ID: 45597)
+2025-07-18 10:24:41,615 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-inflatable-swim-tube-31-inch-diameter-po-2.webp' (ID: 45598)
+2025-07-18 10:24:47,453 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-inflatable-swim-tube-31-inch-diameter-po-3.webp' (ID: 45599)
+2025-07-18 10:24:47,957 - INFO - Cached 3 new images for catalogue code: S1-00011
+2025-07-18 10:24:49,595 - INFO - Updating existing product (ID: 45438)...
+2025-07-18 10:24:51,855 - INFO - ✅ Successfully synced product SKU: P00344 (ID: 45438)
+2025-07-18 10:24:51,856 - INFO - Updating SEO for product 45438 via custom endpoint...
+2025-07-18 10:24:53,466 - INFO - ✅ Successfully updated SEO for product 45438.
+2025-07-18 10:24:53,467 - INFO - [42/61] -------------------------
+2025-07-18 10:24:53,702 - INFO - Processing Item SKU: P00345 -> Catalogue: 36" Inflatable Glitter Swim Tube - Sun Squad™ (S1-00008)
+2025-07-18 10:25:00,279 - INFO - ✅ Uploaded image and full metadata: '36-inflatable-glitter-swim-tube-sun-squad-1.webp' (ID: 45601)
+2025-07-18 10:25:00,783 - INFO - Cached 1 new images for catalogue code: S1-00008
+2025-07-18 10:25:02,711 - INFO - Updating existing product (ID: 45440)...
+2025-07-18 10:25:05,423 - INFO - ✅ Successfully synced product SKU: P00345 (ID: 45440)
+2025-07-18 10:25:05,424 - INFO - Updating SEO for product 45440 via custom endpoint...
+2025-07-18 10:25:07,423 - INFO - ✅ Successfully updated SEO for product 45440.
+2025-07-18 10:25:07,424 - INFO - [43/61] -------------------------
+2025-07-18 10:25:07,624 - INFO - Processing Item SKU: P00347 -> Catalogue: Speedo Jr. Goggle 3 in Pack. (Anti-fog) (UV Protection) ! Green (S1-00001)
+2025-07-18 10:25:07,625 - INFO - Using cached images for catalogue code: S1-00001
+2025-07-18 10:25:09,263 - INFO - Updating existing product (ID: 45441)...
+2025-07-18 10:25:11,499 - INFO - ✅ Successfully synced product SKU: P00347 (ID: 45441)
+2025-07-18 10:25:11,500 - INFO - Updating SEO for product 45441 via custom endpoint...
+2025-07-18 10:25:13,362 - INFO - ✅ Successfully updated SEO for product 45441.
+2025-07-18 10:25:13,364 - INFO - [44/61] -------------------------
+2025-07-18 10:25:13,552 - INFO - Processing Item SKU: P00437 -> Catalogue: Reusable Sponge Water Balls 16pk (S1-00018)
+2025-07-18 10:25:13,553 - INFO - Creating new categories: 'Water & Pool Toys'
+2025-07-18 10:25:15,304 - WARNING - Term 'Water & Pool Toys' already exists with ID: 5766. Using existing ID.
+2025-07-18 10:25:20,718 - INFO - ✅ Uploaded image and full metadata: 'reusable-sponge-water-balls-16pk-1.webp' (ID: 45603)
+2025-07-18 10:25:27,051 - INFO - ✅ Uploaded image and full metadata: 'reusable-sponge-water-balls-16pk-2.webp' (ID: 45604)
+2025-07-18 10:25:33,434 - INFO - ✅ Uploaded image and full metadata: 'reusable-sponge-water-balls-16pk-3.webp' (ID: 45605)
+2025-07-18 10:25:33,939 - INFO - Cached 3 new images for catalogue code: S1-00018
+2025-07-18 10:25:35,683 - INFO - Updating existing product (ID: 45445)...
+2025-07-18 10:25:38,388 - INFO - ✅ Successfully synced product SKU: P00437 (ID: 45445)
+2025-07-18 10:25:38,388 - INFO - Updating SEO for product 45445 via custom endpoint...
+2025-07-18 10:25:39,938 - INFO - ✅ Successfully updated SEO for product 45445.
+2025-07-18 10:25:39,940 - INFO - [45/61] -------------------------
+2025-07-18 10:25:40,188 - INFO - Processing Item SKU: P00463 -> Catalogue: BRAND NEW Sun Squad EASY GRIP DIVING RINGS SET OF 2 GREEN & ORANGE (X1-00309)
+2025-07-18 10:25:40,189 - INFO - Creating new categories: 'Water & Dive Toys'
+2025-07-18 10:25:41,791 - WARNING - Term 'Water & Dive Toys' already exists with ID: 5773. Using existing ID.
+2025-07-18 10:25:47,049 - INFO - ✅ Uploaded image and full metadata: 'brand-new-sun-squad-easy-grip-diving-rings-set-of--1.webp' (ID: 45606)
+2025-07-18 10:25:52,990 - INFO - ✅ Uploaded image and full metadata: 'brand-new-sun-squad-easy-grip-diving-rings-set-of--2.webp' (ID: 45607)
+2025-07-18 10:25:53,494 - INFO - Cached 2 new images for catalogue code: X1-00309
+2025-07-18 10:25:55,247 - INFO - Updating existing product (ID: 45448)...
+2025-07-18 10:25:57,409 - INFO - ✅ Successfully synced product SKU: P00463 (ID: 45448)
+2025-07-18 10:25:57,410 - INFO - Updating SEO for product 45448 via custom endpoint...
+2025-07-18 10:25:59,133 - INFO - ✅ Successfully updated SEO for product 45448.
+2025-07-18 10:25:59,134 - INFO - [46/61] -------------------------
+2025-07-18 10:25:59,425 - INFO - Processing Item SKU: P00468 -> Catalogue: Carters Baby Girls Swim Hat Pink Solid Just One You Sun Head Cover Toddler UPF50 (X1-00636)
+2025-07-18 10:26:06,053 - INFO - ✅ Uploaded image and full metadata: 'carters-baby-girls-swim-hat-pink-solid-just-one-yo-1.webp' (ID: 45608)
+2025-07-18 10:26:12,220 - INFO - ✅ Uploaded image and full metadata: 'carters-baby-girls-swim-hat-pink-solid-just-one-yo-2.webp' (ID: 45609)
+2025-07-18 10:26:12,724 - INFO - Cached 2 new images for catalogue code: X1-00636
+2025-07-18 10:26:14,358 - INFO - Updating existing product (ID: 45451)...
+2025-07-18 10:26:17,262 - INFO - ✅ Successfully synced product SKU: P00468 (ID: 45451)
+2025-07-18 10:26:17,263 - INFO - Updating SEO for product 45451 via custom endpoint...
+2025-07-18 10:26:19,076 - INFO - ✅ Successfully updated SEO for product 45451.
+2025-07-18 10:26:19,078 - INFO - [47/61] -------------------------
+2025-07-18 10:26:19,306 - INFO - Processing Item SKU: P00469 -> Catalogue: Carter's Baby Size 6-12Months Navy Blue Sun Hat (X1-00779)
+2025-07-18 10:26:24,534 - INFO - ✅ Uploaded image and full metadata: 'carters-baby-size-6-12months-navy-blue-sun-hat-1.webp' (ID: 45611)
+2025-07-18 10:26:30,262 - INFO - ✅ Uploaded image and full metadata: 'carters-baby-size-6-12months-navy-blue-sun-hat-2.webp' (ID: 45612)
+2025-07-18 10:26:30,767 - INFO - Cached 2 new images for catalogue code: X1-00779
+2025-07-18 10:26:32,517 - INFO - Updating existing product (ID: 45454)...
+2025-07-18 10:26:34,687 - INFO - ✅ Successfully synced product SKU: P00469 (ID: 45454)
+2025-07-18 10:26:34,688 - INFO - Updating SEO for product 45454 via custom endpoint...
+2025-07-18 10:26:36,281 - INFO - ✅ Successfully updated SEO for product 45454.
+2025-07-18 10:26:36,282 - INFO - [48/61] -------------------------
+2025-07-18 10:26:36,613 - INFO - Processing Item SKU: P00470 -> Catalogue: Cat and jack baby hat (X1-00474)
+2025-07-18 10:26:42,052 - INFO - ✅ Uploaded image and full metadata: 'cat-and-jack-baby-hat-1.webp' (ID: 45614)
+2025-07-18 10:26:48,184 - INFO - ✅ Uploaded image and full metadata: 'cat-and-jack-baby-hat-2.webp' (ID: 45615)
+2025-07-18 10:26:48,688 - INFO - Cached 2 new images for catalogue code: X1-00474
+2025-07-18 10:26:50,381 - INFO - Updating existing product (ID: 45457)...
+2025-07-18 10:26:53,230 - INFO - ✅ Successfully synced product SKU: P00470 (ID: 45457)
+2025-07-18 10:26:53,231 - INFO - Updating SEO for product 45457 via custom endpoint...
+2025-07-18 10:26:55,051 - INFO - ✅ Successfully updated SEO for product 45457.
+2025-07-18 10:26:55,053 - INFO - [49/61] -------------------------
+2025-07-18 10:26:55,354 - INFO - Processing Item SKU: P00471 -> Catalogue: 3 Ring Pool Blue Yellow - Sun Squad (S1-00014)
+2025-07-18 10:27:00,713 - INFO - ✅ Uploaded image and full metadata: '3-ring-pool-blue-yellow-sun-squad-1.webp' (ID: 45616)
+2025-07-18 10:27:08,317 - INFO - ✅ Uploaded image and full metadata: '3-ring-pool-blue-yellow-sun-squad-2.webp' (ID: 45617)
+2025-07-18 10:27:08,821 - INFO - Cached 2 new images for catalogue code: S1-00014
+2025-07-18 10:27:10,379 - INFO - Updating existing product (ID: 45460)...
+2025-07-18 10:27:13,233 - INFO - ✅ Successfully synced product SKU: P00471 (ID: 45460)
+2025-07-18 10:27:13,234 - INFO - Updating SEO for product 45460 via custom endpoint...
+2025-07-18 10:27:15,114 - INFO - ✅ Successfully updated SEO for product 45460.
+2025-07-18 10:27:15,116 - INFO - [50/61] -------------------------
+2025-07-18 10:27:15,264 - INFO - Processing Item SKU: P00575 -> Catalogue: Sun Squad Blue Inflatable Swim Tube With Handles, 36 Inch Diameter (S1-00006)
+2025-07-18 10:27:20,671 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-blue-inflatable-swim-tube-with-handles-3-1.webp' (ID: 45618)
+2025-07-18 10:27:21,175 - INFO - Cached 1 new images for catalogue code: S1-00006
+2025-07-18 10:27:22,904 - INFO - Updating existing product (ID: 45462)...
+2025-07-18 10:27:26,078 - INFO - ✅ Successfully synced product SKU: P00575 (ID: 45462)
+2025-07-18 10:27:26,078 - INFO - Updating SEO for product 45462 via custom endpoint...
+2025-07-18 10:27:27,814 - INFO - ✅ Successfully updated SEO for product 45462.
+2025-07-18 10:27:27,816 - INFO - [51/61] -------------------------
+2025-07-18 10:27:28,122 - INFO - Processing Item SKU: P00576 -> Catalogue: Inflatable Round Swim Tube Pool Float Inner Tube Rainbow Summer Beach Lake 31” (S1-00005)
+2025-07-18 10:27:33,671 - INFO - ✅ Uploaded image and full metadata: 'inflatable-round-swim-tube-pool-float-inner-tube-r-1.webp' (ID: 45619)
+2025-07-18 10:27:34,175 - INFO - Cached 1 new images for catalogue code: S1-00005
+2025-07-18 10:27:35,778 - INFO - Updating existing product (ID: 45464)...
+2025-07-18 10:27:38,463 - INFO - ✅ Successfully synced product SKU: P00576 (ID: 45464)
+2025-07-18 10:27:38,464 - INFO - Updating SEO for product 45464 via custom endpoint...
+2025-07-18 10:27:40,172 - INFO - ✅ Successfully updated SEO for product 45464.
+2025-07-18 10:27:40,174 - INFO - [52/61] -------------------------
+2025-07-18 10:27:40,381 - INFO - Processing Item SKU: P00577 -> Catalogue: Sun Squad Inflatable swim tube 31 inch (S1-00004)
+2025-07-18 10:27:45,735 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-inflatable-swim-tube-31-inch-1.webp' (ID: 45620)
+2025-07-18 10:27:46,241 - INFO - Cached 1 new images for catalogue code: S1-00004
+2025-07-18 10:27:47,962 - INFO - Updating existing product (ID: 45466)...
+2025-07-18 10:27:50,306 - INFO - ✅ Successfully synced product SKU: P00577 (ID: 45466)
+2025-07-18 10:27:50,307 - INFO - Updating SEO for product 45466 via custom endpoint...
+2025-07-18 10:27:51,981 - INFO - ✅ Successfully updated SEO for product 45466.
+2025-07-18 10:27:51,982 - INFO - [53/61] -------------------------
+2025-07-18 10:27:52,180 - INFO - Processing Item SKU: P00578 -> Catalogue: Sun Squad 36" Inflatable Retro Palm Tree Design Swin Tube with Handles (S1-00003)
+2025-07-18 10:27:57,510 - INFO - ✅ Uploaded image and full metadata: 'sun-squad-36-inflatable-retro-palm-tree-design-swi-1.webp' (ID: 45621)
+2025-07-18 10:27:58,014 - INFO - Cached 1 new images for catalogue code: S1-00003
+2025-07-18 10:27:59,661 - INFO - Updating existing product (ID: 45468)...
+2025-07-18 10:28:02,222 - INFO - ✅ Successfully synced product SKU: P00578 (ID: 45468)
+2025-07-18 10:28:02,222 - INFO - Updating SEO for product 45468 via custom endpoint...
+2025-07-18 10:28:04,064 - INFO - ✅ Successfully updated SEO for product 45468.
+2025-07-18 10:28:04,066 - INFO - [54/61] -------------------------
+2025-07-18 10:28:04,373 - INFO - Processing Item SKU: P00579 -> Catalogue: Speedo Splash Jammer Life Jacket Swim Vest Kids Weight 33-55 lbs Dinosaur (S1-00002)
+2025-07-18 10:28:11,333 - INFO - ✅ Uploaded image and full metadata: 'speedo-splash-jammer-life-jacket-swim-vest-kids-we-1.webp' (ID: 45623)
+2025-07-18 10:28:18,196 - INFO - ✅ Uploaded image and full metadata: 'speedo-splash-jammer-life-jacket-swim-vest-kids-we-2.webp' (ID: 45624)
+2025-07-18 10:28:18,700 - INFO - Cached 2 new images for catalogue code: S1-00002
+2025-07-18 10:28:20,934 - INFO - Updating existing product (ID: 45471)...
+2025-07-18 10:28:23,635 - INFO - ✅ Successfully synced product SKU: P00579 (ID: 45471)
+2025-07-18 10:28:23,635 - INFO - Updating SEO for product 45471 via custom endpoint...
+2025-07-18 10:28:25,772 - INFO - ✅ Successfully updated SEO for product 45471.
+2025-07-18 10:28:25,774 - INFO - [55/61] -------------------------
+2025-07-18 10:28:25,955 - INFO - Processing Item SKU: P00612 -> Catalogue: Squishmallows Hello Kitty Hugmees 10'' Plush NWT Soft  (T1-00003)
+2025-07-18 10:28:25,956 - INFO - Creating new categories: 'Stuffed Animals & Plush'
+2025-07-18 10:28:27,874 - WARNING - Term 'Stuffed Animals & Plush' already exists with ID: 5818. Using existing ID.
+2025-07-18 10:28:33,757 - INFO - ✅ Uploaded image and full metadata: 'squishmallows-hello-kitty-hugmees-10-plush-nwt-sof-1.webp' (ID: 45625)
+2025-07-18 10:28:34,261 - INFO - Cached 1 new images for catalogue code: T1-00003
+2025-07-18 10:28:36,143 - INFO - Updating existing product (ID: 45473)...
+2025-07-18 10:28:39,086 - INFO - ✅ Successfully synced product SKU: P00612 (ID: 45473)
+2025-07-18 10:28:39,087 - INFO - [56/61] -------------------------
+2025-07-18 10:28:39,401 - INFO - Processing Item SKU: P00623 -> Catalogue: Function of Beauty Customizable Super Shape Curl Cream for Curly Hair, 7 oz Each (2-Pack) - Formulated With Moringa Oil for Frizz-Free, Defined and Hydrated Manageable Curls (X1-00271)
+2025-07-18 10:28:45,025 - INFO - ✅ Uploaded image and full metadata: 'function-of-beauty-customizable-super-shape-curl-c-1.webp' (ID: 45627)
+2025-07-18 10:28:51,476 - INFO - ✅ Uploaded image and full metadata: 'function-of-beauty-customizable-super-shape-curl-c-2.webp' (ID: 45628)
+2025-07-18 10:28:51,981 - INFO - Cached 2 new images for catalogue code: X1-00271
+2025-07-18 10:28:53,640 - INFO - Updating existing product (ID: 45476)...
+2025-07-18 10:28:55,997 - INFO - ✅ Successfully synced product SKU: P00623 (ID: 45476)
+2025-07-18 10:28:55,997 - INFO - Updating SEO for product 45476 via custom endpoint...
+2025-07-18 10:28:57,875 - INFO - ✅ Successfully updated SEO for product 45476.
+2025-07-18 10:28:57,877 - INFO - [57/61] -------------------------
+2025-07-18 10:28:58,137 - INFO - Processing Item SKU: P00660 -> Catalogue: Eva NYC - Tones Brightens Softens Tone It Blonde Shampoo.  (X1-00588)
+2025-07-18 10:29:03,603 - INFO - ✅ Uploaded image and full metadata: 'eva-nyc-tones-brightens-softens-tone-it-blonde-sha-1.webp' (ID: 45630)
+2025-07-18 10:29:09,965 - INFO - ✅ Uploaded image and full metadata: 'eva-nyc-tones-brightens-softens-tone-it-blonde-sha-2.webp' (ID: 45631)
+2025-07-18 10:29:10,468 - INFO - Cached 2 new images for catalogue code: X1-00588
+2025-07-18 10:29:12,115 - INFO - Updating existing product (ID: 45479)...
+2025-07-18 10:29:15,236 - INFO - ✅ Successfully synced product SKU: P00660 (ID: 45479)
+2025-07-18 10:29:15,237 - INFO - Updating SEO for product 45479 via custom endpoint...
+2025-07-18 10:29:17,179 - INFO - ✅ Successfully updated SEO for product 45479.
+2025-07-18 10:29:17,181 - INFO - [58/61] -------------------------
+2025-07-18 10:29:17,490 - INFO - Processing Item SKU: P00715 -> Catalogue: 4pc 6" Appetizer Plates Light Gray - RE (K1-00020)
+2025-07-18 10:32:09,399 - ERROR - Error processing image https://v5.airtableusercontent.com/v3/u/43/43/1752861600000/_cvyE090c8ii6Cmmzt5LtQ/64AgQfveQ8Rd8OQqSiTitsiH3YEOOHL8C9RgzaGXSeMQHTozAAIqFuIi_nKkVfjaQqDXn1xGAUR-uNBBAhH3aL1z7CToUQs2PNJpSZmjI9ekdt9--mkDQcQu3KNNVVvth99hjyPRiufWnQRUjQeaAA/mitgHpwuUIaJsKkTvz_58YbL5wJ3REq-O_WSQxpjOvo: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-18 10:32:17,809 - INFO - ✅ Uploaded image and full metadata: '4pc-6-appetizer-plates-light-gray-re-2.webp' (ID: 45634)
+2025-07-18 10:32:24,580 - INFO - ✅ Uploaded image and full metadata: '4pc-6-appetizer-plates-light-gray-re-3.webp' (ID: 45635)
+2025-07-18 10:32:25,084 - INFO - Cached 2 new images for catalogue code: K1-00020
+2025-07-18 10:32:26,831 - INFO - Updating existing product (ID: 45483)...
+2025-07-18 10:32:29,186 - INFO - ✅ Successfully synced product SKU: P00715 (ID: 45483)
+2025-07-18 10:32:29,187 - INFO - [59/61] -------------------------
+2025-07-18 10:32:29,800 - INFO - Processing Item SKU: P00716 -> Catalogue: 4pc 6" Appetizer Plates black - RE (K1-00021)
+2025-07-18 10:32:35,332 - INFO - ✅ Uploaded image and full metadata: '4pc-6-appetizer-plates-black-re-1.webp' (ID: 45637)
+2025-07-18 10:32:41,175 - INFO - ✅ Uploaded image and full metadata: '4pc-6-appetizer-plates-black-re-2.webp' (ID: 45638)
+2025-07-18 10:32:47,310 - INFO - ✅ Uploaded image and full metadata: '4pc-6-appetizer-plates-black-re-3.webp' (ID: 45639)
+2025-07-18 10:32:47,813 - INFO - Cached 3 new images for catalogue code: K1-00021
+2025-07-18 10:32:49,668 - INFO - Updating existing product (ID: 45487)...
+2025-07-18 10:32:51,834 - INFO - ✅ Successfully synced product SKU: P00716 (ID: 45487)
+2025-07-18 10:32:51,835 - INFO - [60/61] -------------------------
+2025-07-18 10:32:52,085 - INFO - Processing Item SKU: P00717 -> Catalogue: Set of 3 - 26.05 fl oz Tall Tumbler - Room Essentials™ (K1-00022)
+2025-07-18 10:32:57,263 - INFO - ✅ Uploaded image and full metadata: 'set-of-3-2605-fl-oz-tall-tumbler-room-essentials-1.webp' (ID: 45641)
+2025-07-18 10:33:03,182 - INFO - ✅ Uploaded image and full metadata: 'set-of-3-2605-fl-oz-tall-tumbler-room-essentials-2.webp' (ID: 45642)
+2025-07-18 10:33:03,687 - INFO - Cached 2 new images for catalogue code: K1-00022
+2025-07-18 10:33:05,464 - INFO - Updating existing product (ID: 45490)...
+2025-07-18 10:33:07,893 - INFO - ✅ Successfully synced product SKU: P00717 (ID: 45490)
+2025-07-18 10:33:07,895 - INFO - [61/61] -------------------------
+2025-07-18 10:33:08,084 - INFO - Processing Item SKU: P00718 -> Catalogue: THRESHOLD 20oz Tumbler (K1-00023)
+2025-07-18 10:33:13,622 - INFO - ✅ Uploaded image and full metadata: 'threshold-20oz-tumbler-1.webp' (ID: 45644)
+2025-07-18 10:33:14,127 - INFO - Cached 1 new images for catalogue code: K1-00023
+2025-07-18 10:33:15,883 - INFO - Updating existing product (ID: 45492)...
+2025-07-18 10:33:18,110 - INFO - ✅ Successfully synced product SKU: P00718 (ID: 45492)
+2025-07-18 10:33:18,112 - INFO - ============================================================
+🏁 SYNC COMPLETE! ✅ Success: 61, ❌ Errors: 0
+============================================================
+2025-07-24 21:28:40,077 - INFO - Starting product sync...
+2025-07-24 21:30:00,570 - INFO - Skipping image update for SKU P00001, existing images retained.
+2025-07-24 21:30:20,634 - INFO - Skipping image update for SKU P00002, existing images retained.
+2025-07-24 21:30:58,534 - INFO - Skipping image update for SKU P00003, existing images retained.
+2025-07-24 21:31:25,261 - INFO - Skipping image update for SKU P00004, existing images retained.
+2025-07-24 21:31:37,640 - INFO - Skipping image update for SKU P00006, existing images retained.
+2025-07-24 21:31:55,718 - INFO - Skipping image update for SKU P00007, existing images retained.
+2025-07-24 21:32:26,562 - INFO - Skipping image update for SKU P00008, existing images retained.
+2025-07-24 21:32:50,051 - INFO - Skipping image update for SKU P00009, existing images retained.
+2025-07-24 21:33:09,597 - INFO - Skipping image update for SKU P00011, existing images retained.
+2025-07-24 21:33:28,747 - INFO - Skipping image update for SKU P00012, existing images retained.
+2025-07-24 21:33:46,669 - INFO - Skipping image update for SKU P00014, existing images retained.
+2025-07-24 21:34:15,847 - INFO - Skipping image update for SKU P00018, existing images retained.
+2025-07-24 21:34:36,669 - INFO - Skipping image update for SKU P00019, existing images retained.
+2025-07-24 21:34:56,230 - INFO - Skipping image update for SKU P00021, existing images retained.
+2025-07-24 21:35:13,165 - INFO - Skipping image update for SKU P00027, existing images retained.
+2025-07-24 21:35:47,677 - INFO - Skipping image update for SKU P00029, existing images retained.
+2025-07-24 21:36:14,032 - INFO - Skipping image update for SKU P00030, existing images retained.
+2025-07-24 21:36:51,456 - INFO - Skipping image update for SKU P00031, existing images retained.
+2025-07-24 21:37:16,593 - INFO - Skipping image update for SKU P00032, existing images retained.
+2025-07-24 21:38:00,169 - ERROR - Error processing image https://v5.airtableusercontent.com/v3/u/43/43/1753416000000/c-6XqPvCvc3RYjzYb4Uzxg/ExkNm6mzUQsa-VRzCmhy3hnc_98rpWH5uOERMjM2T-4GTrlLJHz--j0_7ZUJFiLbONvKjiqzzzRPSIjhMhf0yI5cFGJ59oC6CgsCxd9h4PRP67ESxc3Ckc0aHFfzSahHAU940CexSGqZEGKbHYpYeGhHNIi-fqBMIQ5tX3i_acM/ogvJ7c8mIRpOqd0FMXyTmZq-4izpzL1hgCILucmR8rk: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-24 21:38:40,616 - INFO - Skipping image update for SKU P00033, existing images retained.
+2025-07-24 21:39:04,803 - INFO - Skipping image update for SKU P00035, existing images retained.
+2025-07-24 21:39:22,416 - INFO - Skipping image update for SKU P00037, existing images retained.
+2025-07-24 21:39:46,266 - INFO - Skipping image update for SKU P00040, existing images retained.
+2025-07-24 21:40:05,664 - INFO - Skipping image update for SKU P00043, existing images retained.
+2025-07-24 21:40:23,323 - INFO - Skipping image update for SKU P00045, existing images retained.
+2025-07-24 21:40:39,579 - INFO - Skipping image update for SKU P00047, existing images retained.
+2025-07-24 21:40:50,563 - INFO - Skipping image update for SKU P00052, existing images retained.
+2025-07-24 21:41:15,381 - INFO - Skipping image update for SKU P00053, existing images retained.
+2025-07-24 21:41:27,241 - INFO - Skipping image update for SKU P00055, existing images retained.
+2025-07-24 21:41:38,507 - INFO - Skipping image update for SKU P00057, existing images retained.
+2025-07-24 21:41:49,857 - INFO - Skipping image update for SKU P00066, existing images retained.
+2025-07-24 21:42:01,601 - INFO - Skipping image update for SKU P00068, existing images retained.
+2025-07-24 21:42:28,752 - INFO - Skipping image update for SKU P00069, existing images retained.
+2025-07-24 21:42:46,031 - INFO - Skipping image update for SKU P00075, existing images retained.
+2025-07-24 21:43:03,907 - INFO - Skipping image update for SKU P00076, existing images retained.
+2025-07-24 21:43:17,311 - INFO - Skipping image update for SKU P00078, existing images retained.
+2025-07-24 21:43:40,351 - INFO - Skipping image update for SKU P00079, existing images retained.
+2025-07-24 21:44:03,557 - INFO - Skipping image update for SKU P00082, existing images retained.
+2025-07-24 21:44:38,465 - INFO - Skipping image update for SKU P00083, existing images retained.
+2025-07-24 21:45:08,412 - INFO - Skipping image update for SKU P00084, existing images retained.
+2025-07-24 21:45:27,765 - INFO - Skipping image update for SKU P00090, existing images retained.
+2025-07-24 21:45:51,852 - INFO - Skipping image update for SKU P00091, existing images retained.
+2025-07-24 21:46:04,965 - INFO - Skipping image update for SKU P00096, existing images retained.
+2025-07-24 21:46:16,751 - INFO - Skipping image update for SKU P00105, existing images retained.
+2025-07-24 21:46:35,427 - INFO - Skipping image update for SKU P00106, existing images retained.
+2025-07-24 21:46:59,782 - INFO - Skipping image update for SKU P00107, existing images retained.
+2025-07-24 21:47:11,300 - INFO - Skipping image update for SKU P00108, existing images retained.
+2025-07-24 21:47:29,621 - INFO - Skipping image update for SKU P00109, existing images retained.
+2025-07-24 21:47:46,042 - INFO - Skipping image update for SKU P00111, existing images retained.
+2025-07-24 21:48:12,560 - INFO - Skipping image update for SKU P00112, existing images retained.
+2025-07-24 21:48:36,016 - INFO - Skipping image update for SKU P00113, existing images retained.
+2025-07-24 21:48:59,389 - INFO - Skipping image update for SKU P00114, existing images retained.
+2025-07-24 21:49:11,063 - INFO - Skipping image update for SKU P00115, existing images retained.
+2025-07-24 21:49:29,539 - INFO - Skipping image update for SKU P00116, existing images retained.
+2025-07-24 21:49:41,120 - INFO - Skipping image update for SKU P00117, existing images retained.
+2025-07-24 21:50:00,282 - INFO - Skipping image update for SKU P00119, existing images retained.
+2025-07-24 21:50:12,304 - INFO - Skipping image update for SKU P00120, existing images retained.
+2025-07-24 21:50:18,950 - INFO - Skipping image update for SKU P00120, existing images retained.
+2025-07-24 21:50:31,760 - INFO - Skipping image update for SKU P00121, existing images retained.
+2025-07-24 21:50:43,843 - INFO - Skipping image update for SKU P00122, existing images retained.
+2025-07-24 21:51:02,794 - INFO - Skipping image update for SKU P00130, existing images retained.
+2025-07-24 21:51:20,438 - INFO - Skipping image update for SKU P00131, existing images retained.
+2025-07-24 21:51:38,539 - INFO - Skipping image update for SKU P00132, existing images retained.
+2025-07-24 21:51:49,902 - INFO - Skipping image update for SKU P00133, existing images retained.
+2025-07-24 21:52:01,325 - INFO - Skipping image update for SKU P00134, existing images retained.
+2025-07-24 21:52:49,762 - INFO - Skipping image update for SKU P00143, existing images retained.
+2025-07-24 21:53:03,455 - INFO - Skipping image update for SKU P00148, existing images retained.
+2025-07-24 21:53:20,159 - INFO - Skipping image update for SKU P00150, existing images retained.
+2025-07-24 21:53:31,364 - INFO - Skipping image update for SKU P00152, existing images retained.
+2025-07-24 21:53:45,298 - INFO - Skipping image update for SKU P00156, existing images retained.
+2025-07-24 21:53:59,241 - INFO - Skipping image update for SKU P00157, existing images retained.
+2025-07-24 21:54:22,201 - INFO - Skipping image update for SKU P00169, existing images retained.
+2025-07-24 21:54:40,638 - INFO - Skipping image update for SKU P00171, existing images retained.
+2025-07-24 21:55:03,368 - INFO - Skipping image update for SKU P00173, existing images retained.
+2025-07-24 21:55:19,315 - INFO - Skipping image update for SKU P00175, existing images retained.
+2025-07-24 21:55:32,962 - INFO - Skipping image update for SKU P00176, existing images retained.
+2025-07-24 22:01:53,409 - INFO - Skipping image update for SKU P00207, existing images retained.
+2025-07-24 22:02:30,635 - INFO - Skipping image update for SKU P00208, existing images retained.
+2025-07-24 22:02:56,749 - INFO - Skipping image update for SKU P00209, existing images retained.
+2025-07-24 22:03:21,126 - INFO - Skipping image update for SKU P00210, existing images retained.
+2025-07-24 22:03:47,390 - INFO - Skipping image update for SKU P00219, existing images retained.
+2025-07-24 22:04:50,252 - INFO - Skipping image update for SKU P00231, existing images retained.
+2025-07-24 22:05:03,069 - INFO - Skipping image update for SKU P00236, existing images retained.
+2025-07-24 22:05:29,361 - INFO - Skipping image update for SKU P00239, existing images retained.
+2025-07-24 22:05:49,203 - INFO - Skipping image update for SKU P00240, existing images retained.
+2025-07-24 22:06:03,595 - INFO - Skipping image update for SKU P00244, existing images retained.
+2025-07-25 03:24:48,081 - INFO - Skipping image update for SKU P00249, existing images retained.
+2025-08-06 14:34:20,543 - INFO - Fetched 292 categories
+2025-08-06 14:34:50,134 - INFO - Fetched 292 categories
+2025-08-06 14:34:56,512 - INFO - Sync complete. Success: 1
+2025-08-06 14:42:49,972 - ERROR - Missing environment variables
+2025-08-06 14:43:05,145 - INFO - Fetched 292 categories
+2025-08-06 14:43:14,647 - INFO - Sync complete. Success: 1
+2025-08-06 14:45:40,365 - INFO - Fetched 292 categories
+2025-08-06 14:45:49,929 - INFO - Sync complete. Success: 1

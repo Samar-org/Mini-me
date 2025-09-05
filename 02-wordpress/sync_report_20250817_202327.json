@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-08-17T20:23:27.342469",
+  "duration_seconds": 7098.24,
+  "total_products": 704,
+  "successful": 702,
+  "failed": 2,
+  "rate_per_second": 0.1,
+  "rate_per_minute": 5.95,
+  "caches": {
+    "categories": 392,
+    "brands": 363,
+    "tags": 1908,
+    "products": 696,
+    "image_hashes": 28
+  },
+  "orphan_images_found": 0,
+  "missing_categories": 1,
+  "config": {
+    "batch_size": 10,
+    "max_workers": 4,
+    "image_workers": 3,
+    "delete_old_images": true,
+    "cleanup_orphans": true
+  }
+}

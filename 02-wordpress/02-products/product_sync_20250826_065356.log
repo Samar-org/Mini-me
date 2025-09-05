@@ -1,0 +1,7 @@
+2025-08-26 06:54:14,544 - INFO - Starting sync for 893 items...
+2025-08-26 06:54:19,463 - WARNING - Tag 'ink' upsert failed: 400 Client Error: Bad Request for url: https://pay.4more.ca/wp-json/wc/v3/products/tags
+2025-08-26 06:54:36,322 - INFO - [rec00y7wlZ4wkFQNw] Canon Genuine Canon PG-245XL HIGH Yield Twin Ink Cartridge Value Pack, Black, 2-Pack (P00196) updated as #53253
+2025-08-26 06:54:47,128 - INFO - [rec084uQwTbV20GAo] SLUG BOOST - Hydrating Facial Spray - Refreshing Face Mist - Hyaluronic Acid Moisturizes Skin & Preps for Skin Care Routine - 4.06 fl oz (P00629) updated as #51925
+2025-08-26 06:54:56,181 - INFO - [rec09mqhs48w0FGuL] Beloved Dream Vegan Body Wash with Lavender Bouquet & Pro-Ceramides - 18 fl oz (P00123) updated as #50765
+2025-08-26 06:55:03,008 - WARNING - Tag 'Sale' upsert failed: 400 Client Error: Bad Request for url: https://pay.4more.ca/wp-json/wc/v3/products/tags
+2025-08-26 06:55:08,133 - INFO - [rec0MJISkZJFDDCq9] Microwave Solutions Rice Cooker From Target Bullseye Essentials (P00633) updated as #51937

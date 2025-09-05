@@ -1,0 +1,93 @@
+2025-07-18 09:13:58,364 - INFO - 🚀 Starting product sync from Airtable to WooCommerce...
+2025-07-18 09:13:58,364 - INFO - Fetching all products/brands from WooCommerce...
+2025-07-18 09:14:02,257 - INFO - Fetched 1 items from products/brands.
+2025-07-18 09:14:02,259 - INFO - Cached 1 brands.
+2025-07-18 09:14:02,259 - INFO - Fetching all products/tags from WooCommerce...
+2025-07-18 09:14:54,970 - INFO - Fetched 2474 items from products/tags.
+2025-07-18 09:14:54,989 - INFO - Cached 2474 tags.
+2025-07-18 09:14:54,990 - INFO - Fetching all products/categories from WooCommerce...
+2025-07-18 09:15:05,006 - INFO - Fetched 330 items from products/categories.
+2025-07-18 09:15:05,007 - INFO - Fetching products from Airtable...
+2025-07-18 09:15:05,824 - INFO - Found 61 products to sync.
+2025-07-18 09:15:05,825 - INFO - [1/61] -------------------------
+2025-07-18 09:15:05,825 - INFO - Processing: Unique Appliances Off-Grid 24-inch 6 cu. ft. Propane Top Freezer Counter Depth Refrigerator with (SKU: P00003)
+2025-07-18 09:15:05,835 - INFO - --- Starting Image Processing ---
+2025-07-18 09:15:05,836 - INFO - Found 2 file(s) in 'Photo Files'.
+2025-07-18 09:15:11,567 - INFO - ✅ Uploaded image 'unique-appliances-off-grid-24-inch-6-cu-ft.webp' (ID: 45293)
+2025-07-18 09:15:12,569 - INFO - Updating SEO metadata for media ID: 45293...
+2025-07-18 09:15:14,518 - INFO - ✅ Successfully updated SEO metadata for image 45293.
+2025-07-18 09:15:18,932 - INFO - ✅ Uploaded image 'unique-appliances-off-grid-24-inch-6-cu-ft-2.webp' (ID: 45294)
+2025-07-18 09:15:19,933 - INFO - Updating SEO metadata for media ID: 45294...
+2025-07-18 09:15:22,310 - INFO - ✅ Successfully updated SEO metadata for image 45294.
+2025-07-18 09:15:22,813 - INFO - --- Finished Image Processing. Uploaded 2 images. ---
+2025-07-18 09:15:24,458 - INFO - Creating new product...
+2025-07-18 09:15:27,328 - ERROR - ❌ HTTP Error for SKU P00003: 400 - {"code":"woocommerce_rest_product_not_created","message":"The product with SKU (P00003) you are trying to insert is already present in the lookup table","data":{"status":400}}
+2025-07-18 09:15:27,329 - INFO - [2/61] -------------------------
+2025-07-18 09:15:27,330 - INFO - Processing: Baxton Studio Landis Dresser in Ash Walnut and Gold (SKU: P00004)
+2025-07-18 09:15:27,333 - INFO - --- Starting Image Processing ---
+2025-07-18 09:15:27,333 - INFO - Found 3 file(s) in 'Photo Files'.
+2025-07-18 09:15:31,887 - INFO - ✅ Uploaded image 'baxton-studio-landis-dresser-in-ash-walnut-and.webp' (ID: 45296)
+2025-07-18 09:15:32,889 - INFO - Updating SEO metadata for media ID: 45296...
+2025-07-18 09:15:35,053 - INFO - ✅ Successfully updated SEO metadata for image 45296.
+2025-07-18 09:15:39,360 - INFO - ✅ Uploaded image 'baxton-studio-landis-dresser-in-ash-walnut-and-2.webp' (ID: 45297)
+2025-07-18 09:15:40,361 - INFO - Updating SEO metadata for media ID: 45297...
+2025-07-18 09:15:42,525 - INFO - ✅ Successfully updated SEO metadata for image 45297.
+2025-07-18 09:15:46,683 - INFO - ✅ Uploaded image 'baxton-studio-landis-dresser-in-ash-walnut-and-3.webp' (ID: 45298)
+2025-07-18 09:15:47,684 - INFO - Updating SEO metadata for media ID: 45298...
+2025-07-18 09:15:49,692 - INFO - ✅ Successfully updated SEO metadata for image 45298.
+2025-07-18 09:15:50,195 - INFO - --- Finished Image Processing. Uploaded 3 images. ---
+2025-08-26 07:00:00,199 - INFO - 🚀 Starting product sync from Airtable to WooCommerce...
+2025-08-26 07:00:01,880 - INFO - Brands endpoint status: 200
+2025-08-26 07:00:09,961 - INFO - Starting sync for 24 items...
+2025-08-26 07:00:09,961 - INFO - [1/24] -------------------------
+2025-08-26 07:00:09,961 - INFO - Processing: Toboggan Canada Women Jacket  (SKU: P00876)
+2025-08-26 07:00:10,659 - INFO - [2/24] -------------------------
+2025-08-26 07:00:10,659 - INFO - Processing:  Basics Foldable Non-Slip Pet Stairs, Steps for Dogs and Cats, 23.90" x 16.10" x 19.76", Grey (SKU: P01089)
+2025-08-26 07:00:11,304 - INFO - [3/24] -------------------------
+2025-08-26 07:00:11,304 - INFO - Processing: Mosdos 2025 New Pilates Reformer Machine - 7-in-1 Multi-Functional Pilates Equipment with Pilates Bar, Ski Machine, Push-Up Board, Ab Board & More for Home Gym Training (SKU: P01082)
+2025-08-26 07:00:12,054 - INFO - [4/24] -------------------------
+2025-08-26 07:00:12,054 - INFO - Processing: Swiffer Duster Kit with 30.5 cm Super Extendable Handle, Heavy Duty Dusting Starter Kit with 4 Refills, for Ceiling Fans, Vents and Hard to Reach Places (SKU: P01081)
+2025-08-26 07:00:12,798 - INFO - [5/24] -------------------------
+2025-08-26 07:00:12,798 - INFO - Processing: Swiffer PowerMop Multi-Surface Mop Kit for Floor Cleaning, Fresh Scent, Mopping Kit Includes PowerMop, 2 Mopping Pad Refills, 1 Floor Cleaning Solution with Fresh Scent and 2 Batteries (SKU: P01094)
+2025-08-26 07:00:13,405 - INFO - [6/24] -------------------------
+2025-08-26 07:00:13,406 - INFO - Processing: Huggies Little Movers Slip-On Diaper Pants, Size 5, 100 Count (SKU: P01090)
+2025-08-26 07:00:14,069 - INFO - [7/24] -------------------------
+2025-08-26 07:00:14,069 - INFO - Processing: EUHOMY Countertop Ice Maker Machine with Handle, 26lbs in 24Hrs, 9 Ice Cubes Ready in 6 Mins, Auto-Cleaning Portable Ice Maker with Basket and Scoop, for Home/Kitchen/Camping/RV. (Black) (SKU: P01084)
+2025-08-26 07:00:14,756 - INFO - [8/24] -------------------------
+2025-08-26 07:00:14,756 - INFO - Processing: Cybex Solution B-Fix High Back Booster Car Seat ? Lightweight, LATCH System, Side-Impact Protection, Adjustable Headrest, for Kids 40-120 lbs, Comfortable & Secure Design, Volcano Black (SKU: P01095)
+2025-08-26 07:00:15,451 - INFO - [9/24] -------------------------
+2025-08-26 07:00:15,451 - INFO - Processing: Pampers Baby Dry Diapers - Size 5, 128 Count, Absorbent Disposable Diapers (SKU: P01083)
+2025-08-26 07:00:16,445 - INFO - [10/24] -------------------------
+2025-08-26 07:00:16,445 - INFO - Processing: Jolly Jumper *ICONIC* - Grey Saddle - The Original Baby Exerciser. Trusted By Parents And Loved By Babies For Over 75 Years. (SKU: P01092)
+2025-08-26 07:00:17,090 - INFO - [11/24] -------------------------
+2025-08-26 07:00:17,090 - INFO - Processing: WEEKENDER Ventilated Gel Memory Foam Pillow - Washable Cover - Queen Size(Pack of 1), White (SKU: P01093)
+2025-08-26 07:00:17,813 - INFO - [12/24] -------------------------
+2025-08-26 07:00:17,814 - INFO - Processing: LeapFrog Magic Adventures Globe (Frustration Free Packaging) (SKU: P01091)
+2025-08-26 07:00:18,508 - INFO - [13/24] -------------------------
+2025-08-26 07:00:18,508 - INFO - Processing: Shark ION Robot Vacuum AV752 with Wi-Fi Voice Control .45-Quart Dust Cup Capacity Smoke/Ash , White (SKU: P01099)
+2025-08-26 07:00:19,145 - INFO - [14/24] -------------------------
+2025-08-26 07:00:19,145 - INFO - Processing: Blackstone Signature Griddle Accessories - Custom Designed for Blackstone 17 inch/22 inch Tabletop Grill - Portable Griddle Table, Legs and Shelf - Adjustable Legs - Camping Table - Black (SKU: P00917)
+2025-08-26 07:00:19,816 - INFO - [15/24] -------------------------
+2025-08-26 07:00:19,817 - INFO - Processing: 10'x10' Instant Pop Up Canopy Tent - Portable Waterproof Outdoor Shelter with UV Protection, Wheeled Carry Bag & Sandbags - for Camping, Beach, Parties, Backyard Events (Color) (SKU: P01088)
+2025-08-26 07:00:20,606 - INFO - [16/24] -------------------------
+2025-08-26 07:00:20,606 - INFO - Processing: Toboggan women jacket  (SKU: P00607)
+2025-08-26 07:00:21,253 - INFO - [17/24] -------------------------
+2025-08-26 07:00:21,253 - INFO - Processing: Yeti Rambler 769 ml (SKU: P00926)
+2025-08-26 07:00:21,990 - INFO - [18/24] -------------------------
+2025-08-26 07:00:21,990 - INFO - Processing: Philips Airfryer 2000 series  (SKU: P00912)
+2025-08-26 07:00:22,618 - INFO - [19/24] -------------------------
+2025-08-26 07:00:22,618 - INFO - Processing: Pampers sensitive  wipes 1008 (SKU: P00911)
+2025-08-26 07:00:23,286 - INFO - [20/24] -------------------------
+2025-08-26 07:00:23,287 - INFO - Processing: Windsor Hill 12FT X 12FT Steel Hardtop Pavilion with privacy  (SKU: P01038)
+2025-08-26 07:00:24,054 - INFO - [21/24] -------------------------
+2025-08-26 07:00:24,055 - INFO - Processing: MAAX Duel 56 to 59 in. W x 55.5 to 59 in. H Frameless ByPass Sliding Bathtub Door in Chrome  (SKU: P01018)
+2025-08-26 07:00:24,717 - INFO - [22/24] -------------------------
+2025-08-26 07:00:24,718 - INFO - Processing: TRUporte 36 in. x 80 1/2 in. Euro 3-Lite Design E Pivot Door (SKU: P01100)
+2025-08-26 07:00:25,491 - INFO - [23/24] -------------------------
+2025-08-26 07:00:25,492 - INFO - Processing: TRUporte 36-inch x 80 1/2-inch Euro Off-White Frosted Glass 1-Lite Bi-fold Closet Door (SKU: P01098)
+2025-08-26 07:00:26,265 - INFO - [24/24] -------------------------
+2025-08-26 07:00:26,266 - INFO - Processing: Walking Pad,Max 2.5 HP Portable Under Desk Treadmill,265LBS Capacity Installation-Free Treadmills for Home & Office Small,Remote Control LED Display
+Brand: LIVIVOX (SKU: P01096)
+2025-08-26 07:00:27,109 - INFO - ============================================================
+2025-08-26 07:00:27,110 - INFO - 🏁 SYNC COMPLETE — Success: 0, Errors: 24
+2025-08-26 07:00:27,110 - INFO - ============================================================

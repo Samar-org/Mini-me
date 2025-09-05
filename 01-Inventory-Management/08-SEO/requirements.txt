@@ -1,0 +1,5 @@
+openai>=1.0.0
+pyairtable>=2.2.0
+tenacity>=8.2.3
+python-slugify>=8.0.1
+python-dotenv>=1.0.1

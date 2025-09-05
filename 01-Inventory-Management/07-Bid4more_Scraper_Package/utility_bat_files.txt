@@ -1,0 +1,272 @@
+REM =============================================================================
+REM Check Installation.bat - Verify Setup and Configuration
+REM =============================================================================
+@echo off
+title Bid4more Scraper - Installation Check
+
+echo =====================================
+echo   Installation and Config Check
+echo =====================================
+echo.
+
+cd /d "%~dp0"
+
+REM Check Python
+echo Checking Python installation...
+python --version >nul 2>&1
+if %errorlevel% neq 0 (
+    echo [FAIL] Python is not installed or not in PATH
+) else (
+    python --version
+    echo [OK] Python is available
+)
+echo.
+
+REM Check Virtual Environment
+echo Checking virtual environment...
+if exist "venv\Scripts\activate.bat" (
+    echo [OK] Virtual environment found
+    call venv\Scripts\activate.bat
+    
+    REM Check required packages
+    echo Checking required packages...
+    python -c "import requests; print('[OK] requests package installed')" 2>nul || echo [FAIL] requests package missing
+    python -c "import bs4; print('[OK] beautifulsoup4 package installed')" 2>nul || echo [FAIL] beautifulsoup4 package missing
+    python -c "import PIL; print('[OK] Pillow package installed')" 2>nul || echo [FAIL] Pillow package missing
+    python -c "import pyairtable; print('[OK] pyairtable package installed')" 2>nul || echo [FAIL] pyairtable package missing
+    python -c "import dotenv; print('[OK] python-dotenv package installed')" 2>nul || echo [FAIL] python-dotenv package missing
+) else (
+    echo [FAIL] Virtual environment not found - run setup.bat
+)
+echo.
+
+REM Check Files
+echo Checking scraper files...
+if exist "scraper_gui.py" (
+    echo [OK] scraper_gui.py found
+) else (
+    echo [FAIL] scraper_gui.py missing
+)
+
+if exist "enhanced_scraper.py" (
+    echo [OK] enhanced_scraper.py found
+) else (
+    echo [FAIL] enhanced_scraper.py missing
+)
+
+if exist "google_lens_scraper.py" (
+    echo [OK] google_lens_scraper.py found
+) else (
+    echo [FAIL] google_lens_scraper.py missing
+)
+
+if exist "custom_scraper.py" (
+    echo [OK] custom_scraper.py found
+) else (
+    echo [INFO] custom_scraper.py not found (optional)
+)
+echo.
+
+REM Check Configuration
+echo Checking configuration...
+if exist ".env" (
+    echo [OK] .env file found
+    
+    REM Check for placeholder values
+    findstr /C:"YOUR_AIRTABLE_API_KEY_HERE" .env >nul
+    if %errorlevel% equ 0 (
+        echo [WARNING] Airtable API key not configured (still has placeholder)
+    ) else (
+        echo [OK] Airtable API key appears to be configured
+    )
+    
+    findstr /C:"YOUR_AIRTABLE_BASE_ID_HERE" .env >nul
+    if %errorlevel% equ 0 (
+        echo [WARNING] Airtable Base ID not configured (still has placeholder)
+    ) else (
+        echo [OK] Airtable Base ID appears to be configured
+    )
+) else (
+    echo [FAIL] .env configuration file missing
+)
+echo.
+
+REM Check Logs Directory
+if exist "logs" (
+    echo [OK] logs directory found
+    for %%f in (logs\*.log) do (
+        echo [INFO] Log file found: %%f
+    )
+) else (
+    echo [INFO] logs directory not found (will be created when scrapers run)
+)
+
+echo.
+echo =====================================
+echo   Check Complete
+echo =====================================
+echo.
+echo If you see any [FAIL] items above, please:
+echo 1. Run setup.bat to fix missing files/packages
+echo 2. Configure your .env file with actual API keys
+echo 3. Ensure all .py files are in the current directory
+echo.
+pause
+
+REM =============================================================================
+REM Update Dependencies.bat - Update Python Packages
+REM =============================================================================
+@echo off
+title Bid4more Scraper - Update Dependencies
+
+echo =====================================
+echo   Updating Dependencies
+echo =====================================
+echo.
+
+cd /d "%~dp0"
+
+if not exist "venv\Scripts\activate.bat" (
+    echo ERROR: Virtual environment not found. Please run setup.bat first.
+    pause
+    exit /b 1
+)
+
+echo Activating virtual environment...
+call venv\Scripts\activate.bat
+
+echo Updating pip...
+python -m pip install --upgrade pip
+
+echo Updating all dependencies...
+pip install --upgrade requests beautifulsoup4 lxml pillow pyairtable python-dotenv
+
+echo.
+echo =====================================
+echo   Update Complete
+echo =====================================
+echo.
+echo All dependencies have been updated to their latest versions.
+echo.
+pause
+
+REM =============================================================================
+REM Clean Logs.bat - Clean Up Log Files
+REM =============================================================================
+@echo off
+title Bid4more Scraper - Clean Logs
+
+echo =====================================
+echo   Log File Cleanup
+echo =====================================
+echo.
+
+cd /d "%~dp0"
+
+if exist "logs" (
+    echo Current log files:
+    dir logs\*.log 2>nul
+    echo.
+    
+    set /p choice="Delete all log files? (y/n): "
+    if /i "%choice%"=="y" (
+        del /q logs\*.log 2>nul
+        echo.
+        echo [OK] All log files have been deleted
+    ) else (
+        echo Log cleanup cancelled
+    )
+) else (
+    echo No logs directory found - nothing to clean
+)
+
+echo.
+pause
+
+REM =============================================================================
+REM View Logs.bat - Open Logs Directory
+REM =============================================================================
+@echo off
+title Bid4more Scraper - View Logs
+
+cd /d "%~dp0"
+
+if exist "logs" (
+    echo Opening logs directory...
+    explorer logs
+) else (
+    echo No logs directory found yet.
+    echo Logs will be created when you run the scrapers.
+    pause
+)
+
+REM =============================================================================
+REM Uninstall.bat - Complete Removal
+REM =============================================================================
+@echo off
+title Bid4more Scraper - Uninstall
+
+echo =====================================
+echo   Uninstall Bid4more Scraper
+echo =====================================
+echo.
+echo This will remove:
+echo - Virtual environment (venv folder)
+echo - All batch files created by setup
+echo - Log files
+echo.
+echo This will NOT remove:
+echo - Your .env configuration file
+echo - Python scraper files (.py files)
+echo.
+
+set /p choice="Are you sure you want to uninstall? (y/n): "
+if /i not "%choice%"=="y" (
+    echo Uninstall cancelled.
+    pause
+    exit /b 0
+)
+
+echo.
+echo Uninstalling...
+echo.
+
+REM Remove virtual environment
+if exist "venv" (
+    echo Removing virtual environment...
+    rmdir /s /q venv 2>nul
+    echo [OK] Virtual environment removed
+)
+
+REM Remove batch files
+echo Removing batch files...
+del "Run Scraper GUI.bat" 2>nul
+del "Run URL Scraper.bat" 2>nul  
+del "Run Image Search.bat" 2>nul
+del "Run Custom Scraper.bat" 2>nul
+del "Check Installation.bat" 2>nul
+del "Update Dependencies.bat" 2>nul
+del "Clean Logs.bat" 2>nul
+del "View Logs.bat" 2>nul
+echo [OK] Batch files removed
+
+REM Remove logs
+set /p cleanup_logs="Remove log files? (y/n): "
+if /i "%cleanup_logs%"=="y" (
+    if exist "logs" (
+        rmdir /s /q logs 2>nul
+        echo [OK] Log files removed
+    )
+)
+
+echo.
+echo =====================================
+echo   Uninstall Complete
+echo =====================================
+echo.
+echo The scraper has been uninstalled.
+echo Your .env file and Python scripts remain in this directory.
+echo.
+echo To reinstall, run setup.bat again.
+echo.
+pause
